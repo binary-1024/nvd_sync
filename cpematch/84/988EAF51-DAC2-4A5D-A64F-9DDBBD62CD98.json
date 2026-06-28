@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-12-01T15:48:11.493", "created": "2022-12-01T15:48:11.493", "criteria": "cpe:2.3:a:snyk:cli:*:*:*:*:*:python:*:*", "lastModified": "2022-12-02T03:00:12.867", "matchCriteriaId": "988EAF51-DAC2-4A5D-A64F-9DDBBD62CD98", "status": "Inactive", "versionEndExcluding": "1.24.2"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-09-25T17:35:28.930", "created": "2023-09-25T17:35:28.930", "criteria": "cpe:2.3:a:plone:rest:*:*:*:*:*:*:*:*", "lastModified": "2023-09-25T19:56:15.993", "matchCriteriaId": "7B02F34D-9650-4BF3-92FC-4D73DA61E571", "status": "Inactive", "versionEndExcluding": "2.0.1", "versionStartIncluding": "2.0.0"}

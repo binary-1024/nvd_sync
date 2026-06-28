@@ -1,0 +1,1 @@
+{"created": "2021-01-07T19:34:32.487", "criteria": "cpe:2.3:a:proofpoint:inside_threat_management:*:*:*:*:*:windows:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "E34113D1-096F-4A49-8CFC-8BA6C1562FD1", "status": "Inactive", "versionEndExcluding": "7.5.3", "versionStartIncluding": "7.5.0"}

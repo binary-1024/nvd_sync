@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-08-12T17:26:43.483", "created": "2024-08-12T15:42:28.753", "criteria": "cpe:2.3:o:arubanetworks:arubaos:*:*:*:*:*:*:*:*", "lastModified": "2024-08-13T02:00:27.790", "matchCriteriaId": "15AF0E8A-4E0B-4E4A-BE6A-0C531D8C110F", "status": "Inactive", "versionEndIncluding": "10.6.0.0", "versionStartIncluding": "10.5.0.0"}

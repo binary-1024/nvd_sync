@@ -1,0 +1,1 @@
+{"created": "2026-01-21T19:20:20.770", "criteria": "cpe:2.3:a:cdata:api_server:-:*:*:*:*:*:*:*", "lastModified": "2026-01-27T16:12:02.063", "matchCriteriaId": "CB584B32-F68B-4725-9245-426551279298", "matches": [{"cpeName": "cpe:2.3:a:cdata:api_server:-:*:*:*:*:*:*:*", "cpeNameId": "91706702-5939-4E19-A936-7733107C3A9D"}], "status": "Active"}

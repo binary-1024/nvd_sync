@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-05-19T14:47:19.433", "created": "2023-05-19T14:47:19.433", "criteria": "cpe:2.3:a:intel:setup_and_configuration_software:*:*:*:*:*:microsoft_system_center_configuration_manager:*:*", "lastModified": "2023-05-19T14:47:19.433", "matchCriteriaId": "97E1AADE-975F-4BD8-9F88-8C62562F4507", "status": "Active", "versionEndIncluding": "2.1.9"}

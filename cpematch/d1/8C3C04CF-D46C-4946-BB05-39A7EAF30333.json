@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-06-27T17:14:02.573", "created": "2022-06-27T17:14:02.573", "criteria": "cpe:2.3:a:cisco:secure_email_and_web_manager:*:*:*:*:*:*:*:*", "lastModified": "2022-06-27T17:14:02.573", "matchCriteriaId": "8C3C04CF-D46C-4946-BB05-39A7EAF30333", "status": "Active", "versionEndExcluding": "13.0.0-277", "versionStartIncluding": "13.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-05-11T19:50:08.397", "created": "2022-05-11T19:50:08.397", "criteria": "cpe:2.3:a:cisco:adaptive_security_appliance:*:*:*:*:*:*:*:*", "lastModified": "2022-05-11T19:50:08.397", "matchCriteriaId": "5E1B5A6A-9230-44B0-A4FB-720444001E03", "status": "Inactive", "versionEndExcluding": "9.17.1.7", "versionStartIncluding": "9.17.0"}

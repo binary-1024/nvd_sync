@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-10-25T17:04:31.163", "created": "2022-06-10T16:38:58.200", "criteria": "cpe:2.3:a:jmespath_project:jmespath:*:*:*:*:*:ruby:*:*", "lastModified": "2026-06-15T15:13:33.760", "matchCriteriaId": "77687FBA-C9B9-4E42-9937-777E803B6991", "status": "Inactive", "versionEndExcluding": "1.6.1"}

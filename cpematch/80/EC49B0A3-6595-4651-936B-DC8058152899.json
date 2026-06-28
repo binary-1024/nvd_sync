@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-03-25T12:52:31.793", "created": "2025-03-20T18:09:37.733", "criteria": "cpe:2.3:a:ip2location:country_blocker:*:*:*:*:*:wordpress:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "EC49B0A3-6595-4651-936B-DC8058152899", "status": "Inactive", "versionEndIncluding": "2.34.2"}

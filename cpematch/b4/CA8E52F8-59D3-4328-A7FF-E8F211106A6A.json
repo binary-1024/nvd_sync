@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-05-12T17:37:14.383", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:a:bouncycastle:legion-of-the-bouncy-castle-java-crytography-api:*:*:*:*:*:*:*:*", "lastModified": "2025-05-13T02:00:35.680", "matchCriteriaId": "CA8E52F8-59D3-4328-A7FF-E8F211106A6A", "status": "Inactive", "versionEndIncluding": "1.55", "versionStartIncluding": "1.51"}

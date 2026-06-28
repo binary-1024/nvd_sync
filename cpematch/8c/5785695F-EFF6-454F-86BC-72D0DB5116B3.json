@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-10-04T15:09:16.257", "created": "2024-10-04T15:09:16.257", "criteria": "cpe:2.3:o:cisco:meraki_mx64_firmware:*:*:*:*:*:*:*:*", "lastModified": "2024-10-09T02:01:13.363", "matchCriteriaId": "5785695F-EFF6-454F-86BC-72D0DB5116B3", "status": "Inactive", "versionEndExcluding": "18.211.3", "versionStartIncluding": "17.6.0"}

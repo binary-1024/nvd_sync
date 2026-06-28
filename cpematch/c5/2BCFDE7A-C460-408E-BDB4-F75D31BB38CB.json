@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-01-15T19:12:52.123", "created": "2022-06-30T14:45:18.800", "criteria": "cpe:2.3:a:iperf3_project:iperf3:*:*:*:*:*:*:*:*", "lastModified": "2025-01-16T03:00:34.860", "matchCriteriaId": "2BCFDE7A-C460-408E-BDB4-F75D31BB38CB", "status": "Inactive", "versionEndExcluding": "3.0.12", "versionStartIncluding": "3.0"}

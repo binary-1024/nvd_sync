@@ -1,0 +1,1 @@
+{"created": "2025-05-13T18:09:49.393", "criteria": "cpe:2.3:a:dell:storage_manager:2020:r1.2:*:*:*:*:*:*", "lastModified": "2025-08-07T19:38:12.960", "matchCriteriaId": "263E78BD-D8C0-480F-9EED-D5496708CFCD", "matches": [{"cpeName": "cpe:2.3:a:dell:storage_manager:2020:r1.2:*:*:*:*:*:*", "cpeNameId": "3A843570-4524-49DB-BA2E-D4EC2FAA581C"}], "status": "Active"}

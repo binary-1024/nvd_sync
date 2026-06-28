@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-06-04T15:05:04.790", "created": "2023-07-18T21:55:59.523", "criteria": "cpe:2.3:a:wpexperts:post_smtp_mailer:*:*:*:*:*:wordpress:*:*", "lastModified": "2023-07-18T21:55:59.523", "matchCriteriaId": "D3612D88-8DF0-4960-BB19-937CA7D3B46D", "status": "Inactive", "versionEndIncluding": "2.0.20"}

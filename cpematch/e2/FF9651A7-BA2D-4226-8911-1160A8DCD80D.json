@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-01-15T17:44:02.693", "created": "2021-01-30T02:21:53.983", "criteria": "cpe:2.3:a:cakefoundation:cakephp:*:*:*:*:*:*:*:*", "lastModified": "2025-01-16T03:00:34.860", "matchCriteriaId": "FF9651A7-BA2D-4226-8911-1160A8DCD80D", "status": "Inactive", "versionEndIncluding": "4.1.3", "versionStartIncluding": "4.0.0"}

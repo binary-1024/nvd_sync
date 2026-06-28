@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-07-27T17:31:55.170", "created": "2022-07-27T16:44:58.783", "criteria": "cpe:2.3:a:file-type_project:file-type:*:*:*:*:*:node.js:*:*", "lastModified": "2026-03-17T19:18:04.083", "matchCriteriaId": "4B4A5553-EF4B-48F2-8380-502D125691AB", "status": "Inactive", "versionEndExcluding": "17.1.3", "versionStartIncluding": "17.0.0"}

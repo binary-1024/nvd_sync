@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-12-15T16:46:58.020", "created": "2022-12-15T16:46:58.020", "criteria": "cpe:2.3:a:google:protobuf-javalite:*:*:*:*:*:*:*:*", "lastModified": "2022-12-15T16:46:58.020", "matchCriteriaId": "63C927E5-FAB2-4F2E-8F28-EC3CC160837C", "status": "Active", "versionEndExcluding": "3.16.3", "versionStartIncluding": "3.16.0"}

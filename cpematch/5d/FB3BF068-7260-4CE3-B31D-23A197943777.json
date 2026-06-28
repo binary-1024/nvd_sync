@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-10-14T15:15:48.010", "created": "2025-10-14T15:15:48.010", "criteria": "cpe:2.3:a:opentext:vertica:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "FB3BF068-7260-4CE3-B31D-23A197943777", "status": "Inactive", "versionEndExcluding": "12.0.4-30", "versionStartIncluding": "10.0.0-0"}

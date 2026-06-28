@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-04-10T19:40:43.080", "created": "2025-04-07T20:53:07.517", "criteria": "cpe:2.3:o:infoblox:nios:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "AFD78CB4-0C0B-44CD-A084-DCEEDC0A3DCB", "status": "Inactive", "versionEndIncluding": "9.0.3", "versionStartIncluding": "9.0.1"}

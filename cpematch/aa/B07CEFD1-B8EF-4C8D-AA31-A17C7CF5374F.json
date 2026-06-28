@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-05-17T15:30:57.930", "created": "2022-05-17T15:30:57.930", "criteria": "cpe:2.3:a:insightsoftware:magnitude_simba_amazon_athena_jdbc_driver:*:*:*:*:*:*:*:*", "lastModified": "2022-05-17T15:30:57.930", "matchCriteriaId": "B07CEFD1-B8EF-4C8D-AA31-A17C7CF5374F", "status": "Active", "versionEndExcluding": "2.0.29", "versionStartIncluding": "2.0.25"}

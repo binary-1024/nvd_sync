@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-06-06T17:04:22.433", "created": "2022-06-06T12:56:51.363", "criteria": "cpe:2.3:h:zyxel:nsg50:-:*:*:*:*:*:*:*", "lastModified": "2022-06-06T12:56:51.363", "matchCriteriaId": "8B084120-41C6-4F3C-9803-9C178EB4DE91", "matches": [{"cpeName": "cpe:2.3:h:zyxel:nsg50:-:*:*:*:*:*:*:*", "cpeNameId": "280D42CB-FA5B-4B63-8E77-F713CA08CD7A"}], "status": "Active"}

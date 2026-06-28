@@ -1,0 +1,1 @@
+{"created": "2021-04-26T13:52:20.603", "criteria": "cpe:2.3:a:ruby-lang:rexml:*:*:*:*:*:*:*:*", "lastModified": "2021-04-26T13:52:20.603", "matchCriteriaId": "004D401E-54B1-476B-9D50-82FC5AB0B1FE", "status": "Inactive", "versionEndExcluding": "2.6.7", "versionStartIncluding": "2.6.0"}

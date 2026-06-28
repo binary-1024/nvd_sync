@@ -1,0 +1,1 @@
+{"created": "2026-02-04T17:45:27.160", "criteria": "cpe:2.3:o:qualcomm:iq-9100_firmware:-:*:*:*:*:*:*:*", "lastModified": "2026-06-11T13:47:23.237", "matchCriteriaId": "CDB92EFC-106F-4E94-9E97-D82AFF5AAC22", "matches": [{"cpeName": "cpe:2.3:o:qualcomm:iq-9100_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "81089FAD-0991-4D00-BD2C-AAD4274E8619"}], "status": "Active"}

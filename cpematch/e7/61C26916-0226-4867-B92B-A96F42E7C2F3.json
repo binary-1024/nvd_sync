@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-03-01T20:49:27.683", "created": "2022-02-24T18:26:53.440", "criteria": "cpe:2.3:a:apache:groovy:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "61C26916-0226-4867-B92B-A96F42E7C2F3", "status": "Inactive", "versionEndExcluding": "3.0.7", "versionStartIncluding": "3.0.0"}

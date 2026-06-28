@@ -1,0 +1,1 @@
+{"created": "2025-03-17T14:30:42.807", "criteria": "cpe:2.3:o:netapp:8200_firmware:-:*:*:*:*:*:*:*", "lastModified": "2025-08-18T18:45:48.710", "matchCriteriaId": "9AE9B08F-817F-45B8-B916-442DBA7D329D", "matches": [{"cpeName": "cpe:2.3:o:netapp:8200_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "85E59952-EB84-457D-B20D-6131749A3B7B"}], "status": "Active"}

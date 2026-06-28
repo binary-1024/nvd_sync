@@ -1,0 +1,1 @@
+{"created": "2022-01-31T16:38:28.770", "criteria": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*", "lastModified": "2022-01-31T16:38:28.770", "matchCriteriaId": "7575CD36-49C8-464F-8234-931A26067CE6", "status": "Inactive", "versionEndExcluding": "15.1.4.1", "versionStartIncluding": "15.0.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2019-08-27T11:44:20.493", "created": "2019-08-26T23:38:45.710", "criteria": "cpe:2.3:a:forcepoint:next_generation_firewall:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "56222084-69A7-42FA-8500-2AC7FDE907C6", "status": "Inactive", "versionEndIncluding": "6.6.1", "versionStartIncluding": "6.6.0"}

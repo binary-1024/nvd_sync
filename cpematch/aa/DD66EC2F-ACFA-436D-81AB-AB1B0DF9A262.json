@@ -1,0 +1,1 @@
+{"created": "2025-09-03T20:16:18.663", "criteria": "cpe:2.3:o:openbsd:openbsd:7.4:errata_002:*:*:*:*:*:*", "lastModified": "2025-09-03T21:09:52.733", "matchCriteriaId": "DD66EC2F-ACFA-436D-81AB-AB1B0DF9A262", "matches": [{"cpeName": "cpe:2.3:o:openbsd:openbsd:7.4:errata_002:*:*:*:*:*:*", "cpeNameId": "215722AF-6E77-43CB-BB4F-FABBA7AE597D"}], "status": "Active"}

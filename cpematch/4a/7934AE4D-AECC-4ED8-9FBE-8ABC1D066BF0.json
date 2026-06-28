@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-07-28T20:36:35.053", "created": "2025-07-28T20:36:35.053", "criteria": "cpe:2.3:a:kyverno:kyverno:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "7934AE4D-AECC-4ED8-9FBE-8ABC1D066BF0", "status": "Inactive", "versionEndIncluding": "1.14.1"}

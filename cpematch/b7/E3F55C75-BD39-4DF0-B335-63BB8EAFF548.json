@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-07-10T21:15:10.643", "created": "2021-04-08T19:37:41.640", "criteria": "cpe:2.3:a:openiam:openiam:*:*:*:*:*:*:*:*", "lastModified": "2021-04-08T19:37:41.640", "matchCriteriaId": "E3F55C75-BD39-4DF0-B335-63BB8EAFF548", "status": "Active", "versionEndExcluding": "4.2.0.3", "versionStartIncluding": "4.1.0"}

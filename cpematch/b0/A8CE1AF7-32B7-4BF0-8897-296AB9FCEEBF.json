@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-08-10T14:36:54.777", "created": "2022-08-10T14:36:54.777", "criteria": "cpe:2.3:a:socket:socket.io-client-java:*:*:*:*:*:*:*:*", "lastModified": "2022-08-10T14:36:54.777", "matchCriteriaId": "A8CE1AF7-32B7-4BF0-8897-296AB9FCEEBF", "status": "Inactive", "versionEndExcluding": "2.0.1"}

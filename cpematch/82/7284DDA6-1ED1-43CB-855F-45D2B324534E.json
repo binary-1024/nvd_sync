@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-08-30T20:07:55.363", "created": "2024-08-30T20:07:55.363", "criteria": "cpe:2.3:a:serilog:serilog:*:*:*:*:*:*:*:*", "lastModified": "2024-09-05T02:01:07.517", "matchCriteriaId": "7284DDA6-1ED1-43CB-855F-45D2B324534E", "status": "Inactive", "versionEndExcluding": "2.1.0"}

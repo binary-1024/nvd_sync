@@ -1,0 +1,1 @@
+{"created": "2025-08-01T15:02:32.613", "criteria": "cpe:2.3:o:cisco:ios:15.3jab:*:*:*:*:*:*:*", "lastModified": "2025-08-08T15:23:50.747", "matchCriteriaId": "CC9097A2-FA1C-45F2-83C3-AD14F0A94962", "matches": [{"cpeName": "cpe:2.3:o:cisco:ios:15.3jab:*:*:*:*:*:*:*", "cpeNameId": "A315068B-BDC1-4C9A-97D6-75C3FBADC7DF"}], "status": "Active"}

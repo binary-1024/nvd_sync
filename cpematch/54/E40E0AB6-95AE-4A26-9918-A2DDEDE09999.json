@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-08-06T11:36:05.113", "created": "2024-08-05T19:14:20.760", "criteria": "cpe:2.3:a:ibm:planning_analytics_local:*:*:*:*:*:*:*:*", "lastModified": "2024-09-12T02:00:25.567", "matchCriteriaId": "E40E0AB6-95AE-4A26-9918-A2DDEDE09999", "status": "Inactive", "versionEndIncluding": "2.1.4", "versionStartIncluding": "2.1.0"}

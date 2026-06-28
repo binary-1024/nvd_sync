@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-02-01T20:48:39.997", "created": "2021-02-01T20:48:39.997", "criteria": "cpe:2.3:a:ibm:mq:8.0.0.7:*:*:*:*:*:*:*", "lastModified": "2021-02-01T20:48:39.997", "matchCriteriaId": "1D8A3EDB-A8B2-4D4B-8BFF-4FCAA71C6E0C", "matches": [{"cpeName": "cpe:2.3:a:ibm:mq:8.0.0.7:*:*:*:*:*:*:*", "cpeNameId": "F9815FC4-7037-421F-8E75-9B8DE8D7B7CF"}], "status": "Active"}

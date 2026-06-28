@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-06-16T12:43:02.443", "created": "2021-06-16T12:43:02.443", "criteria": "cpe:2.3:a:qt:qt:4.7.0:*:*:*:*:*:*:*", "lastModified": "2021-06-16T12:43:02.443", "matchCriteriaId": "5C2D2DA2-4D77-4396-97A7-D4ED0F633E19", "matches": [{"cpeName": "cpe:2.3:a:qt:qt:4.7.0:*:*:*:*:*:*:*", "cpeNameId": "88EE114E-B0DD-40EF-852A-54F67890E3A6"}], "status": "Active"}

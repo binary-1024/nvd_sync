@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-04-20T13:47:57.660", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:a:openstack:horizon:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "B7FED485-C4DC-40F2-9138-F7BAB1C540C7", "status": "Inactive", "versionEndIncluding": "2013.2"}

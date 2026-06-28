@@ -1,0 +1,1 @@
+{"created": "2025-09-24T16:03:50.450", "criteria": "cpe:2.3:a:ibm:sterling_connect\\:express:*:*:*:*:*:windows:*:*", "lastModified": "2025-09-24T16:03:50.450", "matchCriteriaId": "58D1F5DC-97B1-4842-B046-C49119745E8B", "status": "Active", "versionEndExcluding": "3.1.0.23", "versionStartIncluding": "3.1.0.0"}

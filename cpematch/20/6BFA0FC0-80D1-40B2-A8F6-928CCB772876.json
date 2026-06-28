@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-05-30T19:02:51.997", "created": "2025-05-30T19:02:51.997", "criteria": "cpe:2.3:a:tigera:calico:*:*:*:*:*:*:*:*", "lastModified": "2025-05-30T19:02:51.997", "matchCriteriaId": "6BFA0FC0-80D1-40B2-A8F6-928CCB772876", "status": "Inactive", "versionEndExcluding": "3.16.4", "versionStartIncluding": "3.16.0"}

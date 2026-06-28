@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-07-13T16:58:31.817", "created": "2021-07-13T16:56:18.750", "criteria": "cpe:2.3:a:linuxfoundation:grpc_swift:*:*:*:*:*:*:*:*", "lastModified": "2021-07-13T16:56:18.750", "matchCriteriaId": "258A5C7A-083D-4640-AFE6-605E68A41117", "status": "Inactive", "versionEndIncluding": "1.1.0"}

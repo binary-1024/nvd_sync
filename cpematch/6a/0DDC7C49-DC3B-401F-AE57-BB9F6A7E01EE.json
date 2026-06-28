@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-12-17T15:30:40.600", "created": "2024-12-17T15:30:40.600", "criteria": "cpe:2.3:a:nlnetlabs:unbound:*:*:*:*:*:*:*:*", "lastModified": "2024-12-17T19:31:57.320", "matchCriteriaId": "0DDC7C49-DC3B-401F-AE57-BB9F6A7E01EE", "status": "Inactive", "versionEndIncluding": "1.21.0"}

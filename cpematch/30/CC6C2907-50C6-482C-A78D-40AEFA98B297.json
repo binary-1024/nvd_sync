@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-01-26T02:44:31.630", "created": "2022-01-25T21:45:51.020", "criteria": "cpe:2.3:a:h2database:h2:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "CC6C2907-50C6-482C-A78D-40AEFA98B297", "status": "Inactive", "versionEndExcluding": "2.1.210", "versionStartIncluding": "1.1.100"}

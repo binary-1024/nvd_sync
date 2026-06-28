@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-01-30T18:15:07.597", "created": "2026-01-30T18:15:07.597", "criteria": "cpe:2.3:a:vega-functions_project:vega-functions:*:*:*:*:*:node.js:*:*", "lastModified": "2026-02-24T13:49:17.460", "matchCriteriaId": "FED9629A-DA28-4F2E-8E62-E895759E77A0", "status": "Active", "versionEndExcluding": "6.1.1"}

@@ -1,0 +1,1 @@
+{"created": "2026-01-14T16:40:08.837", "criteria": "cpe:2.3:a:microsoft:azure_sdk_for_python:*:*:*:*:*:*:*:*", "lastModified": "2026-01-14T16:40:08.837", "matchCriteriaId": "B1DD0D40-30F4-4F23-86EF-E5639E8CFF2F", "status": "Active", "versionEndIncluding": "1.38.0", "versionStartIncluding": "1.1.0"}

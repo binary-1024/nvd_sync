@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-08-10T17:50:50.613", "created": "2022-08-10T17:50:50.613", "criteria": "cpe:2.3:a:microsoft:azure_site_recovery:*:*:*:*:*:*:*:*", "lastModified": "2022-08-10T17:50:50.613", "matchCriteriaId": "35EC2274-4AE4-47BD-A3FB-F5A7EE8F68BE", "status": "Inactive", "versionEndExcluding": "9.50.6419.1"}

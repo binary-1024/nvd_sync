@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-12-12T21:07:05.327", "created": "2024-12-12T21:07:05.327", "criteria": "cpe:2.3:a:mattermost:mattermost_server:*:*:*:*:*:*:*:*", "lastModified": "2024-12-14T03:00:27.210", "matchCriteriaId": "2FC82ECC-4AD9-4464-A6ED-D120E45260B7", "status": "Inactive", "versionEndIncluding": "8.1.11", "versionStartIncluding": "8.1.0"}

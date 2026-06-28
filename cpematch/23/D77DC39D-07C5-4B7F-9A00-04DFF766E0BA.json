@@ -1,0 +1,1 @@
+{"created": "2026-01-02T12:09:53.773", "criteria": "cpe:2.3:a:libredesk:libredesk:0.4.1:alpha:*:*:*:*:*:*", "lastModified": "2026-01-02T14:33:53.837", "matchCriteriaId": "D77DC39D-07C5-4B7F-9A00-04DFF766E0BA", "matches": [{"cpeName": "cpe:2.3:a:libredesk:libredesk:0.4.1:alpha:*:*:*:*:*:*", "cpeNameId": "CE8B0610-C684-4448-8398-E1A186468762"}], "status": "Active"}

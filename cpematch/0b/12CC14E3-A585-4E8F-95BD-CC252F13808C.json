@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-07-11T11:10:36.850", "created": "2025-07-11T11:10:36.850", "criteria": "cpe:2.3:a:apache:kafka:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "12CC14E3-A585-4E8F-95BD-CC252F13808C", "status": "Inactive", "versionEndIncluding": "3.7.1", "versionStartIncluding": "2.3.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-01-19T18:30:54.113", "created": "2022-01-18T17:17:49.820", "criteria": "cpe:2.3:a:xgenecloud:nocodb:*:*:*:*:*:*:*:*", "lastModified": "2025-08-26T18:50:20.227", "matchCriteriaId": "9A317204-AB4B-4E4B-AD96-8A04CBD690D0", "status": "Inactive", "versionEndIncluding": "0.83.8", "versionStartIncluding": "0.9"}

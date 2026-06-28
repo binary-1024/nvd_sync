@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-06-17T17:40:43.580", "created": "2025-06-17T17:40:43.580", "criteria": "cpe:2.3:a:veritas:backup_exec:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "92B42512-65A1-413B-903F-535D061A2024", "status": "Inactive", "versionEndExcluding": "23.0"}

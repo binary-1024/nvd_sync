@@ -1,0 +1,1 @@
+{"created": "2025-10-29T19:49:12.893", "criteria": "cpe:2.3:a:graylog:graylog:6.3.0:alpha1:*:*:*:*:*:*", "lastModified": "2025-10-30T12:36:56.720", "matchCriteriaId": "13ADA5E1-04F0-4A04-873B-C65152FC1795", "matches": [{"cpeName": "cpe:2.3:a:graylog:graylog:6.3.0:alpha1:*:*:*:*:*:*", "cpeNameId": "16436055-451B-4C3B-A95D-81F94120118C"}], "status": "Active"}

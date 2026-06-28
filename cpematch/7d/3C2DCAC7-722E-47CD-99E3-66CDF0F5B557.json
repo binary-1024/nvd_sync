@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-08-05T17:52:22.003", "created": "2025-08-05T17:52:22.003", "criteria": "cpe:2.3:a:qemu:qemu:*:*:*:*:*:*:*:*", "lastModified": "2025-08-05T17:56:03.100", "matchCriteriaId": "3C2DCAC7-722E-47CD-99E3-66CDF0F5B557", "status": "Inactive", "versionEndExcluding": "9.0.0", "versionStartIncluding": "1.5.0"}

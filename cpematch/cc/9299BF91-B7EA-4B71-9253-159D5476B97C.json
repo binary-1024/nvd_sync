@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-03-24T15:20:59.787", "created": "2021-03-24T15:19:39.860", "criteria": "cpe:2.3:a:github:enterprise_server:*:*:*:*:*:*:*:*", "lastModified": "2021-03-24T15:19:39.860", "matchCriteriaId": "9299BF91-B7EA-4B71-9253-159D5476B97C", "status": "Inactive", "versionEndExcluding": "2.21.17", "versionStartIncluding": "2.21"}

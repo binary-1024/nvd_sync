@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-12-03T15:01:39.913", "created": "2025-12-03T15:01:39.913", "criteria": "cpe:2.3:a:apache:hive:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "73EF2051-466A-464B-B8CE-7B98A358A76E", "status": "Inactive", "versionEndExcluding": "4.2.0", "versionStartIncluding": "4.1.0"}

@@ -1,0 +1,1 @@
+{"created": "2025-12-16T15:58:30.040", "criteria": "cpe:2.3:o:arm:c1-pro_firmware:-:*:*:*:*:*:*:*", "lastModified": "2026-05-21T17:41:12.273", "matchCriteriaId": "81BDFB4D-C287-46F8-8523-E5C33639C78C", "matches": [{"cpeName": "cpe:2.3:o:arm:c1-pro_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "D6ADCC65-667F-44C2-AA38-0B91D8E7EFF7"}], "status": "Active"}

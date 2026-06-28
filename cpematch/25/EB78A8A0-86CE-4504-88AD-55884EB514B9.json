@@ -1,0 +1,1 @@
+{"created": "2025-07-21T18:29:01.350", "criteria": "cpe:2.3:a:splunk:enterprise:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "EB78A8A0-86CE-4504-88AD-55884EB514B9", "status": "Inactive", "versionEndExcluding": "9.2.6", "versionStartIncluding": "9.2.0"}

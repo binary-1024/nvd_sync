@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-10-20T23:48:03.830", "created": "2022-10-20T23:48:03.830", "criteria": "cpe:2.3:a:jenkins:groovy_libraries:*:*:*:*:*:jenkins:*:*", "lastModified": "2022-10-20T23:48:03.830", "matchCriteriaId": "CC63BE0A-980A-4511-BD1B-70225F066E2F", "status": "Active", "versionEndIncluding": "612.v84da_9c54906d"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-08-22T19:56:56.877", "created": "2024-08-22T19:56:56.877", "criteria": "cpe:2.3:a:intel:aptio_v_uefi_firmware_integrator_tools:*:*:*:*:*:nuc_isetupcfgwin:*:*", "lastModified": "2024-08-22T19:56:56.877", "matchCriteriaId": "35B65FB3-C42C-4C8D-821D-775436438A1D", "status": "Active", "versionEndExcluding": "5.05.04.0008"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-01-13T19:23:20.787", "created": "2022-01-13T18:45:40.337", "criteria": "cpe:2.3:o:alpinelinux:alpine_linux:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "31EADD57-7613-409D-AB4A-095A038713C2", "status": "Inactive", "versionEndExcluding": "5.4.9"}

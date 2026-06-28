@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-06-03T17:21:15.543", "created": "2025-06-03T17:21:15.543", "criteria": "cpe:2.3:a:openresty:openresty:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "7ED3F4AC-2676-4855-AA26-899D945761D2", "status": "Inactive", "versionEndExcluding": "1.25.3.2", "versionStartIncluding": "1.19.3.1"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-04-20T16:35:02.297", "created": "2020-09-22T13:29:50.870", "criteria": "cpe:2.3:a:rust-lang:rust:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "EEE0BA52-D6B0-4346-A245-286D498A8BEF", "status": "Inactive", "versionEndIncluding": "1.46.0"}

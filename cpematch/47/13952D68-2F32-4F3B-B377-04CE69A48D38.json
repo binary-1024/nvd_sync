@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-01-09T21:43:23.637", "created": "2025-01-09T21:43:23.637", "criteria": "cpe:2.3:o:paloaltonetworks:pan-os:*:*:*:*:*:*:*:*", "lastModified": "2025-01-25T03:00:27.283", "matchCriteriaId": "13952D68-2F32-4F3B-B377-04CE69A48D38", "status": "Inactive", "versionEndIncluding": "10.2.3", "versionStartIncluding": "10.2.0"}

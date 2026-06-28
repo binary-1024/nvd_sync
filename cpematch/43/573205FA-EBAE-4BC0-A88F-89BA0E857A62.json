@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-11-29T14:20:31.187", "created": "2022-11-29T14:20:31.187", "criteria": "cpe:2.3:a:chocolatey:chocolatey_azure-pipelines-agent:*:*:*:*:*:*:*:*", "lastModified": "2022-11-29T14:20:31.187", "matchCriteriaId": "573205FA-EBAE-4BC0-A88F-89BA0E857A62", "status": "Active", "versionEndIncluding": "2.211.1"}

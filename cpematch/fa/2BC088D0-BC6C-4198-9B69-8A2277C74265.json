@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-06-27T17:50:32.263", "created": "2022-06-27T17:50:32.263", "criteria": "cpe:2.3:a:gobolinux:recipes:*:*:*:*:*:*:*:*", "lastModified": "2022-06-27T17:50:32.263", "matchCriteriaId": "2BC088D0-BC6C-4198-9B69-8A2277C74265", "status": "Inactive", "versionEndIncluding": "1.2.5", "versionStartIncluding": "0.9.1"}

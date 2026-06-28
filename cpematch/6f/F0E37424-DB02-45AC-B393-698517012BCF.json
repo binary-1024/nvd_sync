@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-04-21T13:01:42.387", "created": "2025-03-21T14:50:17.430", "criteria": "cpe:2.3:a:cisco:identity_services_engine:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "F0E37424-DB02-45AC-B393-698517012BCF", "status": "Inactive", "versionEndExcluding": "3.2.0", "versionStartIncluding": "2.7.0"}

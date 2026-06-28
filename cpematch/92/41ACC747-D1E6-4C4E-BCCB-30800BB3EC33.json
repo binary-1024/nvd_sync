@@ -1,0 +1,1 @@
+{"created": "2025-09-25T19:11:31.540", "criteria": "cpe:2.3:h:intel:core_ultra_7_164u:-:*:*:*:*:*:*:*", "lastModified": "2025-09-29T17:01:11.307", "matchCriteriaId": "41ACC747-D1E6-4C4E-BCCB-30800BB3EC33", "matches": [{"cpeName": "cpe:2.3:h:intel:core_ultra_7_164u:-:*:*:*:*:*:*:*", "cpeNameId": "AFB55AE1-96E2-4EED-970D-43AF83BAA49A"}], "status": "Active"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-02-19T15:41:53.573", "created": "2026-02-19T15:41:53.573", "criteria": "cpe:2.3:a:cncf:inspektor_gadget:*:*:*:*:*:kubernetes:*:*", "lastModified": "2026-02-19T15:41:53.573", "matchCriteriaId": "7158A870-EC2D-4C57-A9D9-C7BE4464B9D2", "status": "Active", "versionEndExcluding": "0.49.1"}

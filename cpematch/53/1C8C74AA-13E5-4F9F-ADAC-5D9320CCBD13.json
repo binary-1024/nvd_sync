@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-05-31T12:17:25.813", "created": "2023-05-23T17:15:44.920", "criteria": "cpe:2.3:a:pymdown_extensions_project:pymdown_extensions:*:*:*:*:*:*:*:*", "lastModified": "2026-02-03T21:06:43.197", "matchCriteriaId": "1C8C74AA-13E5-4F9F-ADAC-5D9320CCBD13", "status": "Inactive", "versionEndExcluding": "10.0", "versionStartIncluding": "1.5.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2020-09-25T19:54:54.890", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:a:gstreamer_project:gstreamer:*:*:*:*:*:*:*:*", "lastModified": "2026-03-17T15:52:33.870", "matchCriteriaId": "85C43B20-832C-4441-9261-7DF5E33D2472", "status": "Inactive", "versionEndIncluding": "1.10.2"}

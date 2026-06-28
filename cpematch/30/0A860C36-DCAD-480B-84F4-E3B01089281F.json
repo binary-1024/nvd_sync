@@ -1,0 +1,1 @@
+{"created": "2020-03-06T19:51:17.637", "criteria": "cpe:2.3:o:nvidia:quadro_firmware:*:*:*:*:*:*:*:*", "lastModified": "2020-03-06T19:51:17.637", "matchCriteriaId": "0A860C36-DCAD-480B-84F4-E3B01089281F", "status": "Active", "versionEndExcluding": "432.28", "versionStartIncluding": "430"}

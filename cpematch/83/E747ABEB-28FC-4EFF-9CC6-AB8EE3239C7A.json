@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-08-14T18:14:38.090", "created": "2025-08-14T18:14:38.090", "criteria": "cpe:2.3:a:ibm:java_sdk:*:*:*:*:java_technology:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "E747ABEB-28FC-4EFF-9CC6-AB8EE3239C7A", "status": "Inactive", "versionEndExcluding": "8.0.8.25", "versionStartIncluding": "8.0.0.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-04-19T15:32:23.947", "created": "2023-03-20T13:40:50.263", "criteria": "cpe:2.3:o:abb:rtu500_firmware:*:*:*:*:*:*:*:*", "lastModified": "2023-04-20T02:00:12.617", "matchCriteriaId": "23899066-B327-4623-A75B-B4CDF05FE485", "status": "Inactive", "versionEndIncluding": "12.7.4.0", "versionStartIncluding": "12.7.1.0"}

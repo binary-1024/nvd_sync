@@ -1,0 +1,1 @@
+{"created": "2025-08-01T18:17:09.710", "criteria": "cpe:2.3:o:netgear:eax80_firmware:1.0.1.70_1.0.2:*:*:*:*:*:*:*", "lastModified": "2025-08-11T17:19:11.577", "matchCriteriaId": "DEAF4C5E-D775-4DA5-9EC9-C99EFE433540", "matches": [{"cpeName": "cpe:2.3:o:netgear:eax80_firmware:1.0.1.70_1.0.2:*:*:*:*:*:*:*", "cpeNameId": "4F8D3D12-7B10-4121-B996-3FBFB9DAF6CC"}], "status": "Active"}

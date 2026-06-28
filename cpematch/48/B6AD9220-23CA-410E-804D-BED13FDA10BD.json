@@ -1,0 +1,1 @@
+{"created": "2026-02-27T20:15:35.473", "criteria": "cpe:2.3:a:intra-mart:accel_platform:8.0.19:-:*:*:*:*:*:*", "lastModified": "2026-05-01T14:41:34.787", "matchCriteriaId": "B6AD9220-23CA-410E-804D-BED13FDA10BD", "matches": [{"cpeName": "cpe:2.3:a:intra-mart:accel_platform:8.0.19:-:*:*:*:*:*:*", "cpeNameId": "10C1C8FB-1B18-48FC-8108-43E4CB22F0B6"}], "status": "Active"}

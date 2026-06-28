@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-07-14T12:38:59.413", "created": "2025-07-11T14:30:15.357", "criteria": "cpe:2.3:a:apache:cassandra:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "720B536E-F2AF-43EA-AE34-36104AA979B3", "status": "Inactive", "versionEndExcluding": "3.11.18", "versionStartIncluding": "3.1.0"}

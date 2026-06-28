@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-10-30T18:21:39.600", "created": "2024-10-30T18:21:39.600", "criteria": "cpe:2.3:a:cvat:computer_vision_annotation_tool:*:*:*:*:*:*:*:*", "lastModified": "2024-10-31T02:00:39.400", "matchCriteriaId": "2CB293FB-0A66-416F-B6D7-7F704E28645B", "status": "Inactive", "versionEndExcluding": "2.19.0"}

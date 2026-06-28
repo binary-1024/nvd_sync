@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-11-08T13:29:57.900", "created": "2022-11-08T13:29:57.900", "criteria": "cpe:2.3:a:siemens:teamcenter_visualization:*:*:*:*:*:*:*:*", "lastModified": "2022-11-09T03:00:12.597", "matchCriteriaId": "99E04556-5231-4191-A175-971684CC43B8", "status": "Inactive", "versionEndExcluding": "14.0.0.3", "versionStartIncluding": "14.0.0"}

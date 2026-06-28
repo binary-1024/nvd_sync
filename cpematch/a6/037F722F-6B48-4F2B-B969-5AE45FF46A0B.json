@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-11-07T16:02:46.650", "created": "2024-11-07T16:02:46.650", "criteria": "cpe:2.3:a:f5:nginx-openid-connect:*:*:*:*:*:*:*:*", "lastModified": "2024-11-08T03:00:26.340", "matchCriteriaId": "037F722F-6B48-4F2B-B969-5AE45FF46A0B", "status": "Inactive", "versionEndExcluding": "2024-10-24"}

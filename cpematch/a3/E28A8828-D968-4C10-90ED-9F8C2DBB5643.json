@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-09-12T20:27:18.570", "created": "2021-04-27T20:44:37.533", "criteria": "cpe:2.3:a:dell:powerscale_onefs:*:*:*:*:*:*:*:*", "lastModified": "2026-02-20T18:38:47.087", "matchCriteriaId": "E28A8828-D968-4C10-90ED-9F8C2DBB5643", "status": "Inactive", "versionEndIncluding": "9.1.0", "versionStartIncluding": "8.1.0"}

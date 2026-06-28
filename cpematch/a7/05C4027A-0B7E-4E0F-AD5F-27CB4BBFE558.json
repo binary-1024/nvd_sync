@@ -1,0 +1,1 @@
+{"created": "2025-08-25T14:29:58.480", "criteria": "cpe:2.3:h:cisco:secure_firewall_4225:-:*:*:*:*:*:*:*", "lastModified": "2025-08-25T17:50:58.130", "matchCriteriaId": "05C4027A-0B7E-4E0F-AD5F-27CB4BBFE558", "matches": [{"cpeName": "cpe:2.3:h:cisco:secure_firewall_4225:-:*:*:*:*:*:*:*", "cpeNameId": "E53958A1-4EF1-4727-A5D5-DD9FD2EC19EB"}], "status": "Active"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-06-03T20:03:41.440", "created": "2021-06-03T20:03:41.440", "criteria": "cpe:2.3:a:redhat:3scale:*:*:*:*:*:*:*:*", "lastModified": "2021-06-03T20:03:41.440", "matchCriteriaId": "6586E0A7-7713-4AAF-930E-7602538EBC52", "status": "Inactive", "versionEndIncluding": "2.10.0"}

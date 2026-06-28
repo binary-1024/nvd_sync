@@ -1,0 +1,1 @@
+{"created": "2025-06-18T23:56:59.160", "criteria": "cpe:2.3:a:yasm_project:yasm:2023-09-22:*:*:*:*:*:*:*", "lastModified": "2025-08-26T14:07:27.350", "matchCriteriaId": "CED0EE19-843C-4F9E-AB11-C2912EC1BD3D", "matches": [{"cpeName": "cpe:2.3:a:yasm_project:yasm:2023-09-22:*:*:*:*:*:*:*", "cpeNameId": "9036FC76-74BE-4E39-A84C-7BCF942BF1D0"}], "status": "Active"}

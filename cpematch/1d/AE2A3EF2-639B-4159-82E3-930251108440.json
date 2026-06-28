@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-01-28T02:32:53.553", "created": "2022-01-27T20:35:14.983", "criteria": "cpe:2.3:a:contribsys:sidekiq:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "AE2A3EF2-639B-4159-82E3-930251108440", "status": "Inactive", "versionEndExcluding": "6.4.0"}

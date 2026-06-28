@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-04-15T11:41:02.240", "created": "2020-04-29T12:04:38.440", "criteria": "cpe:2.3:a:apache:log4j:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "D5BC99ED-DAD2-44A5-A1D0-F121818912FE", "status": "Inactive", "versionEndExcluding": "2.13.2"}

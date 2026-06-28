@@ -1,0 +1,1 @@
+{"created": "2025-08-01T15:02:32.613", "criteria": "cpe:2.3:o:cisco:ios_xe:17.5:*:*:*:*:*:*:*", "lastModified": "2025-08-08T18:51:25.227", "matchCriteriaId": "66C67D18-A719-45F6-9EB3-08B33294B362", "matches": [{"cpeName": "cpe:2.3:o:cisco:ios_xe:17.5:*:*:*:*:*:*:*", "cpeNameId": "FECB38D9-06A3-4A39-BA4A-76396A3101A7"}], "status": "Active"}

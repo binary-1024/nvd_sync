@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-12-12T17:20:40.067", "created": "2022-12-12T17:20:40.067", "criteria": "cpe:2.3:a:codecentric:spring_boot_admin:*:*:*:*:*:*:*:*", "lastModified": "2022-12-12T17:20:40.067", "matchCriteriaId": "682E569D-C612-4E62-8B97-9B6E8126938B", "status": "Active", "versionEndExcluding": "2.7.8", "versionStartIncluding": "2.7.0"}

@@ -1,0 +1,1 @@
+{"created": "2025-08-01T19:28:26.990", "criteria": "cpe:2.3:h:cisco:ncs_55a2-mod-se-s:-:*:*:*:*:*:*:*", "lastModified": "2025-08-08T18:51:25.227", "matchCriteriaId": "B1DD4339-512E-4422-93F4-CEF836FF1EDD", "matches": [{"cpeName": "cpe:2.3:h:cisco:ncs_55a2-mod-se-s:-:*:*:*:*:*:*:*", "cpeNameId": "A68A075B-19D7-4A63-B8E9-DD6A6C13CD12"}], "status": "Active"}

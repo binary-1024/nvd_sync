@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-07-10T18:56:25.690", "created": "2025-07-03T19:55:14.130", "criteria": "cpe:2.3:a:ibm:mq:*:*:*:*:continuous_delivery:*:*:*", "lastModified": "2025-12-10T20:16:20.270", "matchCriteriaId": "DCF0478E-5AC1-42C5-B43B-C0FDE09436FB", "status": "Inactive", "versionEndIncluding": "9.4.1", "versionStartIncluding": "9.3.0"}

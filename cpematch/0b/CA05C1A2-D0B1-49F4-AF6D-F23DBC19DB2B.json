@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-12-01T15:37:52.857", "created": "2022-12-01T15:37:52.857", "criteria": "cpe:2.3:a:snyk:cli:*:*:*:*:*:-:*:*", "lastModified": "2022-12-02T03:00:12.867", "matchCriteriaId": "CA05C1A2-D0B1-49F4-AF6D-F23DBC19DB2B", "status": "Inactive", "versionEndExcluding": "1.1064.0"}

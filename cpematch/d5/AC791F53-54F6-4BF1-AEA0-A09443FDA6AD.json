@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-05-20T14:27:37.760", "created": "2026-05-20T14:27:37.760", "criteria": "cpe:2.3:a:kilo:kilo_code_cli:*:*:*:*:*:node.js:*:*", "lastModified": "2026-05-20T14:36:43.493", "matchCriteriaId": "AC791F53-54F6-4BF1-AEA0-A09443FDA6AD", "status": "Inactive", "versionEndIncluding": "7.0.47", "versionStartIncluding": "7.0.26"}

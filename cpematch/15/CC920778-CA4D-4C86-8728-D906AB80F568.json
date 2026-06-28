@@ -1,0 +1,1 @@
+{"cpeLastModified": "2019-10-10T17:04:51.600", "created": "2019-10-10T16:45:37.370", "criteria": "cpe:2.3:a:netaddr_project:netaddr:*:*:*:*:*:ruby:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "CC920778-CA4D-4C86-8728-D906AB80F568", "status": "Inactive", "versionEndExcluding": "2.0.4"}

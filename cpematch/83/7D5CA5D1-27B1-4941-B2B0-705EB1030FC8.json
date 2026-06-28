@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-11-28T19:08:06.250", "created": "2022-04-18T18:11:56.700", "criteria": "cpe:2.3:a:systemd_project:systemd:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "7D5CA5D1-27B1-4941-B2B0-705EB1030FC8", "status": "Inactive", "versionEndIncluding": "245", "versionStartIncluding": "239"}

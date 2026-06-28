@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-06-05T19:38:32.047", "created": "2026-06-05T19:38:32.047", "criteria": "cpe:2.3:a:trustedfirmware:mbed_tls:*:*:*:*:*:*:*:*", "lastModified": "2026-06-05T19:38:32.047", "matchCriteriaId": "30B46C25-0750-47A3-902D-026F62A85548", "status": "Inactive", "versionEndExcluding": "2.23.0"}

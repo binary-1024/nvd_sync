@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-08-23T14:47:23.357", "created": "2021-08-20T14:29:00.000", "criteria": "cpe:2.3:o:broadcom:fabric_operating_system:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "632A7905-690D-4E83-9F66-0DBFE3D1927A", "status": "Inactive", "versionEndExcluding": "8.2.0", "versionStartIncluding": "8.0.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-03-10T14:15:28.973", "created": "2026-03-10T14:15:28.973", "criteria": "cpe:2.3:a:iamb:crypt\\:\\:sodium\\:\\:xs:*:*:*:*:*:perl:*:*", "lastModified": "2026-03-10T14:44:08.400", "matchCriteriaId": "6DA77474-6FAB-437F-B2C7-51E21EE1F3E1", "status": "Inactive", "versionEndIncluding": "0.001000"}

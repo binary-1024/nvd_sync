@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-08-25T14:08:10.140", "created": "2021-08-23T20:25:18.357", "criteria": "cpe:2.3:a:zstack:rest_api:*:*:*:*:*:*:*:*", "lastModified": "2021-08-23T20:25:18.357", "matchCriteriaId": "1601C476-2420-4656-83A5-B5D4CC92B288", "status": "Active", "versionEndExcluding": "3.8.21", "versionStartIncluding": "2.2.4"}

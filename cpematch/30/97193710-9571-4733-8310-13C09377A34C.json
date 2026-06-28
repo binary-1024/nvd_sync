@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-11-07T13:42:45.660", "created": "2022-11-07T13:42:45.660", "criteria": "cpe:2.3:a:cisco:web_security_appliance:*:*:*:*:*:*:*:*", "lastModified": "2022-11-08T03:00:12.663", "matchCriteriaId": "97193710-9571-4733-8310-13C09377A34C", "status": "Inactive", "versionEndExcluding": "14.0.2-012", "versionStartIncluding": "14.0"}

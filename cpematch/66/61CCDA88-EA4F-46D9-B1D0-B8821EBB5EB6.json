@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-10-01T18:15:06.370", "created": "2025-10-01T18:15:06.370", "criteria": "cpe:2.3:a:artifex:mupdf:*:*:*:*:*:*:*:*", "lastModified": "2025-10-01T18:16:03.217", "matchCriteriaId": "61CCDA88-EA4F-46D9-B1D0-B8821EBB5EB6", "status": "Inactive", "versionEndExcluding": "1.26.7", "versionStartIncluding": "1.26.4"}

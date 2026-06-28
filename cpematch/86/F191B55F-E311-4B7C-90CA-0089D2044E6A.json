@@ -1,0 +1,1 @@
+{"cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:a:atlassian:bitbucket:*:*:*:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "matchCriteriaId": "F191B55F-E311-4B7C-90CA-0089D2044E6A", "status": "Active", "versionEndExcluding": "5.4.1", "versionStartExcluding": "5.4.0"}

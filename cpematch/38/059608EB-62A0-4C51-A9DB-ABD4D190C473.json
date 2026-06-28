@@ -1,0 +1,1 @@
+{"created": "2025-08-13T18:12:51.410", "criteria": "cpe:2.3:o:ixsystems:truenas_firmware:13.0:u5.1:*:*:*:*:*:*", "lastModified": "2025-09-09T18:42:30.447", "matchCriteriaId": "059608EB-62A0-4C51-A9DB-ABD4D190C473", "matches": [{"cpeName": "cpe:2.3:o:ixsystems:truenas_firmware:13.0:u5.1:*:*:*:*:*:*", "cpeNameId": "C42ADB22-3420-415D-A909-D95638CB2606"}], "status": "Active"}

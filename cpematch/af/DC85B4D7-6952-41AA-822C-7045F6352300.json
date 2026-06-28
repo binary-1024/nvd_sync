@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-02-08T16:28:04.013", "created": "2021-02-23T17:03:51.707", "criteria": "cpe:2.3:a:fasterxml:jackson-dataformats-binary:*:*:*:*:*:*:*:*", "lastModified": "2021-02-23T17:03:51.707", "matchCriteriaId": "DC85B4D7-6952-41AA-822C-7045F6352300", "status": "Active", "versionEndExcluding": "2.12.1", "versionStartExcluding": "2.12.0"}

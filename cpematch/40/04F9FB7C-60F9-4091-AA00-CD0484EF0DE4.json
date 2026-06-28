@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-06-04T21:49:14.843", "created": "2025-06-04T21:49:14.843", "criteria": "cpe:2.3:a:pingcap:tidb:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "04F9FB7C-60F9-4091-AA00-CD0484EF0DE4", "status": "Inactive", "versionEndExcluding": "7.5.1"}

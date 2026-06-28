@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-08-26T21:03:36.737", "created": "2021-08-26T19:08:05.040", "criteria": "cpe:2.3:a:ibm:resilient_security_orchestration_automation_and_response:*:*:*:*:*:*:*:*", "lastModified": "2021-08-26T19:08:05.040", "matchCriteriaId": "B7EC5AEE-8A4F-4731-9C4C-AB62BC121A29", "status": "Active", "versionEndExcluding": "1.6.1"}

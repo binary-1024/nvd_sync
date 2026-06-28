@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-04-15T16:06:33.837", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:a:secure_password_hashes_project:secure_passwords_hashes:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "2906BD75-AC96-4CD6-B749-40731DBE02C3", "status": "Inactive", "versionEndIncluding": "6.x-2.0"}

@@ -1,0 +1,1 @@
+{"created": "2020-06-18T16:14:44.320", "criteria": "cpe:2.3:a:intel:server_platform_services:*:*:*:*:*:*:*:*", "lastModified": "2020-06-18T16:14:44.320", "matchCriteriaId": "2EC1103F-2B88-40E8-A8F9-5CD361F3F552", "status": "Active", "versionEndExcluding": "sps_e3_04.08.04.070.0", "versionStartIncluding": "sps_e3_04.08.00.000.0"}

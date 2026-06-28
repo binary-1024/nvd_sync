@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-08-02T19:03:39.307", "created": "2020-04-10T17:09:51.910", "criteria": "cpe:2.3:a:varnish-cache:varnish_cache:*:*:*:*:lts:*:*:*", "lastModified": "2020-04-10T17:09:51.910", "matchCriteriaId": "69119476-05C5-446E-AC85-A0A2CB197F1E", "status": "Inactive", "versionEndExcluding": "6.0.6", "versionStartIncluding": "6.0.0"}

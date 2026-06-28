@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-10-18T17:18:43.053", "created": "2024-10-18T17:18:43.053", "criteria": "cpe:2.3:a:oracle:xml_database:*:*:*:*:*:*:*:*", "lastModified": "2024-10-18T17:18:43.053", "matchCriteriaId": "7955AD5E-EE3E-4C09-BBF4-4B647CA46B14", "status": "Active", "versionEndIncluding": "21.15", "versionStartExcluding": "21.3"}

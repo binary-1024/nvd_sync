@@ -1,0 +1,1 @@
+{"cpeLastModified": "2020-12-18T17:20:41.887", "created": "2020-12-18T16:36:48.283", "criteria": "cpe:2.3:a:linux-pam:linux-pam:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "39BCA4ED-C0E0-404A-BC99-087ACDCF71CE", "status": "Inactive", "versionEndExcluding": "1.5.1"}

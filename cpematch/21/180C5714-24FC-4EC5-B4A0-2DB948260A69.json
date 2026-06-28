@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-05-31T16:55:39.467", "created": "2023-05-31T16:55:39.467", "criteria": "cpe:2.3:a:mitel:mivoice_connect:*:*:*:*:*:*:*:*", "lastModified": "2023-06-01T02:00:13.163", "matchCriteriaId": "180C5714-24FC-4EC5-B4A0-2DB948260A69", "status": "Inactive", "versionEndIncluding": "22.24.1500.0", "versionStartIncluding": "20.0.0"}

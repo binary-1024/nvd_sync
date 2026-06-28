@@ -1,0 +1,1 @@
+{"created": "2025-03-17T14:30:42.807", "criteria": "cpe:2.3:o:netapp:a90_firmware:-:*:*:*:*:*:*:*", "lastModified": "2025-08-18T18:45:48.710", "matchCriteriaId": "550C1E38-56A3-4676-9D28-D66F66BA2FC8", "matches": [{"cpeName": "cpe:2.3:o:netapp:a90_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "E3B5F021-FE91-435A-9BDB-28BBA6FFD248"}], "status": "Active"}

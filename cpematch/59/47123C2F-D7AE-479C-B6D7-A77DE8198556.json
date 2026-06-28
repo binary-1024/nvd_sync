@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-06-02T14:37:36.703", "created": "2025-05-08T16:38:35.043", "criteria": "cpe:2.3:a:wasmi-labs:wasmi:*:*:*:*:*:rust:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "47123C2F-D7AE-479C-B6D7-A77DE8198556", "status": "Inactive", "versionEndIncluding": "0.31.1"}

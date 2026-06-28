@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-12-16T15:44:43.230", "created": "2025-12-16T15:44:43.230", "criteria": "cpe:2.3:a:arm:bifrost_gpu_kernel_driver:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T15:47:51.893", "matchCriteriaId": "D631F6CF-16E1-4159-8BCB-F1002505D7DC", "status": "Inactive", "versionEndIncluding": "r49p0", "versionStartIncluding": "r46p0"}

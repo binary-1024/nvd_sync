@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-11-28T15:51:16.593", "created": "2025-11-28T15:51:16.593", "criteria": "cpe:2.3:o:cisco:roomos:*:*:*:*:*:*:*:*", "lastModified": "2025-11-28T15:54:06.173", "matchCriteriaId": "6E25E73B-2465-4923-A2C1-C578A08AC94F", "status": "Inactive", "versionEndIncluding": "11.32.2.1", "versionStartIncluding": "10.0.0.0"}

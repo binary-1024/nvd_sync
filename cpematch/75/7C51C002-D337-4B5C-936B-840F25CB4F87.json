@@ -1,0 +1,1 @@
+{"created": "2025-08-27T11:47:21.773", "criteria": "cpe:2.3:a:acquia:dam:1.1.0:-:*:*:*:drupal:*:*", "lastModified": "2025-08-27T11:50:16.100", "matchCriteriaId": "7C51C002-D337-4B5C-936B-840F25CB4F87", "matches": [{"cpeName": "cpe:2.3:a:acquia:dam:1.1.0:-:*:*:*:drupal:*:*", "cpeNameId": "FE90C914-2AAC-4B73-99AF-CC322437CC34"}], "status": "Active"}

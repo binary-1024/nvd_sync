@@ -1,0 +1,1 @@
+{"created": "2021-01-12T04:09:46.567", "criteria": "cpe:2.3:a:linux:infiniband_hfi1_driver:*:*:*:*:*:*:*:*", "lastModified": "2021-01-12T04:09:46.567", "matchCriteriaId": "99E5D6FB-5CEF-430C-81AC-928A9A01B9C6", "status": "Active", "versionEndIncluding": "5.9"}

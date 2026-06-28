@@ -1,0 +1,1 @@
+{"created": "2025-10-17T19:38:53.837", "criteria": "cpe:2.3:a:iperf_project:iperf:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "5D155FA9-ABC0-4037-BBC3-7072001B5F2D", "status": "Inactive", "versionEndExcluding": "3.19.1", "versionStartIncluding": "3.2"}

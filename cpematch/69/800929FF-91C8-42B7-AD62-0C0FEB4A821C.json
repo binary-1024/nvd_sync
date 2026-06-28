@@ -1,0 +1,1 @@
+{"created": "2022-03-15T14:17:06.373", "criteria": "cpe:2.3:a:eclipse:jetty:*:*:*:*:*:*:*:*", "lastModified": "2022-03-15T14:17:06.373", "matchCriteriaId": "800929FF-91C8-42B7-AD62-0C0FEB4A821C", "status": "Inactive", "versionEndIncluding": "9.4.45", "versionStartIncluding": "9.4.0"}

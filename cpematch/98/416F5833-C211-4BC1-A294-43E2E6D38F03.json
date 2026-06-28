@@ -1,0 +1,1 @@
+{"cpeLastModified": "2020-01-14T18:12:39.063", "created": "2019-11-21T15:36:42.453", "criteria": "cpe:2.3:a:intel:graphics_driver:*:*:*:*:*:linux:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "416F5833-C211-4BC1-A294-43E2E6D38F03", "status": "Inactive", "versionEndExcluding": "5.4"}

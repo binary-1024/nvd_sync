@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-03-18T14:39:34.670", "created": "2021-03-18T14:39:34.670", "criteria": "cpe:2.3:a:varnish-cache:varnish:*:*:*:*:*:*:*:*", "lastModified": "2021-03-18T14:39:34.670", "matchCriteriaId": "27C8A1DB-4B34-4300-9FEA-2B273EA47818", "status": "Inactive", "versionEndExcluding": "0.17.1"}

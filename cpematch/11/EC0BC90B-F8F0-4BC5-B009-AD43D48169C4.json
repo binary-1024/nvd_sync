@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-05-12T18:24:11.327", "created": "2022-05-12T18:24:11.327", "criteria": "cpe:2.3:a:f5:access_for_android:*:*:*:*:*:*:*:*", "lastModified": "2022-05-12T18:24:11.327", "matchCriteriaId": "EC0BC90B-F8F0-4BC5-B009-AD43D48169C4", "status": "Active", "versionEndExcluding": "3.0.8", "versionStartIncluding": "3.0.6"}

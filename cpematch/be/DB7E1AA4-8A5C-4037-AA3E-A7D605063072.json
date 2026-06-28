@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-05-05T15:18:35.220", "created": "2021-03-26T02:33:32.677", "criteria": "cpe:2.3:a:gnu:libmicrohttpd:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "DB7E1AA4-8A5C-4037-AA3E-A7D605063072", "status": "Inactive", "versionEndExcluding": "0.9.71"}

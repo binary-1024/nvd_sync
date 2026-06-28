@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-08-11T17:46:05.070", "created": "2025-08-11T17:46:05.070", "criteria": "cpe:2.3:a:ibm:spectrum_protect_server:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "53258DBF-E376-40A9-AE89-26801E294A0D", "status": "Inactive", "versionEndIncluding": "8.1.26", "versionStartIncluding": "8.1"}

@@ -1,0 +1,1 @@
+{"created": "2025-07-30T21:07:51.360", "criteria": "cpe:2.3:a:cisco:finesse:12.5\\(1\\):su:*:*:*:*:*:*", "lastModified": "2025-07-31T15:03:24.870", "matchCriteriaId": "80250CAD-F57B-4744-8003-5A156995A813", "matches": [{"cpeName": "cpe:2.3:a:cisco:finesse:12.5\\(1\\):su:*:*:*:*:*:*", "cpeNameId": "ACE0AB69-8C20-42C1-9136-7BE50B84921F"}], "status": "Active"}

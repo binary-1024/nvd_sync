@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-03-30T17:53:17.650", "created": "2021-03-30T17:51:25.460", "criteria": "cpe:2.3:a:oauth2_proxy_project:oauth2_proxy:*:*:*:*:*:*:*:*", "lastModified": "2021-03-30T17:51:25.460", "matchCriteriaId": "964C8EB9-D06D-4497-AD68-2A3609CCA27A", "status": "Inactive", "versionEndExcluding": "7.1.0"}

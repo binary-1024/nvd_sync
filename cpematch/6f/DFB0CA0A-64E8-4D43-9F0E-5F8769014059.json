@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-05-27T16:21:18.287", "created": "2021-05-27T16:19:41.900", "criteria": "cpe:2.3:a:normalize-url_project:normalize-url:*:*:*:*:*:node.js:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "DFB0CA0A-64E8-4D43-9F0E-5F8769014059", "status": "Inactive", "versionEndExcluding": "6.0.1", "versionStartIncluding": "6.0.0"}

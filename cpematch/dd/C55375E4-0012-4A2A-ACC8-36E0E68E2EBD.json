@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-09-22T14:22:21.443", "created": "2021-09-10T11:13:04.690", "criteria": "cpe:2.3:o:apple:mac_os:*:*:*:*:*:*:*:*", "lastModified": "2021-09-10T11:13:04.690", "matchCriteriaId": "C55375E4-0012-4A2A-ACC8-36E0E68E2EBD", "status": "Inactive", "versionEndExcluding": "11.4", "versionStartIncluding": "11.0.1"}

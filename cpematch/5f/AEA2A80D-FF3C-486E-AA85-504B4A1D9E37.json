@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-12-02T20:38:57.530", "created": "2025-12-02T20:38:57.530", "criteria": "cpe:2.3:a:symfony1_project:symfony1:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "AEA2A80D-FF3C-486E-AA85-504B4A1D9E37", "status": "Inactive", "versionEndIncluding": "1.5.18", "versionStartIncluding": "1.1.0"}

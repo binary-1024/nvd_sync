@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-01-08T15:16:12.477", "created": "2021-01-06T15:23:50.247", "criteria": "cpe:2.3:a:rust-lang:futures-task:*:*:*:*:*:rust:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "39572C98-A9A3-44DA-8543-9F096DF8EB0C", "status": "Inactive", "versionEndExcluding": "0.3.6"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-08-18T12:53:03.307", "created": "2021-08-18T12:53:03.307", "criteria": "cpe:2.3:a:dell:emc_networker:*:*:*:*:*:*:*:*", "lastModified": "2021-08-18T12:53:03.307", "matchCriteriaId": "E0041177-B47B-4729-BC3F-F36C17CA2BE3", "status": "Inactive", "versionEndIncluding": "19.4.0.0", "versionStartIncluding": "18.0.0"}

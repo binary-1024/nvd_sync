@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-11-30T14:03:04.490", "created": "2023-11-30T14:03:04.490", "criteria": "cpe:2.3:a:elastic:apm_agent:*:*:*:*:*:java:*:*", "lastModified": "2023-12-01T03:00:38.320", "matchCriteriaId": "263D291A-CDF4-4976-8430-DB61E4F491A6", "status": "Inactive", "versionEndIncluding": "1.27.0", "versionStartIncluding": "1.18.0"}

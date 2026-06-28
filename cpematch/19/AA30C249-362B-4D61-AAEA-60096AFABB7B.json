@@ -1,0 +1,1 @@
+{"created": "2026-01-15T19:18:06.670", "criteria": "cpe:2.3:a:synology:media_server:2.0.0-3040:*:*:*:*:*:*:*", "lastModified": "2026-02-04T17:41:13.013", "matchCriteriaId": "AA30C249-362B-4D61-AAEA-60096AFABB7B", "matches": [{"cpeName": "cpe:2.3:a:synology:media_server:2.0.0-3040:*:*:*:*:*:*:*", "cpeNameId": "85235666-A262-4D09-8123-DE49537B3711"}], "status": "Active"}

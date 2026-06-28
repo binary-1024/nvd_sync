@@ -1,0 +1,1 @@
+{"created": "2025-03-18T13:50:33.940", "criteria": "cpe:2.3:a:ibm:websphere_automation:1.7.0:*:*:*:*:*:*:*", "lastModified": "2025-08-13T16:59:11.600", "matchCriteriaId": "A6B93AFB-9F39-4EA7-925E-8C4C447A128A", "matches": [{"cpeName": "cpe:2.3:a:ibm:websphere_automation:1.7.0:*:*:*:*:*:*:*", "cpeNameId": "055B2F8F-1561-4315-B54A-850AF3FFE6B5"}], "status": "Active"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-04-07T14:27:31.147", "created": "2025-03-05T13:40:02.200", "criteria": "cpe:2.3:a:tal:url:*:*:*:*:*:ruby:*:*", "lastModified": "2025-03-05T13:40:02.200", "matchCriteriaId": "650C2267-9E99-4CC3-9252-C4B20DB7A27C", "status": "Active", "versionEndExcluding": "0.13.2", "versionStartIncluding": "0.13.0"}

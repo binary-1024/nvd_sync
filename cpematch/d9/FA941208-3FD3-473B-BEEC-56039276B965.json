@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-10-26T15:14:58.243", "created": "2021-10-26T15:14:43.610", "criteria": "cpe:2.3:o:juniper:128_technology_session_smart_router_firmware:*:*:*:*:*:*:*:*", "lastModified": "2021-10-26T15:14:43.610", "matchCriteriaId": "FA941208-3FD3-473B-BEEC-56039276B965", "status": "Active", "versionEndIncluding": "5.0.1", "versionStartIncluding": "5.0.0"}

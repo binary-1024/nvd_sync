@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-04-09T17:43:41.707", "created": "2019-10-06T21:11:39.970", "criteria": "cpe:2.3:a:ca:network_flow_analysis:*:*:*:*:*:*:*:*", "lastModified": "2019-10-06T21:11:39.970", "matchCriteriaId": "06A07C03-7516-494B-969A-DE6C2C03F79E", "status": "Inactive", "versionEndIncluding": "9.5.0", "versionStartIncluding": "9.3.1"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-12-01T15:48:11.493", "created": "2022-12-01T15:48:11.493", "criteria": "cpe:2.3:a:snyk:cli:*:*:*:*:*:cocoapods:*:*", "lastModified": "2022-12-02T03:00:12.867", "matchCriteriaId": "74FEBA7C-72E0-4F97-89F0-C0073343BAD7", "status": "Inactive", "versionEndExcluding": "2.5.3"}

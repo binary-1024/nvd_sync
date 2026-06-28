@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-10-27T00:40:27.500", "created": "2023-10-13T18:00:12.513", "criteria": "cpe:2.3:a:microsoft:odbc_driver_for_sql_server:*:*:*:*:*:windows:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "62D6C409-E6E3-402B-B493-EBDC6A3D30A0", "status": "Inactive", "versionEndExcluding": "19.3.0002.0", "versionStartIncluding": "18.0.2"}

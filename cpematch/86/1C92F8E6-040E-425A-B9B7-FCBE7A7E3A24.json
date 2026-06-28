@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-02-11T21:35:29.463", "created": "2025-02-11T16:13:16.860", "criteria": "cpe:2.3:a:atlassian:bamboo:*:*:*:*:*:*:*:*", "lastModified": "2025-02-21T03:00:27.017", "matchCriteriaId": "1C92F8E6-040E-425A-B9B7-FCBE7A7E3A24", "status": "Inactive", "versionEndExcluding": "9.2.17", "versionStartIncluding": "9.0.0"}

@@ -1,0 +1,1 @@
+{"created": "2021-07-28T18:25:18.207", "criteria": "cpe:2.3:o:siemens:ruggedcom_ros_rsg2300p_firmware:*:*:*:*:*:*:*:*", "lastModified": "2021-07-28T18:25:18.207", "matchCriteriaId": "72547D10-AE43-4DE1-AB3F-714FA8E28D6B", "status": "Active", "versionEndExcluding": "5.5.4", "versionStartIncluding": "5.5.0"}

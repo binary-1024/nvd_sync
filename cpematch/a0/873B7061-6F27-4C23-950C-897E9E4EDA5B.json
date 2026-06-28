@@ -1,0 +1,1 @@
+{"cpeLastModified": "2019-12-09T19:11:56.057", "created": "2019-09-04T16:16:34.970", "criteria": "cpe:2.3:a:kubernetes:kubernetes:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "873B7061-6F27-4C23-950C-897E9E4EDA5B", "status": "Inactive", "versionEndExcluding": "1.15.0", "versionStartIncluding": "1.14.5"}

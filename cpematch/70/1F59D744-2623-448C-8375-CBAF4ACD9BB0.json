@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-10-10T13:48:15.290", "created": "2024-10-10T13:48:15.290", "criteria": "cpe:2.3:a:elliptic_project:elliptic:*:*:*:*:*:node.js:*:*", "lastModified": "2024-10-15T14:08:16.423", "matchCriteriaId": "1F59D744-2623-448C-8375-CBAF4ACD9BB0", "status": "Inactive", "versionEndExcluding": "6.5.6"}

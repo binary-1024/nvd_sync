@@ -1,0 +1,1 @@
+{"created": "2022-03-15T18:42:49.703", "criteria": "cpe:2.3:a:redhat:quay:*:*:*:*:*:*:*:*", "lastModified": "2022-03-15T18:42:49.703", "matchCriteriaId": "E4DF0E9D-FD7D-4A29-848A-5056C689B4BE", "status": "Inactive", "versionEndExcluding": "3.5.7", "versionStartIncluding": "3.0.0"}

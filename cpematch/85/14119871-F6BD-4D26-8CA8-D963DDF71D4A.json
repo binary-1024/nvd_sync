@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-08-13T20:42:49.907", "created": "2024-08-13T20:42:49.907", "criteria": "cpe:2.3:h:pepperl-fuchs:icdm-rx\\/tcp_socketserver_firmware:*:*:*:*:*:*:*:*", "lastModified": "2024-08-14T02:00:28.880", "matchCriteriaId": "14119871-F6BD-4D26-8CA8-D963DDF71D4A", "status": "Inactive", "versionEndExcluding": "11.65"}

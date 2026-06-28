@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-06-20T16:08:50.157", "created": "2025-06-20T16:08:50.157", "criteria": "cpe:2.3:a:apache:inlong:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "AC31E87D-934C-447E-A5B9-7074372BC768", "status": "Inactive", "versionEndExcluding": "2.1.0", "versionStartIncluding": "1.3.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-04-22T11:02:30.663", "created": "2021-04-22T11:02:07.697", "criteria": "cpe:2.3:a:google:bazel:*:*:*:*:*:visual_studio:*:*", "lastModified": "2021-04-22T11:02:07.697", "matchCriteriaId": "75AD5001-3412-4D96-80CB-42CB4DB2BFA7", "status": "Inactive", "versionEndExcluding": "0.4.1"}

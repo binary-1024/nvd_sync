@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-08-15T14:41:43.630", "created": "2022-08-15T14:41:43.630", "criteria": "cpe:2.3:a:linuxfoundation:ceph:*:*:*:*:*:*:*:*", "lastModified": "2022-08-15T14:41:43.630", "matchCriteriaId": "9548EF85-41EB-4924-A56F-6074ED4D9C0F", "status": "Inactive", "versionEndExcluding": "17.2.2", "versionStartIncluding": "17.2.0"}

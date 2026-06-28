@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-08-29T15:02:45.710", "created": "2022-08-29T15:02:45.710", "criteria": "cpe:2.3:a:ibm:datapower_gateway:*:*:*:*:-:*:*:*", "lastModified": "2022-08-29T15:02:45.710", "matchCriteriaId": "8384883C-E320-4390-95C9-00A816DD26FE", "status": "Active", "versionEndIncluding": "2018.4.1.21", "versionStartIncluding": "2018.4.1.0"}

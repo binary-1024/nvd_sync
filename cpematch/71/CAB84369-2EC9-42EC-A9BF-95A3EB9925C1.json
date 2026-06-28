@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-11-21T18:30:19.340", "created": "2024-10-11T15:52:36.510", "criteria": "cpe:2.3:a:mozilla:firefox_esr:*:*:*:*:*:*:*:*", "lastModified": "2024-10-11T15:52:36.510", "matchCriteriaId": "CAB84369-2EC9-42EC-A9BF-95A3EB9925C1", "status": "Active", "versionEndExcluding": "128.3.0", "versionStartIncluding": "116.0"}

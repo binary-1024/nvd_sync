@@ -1,0 +1,1 @@
+{"created": "2020-09-03T15:02:57.747", "criteria": "cpe:2.3:a:cloudfoundry:gorouter:*:*:*:*:*:*:*:*", "lastModified": "2020-09-03T15:02:57.747", "matchCriteriaId": "CAAAF78A-33A1-4744-AF0F-43B7AE2FFAC3", "status": "Active", "versionEndExcluding": "0.206.0"}

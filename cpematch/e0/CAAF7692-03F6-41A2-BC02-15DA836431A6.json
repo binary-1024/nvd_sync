@@ -1,0 +1,1 @@
+{"created": "2021-07-28T18:25:14.100", "criteria": "cpe:2.3:o:siemens:ruggedcom_ros_rsg2100p_firmware:*:*:*:*:*:*:*:*", "lastModified": "2021-07-28T18:25:14.100", "matchCriteriaId": "CAAF7692-03F6-41A2-BC02-15DA836431A6", "status": "Active", "versionEndExcluding": "5.3.4", "versionStartIncluding": "5.0.0"}

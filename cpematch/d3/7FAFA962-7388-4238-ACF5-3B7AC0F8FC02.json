@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-12-18T16:32:06.177", "created": "2023-12-18T16:32:06.177", "criteria": "cpe:2.3:a:vmware:workspace_one_launcher:*:*:*:*:*:android:*:*", "lastModified": "2023-12-18T16:32:06.177", "matchCriteriaId": "7FAFA962-7388-4238-ACF5-3B7AC0F8FC02", "status": "Inactive", "versionEndExcluding": "23.11", "versionStartIncluding": "22.0"}

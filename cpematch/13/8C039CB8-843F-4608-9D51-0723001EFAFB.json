@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-09-10T03:57:38.830", "created": "2022-09-10T03:57:38.830", "criteria": "cpe:2.3:a:openharmony:openharmony:*:*:*:*:long_term_support:*:*:*", "lastModified": "2022-09-10T03:57:38.830", "matchCriteriaId": "8C039CB8-843F-4608-9D51-0723001EFAFB", "status": "Active", "versionEndIncluding": "1.1.5", "versionStartIncluding": "1.1.0"}

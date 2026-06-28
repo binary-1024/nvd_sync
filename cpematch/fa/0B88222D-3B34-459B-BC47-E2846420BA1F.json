@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-06-23T20:04:46.750", "created": "2021-06-23T20:04:46.750", "criteria": "cpe:2.3:a:nextcloud:talk:*:*:*:*:*:*:*:*", "lastModified": "2025-12-09T16:20:31.100", "matchCriteriaId": "0B88222D-3B34-459B-BC47-E2846420BA1F", "status": "Inactive", "versionEndExcluding": "11.2.2", "versionStartIncluding": "11.0.0"}

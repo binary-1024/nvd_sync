@@ -1,0 +1,1 @@
+{"created": "2026-03-16T18:59:27.153", "criteria": "cpe:2.3:h:intel:arc_130t:-:*:*:*:*:*:*:*", "lastModified": "2026-03-17T13:44:40.553", "matchCriteriaId": "7297833F-BBE1-414A-A1EE-B142CA329013", "matches": [{"cpeName": "cpe:2.3:h:intel:arc_130t:-:*:*:*:*:*:*:*", "cpeNameId": "96507200-271B-405B-B17A-0FC94F025599"}], "status": "Active"}

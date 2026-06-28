@@ -1,0 +1,1 @@
+{"created": "2026-05-06T17:45:10.957", "criteria": "cpe:2.3:o:qualcomm:wcn7760_firmware:-:*:*:*:*:*:*:*", "lastModified": "2026-06-11T13:47:23.237", "matchCriteriaId": "506C6CE1-6BDF-4542-82C1-820D10D8181A", "matches": [{"cpeName": "cpe:2.3:o:qualcomm:wcn7760_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "C2A222E0-C9DC-4A6D-B3D7-471B052D1942"}], "status": "Active"}

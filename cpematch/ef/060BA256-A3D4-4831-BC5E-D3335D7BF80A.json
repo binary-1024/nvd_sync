@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-04-21T12:16:17.560", "created": "2025-04-15T20:51:00.170", "criteria": "cpe:2.3:a:eprosima:fast_dds:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "060BA256-A3D4-4831-BC5E-D3335D7BF80A", "status": "Inactive", "versionEndExcluding": "2.12.2", "versionStartIncluding": "2.11.0"}

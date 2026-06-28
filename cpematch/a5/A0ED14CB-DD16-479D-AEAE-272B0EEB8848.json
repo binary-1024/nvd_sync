@@ -1,0 +1,1 @@
+{"created": "2025-12-26T18:55:40.363", "criteria": "cpe:2.3:a:linuxcontainers:incus:*:*:*:*:*:go:*:*", "lastModified": "2025-12-26T18:55:40.363", "matchCriteriaId": "A0ED14CB-DD16-479D-AEAE-272B0EEB8848", "status": "Active", "versionEndExcluding": "6.0.6"}

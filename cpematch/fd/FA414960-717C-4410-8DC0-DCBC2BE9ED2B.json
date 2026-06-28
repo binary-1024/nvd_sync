@@ -1,0 +1,1 @@
+{"created": "2025-03-06T16:32:19.350", "criteria": "cpe:2.3:h:qualcomm:qmp1000:*:*:*:*:*:*:*:*", "lastModified": "2025-08-07T13:00:11.150", "matchCriteriaId": "FA414960-717C-4410-8DC0-DCBC2BE9ED2B", "matches": [{"cpeName": "cpe:2.3:h:qualcomm:qmp1000:-:*:*:*:*:*:*:*", "cpeNameId": "31C9E6AF-834A-4665-A196-648CB3CAC6B2"}], "status": "Active"}

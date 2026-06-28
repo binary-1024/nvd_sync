@@ -1,0 +1,1 @@
+{"created": "2021-07-06T15:07:02.170", "criteria": "cpe:2.3:o:broadcom:symantec_advanced_secure_gateway_s200-30_firmware:*:*:*:*:*:*:*:*", "lastModified": "2021-07-06T15:07:02.170", "matchCriteriaId": "D0D5D136-155C-4A46-904A-543645C53772", "status": "Active", "versionEndExcluding": "6.7.5.12", "versionStartIncluding": "6.7.5.0"}

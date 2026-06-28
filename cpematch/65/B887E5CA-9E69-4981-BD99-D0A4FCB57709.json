@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-10-20T20:31:53.467", "created": "2023-10-20T20:31:53.467", "criteria": "cpe:2.3:o:relative:synchrony:*:*:*:*:*:nodejs:*:*", "lastModified": "2023-10-20T20:33:07.833", "matchCriteriaId": "B887E5CA-9E69-4981-BD99-D0A4FCB57709", "status": "Inactive", "versionEndExcluding": "2.4.4"}

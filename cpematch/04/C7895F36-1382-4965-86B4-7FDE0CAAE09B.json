@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-05-12T10:58:59.973", "created": "2021-05-12T10:56:59.763", "criteria": "cpe:2.3:a:proofpoint:enterprise_protection:*:*:*:*:-:*:*:*", "lastModified": "2021-05-12T10:56:59.763", "matchCriteriaId": "C7895F36-1382-4965-86B4-7FDE0CAAE09B", "status": "Inactive", "versionEndExcluding": "8.16.6", "versionStartIncluding": "8.14.0"}

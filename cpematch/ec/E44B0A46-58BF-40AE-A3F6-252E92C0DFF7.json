@@ -1,0 +1,1 @@
+{"created": "2025-08-29T16:08:01.383", "criteria": "cpe:2.3:a:alexxit:go2rtc:*:*:*:*:*:*:*:*", "lastModified": "2025-08-29T16:08:01.383", "matchCriteriaId": "E44B0A46-58BF-40AE-A3F6-252E92C0DFF7", "matches": [{"cpeName": "cpe:2.3:a:alexxit:go2rtc:1.8.5:*:*:*:*:*:*:*", "cpeNameId": "BD663CD0-EC48-4D83-8607-A610D298164C"}], "status": "Active", "versionEndIncluding": "1.8.5"}

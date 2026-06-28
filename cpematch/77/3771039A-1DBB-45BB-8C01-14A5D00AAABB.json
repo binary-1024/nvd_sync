@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-08-10T14:07:01.897", "created": "2022-08-10T14:07:01.897", "criteria": "cpe:2.3:a:sanic_project:sanic:*:*:*:*:*:*:*:*", "lastModified": "2022-08-10T14:07:01.897", "matchCriteriaId": "3771039A-1DBB-45BB-8C01-14A5D00AAABB", "status": "Active", "versionEndExcluding": "21.12.2", "versionStartIncluding": "21.0.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-04-02T17:36:58.883", "created": "2026-04-02T17:36:58.883", "criteria": "cpe:2.3:a:rotp_project:rotp:*:*:*:*:*:ruby:*:*", "lastModified": "2026-04-02T17:36:58.883", "matchCriteriaId": "FE60215E-89BD-4D62-ADEA-A174B376D87A", "status": "Active", "versionEndExcluding": "6.3.0", "versionStartIncluding": "6.2.1"}

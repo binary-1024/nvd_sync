@@ -1,0 +1,1 @@
+{"created": "2022-03-15T19:09:19.550", "criteria": "cpe:2.3:a:vmware:spring_cloud_gateway:*:*:*:*:*:*:*:*", "lastModified": "2022-03-15T19:09:19.550", "matchCriteriaId": "D36872B4-6197-4E51-BF2E-BD3684BFF093", "status": "Inactive", "versionEndExcluding": "3.0.7", "versionStartIncluding": "3.0.0"}

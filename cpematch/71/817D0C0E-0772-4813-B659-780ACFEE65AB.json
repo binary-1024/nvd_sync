@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-11-02T23:04:33.187", "created": "2023-11-02T23:04:33.187", "criteria": "cpe:2.3:a:f5:big-ip_dns:*:*:*:*:*:*:*:*", "lastModified": "2023-11-03T17:57:26.343", "matchCriteriaId": "817D0C0E-0772-4813-B659-780ACFEE65AB", "status": "Inactive", "versionEndIncluding": "16.1.4", "versionStartIncluding": "16.1.0"}

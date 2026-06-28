@@ -1,0 +1,1 @@
+{"created": "2025-08-13T15:37:59.013", "criteria": "cpe:2.3:a:ibm:financial_transaction_manager_for_multiplatform:*:*:*:*:*:swift_services:*:*", "lastModified": "2025-08-13T15:37:59.013", "matchCriteriaId": "445914F0-987D-4CAE-8249-E368A025AB31", "status": "Active", "versionEndIncluding": "3.2.4.13", "versionStartIncluding": "3.2.4.0"}

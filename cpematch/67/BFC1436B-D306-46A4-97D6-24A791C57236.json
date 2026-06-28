@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-03-25T17:07:35.260", "created": "2020-01-08T15:12:53.320", "criteria": "cpe:2.3:a:debian:advanced_package_tool:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "BFC1436B-D306-46A4-97D6-24A791C57236", "status": "Inactive", "versionEndIncluding": "0.8.15.1"}

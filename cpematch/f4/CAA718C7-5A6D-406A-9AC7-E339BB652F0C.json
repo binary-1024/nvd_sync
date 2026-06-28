@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-09-01T15:10:37.293", "created": "2021-09-01T15:08:48.340", "criteria": "cpe:2.3:a:cisco:cloud_application_policy_infrastructure_controller:*:*:*:*:*:*:*:*", "lastModified": "2021-09-01T15:08:48.340", "matchCriteriaId": "CAA718C7-5A6D-406A-9AC7-E339BB652F0C", "status": "Active", "versionEndExcluding": "4.2\\(6h\\)", "versionStartIncluding": "4.0"}

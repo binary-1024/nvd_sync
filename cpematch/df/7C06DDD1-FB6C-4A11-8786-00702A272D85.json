@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-08-13T14:34:45.003", "created": "2024-08-13T14:34:45.003", "criteria": "cpe:2.3:a:vmware:cloud_director:*:*:*:*:*:*:*:*", "lastModified": "2024-08-13T14:34:45.003", "matchCriteriaId": "7C06DDD1-FB6C-4A11-8786-00702A272D85", "status": "Active", "versionEndExcluding": "4.7.2", "versionStartIncluding": "4.0.0"}

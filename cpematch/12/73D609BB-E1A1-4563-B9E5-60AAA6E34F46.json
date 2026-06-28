@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-05-20T18:19:56.227", "created": "2021-05-20T18:19:56.227", "criteria": "cpe:2.3:a:f5:big-ip_global_traffic_manager:*:*:*:*:*:*:*:*", "lastModified": "2021-05-20T18:19:56.227", "matchCriteriaId": "73D609BB-E1A1-4563-B9E5-60AAA6E34F46", "status": "Inactive", "versionEndIncluding": "11.6.5.3", "versionStartIncluding": "11.6.1"}

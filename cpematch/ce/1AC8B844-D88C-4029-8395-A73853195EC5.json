@@ -1,0 +1,1 @@
+{"created": "2025-08-12T19:36:48.543", "criteria": "cpe:2.3:a:ibm:cloud_pak_system:2.3.3.7:ifix1:*:*:*:*:*:*", "lastModified": "2025-08-15T17:59:02.537", "matchCriteriaId": "1AC8B844-D88C-4029-8395-A73853195EC5", "matches": [{"cpeName": "cpe:2.3:a:ibm:cloud_pak_system:2.3.3.7:ifix1:*:*:*:*:*:*", "cpeNameId": "1397A4BB-48D5-423C-AB50-1AE267F03FD1"}], "status": "Active"}

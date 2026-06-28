@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-09-21T16:39:51.490", "created": "2021-02-13T03:23:00.200", "criteria": "cpe:2.3:a:lucee:lucee_server:*:*:*:*:*:*:*:*", "lastModified": "2021-02-13T03:23:00.200", "matchCriteriaId": "9ED241BC-C6BA-4DBC-BD08-3FC8A529350E", "status": "Active", "versionEndExcluding": "5.3.7.47", "versionStartIncluding": "5.3.7.00"}

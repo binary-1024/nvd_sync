@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-06-02T13:51:32.090", "created": "2021-06-02T13:51:22.120", "criteria": "cpe:2.3:h:ibm:9009-22g:-:*:*:*:*:*:*:*", "lastModified": "2021-06-02T13:51:22.120", "matchCriteriaId": "BFB756EE-B71D-4E5F-B84B-E5A1C8FBCC05", "matches": [{"cpeName": "cpe:2.3:h:ibm:9009-22g:-:*:*:*:*:*:*:*", "cpeNameId": "6C77C636-18B3-4F04-9340-58EDCCAC6473"}], "status": "Active"}

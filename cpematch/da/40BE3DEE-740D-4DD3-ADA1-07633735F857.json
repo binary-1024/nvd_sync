@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-10-07T14:03:41.480", "created": "2022-10-07T14:03:41.480", "criteria": "cpe:2.3:a:ibm:robotic_process_automation:*:*:*:*:*:*:*:*", "lastModified": "2022-10-08T02:00:11.263", "matchCriteriaId": "40BE3DEE-740D-4DD3-ADA1-07633735F857", "status": "Inactive", "versionEndExcluding": "21.0.4", "versionStartIncluding": "21.0.1"}

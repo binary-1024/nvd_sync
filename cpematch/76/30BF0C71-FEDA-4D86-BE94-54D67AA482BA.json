@@ -1,0 +1,1 @@
+{"created": "2026-06-01T15:11:50.390", "criteria": "cpe:2.3:a:ibm:cognos_analytics:*:*:*:*:*:*:*:*", "lastModified": "2026-06-01T15:11:50.390", "matchCriteriaId": "30BF0C71-FEDA-4D86-BE94-54D67AA482BA", "status": "Active", "versionEndExcluding": "12.1.2", "versionStartIncluding": "12.1.0"}

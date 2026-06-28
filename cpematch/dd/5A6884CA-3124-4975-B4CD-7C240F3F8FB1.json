@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-12-04T19:41:57.760", "created": "2025-12-04T19:41:57.760", "criteria": "cpe:2.3:a:splunk:splunk:*:*:*:*:enterprise:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "5A6884CA-3124-4975-B4CD-7C240F3F8FB1", "status": "Inactive", "versionEndExcluding": "9.2.10", "versionStartIncluding": "9.2"}

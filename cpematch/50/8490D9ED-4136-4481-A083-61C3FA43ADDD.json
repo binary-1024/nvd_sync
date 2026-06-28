@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-07-08T14:25:30.380", "created": "2020-12-17T15:09:50.430", "criteria": "cpe:2.3:a:docker:composer:*:*:*:*:*:*:*:*", "lastModified": "2020-12-17T15:09:50.430", "matchCriteriaId": "8490D9ED-4136-4481-A083-61C3FA43ADDD", "status": "Inactive", "versionEndExcluding": "1.8.3"}

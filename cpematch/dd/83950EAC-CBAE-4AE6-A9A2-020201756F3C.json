@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-06-17T15:37:41.647", "created": "2025-06-17T15:37:41.647", "criteria": "cpe:2.3:a:libreswan:libreswan:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "83950EAC-CBAE-4AE6-A9A2-020201756F3C", "status": "Inactive", "versionEndExcluding": "4.14", "versionStartIncluding": "3.22"}

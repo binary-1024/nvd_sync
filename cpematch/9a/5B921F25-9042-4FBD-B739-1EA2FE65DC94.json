@@ -1,0 +1,1 @@
+{"created": "2019-08-12T17:35:37.220", "criteria": "cpe:2.3:a:pivotal:application_service:*:*:*:*:*:*:*:*", "lastModified": "2019-08-12T17:35:37.220", "matchCriteriaId": "5B921F25-9042-4FBD-B739-1EA2FE65DC94", "status": "Active", "versionEndExcluding": "2.4.10", "versionStartIncluding": "2.4.0"}

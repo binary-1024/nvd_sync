@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-06-30T19:03:51.310", "created": "2022-06-30T19:03:51.310", "criteria": "cpe:2.3:a:codesys:gateway:*:*:*:*:*:*:*:*", "lastModified": "2022-06-30T19:03:51.310", "matchCriteriaId": "BB2B49E7-1AE9-418A-AC9E-0166D16F38BD", "status": "Active", "versionEndExcluding": "2.3.9.38", "versionStartIncluding": "2.0"}

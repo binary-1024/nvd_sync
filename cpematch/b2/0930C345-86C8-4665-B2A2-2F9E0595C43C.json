@@ -1,0 +1,1 @@
+{"cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:a:emc:networker_client:*:eco6:open_vms:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "matchCriteriaId": "0930C345-86C8-4665-B2A2-2F9E0595C43C", "status": "Active", "versionEndIncluding": "7.3.2"}

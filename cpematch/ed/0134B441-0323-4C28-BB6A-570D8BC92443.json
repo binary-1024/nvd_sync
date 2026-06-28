@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-07-10T14:26:35.140", "created": "2024-07-10T14:26:35.140", "criteria": "cpe:2.3:a:microsoft:azure_cyclecloud:*:*:*:*:*:*:*:*", "lastModified": "2024-07-13T02:01:11.980", "matchCriteriaId": "0134B441-0323-4C28-BB6A-570D8BC92443", "status": "Inactive", "versionEndExcluding": "8.6.2", "versionStartIncluding": "8.0.0"}

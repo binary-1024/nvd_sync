@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-07-07T14:41:28.697", "created": "2023-07-07T14:41:28.697", "criteria": "cpe:2.3:o:ovarro:tbox_ms-cpu32_firmware:*:*:*:*:*:*:*:*", "lastModified": "2023-07-07T14:41:28.697", "matchCriteriaId": "6C2074BF-09EC-4916-9629-0FC195BFE29C", "status": "Active", "versionEndIncluding": "1.50.598", "versionStartIncluding": "1.46"}

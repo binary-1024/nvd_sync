@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-04-11T17:21:03.713", "created": "2022-02-17T15:34:39.760", "criteria": "cpe:2.3:a:pivotal_software:spring_framework:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "F45E500A-AA15-4DDC-889A-26F9C950FDE3", "status": "Inactive", "versionEndExcluding": "5.0.19", "versionStartIncluding": "5.0.0"}

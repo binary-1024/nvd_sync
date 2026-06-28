@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-10-06T12:48:14.817", "created": "2025-10-06T12:48:14.817", "criteria": "cpe:2.3:a:jetbrains:ide_services:*:*:*:*:*:*:*:*", "lastModified": "2025-10-06T12:50:44.327", "matchCriteriaId": "EA960C98-23BD-487D-9049-BC1223DC0420", "status": "Inactive", "versionEndExcluding": "2025.4.2.2164", "versionStartIncluding": "2025.4.0.2097"}

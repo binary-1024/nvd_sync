@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-11-04T19:39:33.640", "created": "2025-11-04T19:39:33.640", "criteria": "cpe:2.3:a:ibm:infosphere_information_server:*:*:*:*:*:*:*:*", "lastModified": "2026-03-30T12:02:20.793", "matchCriteriaId": "65FBF88B-61F0-4D42-A290-453FDC874D7F", "status": "Active", "versionEndIncluding": "11.7.1.6", "versionStartIncluding": "11.7.0.0"}

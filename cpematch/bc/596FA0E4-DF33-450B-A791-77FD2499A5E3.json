@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-06-08T18:22:53.623", "created": "2020-05-15T15:03:40.073", "criteria": "cpe:2.3:a:pivotal_software:spring_security:*:*:*:*:*:*:*:*", "lastModified": "2020-05-15T15:03:40.073", "matchCriteriaId": "596FA0E4-DF33-450B-A791-77FD2499A5E3", "status": "Inactive", "versionEndExcluding": "5.1.10", "versionStartIncluding": "5.1.0"}

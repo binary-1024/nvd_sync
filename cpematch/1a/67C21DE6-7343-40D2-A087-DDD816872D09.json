@@ -1,0 +1,1 @@
+{"created": "2025-11-05T16:02:46.107", "criteria": "cpe:2.3:o:qualcomm:sg6150_firmware:-:*:*:*:*:*:*:*", "lastModified": "2025-11-05T19:31:48.137", "matchCriteriaId": "67C21DE6-7343-40D2-A087-DDD816872D09", "matches": [{"cpeName": "cpe:2.3:o:qualcomm:sg6150_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "53BB4796-FF94-4452-BA05-BBF577A65CF1"}], "status": "Active"}

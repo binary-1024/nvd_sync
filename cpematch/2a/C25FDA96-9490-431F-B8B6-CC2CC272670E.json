@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-12-16T19:56:48.887", "created": "2021-12-16T18:43:29.847", "criteria": "cpe:2.3:a:cisco:cloudcenter_workload_manager:*:*:*:*:*:*:*:*", "lastModified": "2021-12-16T18:43:29.847", "matchCriteriaId": "C25FDA96-9490-431F-B8B6-CC2CC272670E", "status": "Active", "versionEndExcluding": "5.5.2"}

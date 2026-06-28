@@ -1,0 +1,1 @@
+{"created": "2025-08-04T14:56:53.103", "criteria": "cpe:2.3:a:filebrowser:filebrowser:2.38.0:*:*:*:*:*:*:*", "lastModified": "2025-08-06T12:34:24.097", "matchCriteriaId": "FD33B959-F02E-4489-944C-61B629CD119F", "matches": [{"cpeName": "cpe:2.3:a:filebrowser:filebrowser:2.38.0:*:*:*:*:*:*:*", "cpeNameId": "AF286055-94EA-4005-94AE-CD6403240C35"}], "status": "Active"}

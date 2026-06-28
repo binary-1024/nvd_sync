@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-11-04T19:48:47.000", "created": "2025-11-04T19:48:47.000", "criteria": "cpe:2.3:a:nagios:log_server:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "E30D0261-B5F4-4190-885A-712C5E8D7AC1", "status": "Inactive", "versionEndIncluding": "2015"}

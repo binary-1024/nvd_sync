@@ -1,0 +1,1 @@
+{"created": "2025-03-06T14:53:06.530", "criteria": "cpe:2.3:h:qualcomm:snapdragon_x65_5g-rf:*:*:*:*:*:*:*:*", "lastModified": "2025-08-07T13:00:11.150", "matchCriteriaId": "779C408E-4FB4-4D96-90AA-75E7397CA082", "matches": [{"cpeName": "cpe:2.3:h:qualcomm:snapdragon_x65_5g-rf:-:*:*:*:*:*:*:*", "cpeNameId": "0878EB84-FF84-43AD-978D-F7DB4052B9B8"}], "status": "Active"}

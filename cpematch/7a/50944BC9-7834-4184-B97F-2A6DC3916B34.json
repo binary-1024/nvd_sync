@@ -1,0 +1,1 @@
+{"created": "2025-06-05T16:27:23.023", "criteria": "cpe:2.3:o:netgear:c7800_firmware:6.01.07:*:*:*:*:*:*:*", "lastModified": "2025-08-11T17:19:11.577", "matchCriteriaId": "50944BC9-7834-4184-B97F-2A6DC3916B34", "matches": [{"cpeName": "cpe:2.3:o:netgear:c7800_firmware:6.01.07:*:*:*:*:*:*:*", "cpeNameId": "BDD53482-17E1-4105-B562-F60DB553ABE2"}], "status": "Active"}

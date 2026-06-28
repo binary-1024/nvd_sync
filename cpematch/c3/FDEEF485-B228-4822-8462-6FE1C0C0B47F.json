@@ -1,0 +1,1 @@
+{"created": "2025-07-24T18:41:02.643", "criteria": "cpe:2.3:a:cloudflare:quiche:0.20.0:*:*:*:*:rust:*:*", "lastModified": "2025-08-06T21:12:38.563", "matchCriteriaId": "FDEEF485-B228-4822-8462-6FE1C0C0B47F", "matches": [{"cpeName": "cpe:2.3:a:cloudflare:quiche:0.20.0:*:*:*:*:rust:*:*", "cpeNameId": "0B16ECFB-A26A-4CB9-900D-E60D06A0B0F2"}], "status": "Active"}

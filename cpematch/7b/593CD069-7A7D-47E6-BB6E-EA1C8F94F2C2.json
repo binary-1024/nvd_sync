@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-05-02T20:09:18.460", "created": "2023-05-02T20:09:18.460", "criteria": "cpe:2.3:a:ibm:websphere_application_server:*:*:*:*:*:*:*:*", "lastModified": "2023-05-05T02:00:22.750", "matchCriteriaId": "593CD069-7A7D-47E6-BB6E-EA1C8F94F2C2", "status": "Inactive", "versionEndIncluding": "9.0.5.16", "versionStartIncluding": "9.0.0.0"}

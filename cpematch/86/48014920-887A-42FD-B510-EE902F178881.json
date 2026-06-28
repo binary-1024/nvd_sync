@@ -1,0 +1,1 @@
+{"created": "2026-01-20T21:28:34.257", "criteria": "cpe:2.3:h:juniper:srx5k-spc3:-:*:*:*:*:*:*:*", "lastModified": "2026-02-12T14:39:58.140", "matchCriteriaId": "48014920-887A-42FD-B510-EE902F178881", "matches": [{"cpeName": "cpe:2.3:h:juniper:srx5k-spc3:-:*:*:*:*:*:*:*", "cpeNameId": "8BD3FEAE-E363-4C0A-BF5F-13DE3F31FFCD"}], "status": "Active"}

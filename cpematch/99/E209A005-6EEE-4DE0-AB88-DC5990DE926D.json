@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-12-13T13:07:33.147", "created": "2022-12-13T13:07:33.147", "criteria": "cpe:2.3:a:arubanetworks:edgeconnect_enterprise:*:*:*:*:*:*:*:*", "lastModified": "2022-12-13T13:07:33.147", "matchCriteriaId": "E209A005-6EEE-4DE0-AB88-DC5990DE926D", "status": "Active", "versionEndIncluding": "9.2.1.0", "versionStartIncluding": "9.2.0.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-10-22T15:11:46.850", "created": "2021-10-22T15:08:08.790", "criteria": "cpe:2.3:a:signalwire:freeswitch:*:*:*:*:*:*:*:*", "lastModified": "2021-10-22T15:08:08.790", "matchCriteriaId": "82B8B23B-0388-4427-BF92-059D8573DC7F", "status": "Active", "versionEndExcluding": "1.10.6"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-08-20T18:56:05.673", "created": "2021-08-19T18:18:26.350", "criteria": "cpe:2.3:o:siemens:cpu_1515tf-2_pn_firmware:*:*:*:*:*:*:*:*", "lastModified": "2021-08-19T18:18:26.350", "matchCriteriaId": "2D016E20-8320-4137-972D-0E24A2A7BC2E", "status": "Active", "versionEndExcluding": "2.9.2", "versionStartIncluding": "2.5"}

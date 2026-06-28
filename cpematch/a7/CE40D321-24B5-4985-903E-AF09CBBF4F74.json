@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-05-11T19:42:21.417", "created": "2022-05-11T19:42:21.417", "criteria": "cpe:2.3:a:cisco:firepower_threat_defense:*:*:*:*:*:*:*:*", "lastModified": "2022-05-11T19:42:21.417", "matchCriteriaId": "CE40D321-24B5-4985-903E-AF09CBBF4F74", "status": "Inactive", "versionEndExcluding": "9.14.4", "versionStartIncluding": "9.14.0"}

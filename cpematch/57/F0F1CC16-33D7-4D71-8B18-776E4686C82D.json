@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-12-22T15:13:44.460", "created": "2021-12-22T04:09:11.880", "criteria": "cpe:2.3:a:fortinet:forticlientlinux:*:*:*:*:*:*:*:*", "lastModified": "2021-12-22T04:09:11.880", "matchCriteriaId": "F0F1CC16-33D7-4D71-8B18-776E4686C82D", "status": "Active", "versionEndIncluding": "6.4.6", "versionStartIncluding": "6.4.0"}

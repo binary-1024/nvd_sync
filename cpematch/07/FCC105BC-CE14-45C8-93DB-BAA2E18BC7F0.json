@@ -1,0 +1,1 @@
+{"created": "2026-01-28T20:31:05.693", "criteria": "cpe:2.3:a:purestorage:portworx:3.3.0:*:*:*:enterprise:*:*:*", "lastModified": "2026-02-03T16:58:07.187", "matchCriteriaId": "FCC105BC-CE14-45C8-93DB-BAA2E18BC7F0", "matches": [{"cpeName": "cpe:2.3:a:purestorage:portworx:3.3.0:*:*:*:enterprise:*:*:*", "cpeNameId": "8FC23990-B727-428F-8C29-33C142B9F98B"}], "status": "Active"}

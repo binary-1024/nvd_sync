@@ -1,0 +1,1 @@
+{"created": "2026-04-07T17:39:05.430", "criteria": "cpe:2.3:a:anthropic:claude_sdk_for_python:*:*:*:*:*:python:*:*", "lastModified": "2026-04-07T17:39:05.430", "matchCriteriaId": "71CE410C-E771-4B42-8481-CE985D0E480A", "status": "Active", "versionEndIncluding": "0.1.55"}

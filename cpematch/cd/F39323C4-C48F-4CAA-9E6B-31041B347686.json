@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-07-07T18:15:32.950", "created": "2025-07-02T17:20:27.047", "criteria": "cpe:2.3:a:microsoft:remote_desktop:*:*:*:*:*:windows:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "F39323C4-C48F-4CAA-9E6B-31041B347686", "status": "Inactive", "versionEndExcluding": "1.2.6017.0"}

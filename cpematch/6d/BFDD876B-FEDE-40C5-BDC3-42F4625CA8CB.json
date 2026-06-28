@@ -1,0 +1,1 @@
+{"created": "2025-09-03T15:22:26.717", "criteria": "cpe:2.3:a:checkpoint:smartconsole:r81.10:build420:*:*:*:*:*:*", "lastModified": "2025-09-03T18:03:41.593", "matchCriteriaId": "BFDD876B-FEDE-40C5-BDC3-42F4625CA8CB", "matches": [{"cpeName": "cpe:2.3:a:checkpoint:smartconsole:r81.10:build420:*:*:*:*:*:*", "cpeNameId": "B0394665-0A42-4C56-8723-393346574C61"}], "status": "Active"}

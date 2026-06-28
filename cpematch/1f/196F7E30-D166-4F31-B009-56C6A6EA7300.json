@@ -1,0 +1,1 @@
+{"created": "2025-07-24T18:03:57.223", "criteria": "cpe:2.3:a:ibm:common_cryptographic_architecture:*:*:*:*:*:*:*:*", "lastModified": "2025-07-24T18:03:57.223", "matchCriteriaId": "196F7E30-D166-4F31-B009-56C6A6EA7300", "status": "Active", "versionEndExcluding": "7.5.37", "versionStartIncluding": "7.0.0"}

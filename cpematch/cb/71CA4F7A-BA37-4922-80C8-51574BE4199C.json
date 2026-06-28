@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-07-14T16:23:28.440", "created": "2022-07-14T16:23:28.440", "criteria": "cpe:2.3:a:sonicwall:email_security:*:*:*:*:*:windows:*:*", "lastModified": "2022-07-14T16:23:28.440", "matchCriteriaId": "71CA4F7A-BA37-4922-80C8-51574BE4199C", "status": "Active", "versionEndExcluding": "10.0.9.6173"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-09-20T12:29:17.977", "created": "2021-07-07T18:28:47.317", "criteria": "cpe:2.3:a:realtek:hda_driver:*:*:*:*:*:*:*:*", "lastModified": "2021-07-07T18:28:47.317", "matchCriteriaId": "2113F11E-F789-4038-91A8-7D4DEBAB958C", "status": "Active", "versionEndIncluding": "9150", "versionStartIncluding": "8155"}

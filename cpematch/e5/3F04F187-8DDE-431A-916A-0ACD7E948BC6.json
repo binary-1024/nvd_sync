@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-05-18T16:44:17.500", "created": "2026-05-18T16:44:17.500", "criteria": "cpe:2.3:a:netmaker:netmaker:*:*:*:*:*:*:*:*", "lastModified": "2026-05-18T16:44:17.500", "matchCriteriaId": "3F04F187-8DDE-431A-916A-0ACD7E948BC6", "status": "Inactive", "versionEndExcluding": "0.18.5", "versionStartIncluding": "0.18.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-08-04T15:05:18.423", "created": "2025-08-04T15:05:18.423", "criteria": "cpe:2.3:a:huggingface:transformers:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "93B65DAB-7715-4BAD-BBF2-50A4B9A8F9B6", "status": "Inactive", "versionEndExcluding": "4.52.1", "versionStartIncluding": "4.49.0"}

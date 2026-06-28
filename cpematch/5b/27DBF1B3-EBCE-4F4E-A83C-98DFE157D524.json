@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-06-22T16:40:44.440", "created": "2022-06-22T16:27:01.863", "criteria": "cpe:2.3:a:gnu:zlib:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "27DBF1B3-EBCE-4F4E-A83C-98DFE157D524", "status": "Inactive", "versionEndExcluding": "1.2.9", "versionStartIncluding": "1.2.3.4"}

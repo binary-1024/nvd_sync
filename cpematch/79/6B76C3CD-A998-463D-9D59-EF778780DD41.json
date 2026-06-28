@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-03-12T21:10:39.203", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:a:bitcoincore:bitcoin_core:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "6B76C3CD-A998-463D-9D59-EF778780DD41", "status": "Inactive", "versionEndExcluding": "0.16.3", "versionStartIncluding": "0.16.0"}

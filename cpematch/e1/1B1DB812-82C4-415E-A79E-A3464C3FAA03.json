@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-01-12T20:45:21.240", "created": "2024-01-12T19:20:55.000", "criteria": "cpe:2.3:h:bosch:bcc102:-:*:*:*:*:*:*:*", "lastModified": "2024-01-12T20:45:21.240", "matchCriteriaId": "1B1DB812-82C4-415E-A79E-A3464C3FAA03", "matches": [{"cpeName": "cpe:2.3:h:bosch:bcc102:-:*:*:*:*:*:*:*", "cpeNameId": "C1585771-FA85-4AB8-A5FA-3D2FCF260C64"}], "status": "Active"}

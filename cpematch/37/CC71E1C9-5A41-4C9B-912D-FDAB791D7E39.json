@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-04-16T19:23:05.790", "created": "2026-04-16T19:23:05.790", "criteria": "cpe:2.3:a:bmc:control-m\\/managed_file_transfer:*:*:*:*:*:*:*:*", "lastModified": "2026-04-16T19:27:57.990", "matchCriteriaId": "CC71E1C9-5A41-4C9B-912D-FDAB791D7E39", "status": "Inactive", "versionEndExcluding": "9.0.22.025", "versionStartIncluding": "9.0.20.000"}

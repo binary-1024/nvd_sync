@@ -1,0 +1,1 @@
+{"created": "2021-08-30T05:16:38.563", "criteria": "cpe:2.3:a:atlassian:jira_service_desk:*:*:*:*:server:*:*:*", "lastModified": "2021-08-30T05:16:38.563", "matchCriteriaId": "7D9197E7-3716-4F2B-B2C0-340DA9A07DFC", "status": "Inactive", "versionEndExcluding": "8.16.1", "versionStartIncluding": "8.14.0"}

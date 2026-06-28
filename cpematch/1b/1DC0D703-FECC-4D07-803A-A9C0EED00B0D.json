@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-06-28T17:52:32.057", "created": "2021-04-02T12:54:19.893", "criteria": "cpe:2.3:a:stackvector_project:stackvector:*:*:*:*:*:rust:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "1DC0D703-FECC-4D07-803A-A9C0EED00B0D", "status": "Inactive", "versionEndIncluding": "2021-02-19"}

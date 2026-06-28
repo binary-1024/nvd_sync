@@ -1,0 +1,1 @@
+{"created": "2025-09-18T15:49:10.707", "criteria": "cpe:2.3:a:apache:jackrabbit_jcr_commons:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "DDA3ED8F-81DA-4B7F-B034-97B674A6C543", "status": "Inactive", "versionEndExcluding": "2.22.2", "versionStartIncluding": "1.0.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-03-05T15:56:32.153", "created": "2020-11-26T03:12:38.503", "criteria": "cpe:2.3:a:musl-libc:musl_libc:*:*:*:*:*:*:*:*", "lastModified": "2020-11-26T03:12:38.503", "matchCriteriaId": "9C964A93-C642-4562-8AEE-75819EA2B99D", "status": "Inactive", "versionEndIncluding": "1.2.1"}

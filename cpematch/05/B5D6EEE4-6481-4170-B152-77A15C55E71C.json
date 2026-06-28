@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-01-22T01:13:08.360", "created": "2022-01-21T19:26:57.350", "criteria": "cpe:2.3:a:arista:eos:*:*:*:*:*:*:*:*", "lastModified": "2022-01-21T19:26:57.350", "matchCriteriaId": "B5D6EEE4-6481-4170-B152-77A15C55E71C", "status": "Active", "versionEndIncluding": "4.25.4.m", "versionStartIncluding": "4.25.0"}

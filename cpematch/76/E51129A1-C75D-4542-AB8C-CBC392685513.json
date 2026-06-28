@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-11-07T14:44:02.757", "created": "2022-11-07T14:44:02.757", "criteria": "cpe:2.3:a:vmware:bosh_editor:*:*:*:*:*:*:*:*", "lastModified": "2022-11-07T14:44:02.757", "matchCriteriaId": "E51129A1-C75D-4542-AB8C-CBC392685513", "status": "Active", "versionEndExcluding": "1.40.0", "versionStartIncluding": "1.0.0"}

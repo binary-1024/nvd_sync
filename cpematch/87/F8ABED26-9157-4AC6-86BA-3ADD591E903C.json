@@ -1,0 +1,1 @@
+{"created": "2021-09-21T15:05:23.403", "criteria": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:*:*:*:*:*:*:*:*", "lastModified": "2021-09-21T15:05:23.403", "matchCriteriaId": "F8ABED26-9157-4AC6-86BA-3ADD591E903C", "status": "Inactive", "versionEndIncluding": "15.1.0", "versionStartIncluding": "15.0.0"}

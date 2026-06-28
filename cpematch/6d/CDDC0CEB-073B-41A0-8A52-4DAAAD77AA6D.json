@@ -1,0 +1,1 @@
+{"created": "2025-10-30T15:18:42.310", "criteria": "cpe:2.3:a:ipfire:ipfire:2.29:core_update184:*:*:*:*:*:*", "lastModified": "2025-10-30T16:08:44.647", "matchCriteriaId": "CDDC0CEB-073B-41A0-8A52-4DAAAD77AA6D", "matches": [{"cpeName": "cpe:2.3:a:ipfire:ipfire:2.29:core_update184:*:*:*:*:*:*", "cpeNameId": "08FB2866-BAF2-458F-8D36-5413FBC8B846"}], "status": "Active"}

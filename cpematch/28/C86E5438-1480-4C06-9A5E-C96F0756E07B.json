@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-11-07T16:32:33.487", "created": "2024-11-07T16:32:33.487", "criteria": "cpe:2.3:a:kubernetes:image_builder:*:*:*:*:*:*:*:*", "lastModified": "2024-11-07T16:32:33.487", "matchCriteriaId": "C86E5438-1480-4C06-9A5E-C96F0756E07B", "status": "Active", "versionEndExcluding": "0.1.38"}

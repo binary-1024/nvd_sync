@@ -1,0 +1,1 @@
+{"created": "2025-09-03T15:22:26.717", "criteria": "cpe:2.3:a:checkpoint:smartconsole:r81.10:build414:*:*:*:*:*:*", "lastModified": "2025-09-03T18:03:41.593", "matchCriteriaId": "CF85F114-6640-4F42-A15C-ADD2F62DB111", "matches": [{"cpeName": "cpe:2.3:a:checkpoint:smartconsole:r81.10:build414:*:*:*:*:*:*", "cpeNameId": "60B004AC-C594-47F9-8BE1-8AEBA82B089A"}], "status": "Active"}

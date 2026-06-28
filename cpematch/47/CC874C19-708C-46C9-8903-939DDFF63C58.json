@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-07-18T01:25:17.677", "created": "2022-07-18T01:25:17.677", "criteria": "cpe:2.3:a:pyenv_project:pyenv:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "CC874C19-708C-46C9-8903-939DDFF63C58", "status": "Inactive", "versionEndIncluding": "2.3.2", "versionStartIncluding": "1.2.24"}

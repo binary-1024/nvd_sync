@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-01-09T16:45:03.440", "created": "2025-01-09T16:45:03.440", "criteria": "cpe:2.3:a:cilium:cilium:*:*:*:*:*:*:*:*", "lastModified": "2025-01-10T03:00:29.690", "matchCriteriaId": "D450D8AD-8FA7-497C-8321-2692FEEEE237", "status": "Inactive", "versionEndExcluding": "1.13.13", "versionStartIncluding": "1.4.0"}

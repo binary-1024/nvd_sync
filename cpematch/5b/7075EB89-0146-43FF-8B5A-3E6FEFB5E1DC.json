@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-01-06T19:25:50.267", "created": "2022-01-05T02:53:16.527", "criteria": "cpe:2.3:a:molecule_project:molecule:*:*:*:*:*:rust:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "7075EB89-0146-43FF-8B5A-3E6FEFB5E1DC", "status": "Inactive", "versionEndExcluding": "0.7.2"}

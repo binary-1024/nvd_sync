@@ -1,0 +1,1 @@
+{"created": "2025-07-31T19:37:04.010", "criteria": "cpe:2.3:h:cisco:secure_email_gateway_c690x:-:*:*:*:*:*:*:*", "lastModified": "2025-08-08T18:51:25.227", "matchCriteriaId": "B017D7F9-2297-4235-8DB8-0A29E1202254", "matches": [{"cpeName": "cpe:2.3:h:cisco:secure_email_gateway_c690x:-:*:*:*:*:*:*:*", "cpeNameId": "4655AC85-9E37-4881-894A-560D6C981B49"}], "status": "Active"}

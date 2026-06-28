@@ -1,0 +1,1 @@
+{"created": "2022-03-15T17:50:31.320", "criteria": "cpe:2.3:a:elastic:kibana:*:*:*:*:*:*:*:*", "lastModified": "2022-03-15T17:50:31.320", "matchCriteriaId": "159D6C47-ADDF-402D-925D-3BD325B96037", "status": "Inactive", "versionEndExcluding": "8.0.1", "versionStartIncluding": "8.0.0"}

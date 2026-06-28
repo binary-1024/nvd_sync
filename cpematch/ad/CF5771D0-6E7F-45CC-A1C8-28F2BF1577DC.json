@@ -1,0 +1,1 @@
+{"created": "2025-07-29T13:11:48.027", "criteria": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.6:*:*:*:*:*:*:*", "lastModified": "2025-07-29T13:54:33.813", "matchCriteriaId": "CF5771D0-6E7F-45CC-A1C8-28F2BF1577DC", "matches": [{"cpeName": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.6:*:*:*:*:*:*:*", "cpeNameId": "67B04810-115C-4864-9821-FC107EBDD5F3"}], "status": "Active"}

@@ -1,0 +1,1 @@
+{"created": "2022-01-22T04:22:37.130", "criteria": "cpe:2.3:a:cyberark:endpoint_privilege_manager:*:*:*:*:*:*:*:*", "lastModified": "2022-01-22T04:22:37.130", "matchCriteriaId": "8543562F-E52C-4A1E-BC16-0FF4EE906DCA", "status": "Inactive", "versionEndExcluding": "2021-12-20", "versionStartIncluding": "11.5.3.328"}

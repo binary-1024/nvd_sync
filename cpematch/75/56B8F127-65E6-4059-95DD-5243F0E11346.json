@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-11-17T12:32:41.850", "created": "2022-11-17T12:32:41.850", "criteria": "cpe:2.3:a:keyfactor:primekey_ejbca:*:*:*:*:*:*:*:*", "lastModified": "2022-11-17T12:32:41.850", "matchCriteriaId": "56B8F127-65E6-4059-95DD-5243F0E11346", "status": "Active", "versionEndIncluding": "7.9.0.2"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-06-11T16:14:18.600", "created": "2026-06-11T16:14:18.600", "criteria": "cpe:2.3:a:kafka-python:kafka-python:*:*:*:*:*:python:*:*", "lastModified": "2026-06-11T16:14:18.600", "matchCriteriaId": "6FDB3691-955E-4F9C-8216-AB93B9BEE9D3", "status": "Active", "versionEndExcluding": "2.3.2"}

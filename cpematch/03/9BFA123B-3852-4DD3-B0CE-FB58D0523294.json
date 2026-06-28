@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-03-05T16:24:39.343", "created": "2021-11-05T14:49:09.493", "criteria": "cpe:2.3:a:jsonpointer_project:jsonpointer:*:*:*:*:*:node.js:*:*", "lastModified": "2025-03-06T03:00:41.263", "matchCriteriaId": "9BFA123B-3852-4DD3-B0CE-FB58D0523294", "status": "Inactive", "versionEndExcluding": "5.0.0"}

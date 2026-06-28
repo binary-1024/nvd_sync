@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-08-27T20:41:21.963", "created": "2025-08-27T20:41:21.963", "criteria": "cpe:2.3:a:pytorch:torchserve:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "97111246-F3E9-473B-A75A-2B8B963C61F8", "status": "Inactive", "versionEndIncluding": "0.3.0"}

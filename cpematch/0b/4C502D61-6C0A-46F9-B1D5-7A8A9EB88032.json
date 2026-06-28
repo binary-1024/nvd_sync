@@ -1,0 +1,1 @@
+{"created": "2021-09-22T16:44:40.710", "criteria": "cpe:2.3:o:arista:metamako_operating_system:*:*:*:*:*:*:*:*", "lastModified": "2021-09-22T16:44:40.710", "matchCriteriaId": "4C502D61-6C0A-46F9-B1D5-7A8A9EB88032", "status": "Inactive", "versionEndIncluding": "0.26.6", "versionStartIncluding": "0.20.0"}

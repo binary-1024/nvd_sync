@@ -1,0 +1,1 @@
+{"created": "2025-12-19T22:57:27.137", "criteria": "cpe:2.3:a:volosoft:abp:10.0.0:rc1:*:*:*:*:*:*", "lastModified": "2025-12-22T14:52:24.187", "matchCriteriaId": "DB4A9285-ACAD-4F54-8F19-4F9F23A23372", "matches": [{"cpeName": "cpe:2.3:a:volosoft:abp:10.0.0:rc1:*:*:*:*:*:*", "cpeNameId": "B92CD80B-86C0-4D9B-BFAE-1658848C1D55"}], "status": "Active"}

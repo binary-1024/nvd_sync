@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-09-20T16:12:06.797", "created": "2022-09-20T16:12:06.797", "criteria": "cpe:2.3:a:sap:netweaver_as_abap:*:*:*:*:*:*:*:*", "lastModified": "2022-09-20T16:12:06.797", "matchCriteriaId": "01C3F7F6-3B1D-40C8-B305-8CEC6DEFA851", "status": "Active", "versionEndIncluding": "7.11", "versionStartIncluding": "7.10"}

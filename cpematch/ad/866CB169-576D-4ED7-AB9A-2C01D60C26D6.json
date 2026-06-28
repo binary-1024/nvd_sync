@@ -1,0 +1,1 @@
+{"created": "2025-03-17T14:30:42.807", "criteria": "cpe:2.3:o:netapp:9500_firmware:-:*:*:*:*:*:*:*", "lastModified": "2025-08-18T18:45:48.710", "matchCriteriaId": "866CB169-576D-4ED7-AB9A-2C01D60C26D6", "matches": [{"cpeName": "cpe:2.3:o:netapp:9500_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "632A4FDA-E9CF-4130-8EFD-57F3EC0C5D0B"}], "status": "Active"}

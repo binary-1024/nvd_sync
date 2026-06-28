@@ -1,0 +1,1 @@
+{"cpeLastModified": "2020-03-09T18:03:06.483", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:a:openstack:swift:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "6BBC70C8-D187-4C3B-AB90-4DB088C6D2EE", "status": "Inactive", "versionEndIncluding": "1.6.0"}

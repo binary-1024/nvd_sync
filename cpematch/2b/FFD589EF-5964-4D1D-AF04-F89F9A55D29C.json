@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-10-05T16:01:32.573", "created": "2022-10-05T16:01:32.573", "criteria": "cpe:2.3:o:cisco:catalyst_9800-l_firmware:*:*:*:*:*:*:*:*", "lastModified": "2022-10-05T16:01:32.573", "matchCriteriaId": "FFD589EF-5964-4D1D-AF04-F89F9A55D29C", "status": "Active", "versionEndExcluding": "17.6.4", "versionStartIncluding": "17.6"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-01-06T19:54:29.450", "created": "2022-01-04T18:57:43.937", "criteria": "cpe:2.3:a:nix_project:nix:*:*:*:*:*:rust:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "A6884569-D728-477A-B216-FCEEA11E3A35", "status": "Inactive", "versionEndExcluding": "0.20.2"}

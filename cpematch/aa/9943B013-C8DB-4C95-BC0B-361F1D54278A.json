@@ -1,0 +1,1 @@
+{"created": "2022-02-10T15:47:50.197", "criteria": "cpe:2.3:a:arangodb:arangodb:*:*:*:*:*:*:*:*", "lastModified": "2022-02-10T15:47:50.197", "matchCriteriaId": "9943B013-C8DB-4C95-BC0B-361F1D54278A", "status": "Inactive", "versionEndIncluding": "3.8.3", "versionStartIncluding": "3.7.0"}

@@ -1,0 +1,1 @@
+{"created": "2025-08-18T18:25:06.620", "criteria": "cpe:2.3:a:ibm:mq_operator:3.3.0:*:*:*:cd:*:*:*", "lastModified": "2025-08-22T17:52:41.283", "matchCriteriaId": "FB341641-C8C5-400C-A158-B094250219C3", "matches": [{"cpeName": "cpe:2.3:a:ibm:mq_operator:3.3.0:*:*:*:cd:*:*:*", "cpeNameId": "6811DDAD-9E66-4A97-B955-B33FC471CEA1"}], "status": "Active"}

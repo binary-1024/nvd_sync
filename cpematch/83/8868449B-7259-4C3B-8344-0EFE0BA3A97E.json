@@ -1,0 +1,1 @@
+{"created": "2025-08-21T13:53:59.867", "criteria": "cpe:2.3:a:checkmk:checkmk:2.4.0:b4:*:*:*:*:*:*", "lastModified": "2025-08-21T19:55:56.197", "matchCriteriaId": "8868449B-7259-4C3B-8344-0EFE0BA3A97E", "matches": [{"cpeName": "cpe:2.3:a:checkmk:checkmk:2.4.0:b4:*:*:*:*:*:*", "cpeNameId": "F026F247-46D5-48E7-A26D-6AE3198CB0DF"}], "status": "Active"}

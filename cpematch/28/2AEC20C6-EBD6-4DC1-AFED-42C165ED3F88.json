@@ -1,0 +1,1 @@
+{"created": "2025-07-31T19:37:04.010", "criteria": "cpe:2.3:h:cisco:secure_email_gateway_c390:-:*:*:*:*:*:*:*", "lastModified": "2025-08-08T18:51:25.227", "matchCriteriaId": "2AEC20C6-EBD6-4DC1-AFED-42C165ED3F88", "matches": [{"cpeName": "cpe:2.3:h:cisco:secure_email_gateway_c390:-:*:*:*:*:*:*:*", "cpeNameId": "7F814F24-B12B-4398-8357-5840B0A11E01"}], "status": "Active"}

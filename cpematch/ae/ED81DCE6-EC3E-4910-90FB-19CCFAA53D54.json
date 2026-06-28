@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-09-22T18:03:41.527", "created": "2021-09-15T17:03:13.953", "criteria": "cpe:2.3:a:microfocus:access_manager:*:*:*:*:*:*:*:*", "lastModified": "2021-09-15T17:03:13.953", "matchCriteriaId": "ED81DCE6-EC3E-4910-90FB-19CCFAA53D54", "status": "Active", "versionEndExcluding": "4.5.4", "versionStartIncluding": "4.5.0"}

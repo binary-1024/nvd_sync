@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-06-17T17:27:10.060", "created": "2025-06-09T17:13:53.987", "criteria": "cpe:2.3:a:one_time_password_project:one_time_password:*:*:*:*:*:drupal:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "E29174F5-AEEF-4EA3-9AD2-207AAC2E2733", "status": "Inactive", "versionEndExcluding": "8.x-1.3"}

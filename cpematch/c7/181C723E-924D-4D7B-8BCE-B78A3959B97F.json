@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-05-06T16:27:50.023", "created": "2021-05-06T16:26:46.803", "criteria": "cpe:2.3:a:codesys:conrol_runtime_system_toolkit:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "181C723E-924D-4D7B-8BCE-B78A3959B97F", "status": "Inactive", "versionEndExcluding": "3.5.17.0", "versionStartIncluding": "3.0"}

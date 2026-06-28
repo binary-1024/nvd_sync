@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-03-31T17:37:20.883", "created": "2022-03-02T19:25:02.940", "criteria": "cpe:2.3:a:netty:netty:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "D0714C85-5D45-4B91-B4C5-A5D2AFE5F839", "status": "Inactive", "versionEndExcluding": "3.10.6"}

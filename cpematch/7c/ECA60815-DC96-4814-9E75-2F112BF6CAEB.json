@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-01-09T20:44:39.213", "created": "2026-01-09T20:44:39.213", "criteria": "cpe:2.3:a:cisco:firepower_threat_defense:*:*:*:*:*:*:*:*", "lastModified": "2026-02-12T03:00:00.080", "matchCriteriaId": "ECA60815-DC96-4814-9E75-2F112BF6CAEB", "status": "Inactive", "versionEndExcluding": "7.0.8", "versionStartIncluding": "6.2.3"}

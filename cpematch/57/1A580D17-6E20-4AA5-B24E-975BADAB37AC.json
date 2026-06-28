@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-11-07T15:37:33.200", "created": "2022-11-07T15:37:33.200", "criteria": "cpe:2.3:a:osisoft-pi-web-connector_project:osisoft-pi-web-connector:*:*:*:*:*:foundry:*:*", "lastModified": "2022-11-15T03:00:14.803", "matchCriteriaId": "1A580D17-6E20-4AA5-B24E-975BADAB37AC", "status": "Inactive", "versionEndExcluding": "0.44.0", "versionStartIncluding": "0.15.0"}

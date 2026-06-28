@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-11-09T15:35:50.503", "created": "2021-11-05T14:13:31.670", "criteria": "cpe:2.3:a:graphql:graphiql:*:*:*:*:*:node.js:*:*", "lastModified": "2021-11-05T14:13:31.670", "matchCriteriaId": "ECCC95D1-CD01-402E-9897-CF74150D03CF", "status": "Active", "versionEndExcluding": "1.4.7", "versionStartIncluding": "0.5.0"}

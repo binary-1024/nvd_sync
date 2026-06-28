@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-11-07T18:23:44.527", "created": "2024-11-07T18:23:44.527", "criteria": "cpe:2.3:a:eclipse:jetty:*:*:*:*:*:*:*:*", "lastModified": "2024-11-09T03:00:26.707", "matchCriteriaId": "93C060AF-4684-4805-B2AA-A5FD23D05025", "status": "Inactive", "versionEndIncluding": "12.0.11", "versionStartIncluding": "7.0.0"}

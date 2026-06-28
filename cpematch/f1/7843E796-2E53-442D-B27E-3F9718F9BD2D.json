@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-03-03T22:21:48.897", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:a:ruby-lang:ruby:*:*:*:*:*:oniguruma-mod:*:*", "lastModified": "2019-06-17T09:16:33.960", "matchCriteriaId": "7843E796-2E53-442D-B27E-3F9718F9BD2D", "status": "Active", "versionEndIncluding": "2.4.1"}

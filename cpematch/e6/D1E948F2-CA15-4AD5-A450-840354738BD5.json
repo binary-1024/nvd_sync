@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-07-16T15:34:03.210", "created": "2025-07-15T19:25:27.270", "criteria": "cpe:2.3:a:themesgrove:wp_smart_pay:*:*:*:*:*:wordpress:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "D1E948F2-CA15-4AD5-A450-840354738BD5", "status": "Inactive", "versionEndIncluding": "2.7.13", "versionStartIncluding": "1.1.0"}

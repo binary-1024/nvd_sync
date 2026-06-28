@@ -1,0 +1,1 @@
+{"created": "2026-06-01T12:21:12.570", "criteria": "cpe:2.3:a:coltrane:tfa_basic_plugins:*:*:*:*:*:drupal:*:*", "lastModified": "2026-06-01T12:21:12.570", "matchCriteriaId": "CEC9F4C6-60A0-4D38-B94C-7EDE4BB9848F", "status": "Active", "versionEndExcluding": "7.x-1.3", "versionStartIncluding": "7.x-1.0"}

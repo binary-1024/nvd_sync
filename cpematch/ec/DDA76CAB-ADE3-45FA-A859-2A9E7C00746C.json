@@ -1,0 +1,1 @@
+{"created": "2025-05-08T17:48:05.040", "criteria": "cpe:2.3:h:qualcomm:snapdragon_x32_5g_modem-rf:-:*:*:*:*:*:*:*", "lastModified": "2025-08-07T13:00:11.150", "matchCriteriaId": "DDA76CAB-ADE3-45FA-A859-2A9E7C00746C", "matches": [{"cpeName": "cpe:2.3:h:qualcomm:snapdragon_x32_5g_modem-rf:-:*:*:*:*:*:*:*", "cpeNameId": "3902C129-1A05-4315-806A-223BE2EA5706"}], "status": "Active"}

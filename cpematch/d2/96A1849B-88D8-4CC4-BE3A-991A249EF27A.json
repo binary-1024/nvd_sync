@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-06-13T14:03:05.770", "created": "2022-06-13T14:03:05.770", "criteria": "cpe:2.3:a:ltgplc:rustici_software_scorm_engine:*:*:*:*:*:*:*:*", "lastModified": "2022-06-13T14:03:05.770", "matchCriteriaId": "96A1849B-88D8-4CC4-BE3A-991A249EF27A", "status": "Inactive", "versionEndExcluding": "21.1.7.219", "versionStartIncluding": "21.1.0"}

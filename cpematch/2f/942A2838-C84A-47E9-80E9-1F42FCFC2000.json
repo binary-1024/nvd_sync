@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-08-06T18:27:49.860", "created": "2025-08-06T18:27:49.860", "criteria": "cpe:2.3:a:broadcom:rabbitmq_server:*:*:*:*:*:*:*:*", "lastModified": "2025-08-07T02:00:29.030", "matchCriteriaId": "942A2838-C84A-47E9-80E9-1F42FCFC2000", "status": "Inactive", "versionEndExcluding": "3.13.8"}

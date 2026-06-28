@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-10-08T18:10:17.723", "created": "2024-10-08T18:10:17.723", "criteria": "cpe:2.3:o:cisco:meraki_z4c_firmware:*:*:*:*:*:*:*:*", "lastModified": "2024-10-08T18:10:17.723", "matchCriteriaId": "6B63AAC8-D59D-4EF1-829E-11E9CB18A41F", "status": "Active", "versionEndExcluding": "18.211.2", "versionStartIncluding": "16.2"}

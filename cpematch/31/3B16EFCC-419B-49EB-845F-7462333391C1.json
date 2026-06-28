@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-11-09T20:01:45.260", "created": "2021-11-08T19:54:39.973", "criteria": "cpe:2.3:a:ibm:qradar_network_security:*:*:*:*:*:*:*:*", "lastModified": "2021-11-08T19:54:39.973", "matchCriteriaId": "3B16EFCC-419B-49EB-845F-7462333391C1", "status": "Active", "versionEndExcluding": "5.4.0.14", "versionStartIncluding": "5.4.0.0"}

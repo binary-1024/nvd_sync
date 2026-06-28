@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-11-26T16:08:59.550", "created": "2019-11-07T15:25:06.137", "criteria": "cpe:2.3:a:cisco:firepower_management_center:*:*:*:*:*:*:*:*", "lastModified": "2024-11-27T03:00:26.330", "matchCriteriaId": "354AF2D1-DFD8-4187-B8BC-B0559539CF4C", "status": "Inactive", "versionEndIncluding": "2.9.14.5", "versionStartIncluding": "2.9.14.0"}

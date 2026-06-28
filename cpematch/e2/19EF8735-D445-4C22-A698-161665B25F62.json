@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-06-18T14:40:39.097", "created": "2026-06-18T14:40:39.097", "criteria": "cpe:2.3:a:mattermost:mattermost_server:*:*:*:*:*:*:*:*", "lastModified": "2026-06-19T02:00:03.020", "matchCriteriaId": "19EF8735-D445-4C22-A698-161665B25F62", "status": "Inactive", "versionEndIncluding": "11.6.1", "versionStartIncluding": "11.6.0"}

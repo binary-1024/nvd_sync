@@ -1,0 +1,1 @@
+{"cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:a:brave:brave:*:*:*:*:*:linux_kernel:*:*", "lastModified": "2019-06-17T09:16:33.960", "matchCriteriaId": "BA01F8A6-3831-4A2F-9DB3-C8E373358CEA", "status": "Active", "versionEndExcluding": "0.14.0"}

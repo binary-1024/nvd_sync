@@ -1,0 +1,1 @@
+{"created": "2026-03-16T18:59:27.153", "criteria": "cpe:2.3:h:intel:arc_a350m:-:*:*:*:*:*:*:*", "lastModified": "2026-03-17T13:44:40.553", "matchCriteriaId": "B56B4DD8-5ECD-4183-9974-BC22CFA866DC", "matches": [{"cpeName": "cpe:2.3:h:intel:arc_a350m:-:*:*:*:*:*:*:*", "cpeNameId": "BEBFDE79-EDC4-400E-9396-78BDA645BC56"}], "status": "Active"}

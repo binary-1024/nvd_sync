@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-11-01T16:06:39.293", "created": "2021-08-14T01:57:30.940", "criteria": "cpe:2.3:a:tokio_project:tokio:*:*:*:*:*:rust:*:*", "lastModified": "2021-08-14T01:57:30.940", "matchCriteriaId": "6A719297-4AEF-43FB-9F4A-5A2CFC39F158", "status": "Inactive", "versionEndExcluding": "1.8.1", "versionStartIncluding": "1.8.0"}

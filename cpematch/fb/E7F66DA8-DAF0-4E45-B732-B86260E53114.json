@@ -1,0 +1,1 @@
+{"created": "2026-01-02T15:13:49.083", "criteria": "cpe:2.3:a:logicaldoc:logicaldoc:7.6.2:*:*:*:enterprise:*:*:*", "lastModified": "2026-01-02T16:00:00.730", "matchCriteriaId": "E7F66DA8-DAF0-4E45-B732-B86260E53114", "matches": [{"cpeName": "cpe:2.3:a:logicaldoc:logicaldoc:7.6.2:*:*:*:enterprise:*:*:*", "cpeNameId": "C42668F1-A71D-418A-8B19-870EE182B1AB"}], "status": "Active"}

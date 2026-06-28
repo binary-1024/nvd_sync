@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-08-22T19:22:25.140", "created": "2024-08-22T19:22:25.140", "criteria": "cpe:2.3:o:fortinet:fortios:*:*:*:*:*:*:*:*", "lastModified": "2024-08-24T02:00:29.860", "matchCriteriaId": "4CF2CF7E-89A5-497D-90A4-E1C3A0CB6621", "status": "Inactive", "versionEndExcluding": "6.4.14", "versionStartIncluding": "6.4.0"}

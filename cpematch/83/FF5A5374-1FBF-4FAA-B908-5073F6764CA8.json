@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-03-17T16:43:51.127", "created": "2023-01-23T17:08:04.113", "criteria": "cpe:2.3:a:pgadmin:pgadmin:*:*:*:*:*:postgresql:*:*", "lastModified": "2025-03-18T02:00:31.850", "matchCriteriaId": "FF5A5374-1FBF-4FAA-B908-5073F6764CA8", "status": "Inactive", "versionEndExcluding": "6.14", "versionStartIncluding": "4.0"}

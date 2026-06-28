@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-12-08T16:30:42.267", "created": "2021-12-08T03:32:41.760", "criteria": "cpe:2.3:a:nomachine:cloud_server:*:*:*:*:*:*:*:*", "lastModified": "2021-12-08T03:32:41.760", "matchCriteriaId": "C7E07D80-192A-435C-BBDF-488C076B68A6", "status": "Active", "versionEndExcluding": "7.7.4", "versionStartExcluding": "4.0.346"}

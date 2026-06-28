@@ -1,0 +1,1 @@
+{"created": "2025-03-06T16:32:19.350", "criteria": "cpe:2.3:o:qualcomm:sm8735_firmware:-:*:*:*:*:*:*:*", "lastModified": "2025-08-11T15:06:17.607", "matchCriteriaId": "167C1CC1-03F8-49B3-B460-FCA38644DA06", "matches": [{"cpeName": "cpe:2.3:o:qualcomm:sm8735_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "569C8943-249C-4D3C-B97C-66DDF016DB1F"}], "status": "Active"}

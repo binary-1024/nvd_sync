@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-08-13T17:28:27.713", "created": "2024-08-13T17:28:27.713", "criteria": "cpe:2.3:a:traccar:server:*:*:*:*:*:*:*:*", "lastModified": "2024-08-13T17:32:53.363", "matchCriteriaId": "FF5D0280-9EC7-4FF3-B4C9-DC4AD1B4D7E9", "status": "Inactive", "versionEndIncluding": "6.0", "versionStartIncluding": "2.12"}

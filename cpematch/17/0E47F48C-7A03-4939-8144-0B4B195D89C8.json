@@ -1,0 +1,1 @@
+{"created": "2021-07-26T15:17:06.807", "criteria": "cpe:2.3:a:nvidia:virtual_gpu_software:*:*:*:*:*:*:*:*", "lastModified": "2021-07-26T15:17:06.807", "matchCriteriaId": "0E47F48C-7A03-4939-8144-0B4B195D89C8", "status": "Inactive", "versionEndExcluding": "12.3", "versionStartIncluding": "12.0"}

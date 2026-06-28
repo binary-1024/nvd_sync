@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-01-02T20:02:53.923", "created": "2024-01-02T20:02:53.923", "criteria": "cpe:2.3:a:awslabs:sandbox_accounts_for_events:*:*:*:*:*:*:*:*", "lastModified": "2024-01-03T03:00:33.543", "matchCriteriaId": "C6240FF1-AD5D-4318-B860-D462BE86C74B", "status": "Inactive", "versionEndExcluding": "1.1.0"}

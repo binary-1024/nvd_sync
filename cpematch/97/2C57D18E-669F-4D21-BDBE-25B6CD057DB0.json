@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-01-26T16:46:57.417", "created": "2024-01-26T15:15:14.847", "criteria": "cpe:2.3:a:changedetection:changedetection:*:*:*:*:*:*:*:*", "lastModified": "2026-02-19T17:44:46.277", "matchCriteriaId": "2C57D18E-669F-4D21-BDBE-25B6CD057DB0", "status": "Inactive", "versionEndExcluding": "0.45.13", "versionStartIncluding": "0.39.14"}

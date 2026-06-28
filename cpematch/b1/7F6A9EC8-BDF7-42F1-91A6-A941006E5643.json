@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-02-20T20:09:58.360", "created": "2026-01-26T22:17:46.437", "criteria": "cpe:2.3:a:cvat:cvat:*:*:*:*:*:*:*:*", "lastModified": "2026-01-29T18:49:51.720", "matchCriteriaId": "7F6A9EC8-BDF7-42F1-91A6-A941006E5643", "status": "Active", "versionEndExcluding": "2.55.0", "versionStartIncluding": "2.2.0"}

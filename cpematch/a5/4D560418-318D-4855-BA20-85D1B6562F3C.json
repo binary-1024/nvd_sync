@@ -1,0 +1,1 @@
+{"cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:a:nmap:nmap:7.12:*:*:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "matchCriteriaId": "4D560418-318D-4855-BA20-85D1B6562F3C", "matches": [{"cpeName": "cpe:2.3:a:nmap:nmap:7.12:*:*:*:*:*:*:*", "cpeNameId": "A990C8DA-EC29-46B2-B7D0-E323905101D8"}], "status": "Active"}

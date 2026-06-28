@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-11-20T14:49:09.773", "created": "2023-06-02T14:32:58.153", "criteria": "cpe:2.3:a:nextcloud:nextcloud_mail:*:*:*:*:*:*:*:*", "lastModified": "2024-11-22T03:00:32.440", "matchCriteriaId": "B7A32987-2AE3-4752-BF1D-30CABED09667", "status": "Inactive", "versionEndExcluding": "2.2.5", "versionStartIncluding": "2.2.0"}

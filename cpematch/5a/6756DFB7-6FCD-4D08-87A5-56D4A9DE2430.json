@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-10-07T16:22:45.263", "created": "2021-10-05T15:36:49.553", "criteria": "cpe:2.3:a:jwt_project:jwt:*:*:*:*:*:*:*:*", "lastModified": "2025-11-18T14:00:59.213", "matchCriteriaId": "6756DFB7-6FCD-4D08-87A5-56D4A9DE2430", "status": "Inactive", "versionEndExcluding": "3.4.6", "versionStartIncluding": "3.4.0"}

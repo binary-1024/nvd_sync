@@ -1,0 +1,1 @@
+{"cpeLastModified": "2019-12-12T15:15:53.927", "created": "2019-12-06T13:36:06.043", "criteria": "cpe:2.3:a:php:php:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "6B989120-0A77-48CD-BE66-14C86AE1B9BE", "status": "Inactive", "versionEndIncluding": "7.3.12", "versionStartIncluding": "7.3.0"}

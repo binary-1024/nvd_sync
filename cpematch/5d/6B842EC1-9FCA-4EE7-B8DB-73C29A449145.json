@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-02-03T01:39:22.613", "created": "2019-08-01T18:14:30.523", "criteria": "cpe:2.3:a:openldap:openldap:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "6B842EC1-9FCA-4EE7-B8DB-73C29A449145", "status": "Inactive", "versionEndIncluding": "2.4.48", "versionStartIncluding": "2.0"}

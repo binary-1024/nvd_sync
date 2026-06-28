@@ -1,0 +1,1 @@
+{"created": "2026-01-16T19:54:52.920", "criteria": "cpe:2.3:h:juniper:mpc10e-15c:-:*:*:*:*:*:*:*", "lastModified": "2026-02-12T14:39:58.140", "matchCriteriaId": "75DDC822-3BCC-44CF-9230-5D5EA09E4C09", "matches": [{"cpeName": "cpe:2.3:h:juniper:mpc10e-15c:-:*:*:*:*:*:*:*", "cpeNameId": "A7EFF374-538A-4F83-BF9E-F31CC28F2875"}], "status": "Active"}

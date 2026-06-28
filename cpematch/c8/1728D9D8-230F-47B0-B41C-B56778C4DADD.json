@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-11-29T18:00:53.950", "created": "2022-11-29T17:29:59.540", "criteria": "cpe:2.3:a:grails:spring_security_core:*:*:*:*:*:*:*:*", "lastModified": "2022-11-30T03:00:11.277", "matchCriteriaId": "1728D9D8-230F-47B0-B41C-B56778C4DADD", "status": "Inactive", "versionEndExcluding": "4.0.5", "versionStartIncluding": "4.0.0"}

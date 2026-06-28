@@ -1,0 +1,1 @@
+{"created": "2025-12-03T18:26:35.790", "criteria": "cpe:2.3:a:drupal:email_tfa:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "EC34EECC-C09B-4464-A9A9-1FBA5E38D425", "status": "Inactive", "versionEndExcluding": "2.0.6", "versionStartIncluding": "0.0.0"}

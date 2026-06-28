@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-02-03T16:01:47.013", "created": "2025-02-03T16:01:47.013", "criteria": "cpe:2.3:a:fortinet:fortimanager_cloud:*:*:*:*:*:*:*:*", "lastModified": "2025-02-04T03:00:26.353", "matchCriteriaId": "2EA4B282-C9C1-49CA-BE00-00D71B323733", "status": "Inactive", "versionEndExcluding": "7.2.7", "versionStartIncluding": "7.0.0"}

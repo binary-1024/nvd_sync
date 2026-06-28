@@ -1,0 +1,1 @@
+{"created": "2025-08-07T21:14:36.960", "criteria": "cpe:2.3:a:ibm:controller:11.0.0:*:*:*:*:*:*:*", "lastModified": "2025-08-22T14:43:15.690", "matchCriteriaId": "669272C2-8FE2-47FF-AAB2-D201C3274BC9", "matches": [{"cpeName": "cpe:2.3:a:ibm:controller:11.0.0:*:*:*:*:*:*:*", "cpeNameId": "99325E5A-5DB8-4824-883A-CFB8AEA85883"}], "status": "Active"}

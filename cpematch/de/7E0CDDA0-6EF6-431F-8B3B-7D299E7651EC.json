@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-11-02T19:15:36.627", "created": "2020-02-04T16:57:52.933", "criteria": "cpe:2.3:a:pivotal:tc_runtimes:*:*:*:*:*:*:*:*", "lastModified": "2020-02-04T16:57:52.933", "matchCriteriaId": "7E0CDDA0-6EF6-431F-8B3B-7D299E7651EC", "status": "Active", "versionEndExcluding": "7.0.99.b", "versionStartIncluding": "7.0.70.b"}

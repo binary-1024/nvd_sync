@@ -1,0 +1,1 @@
+{"created": "2026-05-14T19:33:58.837", "criteria": "cpe:2.3:a:ivanti:virtual_traffic_manager:22.9:r3:*:*:*:*:*:*", "lastModified": "2026-06-16T19:12:49.250", "matchCriteriaId": "55A9CA01-D442-434D-92D8-12D5D5898C56", "matches": [{"cpeName": "cpe:2.3:a:ivanti:virtual_traffic_manager:22.9:r3:*:*:*:*:*:*", "cpeNameId": "1A1B0918-5F98-4F13-9A47-2A12490FF441"}], "status": "Active"}

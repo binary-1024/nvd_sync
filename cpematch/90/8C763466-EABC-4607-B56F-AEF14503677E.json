@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-05-20T20:39:41.600", "created": "2021-03-26T03:03:43.800", "criteria": "cpe:2.3:a:sass_lint_project:sass_lint:*:*:*:*:*:visual_studio_code:*:*", "lastModified": "2021-03-26T03:03:43.800", "matchCriteriaId": "8C763466-EABC-4607-B56F-AEF14503677E", "status": "Active", "versionEndIncluding": "1.0.7"}

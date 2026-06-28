@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-05-05T18:40:45.863", "created": "2025-05-05T18:40:45.863", "criteria": "cpe:2.3:o:microsoft:windows_server_2008:*:sp2:*:*:*:*:x86:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "847C4F01-E134-4EFF-9493-C546C29E030E", "status": "Inactive", "versionEndExcluding": "6.0.6003.23220"}

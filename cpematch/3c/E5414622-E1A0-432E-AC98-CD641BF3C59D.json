@@ -1,0 +1,1 @@
+{"created": "2026-03-03T14:38:57.200", "criteria": "cpe:2.3:a:cpan:crypt\\:\\:sysrandom-xs:*:*:*:*:*:perl:*:*", "lastModified": "2026-03-03T14:40:28.990", "matchCriteriaId": "E5414622-E1A0-432E-AC98-CD641BF3C59D", "status": "Inactive", "versionEndExcluding": "0.010"}

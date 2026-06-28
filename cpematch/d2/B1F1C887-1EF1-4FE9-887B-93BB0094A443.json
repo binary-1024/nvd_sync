@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-04-08T18:57:23.473", "created": "2026-04-08T18:57:23.473", "criteria": "cpe:2.3:a:kysely:kysely:*:*:*:*:*:node.js:*:*", "lastModified": "2026-04-08T18:57:34.427", "matchCriteriaId": "B1F1C887-1EF1-4FE9-887B-93BB0094A443", "status": "Inactive", "versionEndExcluding": "0.28.12"}

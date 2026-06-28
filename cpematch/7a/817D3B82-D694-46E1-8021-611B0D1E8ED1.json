@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-02-12T11:23:14.740", "created": "2026-02-12T11:23:14.740", "criteria": "cpe:2.3:a:microsoft:confidential_sidecar_containers:*:*:*:*:*:*:*:*", "lastModified": "2026-02-12T11:23:14.740", "matchCriteriaId": "817D3B82-D694-46E1-8021-611B0D1E8ED1", "status": "Active", "versionEndExcluding": "2.12"}

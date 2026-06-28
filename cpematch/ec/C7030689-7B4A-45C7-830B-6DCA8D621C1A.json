@@ -1,0 +1,1 @@
+{"created": "2025-04-09T20:47:49.207", "criteria": "cpe:2.3:a:atlassian:jira_server:*:*:*:*:lts:*:*:*", "lastModified": "2025-04-09T20:47:49.207", "matchCriteriaId": "C7030689-7B4A-45C7-830B-6DCA8D621C1A", "status": "Active", "versionEndExcluding": "9.12.8", "versionStartIncluding": "9.12.0"}

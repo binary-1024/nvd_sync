@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-08-13T11:03:37.423", "created": "2021-08-13T11:03:04.010", "criteria": "cpe:2.3:o:mitsubishielectric:gt25_firmware:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "5DAE85E2-B14C-4C33-B50D-D673FA6024EE", "status": "Inactive", "versionEndIncluding": "01.39.010", "versionStartIncluding": "01.19.000"}

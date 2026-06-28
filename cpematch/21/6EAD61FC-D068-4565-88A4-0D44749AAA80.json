@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-06-29T21:14:53.967", "created": "2020-10-09T13:54:41.400", "criteria": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:general_availability:*:*:*", "lastModified": "2020-10-09T13:54:41.400", "matchCriteriaId": "6EAD61FC-D068-4565-88A4-0D44749AAA80", "status": "Active", "versionEndIncluding": "7.4.1", "versionStartIncluding": "7.4.0"}

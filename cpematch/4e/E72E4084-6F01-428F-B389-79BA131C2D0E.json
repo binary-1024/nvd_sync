@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-06-22T15:20:40.133", "created": "2020-12-15T20:31:11.350", "criteria": "cpe:2.3:o:brocade:fabric_os:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "E72E4084-6F01-428F-B389-79BA131C2D0E", "status": "Inactive", "versionEndExcluding": "9.0.0", "versionStartIncluding": "8.1.0"}

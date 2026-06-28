@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-12-05T18:23:50.700", "created": "2024-12-05T18:23:50.700", "criteria": "cpe:2.3:a:liferay:liferay_portal:*:*:*:*:*:*:*:*", "lastModified": "2024-12-11T14:23:17.610", "matchCriteriaId": "BC474F8F-205C-44DF-9C37-7EEC5F65AB78", "status": "Inactive", "versionEndExcluding": "7.4.3.19", "versionStartIncluding": "7.2.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-08-26T19:07:21.417", "created": "2021-08-26T16:22:27.493", "criteria": "cpe:2.3:o:netmodule:nb2800_firmware:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "B96EDFE1-9F24-4B19-B1BA-4C616EE2DC40", "status": "Inactive", "versionEndExcluding": "4.5.0.105", "versionStartIncluding": "4.5.0.0"}

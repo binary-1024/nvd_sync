@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-05-21T20:33:01.270", "created": "2025-05-12T12:59:50.013", "criteria": "cpe:2.3:a:bug_library_project:bug_library:*:*:*:*:*:wordpress:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "85FE68A5-D48F-44F7-8F46-F67DB5D31FE3", "status": "Inactive", "versionEndExcluding": "12.1.1"}

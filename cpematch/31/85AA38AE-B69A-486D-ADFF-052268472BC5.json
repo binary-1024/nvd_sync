@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-05-30T17:16:18.240", "created": "2023-05-30T17:16:18.240", "criteria": "cpe:2.3:a:angularjs:angular:*:*:*:*:*:node.js:*:*", "lastModified": "2025-11-20T17:53:57.180", "matchCriteriaId": "85AA38AE-B69A-486D-ADFF-052268472BC5", "status": "Inactive", "versionEndIncluding": "1.8.3", "versionStartIncluding": "1.2.21"}

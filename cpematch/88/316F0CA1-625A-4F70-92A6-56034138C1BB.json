@@ -1,0 +1,1 @@
+{"created": "2020-02-06T18:28:23.417", "criteria": "cpe:2.3:a:nextcloud:server:*:*:*:*:*:*:*:*", "lastModified": "2020-02-06T18:28:23.417", "matchCriteriaId": "316F0CA1-625A-4F70-92A6-56034138C1BB", "status": "Active", "versionEndExcluding": "17.0.2", "versionStartIncluding": "16.0.8"}

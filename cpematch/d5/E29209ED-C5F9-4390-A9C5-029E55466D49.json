@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-08-05T14:55:17.143", "created": "2022-08-05T14:55:17.143", "criteria": "cpe:2.3:a:s3-kilatstorage_project:s3-kilatstorage:*:*:*:*:*:*:node.js:*", "lastModified": "2022-08-05T14:55:17.143", "matchCriteriaId": "E29209ED-C5F9-4390-A9C5-029E55466D49", "status": "Inactive", "versionEndIncluding": "0.5.6"}

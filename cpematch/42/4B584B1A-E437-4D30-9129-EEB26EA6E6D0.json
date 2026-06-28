@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-08-26T19:07:21.400", "created": "2021-08-26T16:22:24.433", "criteria": "cpe:2.3:o:netmodule:nb1800_firmware:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "4B584B1A-E437-4D30-9129-EEB26EA6E6D0", "status": "Inactive", "versionEndExcluding": "4.5.0.105", "versionStartIncluding": "4.5.0.0"}

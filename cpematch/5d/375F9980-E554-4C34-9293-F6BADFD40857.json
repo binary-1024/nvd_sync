@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-07-28T00:44:32.877", "created": "2020-08-04T11:36:28.290", "criteria": "cpe:2.3:a:containous:traefik:*:*:*:*:*:*:*:*", "lastModified": "2020-08-04T11:36:28.290", "matchCriteriaId": "375F9980-E554-4C34-9293-F6BADFD40857", "status": "Inactive", "versionEndExcluding": "2.2.8", "versionStartIncluding": "2.2.0"}

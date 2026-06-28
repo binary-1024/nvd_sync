@@ -1,0 +1,1 @@
+{"created": "2022-01-03T14:44:20.757", "criteria": "cpe:2.3:a:rusqlite_project:rusqlite:*:*:*:*:*:*:*:*", "lastModified": "2022-01-03T14:44:20.757", "matchCriteriaId": "C2C9DD0E-CA8F-4B5A-83CC-93EF1636D869", "status": "Inactive", "versionEndExcluding": "0.26.2", "versionStartIncluding": "0.26.0"}

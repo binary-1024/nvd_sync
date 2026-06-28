@@ -1,0 +1,1 @@
+{"created": "2025-08-01T17:46:58.403", "criteria": "cpe:2.3:h:commscope:ruckus_t710:-:*:*:*:*:*:*:*", "lastModified": "2025-08-07T12:48:58.223", "matchCriteriaId": "E23CE29C-210E-44C0-B4CF-01F2889B671D", "matches": [{"cpeName": "cpe:2.3:h:commscope:ruckus_t710:-:*:*:*:*:*:*:*", "cpeNameId": "C26676B7-EB7A-44E0-86AD-92AF932DC64B"}], "status": "Active"}

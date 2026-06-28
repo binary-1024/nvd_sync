@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-05-20T16:54:22.843", "created": "2026-05-20T16:54:22.843", "criteria": "cpe:2.3:a:erlef:cowlib:*:*:*:*:*:*:*:*", "lastModified": "2026-05-20T16:54:22.843", "matchCriteriaId": "8407559A-BF4F-4021-A965-162C2016CCAD", "status": "Active", "versionEndExcluding": "2.16.1", "versionStartIncluding": "2.6.0"}

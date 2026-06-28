@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-01-06T20:34:32.773", "created": "2022-01-05T19:18:18.210", "criteria": "cpe:2.3:a:abomination_project:abomination:*:*:*:*:*:rust:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "45317553-5629-4A92-83E1-2840C635191C", "status": "Inactive", "versionEndIncluding": "0.7.3"}

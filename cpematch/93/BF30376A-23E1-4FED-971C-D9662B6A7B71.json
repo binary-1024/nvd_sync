@@ -1,0 +1,1 @@
+{"created": "2026-03-03T20:03:15.600", "criteria": "cpe:2.3:a:ddick:crypt\\:\\:urandom:*:*:*:*:*:*:*:*", "lastModified": "2026-03-03T20:18:07.617", "matchCriteriaId": "BF30376A-23E1-4FED-971C-D9662B6A7B71", "status": "Inactive", "versionEndExcluding": "0.55", "versionStartIncluding": "0.41"}

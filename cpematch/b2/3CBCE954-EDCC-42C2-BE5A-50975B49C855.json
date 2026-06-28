@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-07-02T11:28:46.150", "created": "2021-07-02T11:27:53.170", "criteria": "cpe:2.3:a:broadcom:proxysg:*:*:*:*:*:*:*:*", "lastModified": "2021-07-02T11:27:53.170", "matchCriteriaId": "3CBCE954-EDCC-42C2-BE5A-50975B49C855", "status": "Inactive", "versionEndExcluding": "7.2.7.2", "versionStartIncluding": "7.2"}

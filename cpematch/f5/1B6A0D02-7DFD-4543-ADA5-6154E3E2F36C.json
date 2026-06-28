@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-09-13T13:26:47.210", "created": "2022-09-13T13:26:47.210", "criteria": "cpe:2.3:a:siemens:parasolid:*:*:*:*:*:*:*:*", "lastModified": "2022-09-13T13:26:47.210", "matchCriteriaId": "1B6A0D02-7DFD-4543-ADA5-6154E3E2F36C", "status": "Inactive", "versionEndExcluding": "35.0.164", "versionStartExcluding": "35.0.161"}

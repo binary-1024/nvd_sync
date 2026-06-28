@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-07-11T14:00:28.427", "created": "2022-07-11T14:00:28.427", "criteria": "cpe:2.3:a:pomsky-lang:pomsky:*:*:*:*:*:rust:*:*", "lastModified": "2022-07-11T14:00:28.427", "matchCriteriaId": "BD1AEB74-00F4-4E35-839A-98858DF404B2", "status": "Active", "versionEndExcluding": "0.4.3"}

@@ -1,0 +1,1 @@
+{"created": "2022-02-22T19:26:34.590", "criteria": "cpe:2.3:a:f5:nginx:*:*:*:*:*:*:*:*", "lastModified": "2022-02-22T19:26:34.590", "matchCriteriaId": "BEDFCAF5-F6B9-4A24-B722-46BB232DEAE3", "status": "Inactive", "versionEndIncluding": "1.20.0", "versionStartIncluding": "0.6.18"}

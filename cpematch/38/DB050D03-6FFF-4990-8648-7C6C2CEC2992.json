@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-06-26T15:38:04.517", "created": "2025-06-26T15:38:04.517", "criteria": "cpe:2.3:o:mikrotik:routeros:*:-:*:*:-:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "DB050D03-6FFF-4990-8648-7C6C2CEC2992", "status": "Inactive", "versionEndExcluding": "7.18", "versionStartIncluding": "7.1"}

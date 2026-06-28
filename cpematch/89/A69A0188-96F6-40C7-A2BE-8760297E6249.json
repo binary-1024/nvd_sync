@@ -1,0 +1,1 @@
+{"created": "2025-09-03T14:30:40.590", "criteria": "cpe:2.3:a:st:x-cube-azrtos-f4:1.1.0:*:*:*:*:*:*:*", "lastModified": "2025-09-05T20:35:14.873", "matchCriteriaId": "A69A0188-96F6-40C7-A2BE-8760297E6249", "matches": [{"cpeName": "cpe:2.3:a:st:x-cube-azrtos-f4:1.1.0:*:*:*:*:*:*:*", "cpeNameId": "57706C51-EC7E-4653-BCF4-C978E8A75CE9"}], "status": "Active"}

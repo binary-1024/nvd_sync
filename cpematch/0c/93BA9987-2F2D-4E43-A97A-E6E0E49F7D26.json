@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-07-21T20:39:47.360", "created": "2025-07-21T20:39:47.360", "criteria": "cpe:2.3:a:cisco:secure_client:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "93BA9987-2F2D-4E43-A97A-E6E0E49F7D26", "status": "Inactive", "versionEndExcluding": "5.1.2.42", "versionStartIncluding": "5.0.00238"}

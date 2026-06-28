@@ -1,0 +1,1 @@
+{"created": "2025-05-01T19:05:32.640", "criteria": "cpe:2.3:a:jenkins:ssh-agent:*:*:*:*:*:docker:*:*", "lastModified": "2025-05-01T19:05:32.640", "matchCriteriaId": "D635AFF6-449C-4436-9E85-BC40D217DB7A", "status": "Active", "versionEndExcluding": "6.11.2"}

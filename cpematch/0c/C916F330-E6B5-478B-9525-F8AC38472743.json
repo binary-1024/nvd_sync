@@ -1,0 +1,1 @@
+{"created": "2025-08-27T13:21:14.883", "criteria": "cpe:2.3:a:github:enterprise_server:3.16.1:*:*:*:*:*:*:*", "lastModified": "2025-08-27T18:57:28.210", "matchCriteriaId": "C916F330-E6B5-478B-9525-F8AC38472743", "matches": [{"cpeName": "cpe:2.3:a:github:enterprise_server:3.16.1:*:*:*:*:*:*:*", "cpeNameId": "7B62494D-7493-489E-ADD3-1D734D0212C1"}], "status": "Active"}

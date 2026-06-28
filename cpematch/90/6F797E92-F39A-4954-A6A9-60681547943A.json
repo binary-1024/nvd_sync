@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-05-20T18:30:39.873", "created": "2021-05-20T18:30:39.873", "criteria": "cpe:2.3:a:f5:big-ip_ssl_orchestrator:*:*:*:*:*:*:*:*", "lastModified": "2021-05-20T18:30:39.873", "matchCriteriaId": "6F797E92-F39A-4954-A6A9-60681547943A", "status": "Inactive", "versionEndIncluding": "11.6.5.3", "versionStartIncluding": "11.6.1"}

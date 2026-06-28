@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-09-05T16:09:10.430", "created": "2024-09-05T16:09:10.430", "criteria": "cpe:2.3:a:cryptography.io:cryptography:*:*:*:*:*:python:*:*", "lastModified": "2024-09-05T16:09:10.430", "matchCriteriaId": "9F7A743E-CB82-488A-A092-6633A236BB81", "status": "Inactive", "versionEndExcluding": "41.0.2"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-11-01T16:37:56.320", "created": "2022-11-01T16:37:56.320", "criteria": "cpe:2.3:o:xen:xen:*:*:*:*:*:*:*:*", "lastModified": "2022-11-03T02:00:12.427", "matchCriteriaId": "F7830237-457D-4763-8705-DFE8AA9BD5C6", "status": "Inactive", "versionEndIncluding": "4.14.3", "versionStartIncluding": "4.13.0"}

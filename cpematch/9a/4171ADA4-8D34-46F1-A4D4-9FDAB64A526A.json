@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-02-11T03:18:40.833", "created": "2022-02-09T16:39:47.973", "criteria": "cpe:2.3:a:starwindsoftware:iscsi_san:*:*:*:*:*:windows:*:*", "lastModified": "2022-02-09T16:39:47.973", "matchCriteriaId": "4171ADA4-8D34-46F1-A4D4-9FDAB64A526A", "status": "Active", "versionEndExcluding": "3.5"}

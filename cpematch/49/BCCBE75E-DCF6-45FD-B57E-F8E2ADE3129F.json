@@ -1,0 +1,1 @@
+{"created": "2026-03-20T17:34:10.023", "criteria": "cpe:2.3:a:h3:h3:2.0.1:rc12:*:*:*:node.js:*:*", "lastModified": "2026-04-20T17:22:01.907", "matchCriteriaId": "BCCBE75E-DCF6-45FD-B57E-F8E2ADE3129F", "matches": [{"cpeName": "cpe:2.3:a:h3:h3:2.0.1:rc12:*:*:*:node.js:*:*", "cpeNameId": "2E67F02D-B823-4F40-B367-AEBA17D5AD14"}], "status": "Active"}

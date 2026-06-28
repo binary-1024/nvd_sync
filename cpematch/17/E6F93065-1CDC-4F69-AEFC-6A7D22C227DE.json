@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-01-18T12:04:48.430", "created": "2024-01-18T12:04:48.430", "criteria": "cpe:2.3:a:mongodb:c_driver:*:*:*:*:*:mongodb:*:*", "lastModified": "2024-01-19T03:00:23.130", "matchCriteriaId": "E6F93065-1CDC-4F69-AEFC-6A7D22C227DE", "status": "Inactive", "versionEndExcluding": "1.24.5"}

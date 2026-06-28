@@ -1,0 +1,1 @@
+{"created": "2025-08-13T16:58:21.067", "criteria": "cpe:2.3:a:redhat:build_of_keycloak:*:*:*:*:text-only:*:*:*", "lastModified": "2025-08-13T16:58:21.067", "matchCriteriaId": "800270D6-AAEC-40D5-B10C-D5B30DF1F51C", "status": "Active", "versionEndExcluding": "26.0.11", "versionStartIncluding": "26.0"}

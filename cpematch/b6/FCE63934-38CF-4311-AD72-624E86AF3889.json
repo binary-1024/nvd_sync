@@ -1,0 +1,1 @@
+{"created": "2025-09-17T14:06:26.393", "criteria": "cpe:2.3:o:linux:linux_kernel:5.12:rc8:*:*:*:*:*:*", "lastModified": "2025-11-13T19:21:48.563", "matchCriteriaId": "FCE63934-38CF-4311-AD72-624E86AF3889", "matches": [{"cpeName": "cpe:2.3:o:linux:linux_kernel:5.12:rc8:*:*:*:*:*:*", "cpeNameId": "77341248-6821-43DA-A57F-0C38FA7E2741"}], "status": "Active"}

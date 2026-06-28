@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-10-24T20:12:35.337", "created": "2025-10-24T20:12:35.337", "criteria": "cpe:2.3:a:strapi:strapi:*:*:*:*:*:node.js:*:*", "lastModified": "2025-11-25T16:02:18.330", "matchCriteriaId": "F6A34C0C-5EEF-4C23-A48C-B8D18CB40348", "status": "Inactive", "versionEndExcluding": "5.20.0"}

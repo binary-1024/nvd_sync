@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-04-23T18:36:37.237", "created": "2025-04-02T14:44:06.233", "criteria": "cpe:2.3:a:openvpn:connect:*:*:*:*:*:macos:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "9A3CBDCE-4D58-4EDE-8E1E-2FE3F3296539", "status": "Inactive", "versionEndExcluding": "3.4.8", "versionStartIncluding": "3.0.0"}

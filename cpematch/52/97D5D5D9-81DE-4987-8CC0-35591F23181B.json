@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-05-24T13:01:38.350", "created": "2022-05-10T13:34:50.617", "criteria": "cpe:2.3:o:bender:icc16xx_firmware:*:*:*:*:*:*:*:*", "lastModified": "2022-05-24T13:01:38.350", "matchCriteriaId": "97D5D5D9-81DE-4987-8CC0-35591F23181B", "status": "Active", "versionEndExcluding": "5.12.5", "versionStartIncluding": "5.12.0"}

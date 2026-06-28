@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-02-05T13:23:58.953", "created": "2024-02-05T13:23:58.953", "criteria": "cpe:2.3:a:tlsfuzzer:pure-python_ecdsa_and_ecdh:*:*:*:*:*:*:*:*", "lastModified": "2024-02-06T03:00:48.523", "matchCriteriaId": "0394865D-1452-4E0C-B69E-4F9111533F0B", "status": "Inactive", "versionEndIncluding": "1.8.0"}

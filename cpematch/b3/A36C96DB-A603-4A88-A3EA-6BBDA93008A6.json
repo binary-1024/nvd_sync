@@ -1,0 +1,1 @@
+{"created": "2019-10-30T12:14:13.087", "criteria": "cpe:2.3:a:zend:framework:*:*:*:*:*:*:*:*", "lastModified": "2019-10-30T12:14:13.087", "matchCriteriaId": "A36C96DB-A603-4A88-A3EA-6BBDA93008A6", "status": "Active", "versionEndExcluding": "2.3.5", "versionStartIncluding": "2.3.0"}

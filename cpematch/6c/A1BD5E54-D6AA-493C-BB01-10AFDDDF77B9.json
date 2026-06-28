@@ -1,0 +1,1 @@
+{"created": "2021-09-20T17:15:16.817", "criteria": "cpe:2.3:a:f5:big-ip_policy_enforcement_manager:*:*:*:*:*:*:*:*", "lastModified": "2021-09-20T17:15:16.817", "matchCriteriaId": "A1BD5E54-D6AA-493C-BB01-10AFDDDF77B9", "status": "Inactive", "versionEndExcluding": "15.0.3", "versionStartIncluding": "15.0.0"}

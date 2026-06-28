@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-01-11T18:03:25.273", "created": "2022-01-11T18:03:20.027", "criteria": "cpe:2.3:a:ultrajson_project:ultrajson:*:*:*:*:*:python:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "8BABEDBF-7973-4139-AE82-F85A12B03B12", "status": "Inactive", "versionEndIncluding": "5.0.0", "versionStartIncluding": "4.0.2"}

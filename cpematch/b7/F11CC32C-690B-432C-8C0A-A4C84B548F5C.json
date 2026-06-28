@@ -1,0 +1,1 @@
+{"created": "2025-10-14T18:14:18.097", "criteria": "cpe:2.3:a:microfocus:vertica:*:*:*:*:*:*:*:*", "lastModified": "2025-11-19T13:30:31.387", "matchCriteriaId": "F11CC32C-690B-432C-8C0A-A4C84B548F5C", "status": "Inactive", "versionEndExcluding": "24.1.0-8", "versionStartIncluding": "24.1.0-0"}

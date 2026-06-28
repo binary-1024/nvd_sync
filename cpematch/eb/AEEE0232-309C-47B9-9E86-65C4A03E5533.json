@@ -1,0 +1,1 @@
+{"created": "2026-02-05T17:48:59.390", "criteria": "cpe:2.3:a:microsoft:azure_core_shared_client_library*:*:*:*:*:*:python:*:*", "lastModified": "2026-02-05T17:48:59.390", "matchCriteriaId": "AEEE0232-309C-47B9-9E86-65C4A03E5533", "status": "Active", "versionEndIncluding": "1.38.0", "versionStartIncluding": "1.1.0"}

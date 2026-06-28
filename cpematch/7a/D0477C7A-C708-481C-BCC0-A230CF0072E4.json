@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-01-18T15:10:00.643", "created": "2024-01-18T15:10:00.643", "criteria": "cpe:2.3:a:gofiber:template_django:*:*:*:*:*:go:*:*", "lastModified": "2024-01-19T03:00:23.130", "matchCriteriaId": "D0477C7A-C708-481C-BCC0-A230CF0072E4", "status": "Inactive", "versionEndExcluding": "3.1.9"}

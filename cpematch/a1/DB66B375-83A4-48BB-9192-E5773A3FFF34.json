@@ -1,0 +1,1 @@
+{"created": "2025-08-04T14:20:24.413", "criteria": "cpe:2.3:o:cisco:wap371_firmware:-:*:*:*:*:*:*:*", "lastModified": "2025-08-08T18:51:25.227", "matchCriteriaId": "DB66B375-83A4-48BB-9192-E5773A3FFF34", "matches": [{"cpeName": "cpe:2.3:o:cisco:wap371_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "02F8F7F2-05A9-451A-9EBD-98B65F15526F"}], "status": "Active"}

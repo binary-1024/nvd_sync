@@ -1,0 +1,1 @@
+{"created": "2021-11-04T14:44:39.993", "criteria": "cpe:2.3:a:fortinet:fortimanager:*:*:*:*:*:*:*:*", "lastModified": "2021-11-04T14:44:39.993", "matchCriteriaId": "EC0B8C3E-2338-4B70-B2EA-ECB518406955", "status": "Inactive", "versionEndExcluding": "5.6.11", "versionStartIncluding": "5.6.0"}

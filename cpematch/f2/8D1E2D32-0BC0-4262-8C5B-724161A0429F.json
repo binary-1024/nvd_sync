@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-09-16T19:07:24.860", "created": "2025-09-16T19:07:24.860", "criteria": "cpe:2.3:a:axios:axios:*:*:*:*:*:node.js:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "8D1E2D32-0BC0-4262-8C5B-724161A0429F", "status": "Inactive", "versionEndExcluding": "1.12.0"}

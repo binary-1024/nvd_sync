@@ -1,0 +1,1 @@
+{"created": "2021-09-20T18:14:56.140", "criteria": "cpe:2.3:a:f5:big-ip_link_controller:*:*:*:*:*:*:*:*", "lastModified": "2021-09-20T18:14:56.140", "matchCriteriaId": "461B9DE3-F645-4912-B39C-93F1045283A1", "status": "Inactive", "versionEndIncluding": "12.1.6", "versionStartIncluding": "12.0.0"}

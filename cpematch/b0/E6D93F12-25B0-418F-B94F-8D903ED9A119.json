@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-06-06T15:17:59.200", "created": "2022-06-06T15:17:59.200", "criteria": "cpe:2.3:a:vmware:tools:*:*:*:*:*:*:*:*", "lastModified": "2022-06-06T15:17:59.200", "matchCriteriaId": "E6D93F12-25B0-418F-B94F-8D903ED9A119", "status": "Active", "versionEndExcluding": "12.0.5", "versionStartIncluding": "12.0.0"}

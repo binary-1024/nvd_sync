@@ -1,0 +1,1 @@
+{"created": "2025-08-25T22:09:58.933", "criteria": "cpe:2.3:a:canonical:juju:*:*:*:*:*:go:*:*", "lastModified": "2025-08-25T22:09:58.933", "matchCriteriaId": "29A9B22F-D7BC-4AC4-924C-5C9B2B8C418E", "status": "Active", "versionEndExcluding": "2.9.38", "versionStartIncluding": "2.9.22"}

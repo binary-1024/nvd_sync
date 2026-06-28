@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-07-27T15:48:32.590", "created": "2020-06-19T12:26:02.570", "criteria": "cpe:2.3:a:redislabs:redis:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "5B66AA21-F5E8-427B-BF5E-D75052440AE9", "status": "Inactive", "versionEndExcluding": "6.0.3"}

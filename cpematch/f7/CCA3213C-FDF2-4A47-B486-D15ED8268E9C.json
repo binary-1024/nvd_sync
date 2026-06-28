@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-03-19T13:45:01.223", "created": "2025-03-18T17:01:01.433", "criteria": "cpe:2.3:a:artbees:jupiterx:*:*:*:*:*:wordpress:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "CCA3213C-FDF2-4A47-B486-D15ED8268E9C", "status": "Inactive", "versionEndExcluding": "3.3.5", "versionStartIncluding": "3.0.0"}

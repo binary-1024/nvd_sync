@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-11-15T15:27:48.713", "created": "2021-11-12T14:54:40.210", "criteria": "cpe:2.3:o:cisco:sg500x-48mp_firmware:*:*:*:*:*:*:*:*", "lastModified": "2021-11-12T14:54:40.210", "matchCriteriaId": "82507F67-3516-40D1-9922-9BEE33FAC321", "status": "Active", "versionEndExcluding": "2.5.8.12", "versionStartIncluding": "2.5.5.0"}

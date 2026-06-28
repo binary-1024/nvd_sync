@@ -1,0 +1,1 @@
+{"created": "2019-10-25T16:51:23.730", "criteria": "cpe:2.3:a:ibm:cloud_orchestrator_enterprise:*:*:*:*:*:*:*:*", "lastModified": "2019-10-25T16:51:23.730", "matchCriteriaId": "F5DB9235-76C6-494E-B904-A53B818BD575", "status": "Active", "versionEndIncluding": "2.4.0.5", "versionStartIncluding": "2.4"}

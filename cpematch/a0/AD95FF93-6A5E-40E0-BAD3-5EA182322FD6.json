@@ -1,0 +1,1 @@
+{"created": "2026-02-19T15:08:50.817", "criteria": "cpe:2.3:a:yokecd:yoke:*:*:*:*:*:kubernetes:*:*", "lastModified": "2026-02-25T03:00:00.207", "matchCriteriaId": "AD95FF93-6A5E-40E0-BAD3-5EA182322FD6", "status": "Inactive", "versionEndIncluding": "0.19.0"}

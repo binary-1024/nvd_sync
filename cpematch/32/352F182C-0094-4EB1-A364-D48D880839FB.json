@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-11-08T16:05:17.590", "created": "2022-11-08T16:05:17.590", "criteria": "cpe:2.3:a:siemens:mendix_saml_module:*:*:*:*:*:*:*:*", "lastModified": "2022-11-10T03:00:51.317", "matchCriteriaId": "352F182C-0094-4EB1-A364-D48D880839FB", "status": "Inactive", "versionEndExcluding": "2.3.0", "versionStartIncluding": "2.0.0"}

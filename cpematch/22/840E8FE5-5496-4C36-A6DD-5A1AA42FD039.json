@@ -1,0 +1,1 @@
+{"created": "2025-07-17T22:46:41.747", "criteria": "cpe:2.3:o:qualcomm:qca8385_firmware:-:*:*:*:*:*:*:*", "lastModified": "2025-08-11T15:06:17.607", "matchCriteriaId": "840E8FE5-5496-4C36-A6DD-5A1AA42FD039", "matches": [{"cpeName": "cpe:2.3:o:qualcomm:qca8385_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "32896DE1-5744-4645-A314-24317D05172E"}], "status": "Active"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-05-21T15:50:15.377", "created": "2026-05-21T15:50:15.377", "criteria": "cpe:2.3:a:elixir-plug:plug_cowboy:*:*:*:*:*:*:*:*", "lastModified": "2026-05-21T15:50:15.377", "matchCriteriaId": "ECCF4BFB-89D7-438F-9901-2E58211792A1", "status": "Active", "versionEndExcluding": "2.8.1", "versionStartIncluding": "2.0.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-12-09T18:19:51.603", "created": "2021-11-30T17:24:47.043", "criteria": "cpe:2.3:a:dell:bsafe:*:*:*:*:micro_edition_suite:*:*:*", "lastModified": "2021-11-30T17:24:47.043", "matchCriteriaId": "C70273A4-9027-4E1C-9889-BB49E9435823", "status": "Inactive", "versionEndExcluding": "4.4.0", "versionStartIncluding": "4.1.0"}

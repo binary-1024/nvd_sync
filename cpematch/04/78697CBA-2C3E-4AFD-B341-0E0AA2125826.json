@@ -1,0 +1,1 @@
+{"created": "2025-08-04T14:20:24.413", "criteria": "cpe:2.3:o:cisco:wap320_firmware:-:*:*:*:*:*:*:*", "lastModified": "2025-08-08T18:51:25.227", "matchCriteriaId": "78697CBA-2C3E-4AFD-B341-0E0AA2125826", "matches": [{"cpeName": "cpe:2.3:o:cisco:wap320_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "D1865A35-C68D-4C7C-B234-3038928F1958"}], "status": "Active"}

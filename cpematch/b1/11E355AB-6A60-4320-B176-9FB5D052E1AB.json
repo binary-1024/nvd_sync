@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-11-30T14:24:36.470", "created": "2022-11-30T14:24:36.470", "criteria": "cpe:2.3:a:silverstripe:framework:*:*:*:*:*:*:*:*", "lastModified": "2022-11-30T14:24:36.470", "matchCriteriaId": "11E355AB-6A60-4320-B176-9FB5D052E1AB", "status": "Active", "versionEndExcluding": "1.11.1", "versionStartIncluding": "1.0.0"}

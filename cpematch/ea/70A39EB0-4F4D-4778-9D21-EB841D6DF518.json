@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-03-17T14:09:59.740", "created": "2020-09-01T15:59:24.880", "criteria": "cpe:2.3:a:pivotal_software:rabbitmq:*:*:*:*:*:*:*:*", "lastModified": "2020-09-01T15:59:24.880", "matchCriteriaId": "70A39EB0-4F4D-4778-9D21-EB841D6DF518", "status": "Inactive", "versionEndExcluding": "3.8.7", "versionStartIncluding": "3.8.0"}

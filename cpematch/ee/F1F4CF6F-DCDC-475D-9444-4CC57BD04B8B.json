@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-06-22T16:32:04.213", "created": "2020-04-28T14:26:56.753", "criteria": "cpe:2.3:a:percona:xtradb_cluster:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "F1F4CF6F-DCDC-475D-9444-4CC57BD04B8B", "status": "Inactive", "versionEndExcluding": "5.7.28-31.42"}

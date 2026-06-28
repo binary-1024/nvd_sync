@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-05-12T13:07:15.203", "created": "2022-05-12T13:07:15.203", "criteria": "cpe:2.3:a:codesys:control_for_pfc200_sl:*:*:*:*:*:*:*:*", "lastModified": "2022-05-12T13:07:15.203", "matchCriteriaId": "1320EE2C-DE77-4E23-A7C6-0579886C83B7", "status": "Active", "versionEndExcluding": "4.5.0.0", "versionStartIncluding": "4.4.0.0"}

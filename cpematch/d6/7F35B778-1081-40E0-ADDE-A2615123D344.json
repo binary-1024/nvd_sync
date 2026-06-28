@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-02-16T18:46:05.043", "created": "2023-03-09T14:45:59.150", "criteria": "cpe:2.3:a:linuxfoundation:runc:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "7F35B778-1081-40E0-ADDE-A2615123D344", "status": "Inactive", "versionEndIncluding": "1.1.4"}

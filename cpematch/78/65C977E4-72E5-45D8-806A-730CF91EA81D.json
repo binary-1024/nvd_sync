@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-11-07T21:10:50.507", "created": "2022-10-21T00:23:26.327", "criteria": "cpe:2.3:a:jenkins:input_step:*:*:*:*:*:jenkins:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "65C977E4-72E5-45D8-806A-730CF91EA81D", "status": "Inactive", "versionEndIncluding": "451.vf1a_a_4f405289"}

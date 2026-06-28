@@ -1,0 +1,1 @@
+{"created": "2025-07-25T14:27:06.807", "criteria": "cpe:2.3:a:citrix:session_recording:2203:-:*:*:ltsr:*:*:*", "lastModified": "2025-08-12T17:39:11.590", "matchCriteriaId": "C160123B-9BD5-4B7A-A516-F5A5F97FCC79", "matches": [{"cpeName": "cpe:2.3:a:citrix:session_recording:2203:-:*:*:ltsr:*:*:*", "cpeNameId": "EBA21835-0843-468D-8E5D-21A360929D2E"}], "status": "Active"}

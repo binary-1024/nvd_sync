@@ -1,0 +1,1 @@
+{"created": "2025-05-14T20:25:40.513", "criteria": "cpe:2.3:h:citrix:netscaler_sdx:*:*:*:*:*:*:*:*", "lastModified": "2025-05-15T02:00:35.390", "matchCriteriaId": "30A0F14A-C031-43EB-AC45-A86BD91DBC52", "status": "Inactive", "versionEndExcluding": "13.1-53.17", "versionStartIncluding": "13.1"}

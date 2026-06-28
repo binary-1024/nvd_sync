@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-12-20T16:14:11.130", "created": "2022-12-20T16:14:11.130", "criteria": "cpe:2.3:a:tendermint-light-client-verifier_project:tendermint-light-client-verifier:*:*:*:*:*:rust:*:*", "lastModified": "2022-12-20T16:14:11.130", "matchCriteriaId": "6722E7A5-A823-40C0-87A7-C13CABAD9466", "status": "Active", "versionEndExcluding": "0.28.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-12-16T16:40:29.097", "created": "2025-12-16T16:40:29.097", "criteria": "cpe:2.3:a:gnu:gcc:*:*:*:*:*:*:*:*", "lastModified": "2025-12-18T03:00:00.037", "matchCriteriaId": "5903061C-B196-416C-A195-78DECE8650C0", "status": "Inactive", "versionEndIncluding": "13.0", "versionStartIncluding": "5.0"}

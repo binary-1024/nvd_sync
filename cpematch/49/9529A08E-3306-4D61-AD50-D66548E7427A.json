@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-08-19T16:22:54.363", "created": "2021-08-19T16:18:12.767", "criteria": "cpe:2.3:a:kaseya:vsa_server:*:*:*:*:*:*:*:*", "lastModified": "2021-08-19T16:18:12.767", "matchCriteriaId": "9529A08E-3306-4D61-AD50-D66548E7427A", "status": "Active", "versionEndExcluding": "9.5.7a"}

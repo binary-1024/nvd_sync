@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-09-24T16:15:30.150", "created": "2025-09-24T16:15:30.150", "criteria": "cpe:2.3:a:pfsense:suricata_package:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "4194B01E-90F6-4CDF-A172-A450F0ACC7B6", "status": "Inactive", "versionEndIncluding": "7.0.8_2"}

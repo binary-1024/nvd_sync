@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-08-20T18:56:05.673", "created": "2021-08-19T18:09:20.587", "criteria": "cpe:2.3:o:siemens:cpu_1512sp-1_pn_firmware:*:*:*:*:*:*:*:*", "lastModified": "2021-08-19T18:09:20.587", "matchCriteriaId": "018750E9-D640-4799-84E8-F4E8F672B92A", "status": "Active", "versionEndExcluding": "2.9.2", "versionStartIncluding": "2.5"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-02-08T18:18:03.167", "created": "2024-02-08T18:18:03.167", "criteria": "cpe:2.3:a:gnu:cvs:*:*:*:*:*:*:*:*", "lastModified": "2024-02-08T18:18:03.167", "matchCriteriaId": "762D9099-1589-48C0-A362-CA4501FBAD1C", "status": "Active", "versionEndExcluding": "1.11.17", "versionStartIncluding": "1.11.0"}

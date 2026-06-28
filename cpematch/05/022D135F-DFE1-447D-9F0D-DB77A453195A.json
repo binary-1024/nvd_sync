@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-12-16T15:37:51.643", "created": "2025-12-16T15:37:51.643", "criteria": "cpe:2.3:a:arm:5th_gen_gpu_architecture_kernel_driver:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T15:39:38.010", "matchCriteriaId": "022D135F-DFE1-447D-9F0D-DB77A453195A", "status": "Inactive", "versionEndIncluding": "r52p0", "versionStartIncluding": "r50p0"}

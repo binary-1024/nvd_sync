@@ -1,0 +1,1 @@
+{"created": "2025-07-22T13:07:32.697", "criteria": "cpe:2.3:a:cisco:secure_network_analytics:7.5.1:-:*:*:*:*:*:*", "lastModified": "2025-08-15T17:30:19.170", "matchCriteriaId": "D4189BF6-CDE8-4942-9CEC-62CCF5DDB36F", "matches": [{"cpeName": "cpe:2.3:a:cisco:secure_network_analytics:7.5.1:-:*:*:*:*:*:*", "cpeNameId": "774758D5-3216-42F5-9AE6-23B477018147"}], "status": "Active"}

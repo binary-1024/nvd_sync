@@ -1,0 +1,1 @@
+{"cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:a:pivotal_software:spring_data_commons:*:*:*:*:*:*:*:*", "lastModified": "2026-06-15T18:57:47.483", "matchCriteriaId": "E09E390C-A088-48E8-B97A-7F21458CF772", "status": "Inactive", "versionEndIncluding": "1.12.10"}

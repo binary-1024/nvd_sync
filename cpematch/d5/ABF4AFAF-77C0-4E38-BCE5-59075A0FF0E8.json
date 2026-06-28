@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-08-05T19:34:15.083", "created": "2024-08-05T19:34:15.083", "criteria": "cpe:2.3:a:linuxfoundation:harbor:*:*:*:*:*:*:*:*", "lastModified": "2024-08-10T02:01:06.010", "matchCriteriaId": "ABF4AFAF-77C0-4E38-BCE5-59075A0FF0E8", "status": "Inactive", "versionEndExcluding": "2.9.5", "versionStartIncluding": "2.9.0"}

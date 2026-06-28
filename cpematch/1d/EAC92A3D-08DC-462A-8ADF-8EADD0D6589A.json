@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-05-16T21:13:43.130", "created": "2022-05-16T14:09:22.320", "criteria": "cpe:2.3:a:argo_workflows_project:argo_workflows:*:*:*:*:*:kubernetes:*:*", "lastModified": "2026-02-06T20:49:29.827", "matchCriteriaId": "EAC92A3D-08DC-462A-8ADF-8EADD0D6589A", "status": "Inactive", "versionEndExcluding": "3.2.11", "versionStartIncluding": "2.6.0"}

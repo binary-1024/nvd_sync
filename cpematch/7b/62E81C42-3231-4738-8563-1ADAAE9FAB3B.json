@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-10-27T20:11:06.420", "created": "2021-10-26T13:31:54.557", "criteria": "cpe:2.3:a:alfresco:alfresco_content_services:*:*:*:*:enterprise:*:*:*", "lastModified": "2021-10-26T13:31:54.557", "matchCriteriaId": "62E81C42-3231-4738-8563-1ADAAE9FAB3B", "status": "Active", "versionEndIncluding": "6.0.1.9", "versionStartIncluding": "6.0.0.0"}

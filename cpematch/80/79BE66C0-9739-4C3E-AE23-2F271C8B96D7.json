@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-05-17T13:56:06.693", "created": "2022-05-17T13:56:06.693", "criteria": "cpe:2.3:a:hcltech:bigfix_insights:*:*:*:*:*:*:*:*", "lastModified": "2022-05-17T13:56:06.693", "matchCriteriaId": "79BE66C0-9739-4C3E-AE23-2F271C8B96D7", "status": "Inactive", "versionEndExcluding": "10.0.6", "versionStartIncluding": "10.0"}

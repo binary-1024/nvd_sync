@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-02-15T18:54:15.253", "created": "2022-02-10T19:49:29.573", "criteria": "cpe:2.3:a:superjson_project:superjson:*:*:*:*:*:node.js:*:*", "lastModified": "2022-02-10T19:49:29.573", "matchCriteriaId": "39A0D6EE-9F6E-48FF-AAE3-6C787A170489", "status": "Inactive", "versionEndExcluding": "1.8.1"}

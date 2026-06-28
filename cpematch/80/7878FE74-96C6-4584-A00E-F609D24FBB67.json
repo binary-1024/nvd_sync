@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-08-08T13:26:04.403", "created": "2022-08-08T13:26:04.403", "criteria": "cpe:2.3:a:sonicwall:analytics:*:*:*:*:on-prem:*:*:*", "lastModified": "2022-08-08T13:26:04.403", "matchCriteriaId": "7878FE74-96C6-4584-A00E-F609D24FBB67", "status": "Inactive", "versionEndExcluding": "2.5.0.3"}

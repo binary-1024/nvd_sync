@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-02-14T16:03:15.180", "created": "2020-11-13T16:24:42.280", "criteria": "cpe:2.3:a:omniauth:omniauth:*:*:*:*:*:ruby:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "DDD57FFF-8BDA-49DB-A596-508898135D9E", "status": "Inactive", "versionEndIncluding": "1.9.1"}

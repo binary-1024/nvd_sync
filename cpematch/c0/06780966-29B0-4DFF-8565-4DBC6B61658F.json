@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-11-24T20:08:54.633", "created": "2025-11-24T20:08:54.633", "criteria": "cpe:2.3:a:vllm:vllm:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "06780966-29B0-4DFF-8565-4DBC6B61658F", "status": "Inactive", "versionEndIncluding": "0.11.0", "versionStartIncluding": "0.5.5"}

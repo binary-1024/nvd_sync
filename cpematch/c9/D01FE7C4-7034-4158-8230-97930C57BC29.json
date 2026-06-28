@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-08-07T15:43:47.567", "created": "2023-02-06T12:49:15.180", "criteria": "cpe:2.3:a:linuxfoundation:argo-cd:*:*:*:*:*:*:*:*", "lastModified": "2024-08-08T02:00:41.497", "matchCriteriaId": "D01FE7C4-7034-4158-8230-97930C57BC29", "status": "Inactive", "versionEndExcluding": "2.4.20", "versionStartIncluding": "2.4.0"}

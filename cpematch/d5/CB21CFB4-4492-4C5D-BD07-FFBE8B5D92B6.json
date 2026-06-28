@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-12-16T19:56:48.887", "created": "2021-12-16T18:43:29.847", "criteria": "cpe:2.3:a:cisco:automated_subsea_tuning:*:*:*:*:*:*:*:*", "lastModified": "2021-12-16T18:43:29.847", "matchCriteriaId": "CB21CFB4-4492-4C5D-BD07-FFBE8B5D92B6", "status": "Active", "versionEndExcluding": "2.1.0"}

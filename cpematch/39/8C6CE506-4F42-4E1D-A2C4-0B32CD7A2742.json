@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-12-08T19:35:28.883", "created": "2022-12-08T19:35:28.883", "criteria": "cpe:2.3:a:f5:big-ip_link_controller:*:*:*:*:*:*:*:*", "lastModified": "2022-12-09T03:00:10.387", "matchCriteriaId": "8C6CE506-4F42-4E1D-A2C4-0B32CD7A2742", "status": "Inactive", "versionEndIncluding": "17.0.0", "versionStartIncluding": "13.1.0"}

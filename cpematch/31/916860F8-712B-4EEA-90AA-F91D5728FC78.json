@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-01-24T16:43:54.417", "created": "2021-08-27T17:26:33.877", "criteria": "cpe:2.3:a:puppet:puppet:*:*:*:*:enterprise:*:*:*", "lastModified": "2021-08-27T17:26:33.877", "matchCriteriaId": "916860F8-712B-4EEA-90AA-F91D5728FC78", "status": "Inactive", "versionEndExcluding": "2018.1.15", "versionStartIncluding": "2018.1.0"}

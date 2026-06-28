@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-01-20T14:24:33.047", "created": "2022-01-19T22:40:31.117", "criteria": "cpe:2.3:a:django-cms:django_cms:*:*:*:*:*:*:*:*", "lastModified": "2022-01-19T22:40:31.117", "matchCriteriaId": "6E92BC14-82C2-47D0-A046-1863184F519E", "status": "Active", "versionEndExcluding": "3.7.4", "versionStartIncluding": "3.7.0"}

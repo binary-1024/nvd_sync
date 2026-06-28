@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-02-25T20:04:12.320", "created": "2026-02-25T20:04:12.320", "criteria": "cpe:2.3:a:super-linter_project:super-linter:*:*:*:*:*:*:*:*", "lastModified": "2026-02-25T20:04:12.320", "matchCriteriaId": "8793631B-2725-45CA-BB01-D0D6D2EDC1EE", "status": "Active", "versionEndExcluding": "8.3.1", "versionStartIncluding": "6.0.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-08-09T14:26:18.557", "created": "2022-08-09T14:26:18.557", "criteria": "cpe:2.3:a:next-auth:nextauth.js:*:*:*:*:*:node.js:*:*", "lastModified": "2022-08-09T14:26:18.557", "matchCriteriaId": "D0F207DF-DC95-4C54-AAFE-9C71B47B17B6", "status": "Active", "versionEndExcluding": "4.10.2", "versionStartIncluding": "4.0.0"}

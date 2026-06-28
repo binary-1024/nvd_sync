@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-02-12T15:44:18.673", "created": "2020-06-09T13:06:12.317", "criteria": "cpe:2.3:a:facade:ignition:*:*:*:*:*:laravel:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "CB4FBCD6-5FBD-48CA-AE26-8E4D6835625A", "status": "Inactive", "versionEndExcluding": "2.0.5"}

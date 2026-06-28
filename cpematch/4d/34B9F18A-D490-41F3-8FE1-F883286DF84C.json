@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-08-13T18:22:53.083", "created": "2025-08-13T18:22:53.083", "criteria": "cpe:2.3:a:parallels:parallels_desktop:*:*:*:*:*:macos:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "34B9F18A-D490-41F3-8FE1-F883286DF84C", "status": "Inactive", "versionEndExcluding": "19.4.3\\(25221\\)", "versionStartIncluding": "19.0.0_\\(54570\\)"}

@@ -1,0 +1,1 @@
+{"created": "2020-05-08T15:56:16.533", "criteria": "cpe:2.3:a:torchbox:wagtail:*:*:*:*:lts:*:*:*", "lastModified": "2020-05-08T15:56:16.533", "matchCriteriaId": "FBAA2C70-332F-4508-A63A-22BEEDCABF19", "status": "Active", "versionEndExcluding": "2.7.3", "versionStartIncluding": "2.7"}

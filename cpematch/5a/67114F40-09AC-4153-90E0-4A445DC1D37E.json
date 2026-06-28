@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-02-04T16:09:55.593", "created": "2022-02-02T14:37:37.870", "criteria": "cpe:2.3:a:mariadb:mariadb:*:*:*:*:*:node.js:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "67114F40-09AC-4153-90E0-4A445DC1D37E", "status": "Inactive", "versionEndIncluding": "5.5.68", "versionStartIncluding": "5.5.20"}

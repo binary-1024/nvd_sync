@@ -1,0 +1,1 @@
+{"created": "2025-06-13T16:02:54.760", "criteria": "cpe:2.3:a:frappe:erpnext:14.74.3:*:*:*:*:*:*:*", "lastModified": "2025-08-22T16:24:35.077", "matchCriteriaId": "5CF42DBE-9321-4CC3-9093-3CAB462BCDFF", "matches": [{"cpeName": "cpe:2.3:a:frappe:erpnext:14.74.3:*:*:*:*:*:*:*", "cpeNameId": "BCDF59D7-4B4B-45DE-99FF-9F7590BB92E8"}], "status": "Active"}

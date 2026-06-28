@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-12-12T16:43:11.563", "created": "2024-12-12T16:43:11.563", "criteria": "cpe:2.3:a:ibm:security_guardium_key_lifecycle_manager:*:*:*:*:*:*:*:*", "lastModified": "2024-12-12T20:30:28.463", "matchCriteriaId": "25F38CD1-5F33-4453-9CFA-E22CD6EC709E", "status": "Inactive", "versionEndExcluding": "4.1.1.7", "versionStartIncluding": "3.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-08-29T15:40:02.280", "created": "2023-05-16T11:59:57.250", "criteria": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "EE48C9C9-6B84-4A4A-963D-6DFE0C2FB312", "status": "Inactive", "versionEndIncluding": "17.1.0", "versionStartIncluding": "13.1.0"}

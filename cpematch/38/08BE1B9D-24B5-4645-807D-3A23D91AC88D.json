@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-02-14T16:58:27.473", "created": "2025-02-14T16:58:27.473", "criteria": "cpe:2.3:a:botan_project:botan:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "08BE1B9D-24B5-4645-807D-3A23D91AC88D", "status": "Inactive", "versionEndExcluding": "2.19.5", "versionStartIncluding": "2.19.0"}

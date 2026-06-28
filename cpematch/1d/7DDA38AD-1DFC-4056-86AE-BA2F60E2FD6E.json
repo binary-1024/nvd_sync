@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-09-07T14:45:13.223", "created": "2022-09-07T14:45:13.223", "criteria": "cpe:2.3:a:nvidia:data_plane_development_kit:*:*:*:*:*:*:*:*", "lastModified": "2022-09-07T14:45:13.223", "matchCriteriaId": "7DDA38AD-1DFC-4056-86AE-BA2F60E2FD6E", "status": "Inactive", "versionEndExcluding": "20.11_5.0.0", "versionStartIncluding": "19.11_1"}

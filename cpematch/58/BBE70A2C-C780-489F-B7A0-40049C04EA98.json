@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-08-26T14:06:21.150", "created": "2021-08-24T15:10:03.073", "criteria": "cpe:2.3:a:yandex:clickhouse:*:*:*:*:*:*:*:*", "lastModified": "2021-08-24T15:10:03.073", "matchCriteriaId": "BBE70A2C-C780-489F-B7A0-40049C04EA98", "status": "Inactive", "versionEndExcluding": "21.1.9.41", "versionStartIncluding": "21.1.2.15"}

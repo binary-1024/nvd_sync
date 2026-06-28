@@ -1,0 +1,1 @@
+{"created": "2026-01-16T21:40:05.120", "criteria": "cpe:2.3:a:hcltech:myxalytics:6.7:*:*:*:*:*:*:*", "lastModified": "2026-04-20T15:23:09.837", "matchCriteriaId": "2858C304-AFAB-4ECA-96F0-C90A97F7A2DC", "matches": [{"cpeName": "cpe:2.3:a:hcltech:myxalytics:6.7:*:*:*:*:*:*:*", "cpeNameId": "B6CDB2C8-3104-4E9A-870B-F4AB36FB01E0"}], "status": "Active"}

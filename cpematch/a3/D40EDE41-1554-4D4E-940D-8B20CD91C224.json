@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-05-03T17:44:36.053", "created": "2022-05-02T17:22:29.290", "criteria": "cpe:2.3:h:dell:r530:-:*:*:*:*:*:*:*", "lastModified": "2022-05-02T17:22:29.290", "matchCriteriaId": "D40EDE41-1554-4D4E-940D-8B20CD91C224", "matches": [{"cpeName": "cpe:2.3:h:dell:r530:-:*:*:*:*:*:*:*", "cpeNameId": "E335AD02-219F-42AA-B798-B4DD25792C1C"}], "status": "Active"}

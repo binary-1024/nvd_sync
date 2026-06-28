@@ -1,0 +1,1 @@
+{"cpeLastModified": "2019-09-24T16:02:35.177", "created": "2019-08-15T12:29:44.610", "criteria": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:chrome:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "8B69BAC6-112D-43D9-A98F-D7C54EFACD14", "status": "Inactive", "versionEndIncluding": "23.0.0.162", "versionStartIncluding": "23.0"}

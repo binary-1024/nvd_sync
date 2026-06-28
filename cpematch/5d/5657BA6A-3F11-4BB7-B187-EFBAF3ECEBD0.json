@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-02-26T03:19:55.190", "created": "2022-02-24T18:45:52.670", "criteria": "cpe:2.3:a:gravitl:netmaker:*:*:*:*:*:*:*:*", "lastModified": "2026-05-18T16:44:17.500", "matchCriteriaId": "5657BA6A-3F11-4BB7-B187-EFBAF3ECEBD0", "status": "Inactive", "versionEndExcluding": "0.9.4", "versionStartIncluding": "0.9.0"}

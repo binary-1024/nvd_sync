@@ -1,0 +1,1 @@
+{"created": "2026-01-05T20:59:14.557", "criteria": "cpe:2.3:a:ubuntu:python-apt:1.1.0:beta4:*:*:*:*:*:*", "lastModified": "2026-06-23T17:47:29.503", "matchCriteriaId": "D49FB11C-9ED0-4BC6-9925-AA19EC365670", "matches": [{"cpeName": "cpe:2.3:a:ubuntu:python-apt:1.1.0:beta4:*:*:*:*:*:*", "cpeNameId": "9B0C7F00-25EA-4162-8341-234B11614783"}], "status": "Active"}

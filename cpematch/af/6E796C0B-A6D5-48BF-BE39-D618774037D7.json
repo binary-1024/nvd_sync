@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-01-28T19:09:42.747", "created": "2019-10-31T22:27:42.457", "criteria": "cpe:2.3:a:freedesktop:systemd:*:*:*:*:*:*:*:*", "lastModified": "2019-10-31T22:27:42.457", "matchCriteriaId": "6E796C0B-A6D5-48BF-BE39-D618774037D7", "status": "Inactive", "versionEndExcluding": "243", "versionStartIncluding": "239"}

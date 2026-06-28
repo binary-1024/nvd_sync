@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-05-20T18:21:36.573", "created": "2026-05-20T18:21:36.573", "criteria": "cpe:2.3:a:erlang:erlang\\/otp:*:*:*:*:*:*:*:*", "lastModified": "2026-05-20T18:22:04.637", "matchCriteriaId": "A06D945C-08A5-4204-8865-6C5F9916E156", "status": "Inactive", "versionEndIncluding": "28.4.3", "versionStartIncluding": "28.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2020-05-04T13:19:50.103", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:a:arqbackup:arq:*:*:*:*:*:mac_os:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "A20A532A-CEBD-4BCF-B9BD-20B9B8C6D1CF", "status": "Inactive", "versionEndExcluding": "5.10", "versionStartIncluding": "5.0.0.65"}

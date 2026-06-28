@@ -1,0 +1,1 @@
+{"created": "2026-04-20T17:37:00.550", "criteria": "cpe:2.3:a:fastify:fastify-static:*:*:*:*:*:node.js:*:*", "lastModified": "2026-04-20T17:37:00.550", "matchCriteriaId": "35168727-7108-4D30-BF7A-704BB639B970", "status": "Active", "versionEndExcluding": "9.1.1", "versionStartIncluding": "8.0.0"}

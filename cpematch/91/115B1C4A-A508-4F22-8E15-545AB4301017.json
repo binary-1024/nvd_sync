@@ -1,0 +1,1 @@
+{"created": "2025-08-01T18:49:08.210", "criteria": "cpe:2.3:h:cisco:8700:-:*:*:*:*:*:*:*", "lastModified": "2025-08-08T18:51:25.227", "matchCriteriaId": "115B1C4A-A508-4F22-8E15-545AB4301017", "matches": [{"cpeName": "cpe:2.3:h:cisco:8700:-:*:*:*:*:*:*:*", "cpeNameId": "3755D4C7-BA16-4A0D-8809-33A58057C773"}], "status": "Active"}

@@ -1,0 +1,1 @@
+{"created": "2021-10-07T21:08:51.330", "criteria": "cpe:2.3:a:ibm:sterling_file_gateway:*:*:*:*:*:aix:*:*", "lastModified": "2021-10-07T21:08:51.330", "matchCriteriaId": "649E30AD-E0F4-4F79-9FD6-9FB56AB6C6A4", "status": "Inactive", "versionEndIncluding": "6.1.0.2", "versionStartIncluding": "6.0.1.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-06-13T13:13:55.460", "created": "2022-06-13T13:13:55.460", "criteria": "cpe:2.3:a:linuxfoundation:containerd:*:*:*:*:*:*:*:*", "lastModified": "2022-06-13T13:13:55.460", "matchCriteriaId": "78C54A7E-2FA6-48E8-9A67-B9CE08B9D400", "status": "Inactive", "versionEndIncluding": "1.5.12"}

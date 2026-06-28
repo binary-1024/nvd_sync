@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-05-20T23:49:38.927", "created": "2022-05-20T23:49:38.927", "criteria": "cpe:2.3:a:jenkins:multiselect_parameter:*:*:*:*:*:wordpress:*:*", "lastModified": "2022-05-20T23:49:38.927", "matchCriteriaId": "D5C55D28-BCF7-4430-9FE4-9D7DB55E4139", "status": "Active", "versionEndIncluding": "1.3"}

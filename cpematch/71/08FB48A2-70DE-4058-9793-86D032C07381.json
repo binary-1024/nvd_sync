@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-10-03T15:11:25.340", "created": "2024-10-03T15:11:25.340", "criteria": "cpe:2.3:a:microsoft:power_platform_terraform_provider:*:*:*:*:*:*:*:*", "lastModified": "2024-10-03T15:11:25.340", "matchCriteriaId": "08FB48A2-70DE-4058-9793-86D032C07381", "status": "Active", "versionEndIncluding": "3.0.0"}

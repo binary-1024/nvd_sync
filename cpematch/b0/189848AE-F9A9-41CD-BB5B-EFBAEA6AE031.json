@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-11-04T21:40:49.117", "created": "2025-11-04T21:40:49.117", "criteria": "cpe:2.3:a:lfprojects:mlflow:*:*:*:*:*:*:*:*", "lastModified": "2025-11-04T21:44:53.507", "matchCriteriaId": "189848AE-F9A9-41CD-BB5B-EFBAEA6AE031", "status": "Inactive", "versionEndIncluding": "2.22.0"}

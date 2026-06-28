@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-06-03T18:46:33.183", "created": "2022-06-03T18:46:33.183", "criteria": "cpe:2.3:a:rubyonrails:actionpack:*:*:*:*:*:ruby:*:*", "lastModified": "2022-06-03T18:46:33.183", "matchCriteriaId": "2FD1A084-76ED-4206-B0D0-F032967F3392", "status": "Active", "versionEndExcluding": "7.0.2.4", "versionStartIncluding": "7.0.0"}

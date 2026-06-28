@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-06-02T18:59:15.493", "created": "2025-06-02T18:59:15.493", "criteria": "cpe:2.3:a:drupal:migrate_queue_importer:*:*:*:*:*:drupal:*:*", "lastModified": "2025-06-03T02:00:39.017", "matchCriteriaId": "0EE657F3-94CF-49B8-8E84-F56F698828C1", "status": "Inactive", "versionEndExcluding": "2.1.1"}

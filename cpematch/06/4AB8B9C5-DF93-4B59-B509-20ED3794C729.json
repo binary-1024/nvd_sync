@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-03-23T18:57:29.093", "created": "2022-03-23T11:07:29.207", "criteria": "cpe:2.3:a:substack:minimist:*:*:*:*:*:node.js:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "4AB8B9C5-DF93-4B59-B509-20ED3794C729", "status": "Inactive", "versionEndExcluding": "1.2.3", "versionStartIncluding": "1.0.0"}

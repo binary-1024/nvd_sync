@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-06-03T12:45:24.223", "created": "2021-05-20T14:08:11.287", "criteria": "cpe:2.3:a:arm:bifrost:*:*:*:*:*:*:*:*", "lastModified": "2021-05-20T14:08:11.287", "matchCriteriaId": "2D939D42-477D-4FA4-800A-62DBCE8EF4D6", "status": "Inactive", "versionEndIncluding": "r28p0", "versionStartIncluding": "r0p0"}

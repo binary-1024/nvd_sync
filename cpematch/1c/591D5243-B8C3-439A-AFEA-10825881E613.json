@@ -1,0 +1,1 @@
+{"created": "2021-05-14T21:14:50.223", "criteria": "cpe:2.3:a:jetbrains:webstorm:*:*:*:*:*:*:*:*", "lastModified": "2021-05-14T21:14:50.223", "matchCriteriaId": "591D5243-B8C3-439A-AFEA-10825881E613", "matches": [{"cpeName": "cpe:2.3:a:jetbrains:webstorm:-:*:*:*:*:*:*:*", "cpeNameId": "DEABC8A2-A2B1-4333-8E25-7E4EFBCDDABA"}], "status": "Active", "versionEndExcluding": "2021.1"}

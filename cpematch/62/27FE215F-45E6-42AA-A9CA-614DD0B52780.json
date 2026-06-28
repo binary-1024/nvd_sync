@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-01-09T16:43:10.970", "created": "2024-01-09T16:43:10.970", "criteria": "cpe:2.3:a:cpan:spreadsheet\\:\\:parseexcel:*:*:*:*:*:*:*:*", "lastModified": "2024-01-10T03:00:24.240", "matchCriteriaId": "27FE215F-45E6-42AA-A9CA-614DD0B52780", "status": "Inactive", "versionEndIncluding": "0.65"}

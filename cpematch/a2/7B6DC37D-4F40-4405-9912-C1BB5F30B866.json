@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-04-07T18:41:00.413", "created": "2022-04-07T18:09:52.023", "criteria": "cpe:2.3:a:jupyter:jupyterlab:*:*:*:*:*:*:*:*", "lastModified": "2022-04-07T18:09:52.023", "matchCriteriaId": "7B6DC37D-4F40-4405-9912-C1BB5F30B866", "status": "Active", "versionEndExcluding": "2.3.2", "versionStartIncluding": "2.3.0"}

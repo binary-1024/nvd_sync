@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-07-10T18:14:50.060", "created": "2024-07-10T18:14:50.060", "criteria": "cpe:2.3:a:microsoft:defender_for_iot:*:*:*:*:*:*:*:*", "lastModified": "2024-07-12T02:01:01.553", "matchCriteriaId": "DBB19A9D-5EFA-4543-BEF0-98A4DCFC78A7", "status": "Inactive", "versionEndIncluding": "24.1.4"}

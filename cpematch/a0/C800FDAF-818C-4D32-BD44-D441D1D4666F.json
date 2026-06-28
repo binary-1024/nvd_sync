@@ -1,0 +1,1 @@
+{"created": "2025-08-01T15:02:32.613", "criteria": "cpe:2.3:o:cisco:ios:15.3jpc:*:*:*:*:*:*:*", "lastModified": "2025-08-08T15:23:50.747", "matchCriteriaId": "C800FDAF-818C-4D32-BD44-D441D1D4666F", "matches": [{"cpeName": "cpe:2.3:o:cisco:ios:15.3jpc:*:*:*:*:*:*:*", "cpeNameId": "86ECC2F7-02A7-4A7F-9BC4-68EBF2D9A2FF"}], "status": "Active"}

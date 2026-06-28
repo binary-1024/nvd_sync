@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-10-05T16:48:45.627", "created": "2023-10-05T16:48:45.627", "criteria": "cpe:2.3:o:moxa:nport_5430_firmware:*:*:*:*:*:*:*:*", "lastModified": "2023-10-05T16:48:45.627", "matchCriteriaId": "797DAF46-613B-4802-BBA8-D82EA1FA03C9", "status": "Active", "versionEndIncluding": "3.14", "versionStartIncluding": "3.2"}

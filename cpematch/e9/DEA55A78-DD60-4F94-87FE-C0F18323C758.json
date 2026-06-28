@@ -1,0 +1,1 @@
+{"created": "2025-05-19T13:59:29.930", "criteria": "cpe:2.3:a:ollama:ollama:0.5.11:*:*:*:*:*:*:*", "lastModified": "2025-09-04T16:19:58.883", "matchCriteriaId": "DEA55A78-DD60-4F94-87FE-C0F18323C758", "matches": [{"cpeName": "cpe:2.3:a:ollama:ollama:0.5.11:*:*:*:*:*:*:*", "cpeNameId": "A2D0ECA7-9ABC-4F12-9A97-B5B65E5057A7"}], "status": "Active"}

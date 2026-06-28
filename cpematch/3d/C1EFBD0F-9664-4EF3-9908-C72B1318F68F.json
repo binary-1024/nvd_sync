@@ -1,0 +1,1 @@
+{"created": "2025-10-06T13:44:56.463", "criteria": "cpe:2.3:a:wso2:identity_server:7.0.0:-:*:*:*:*:*:*", "lastModified": "2026-05-20T19:08:48.917", "matchCriteriaId": "C1EFBD0F-9664-4EF3-9908-C72B1318F68F", "matches": [{"cpeName": "cpe:2.3:a:wso2:identity_server:7.0.0:-:*:*:*:*:*:*", "cpeNameId": "B0B854AC-D641-45C8-BFAF-221B6ED60008"}], "status": "Active"}

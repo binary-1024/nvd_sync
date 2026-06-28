@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-06-16T13:03:15.533", "created": "2021-06-16T13:02:54.283", "criteria": "cpe:2.3:h:bosch:cpp13:-:*:*:*:*:*:*:*", "lastModified": "2021-06-16T13:02:54.283", "matchCriteriaId": "80149FF9-3C6D-4C80-8257-CEB2BE8B0DCA", "matches": [{"cpeName": "cpe:2.3:h:bosch:cpp13:-:*:*:*:*:*:*:*", "cpeNameId": "F0855F40-1B46-4308-AB89-4A8B79EDC179"}], "status": "Active"}

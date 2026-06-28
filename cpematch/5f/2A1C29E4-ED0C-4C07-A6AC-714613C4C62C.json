@@ -1,0 +1,1 @@
+{"created": "2025-11-05T22:28:07.207", "criteria": "cpe:2.3:a:nagios:fusion:2024:r1.0.2:*:*:*:*:*:*", "lastModified": "2025-11-06T19:32:12.757", "matchCriteriaId": "2A1C29E4-ED0C-4C07-A6AC-714613C4C62C", "matches": [{"cpeName": "cpe:2.3:a:nagios:fusion:2024:r1.0.2:*:*:*:*:*:*", "cpeNameId": "5BC4B3BE-839E-4DA3-BC87-D73E39E2285C"}], "status": "Active"}

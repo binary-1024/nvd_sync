@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-10-29T17:26:18.507", "created": "2021-10-28T16:50:32.837", "criteria": "cpe:2.3:a:anaconda:dask:*:*:*:*:*:python:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "D59B011C-A7C4-4624-B812-A5F1C714F500", "status": "Inactive", "versionEndIncluding": "2021.09.1"}

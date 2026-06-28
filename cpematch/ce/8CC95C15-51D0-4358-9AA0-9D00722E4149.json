@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-02-24T20:09:57.340", "created": "2026-02-24T20:09:57.340", "criteria": "cpe:2.3:a:linuxfoundation:strimzi_kafka_operator:*:-:*:*:*:*:*:*", "lastModified": "2026-02-24T20:09:57.340", "matchCriteriaId": "8CC95C15-51D0-4358-9AA0-9D00722E4149", "status": "Active", "versionEndExcluding": "0.50.1", "versionStartIncluding": "0.49.0"}

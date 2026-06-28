@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-10-27T14:06:25.037", "created": "2022-10-27T14:06:25.037", "criteria": "cpe:2.3:a:shescape_project:shescape:*:*:*:*:*:node.js:*:*", "lastModified": "2022-10-27T14:07:02.390", "matchCriteriaId": "3D764006-807F-4688-A2BA-DE3BBBF014F6", "status": "Inactive", "versionEndExcluding": "1.6.1", "versionStartIncluding": "1.5.10"}

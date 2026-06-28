@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-07-26T16:40:00.833", "created": "2024-07-26T16:40:00.833", "criteria": "cpe:2.3:o:broadcom:brocade_fabric_operating_system:*:*:*:*:*:*:*:*", "lastModified": "2024-08-07T02:01:42.200", "matchCriteriaId": "A094FEAD-0292-4B83-A648-F062BC95CD3A", "status": "Inactive", "versionEndExcluding": "9.1.1d", "versionStartIncluding": "9.0.1"}

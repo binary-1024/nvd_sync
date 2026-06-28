@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-02-12T20:04:00.283", "created": "2021-06-16T15:26:16.100", "criteria": "cpe:2.3:a:fastapi_project:fastapi:*:*:*:*:*:*:*:*", "lastModified": "2024-02-13T03:00:57.253", "matchCriteriaId": "11BD9B21-4146-463D-B886-44EA2687B0EB", "status": "Inactive", "versionEndExcluding": "0.65.2"}

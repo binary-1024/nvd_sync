@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-08-17T13:20:18.563", "created": "2020-09-29T10:34:38.313", "criteria": "cpe:2.3:a:tensorflow:tensorflow:*:*:*:*:lite:*:*:*", "lastModified": "2020-09-29T10:34:38.313", "matchCriteriaId": "DCD77003-DE03-4791-BC74-B12D054927AC", "status": "Inactive", "versionEndExcluding": "2.2.1", "versionStartIncluding": "2.2.0"}

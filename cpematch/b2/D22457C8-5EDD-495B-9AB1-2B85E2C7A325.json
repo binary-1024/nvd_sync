@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-11-29T18:45:34.380", "created": "2023-11-29T18:45:34.380", "criteria": "cpe:2.3:a:postmansmtp:post_smtp_mailer:*:*:*:*:*:wordpress:*:*", "lastModified": "2023-11-29T18:57:11.133", "matchCriteriaId": "D22457C8-5EDD-495B-9AB1-2B85E2C7A325", "status": "Inactive", "versionEndExcluding": "2.7.1"}

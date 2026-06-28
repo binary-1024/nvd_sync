@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-01-05T13:17:30.117", "created": "2024-01-05T13:17:30.117", "criteria": "cpe:2.3:a:kantega-sso:kantega_saml_sso_oidc_kerberos_single_sign-on:*:*:*:*:*:fecru:*:*", "lastModified": "2024-01-05T16:07:08.490", "matchCriteriaId": "BBE1C55C-6883-4D94-B336-3CFFC0A701B0", "status": "Inactive", "versionEndExcluding": "5.11.5", "versionStartIncluding": "5.0.0"}

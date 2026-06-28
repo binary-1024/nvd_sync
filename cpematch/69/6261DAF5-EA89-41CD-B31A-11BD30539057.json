@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-11-01T20:11:37.297", "created": "2021-10-29T13:16:46.480", "criteria": "cpe:2.3:a:vmware:spring_cloud_openfeign:*:*:*:*:*:*:*:*", "lastModified": "2021-10-29T13:16:46.480", "matchCriteriaId": "6261DAF5-EA89-41CD-B31A-11BD30539057", "status": "Active", "versionEndIncluding": "2.2.9", "versionStartIncluding": "2.2.0"}

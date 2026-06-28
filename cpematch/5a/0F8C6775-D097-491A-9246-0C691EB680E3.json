@@ -1,0 +1,1 @@
+{"created": "2026-01-22T21:09:29.070", "criteria": "cpe:2.3:a:servicenow:virtual_agent_api:*:*:*:*:*:*:*:*", "lastModified": "2026-01-22T21:09:29.070", "matchCriteriaId": "0F8C6775-D097-491A-9246-0C691EB680E3", "status": "Active", "versionEndExcluding": "4.0.4", "versionStartIncluding": "4.0.0"}

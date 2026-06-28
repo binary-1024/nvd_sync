@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-01-22T02:21:41.633", "created": "2022-01-20T17:51:39.080", "criteria": "cpe:2.3:a:oracle:project_costing:*:*:*:*:*:*:*:*", "lastModified": "2022-01-20T17:51:39.080", "matchCriteriaId": "BCE3683A-4070-402E-A441-0B9F01F79605", "status": "Active", "versionEndIncluding": "12.2.11", "versionStartIncluding": "12.2.3"}

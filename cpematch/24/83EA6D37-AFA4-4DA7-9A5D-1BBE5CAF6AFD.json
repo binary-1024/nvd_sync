@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-04-09T13:29:07.040", "created": "2026-04-09T13:29:07.040", "criteria": "cpe:2.3:a:immich:immich:*:*:*:*:*:docker:*:*", "lastModified": "2026-04-09T13:29:07.040", "matchCriteriaId": "83EA6D37-AFA4-4DA7-9A5D-1BBE5CAF6AFD", "status": "Active", "versionEndExcluding": "2.7.0", "versionStartIncluding": "2.6.0"}

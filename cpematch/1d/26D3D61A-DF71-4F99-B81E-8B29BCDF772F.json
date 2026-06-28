@@ -1,0 +1,1 @@
+{"created": "2021-03-26T15:36:31.453", "criteria": "cpe:2.3:a:cisco:jabber:*:*:*:*:*:macos:*:*", "lastModified": "2021-03-26T15:36:31.453", "matchCriteriaId": "26D3D61A-DF71-4F99-B81E-8B29BCDF772F", "status": "Inactive", "versionEndExcluding": "12.6.5", "versionStartIncluding": "12.6.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-08-19T14:03:04.530", "created": "2022-06-16T21:05:37.697", "criteria": "cpe:2.3:a:citrix:application_delivery_management:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "905679F5-3CF6-4D92-85C3-8BD1713F0A9B", "status": "Inactive", "versionEndExcluding": "13.0-85.19", "versionStartIncluding": "13.0"}

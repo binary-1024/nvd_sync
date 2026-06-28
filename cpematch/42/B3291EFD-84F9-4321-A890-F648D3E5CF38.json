@@ -1,0 +1,1 @@
+{"created": "2026-03-16T12:03:39.810", "criteria": "cpe:2.3:a:microsof:linux_diagnostic_extension:*:*:*:*:*:*:*:*", "lastModified": "2026-03-16T12:03:39.810", "matchCriteriaId": "B3291EFD-84F9-4321-A890-F648D3E5CF38", "status": "Active", "versionEndExcluding": "2.1.24", "versionStartIncluding": "1.0.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-03-07T16:18:37.597", "created": "2022-03-04T15:22:04.387", "criteria": "cpe:2.3:a:backblaze:b2_command_line_tool:*:*:*:*:*:mac:*:*", "lastModified": "2022-03-04T15:22:04.387", "matchCriteriaId": "D48B24B7-6F45-48AD-BE6D-704C7FEDAE03", "status": "Active", "versionEndIncluding": "3.2.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-02-08T18:54:49.800", "created": "2021-12-16T14:42:47.490", "criteria": "cpe:2.3:a:digitalocean:toxcore:*:*:*:*:*:*:*:*", "lastModified": "2021-12-16T14:42:47.490", "matchCriteriaId": "61ACD358-9C84-4FAF-82B8-CC2987F831EB", "status": "Inactive", "versionEndIncluding": "0.2.12", "versionStartIncluding": "0.2.0"}

@@ -1,0 +1,1 @@
+{"created": "2025-05-12T13:01:47.973", "criteria": "cpe:2.3:o:linux:linux_kernel:6.15:rc1:*:*:*:*:*:*", "lastModified": "2026-01-09T16:28:08.480", "matchCriteriaId": "8D465631-2980-487A-8E65-40AE2B9F8ED1", "matches": [{"cpeName": "cpe:2.3:o:linux:linux_kernel:6.15:rc1:*:*:*:*:*:*", "cpeNameId": "21100F5B-BBA4-44BA-9A92-475AD44ABDD7"}], "status": "Active"}

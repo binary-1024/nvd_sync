@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-12-20T18:47:57.477", "created": "2022-12-20T18:47:57.477", "criteria": "cpe:2.3:a:vmware:vrealize_operations:*:*:*:*:*:*:*:*", "lastModified": "2022-12-22T03:00:11.023", "matchCriteriaId": "70693031-F102-4CAE-ABB8-BBAB0810AD86", "status": "Inactive", "versionEndExcluding": "8.10.1", "versionStartIncluding": "8.10.0"}

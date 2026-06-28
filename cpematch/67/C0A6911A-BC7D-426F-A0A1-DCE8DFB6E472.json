@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-11-29T17:46:44.577", "created": "2023-11-29T17:46:44.577", "criteria": "cpe:2.3:o:neutron:ipc2224-sr3-npf-36_firmware:*:*:*:*:*:*:*:*", "lastModified": "2023-11-29T17:46:44.577", "matchCriteriaId": "C0A6911A-BC7D-426F-A0A1-DCE8DFB6E472", "status": "Active", "versionEndExcluding": "b1130.1.0.1"}

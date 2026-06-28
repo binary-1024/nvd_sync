@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-07-29T14:03:08.023", "created": "2024-07-29T14:03:08.023", "criteria": "cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:*:*:*:*:*:*:*:*", "lastModified": "2024-08-08T02:00:41.497", "matchCriteriaId": "B02430D1-BF0E-42A8-87E8-6477FA4A9E5F", "status": "Inactive", "versionEndIncluding": "8.2.3", "versionStartIncluding": "8.2"}

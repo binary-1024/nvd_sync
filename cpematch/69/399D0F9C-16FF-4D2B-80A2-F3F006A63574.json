@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-04-25T12:53:32.507", "created": "2025-04-25T12:53:32.507", "criteria": "cpe:2.3:a:hazelcast:hazelcast:*:*:*:*:-:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "399D0F9C-16FF-4D2B-80A2-F3F006A63574", "status": "Inactive", "versionEndIncluding": "5.2.4", "versionStartIncluding": "5.2.0"}

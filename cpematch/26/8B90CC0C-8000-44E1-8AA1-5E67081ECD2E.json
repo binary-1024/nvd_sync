@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-10-03T20:25:40.023", "created": "2024-10-03T20:25:40.023", "criteria": "cpe:2.3:a:zoom:vdi_windows_meeting_clients:*:*:*:*:*:windows:*:*", "lastModified": "2024-10-03T20:25:40.023", "matchCriteriaId": "8B90CC0C-8000-44E1-8AA1-5E67081ECD2E", "status": "Active", "versionEndExcluding": "5.16.10", "versionStartExcluding": "5.15.12"}

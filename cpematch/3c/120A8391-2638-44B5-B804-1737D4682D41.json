@@ -1,0 +1,1 @@
+{"created": "2026-01-29T19:14:21.223", "criteria": "cpe:2.3:a:hcltech:bigfix_compliance:2.0.9:*:*:*:*:*:*:*", "lastModified": "2026-04-20T13:56:52.847", "matchCriteriaId": "120A8391-2638-44B5-B804-1737D4682D41", "matches": [{"cpeName": "cpe:2.3:a:hcltech:bigfix_compliance:2.0.9:*:*:*:*:*:*:*", "cpeNameId": "0F32DB04-A2DF-4F99-99BE-A36A57FBAFB1"}], "status": "Active"}

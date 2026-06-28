@@ -1,0 +1,1 @@
+{"created": "2025-12-11T20:30:38.423", "criteria": "cpe:2.3:a:ibm:verify_identity_access_docker:*:*:*:*:*:*:*:*", "lastModified": "2025-12-11T20:30:38.423", "matchCriteriaId": "595783AB-91A8-48CB-9E68-DBBF8CAE699F", "status": "Active", "versionEndIncluding": "11.0.1.0", "versionStartIncluding": "11.0.0.0"}

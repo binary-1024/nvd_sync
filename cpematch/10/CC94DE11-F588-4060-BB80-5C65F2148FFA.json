@@ -1,0 +1,1 @@
+{"created": "2025-08-01T15:02:32.613", "criteria": "cpe:2.3:o:cisco:ios:15.6s:*:*:*:*:*:*:*", "lastModified": "2025-08-08T15:23:50.747", "matchCriteriaId": "CC94DE11-F588-4060-BB80-5C65F2148FFA", "matches": [{"cpeName": "cpe:2.3:o:cisco:ios:15.6s:*:*:*:*:*:*:*", "cpeNameId": "ADCB8FEC-0504-476E-9A45-7E5EE90D480B"}], "status": "Active"}

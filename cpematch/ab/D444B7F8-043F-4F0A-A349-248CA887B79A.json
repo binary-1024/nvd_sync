@@ -1,0 +1,1 @@
+{"cpeLastModified": "2020-12-11T15:00:35.990", "created": "2020-10-03T00:37:51.733", "criteria": "cpe:2.3:a:apache:tapestry:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "D444B7F8-043F-4F0A-A349-248CA887B79A", "status": "Inactive", "versionEndIncluding": "5.5.0", "versionStartIncluding": "5.4.0"}

@@ -1,0 +1,1 @@
+{"created": "2025-05-16T17:28:08.730", "criteria": "cpe:2.3:a:fortinet:fortivoice:7.2.0:*:*:*:*:*:*:*", "lastModified": "2025-08-21T13:16:56.260", "matchCriteriaId": "76B48D4B-338A-4CEB-8712-6D880FF0F034", "matches": [{"cpeName": "cpe:2.3:a:fortinet:fortivoice:7.2.0:*:*:*:*:*:*:*", "cpeNameId": "A1364CF9-64EF-4C21-8CD1-55A6729302E8"}], "status": "Active"}

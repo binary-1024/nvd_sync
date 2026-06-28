@@ -1,0 +1,1 @@
+{"created": "2026-04-10T00:58:53.780", "criteria": "cpe:2.3:a:tokuhirom:amon2\\:\\:plugin\\:\\:web\\:\\:csrfdefender:*:*:*:*:*:perl:*:*", "lastModified": "2026-04-10T00:58:53.780", "matchCriteriaId": "9976BCB7-13C5-4F44-A248-29D54E13E64E", "status": "Active", "versionEndIncluding": "7.03", "versionStartIncluding": "7.00"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-12-17T13:45:40.910", "created": "2022-12-16T18:46:52.620", "criteria": "cpe:2.3:a:fp_masterquiz_project:fp_masterquiz:*:*:*:*:*:typo3:*:*", "lastModified": "2022-12-16T18:46:52.620", "matchCriteriaId": "1F28B308-83CB-4548-A4B2-7520F0EDDD21", "status": "Active", "versionEndExcluding": "3.5.1", "versionStartIncluding": "3.0.0"}

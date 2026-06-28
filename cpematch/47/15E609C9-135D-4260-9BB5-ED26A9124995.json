@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-11-26T14:26:38.623", "created": "2021-11-26T10:43:01.497", "criteria": "cpe:2.3:a:wazuh:wazuh:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "15E609C9-135D-4260-9BB5-ED26A9124995", "status": "Inactive", "versionEndExcluding": "4.2.5"}

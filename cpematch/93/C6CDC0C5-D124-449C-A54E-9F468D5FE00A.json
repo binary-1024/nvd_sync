@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-05-19T18:33:45.780", "created": "2022-05-19T18:33:45.780", "criteria": "cpe:2.3:a:openclinica:openclinica:*:*:*:*:*:*:*:*", "lastModified": "2022-05-19T18:33:45.780", "matchCriteriaId": "C6CDC0C5-D124-449C-A54E-9F468D5FE00A", "status": "Active", "versionEndExcluding": "3.15.9", "versionStartExcluding": "3.15"}

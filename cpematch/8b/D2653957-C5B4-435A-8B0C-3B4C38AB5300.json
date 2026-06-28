@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-01-28T19:21:16.547", "created": "2022-01-28T08:26:56.983", "criteria": "cpe:2.3:a:conda_loguru_project:conda_loguru:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "D2653957-C5B4-435A-8B0C-3B4C38AB5300", "status": "Inactive", "versionEndExcluding": "0.5.3"}

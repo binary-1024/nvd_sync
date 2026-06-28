@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-10-06T12:19:34.880", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:a:apache:commons-compress:*:*:*:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "matchCriteriaId": "9E7B3EB8-5C38-451A-8645-3FA66E4700E6", "status": "Inactive", "versionEndIncluding": "1.15", "versionStartIncluding": "1.11"}

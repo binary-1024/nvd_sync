@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-07-15T17:38:35.000", "created": "2021-08-10T16:31:26.180", "criteria": "cpe:2.3:a:cisco:confd:*:*:*:*:*:*:*:*", "lastModified": "2021-08-10T16:31:26.180", "matchCriteriaId": "00B1645F-8B9B-4B33-B059-6BD9F930B693", "status": "Active", "versionEndIncluding": "7.4.3", "versionStartIncluding": "7.4"}

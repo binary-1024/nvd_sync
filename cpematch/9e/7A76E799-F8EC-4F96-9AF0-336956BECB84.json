@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-03-10T20:02:47.267", "created": "2022-03-10T17:46:51.327", "criteria": "cpe:2.3:a:samba:samba:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "7A76E799-F8EC-4F96-9AF0-336956BECB84", "status": "Inactive", "versionEndIncluding": "4.15.1", "versionStartIncluding": "4.10.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-03-15T15:59:27.160", "created": "2022-03-14T17:02:31.937", "criteria": "cpe:2.3:o:watchguard:fireware:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "3CFF8DDC-4C8F-400D-A00A-508DB2DD67FC", "status": "Inactive", "versionEndExcluding": "12.5.9", "versionStartIncluding": "12.5.0"}

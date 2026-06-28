@@ -1,0 +1,1 @@
+{"created": "2025-04-29T14:30:50.097", "criteria": "cpe:2.3:a:libmodbus:libmodbus:3.1.10:*:*:*:*:*:*:*", "lastModified": "2025-11-21T20:53:31.100", "matchCriteriaId": "524EB0BF-4994-4369-BD85-CC578548CA1C", "matches": [{"cpeName": "cpe:2.3:a:libmodbus:libmodbus:3.1.10:*:*:*:*:*:*:*", "cpeNameId": "E286C650-6678-4EF3-9673-95A48D9777B8"}], "status": "Active"}

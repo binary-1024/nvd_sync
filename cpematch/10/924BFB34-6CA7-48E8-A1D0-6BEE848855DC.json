@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-06-04T15:43:39.990", "created": "2026-06-04T15:43:39.990", "criteria": "cpe:2.3:o:linaro:op-tee:*:*:*:*:*:*:*:*", "lastModified": "2026-06-05T20:13:25.387", "matchCriteriaId": "924BFB34-6CA7-48E8-A1D0-6BEE848855DC", "status": "Inactive", "versionEndIncluding": "4.10.0", "versionStartIncluding": "4.3.0"}

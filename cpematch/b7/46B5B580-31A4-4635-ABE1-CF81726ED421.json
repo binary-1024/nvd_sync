@@ -1,0 +1,1 @@
+{"created": "2025-12-17T21:10:21.207", "criteria": "cpe:2.3:a:git:git:*:*:*:*:*:*:*:*", "lastModified": "2025-12-17T21:10:21.207", "matchCriteriaId": "46B5B580-31A4-4635-ABE1-CF81726ED421", "status": "Active", "versionEndExcluding": "2.45.1", "versionStartIncluding": "2.45.0"}

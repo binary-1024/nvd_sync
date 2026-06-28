@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-11-09T16:48:01.253", "created": "2021-06-21T13:36:59.677", "criteria": "cpe:2.3:a:rubyonrails:rails:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "E08E13E3-BFEE-4860-A4DD-EF9349D8E833", "status": "Inactive", "versionEndExcluding": "6.0.3.7"}

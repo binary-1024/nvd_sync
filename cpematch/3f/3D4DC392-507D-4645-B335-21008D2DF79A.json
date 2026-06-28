@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-05-25T12:49:19.753", "created": "2021-05-25T12:48:10.293", "criteria": "cpe:2.3:a:ibm:gpfs.tct.server:*:*:*:*:*:*:*:*", "lastModified": "2021-05-25T12:48:10.293", "matchCriteriaId": "3D4DC392-507D-4645-B335-21008D2DF79A", "status": "Inactive", "versionEndIncluding": "1.1.8.4", "versionStartIncluding": "1.1.1.0"}

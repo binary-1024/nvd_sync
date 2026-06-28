@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-09-27T14:00:32.330", "created": "2022-09-27T14:00:32.330", "criteria": "cpe:2.3:a:ibm:common_cryptographic_architecture:*:*:*:*:mtm_for_4767:*:*:*", "lastModified": "2022-09-27T14:00:32.330", "matchCriteriaId": "39A7502A-F886-4450-9225-D4D17E337AD6", "status": "Active", "versionEndExcluding": "5.7.12", "versionStartIncluding": "5.0.0"}

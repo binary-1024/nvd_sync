@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-06-13T18:35:29.303", "created": "2025-06-13T18:35:29.303", "criteria": "cpe:2.3:a:thinkphp:thinkphp:*:*:*:*:*:*:*:*", "lastModified": "2025-06-14T02:00:34.920", "matchCriteriaId": "678ABA3E-DA96-4439-8629-ECEFAA6764F4", "status": "Inactive", "versionEndExcluding": "8.0.4", "versionStartIncluding": "6.1.3"}

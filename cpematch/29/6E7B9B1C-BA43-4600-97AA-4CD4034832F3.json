@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-06-13T15:06:47.093", "created": "2022-06-13T14:20:00.847", "criteria": "cpe:2.3:a:ibm:turbonomic_sevone_network_management_system:*:*:*:*:*:*:*:*", "lastModified": "2022-06-13T15:06:47.093", "matchCriteriaId": "6E7B9B1C-BA43-4600-97AA-4CD4034832F3", "status": "Inactive", "versionEndIncluding": "5.7.2.22", "versionStartIncluding": "5.7.2.0"}

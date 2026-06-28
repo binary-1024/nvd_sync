@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-08-05T12:58:25.383", "created": "2025-08-05T12:58:25.383", "criteria": "cpe:2.3:a:redhat:pagure:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "78C68CBE-6D6C-4713-8F1C-E1EA16C9E2C4", "status": "Inactive", "versionEndExcluding": "5.14.1", "versionStartIncluding": "0"}

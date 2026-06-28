@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-07-23T18:08:59.820", "created": "2025-07-23T14:37:51.703", "criteria": "cpe:2.3:a:apache:jena:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "4D592478-2EDE-45A2-991D-3782B4385B63", "status": "Inactive", "versionEndIncluding": "5.4.0"}

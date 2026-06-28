@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-10-18T18:38:04.423", "created": "2021-11-03T15:23:30.753", "criteria": "cpe:2.3:a:akka:http_server:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "78CA03EE-3379-49A9-8748-152F0C982E5F", "status": "Inactive", "versionEndExcluding": "10.2.7", "versionStartIncluding": "10.1.0"}

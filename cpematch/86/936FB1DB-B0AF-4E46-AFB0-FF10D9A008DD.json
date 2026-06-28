@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-10-08T13:28:16.883", "created": "2021-10-05T18:21:55.450", "criteria": "cpe:2.3:a:f-secure:internet_gatekeeper:*:*:*:*:*:*:*:*", "lastModified": "2021-10-05T18:21:55.450", "matchCriteriaId": "936FB1DB-B0AF-4E46-AFB0-FF10D9A008DD", "status": "Active", "versionEndIncluding": "5.50.47", "versionStartIncluding": "5.10"}

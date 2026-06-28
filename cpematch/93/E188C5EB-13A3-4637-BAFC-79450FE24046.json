@@ -1,0 +1,1 @@
+{"created": "2025-09-03T13:55:39.150", "criteria": "cpe:2.3:a:langflow:langflow:1.5.0:dev27:*:*:*:*:*:*", "lastModified": "2025-09-03T14:27:09.910", "matchCriteriaId": "E188C5EB-13A3-4637-BAFC-79450FE24046", "matches": [{"cpeName": "cpe:2.3:a:langflow:langflow:1.5.0:dev27:*:*:*:*:*:*", "cpeNameId": "A2600319-53AC-4A30-9B72-47E91D7F5B1D"}], "status": "Active"}

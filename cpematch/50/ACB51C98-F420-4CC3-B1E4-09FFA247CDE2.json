@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-06-30T20:15:05.577", "created": "2021-06-30T20:15:05.577", "criteria": "cpe:2.3:a:python:urllib3:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "ACB51C98-F420-4CC3-B1E4-09FFA247CDE2", "status": "Inactive", "versionEndExcluding": "1.26.5"}

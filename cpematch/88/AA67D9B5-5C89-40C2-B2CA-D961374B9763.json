@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-05-16T17:38:54.020", "created": "2025-05-16T17:38:54.020", "criteria": "cpe:2.3:a:sap:netweaver:*:*:*:*:java_as:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "AA67D9B5-5C89-40C2-B2CA-D961374B9763", "status": "Inactive", "versionEndIncluding": "7.50", "versionStartIncluding": "7.1"}

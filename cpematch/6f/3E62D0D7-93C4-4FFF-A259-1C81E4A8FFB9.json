@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-08-06T14:30:51.043", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:a:vmware:airwatch_console:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "3E62D0D7-93C4-4FFF-A259-1C81E4A8FFB9", "status": "Inactive", "versionEndExcluding": "9.2.2", "versionStartIncluding": "9.0"}

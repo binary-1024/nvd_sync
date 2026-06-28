@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-03-16T11:55:31.917", "created": "2021-03-16T11:54:46.807", "criteria": "cpe:2.3:a:sap:ui:*:*:*:*:*:*:*:*", "lastModified": "2021-03-16T11:54:46.807", "matchCriteriaId": "1EEE8371-0E93-4FA0-873F-C8C015ADA654", "status": "Inactive", "versionEndExcluding": "1.60.34", "versionStartIncluding": "1.54.3"}

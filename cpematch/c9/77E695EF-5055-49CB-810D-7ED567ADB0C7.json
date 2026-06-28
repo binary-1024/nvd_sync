@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-11-28T17:26:02.010", "created": "2022-11-28T17:26:02.010", "criteria": "cpe:2.3:a:qs_project:qs:*:*:*:*:*:node.js:*:*", "lastModified": "2022-11-28T17:29:54.020", "matchCriteriaId": "77E695EF-5055-49CB-810D-7ED567ADB0C7", "status": "Inactive", "versionEndExcluding": "6.2.4", "versionStartIncluding": "6.2.0"}

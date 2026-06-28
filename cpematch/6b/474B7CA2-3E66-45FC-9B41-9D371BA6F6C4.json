@@ -1,0 +1,1 @@
+{"created": "2022-01-05T18:46:35.683", "criteria": "cpe:2.3:a:nanorand_project:nanorand:*:*:*:*:*:rust:*:*", "lastModified": "2022-01-05T18:46:35.683", "matchCriteriaId": "474B7CA2-3E66-45FC-9B41-9D371BA6F6C4", "status": "Inactive", "versionEndExcluding": "0.6.1"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-08-04T15:12:06.900", "created": "2021-02-11T14:39:52.093", "criteria": "cpe:2.3:a:openbsd:openssh:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "9037BC57-6EA6-48C5-B691-D82E7C81E7A5", "status": "Inactive", "versionEndIncluding": "8.4", "versionStartIncluding": "5.7"}

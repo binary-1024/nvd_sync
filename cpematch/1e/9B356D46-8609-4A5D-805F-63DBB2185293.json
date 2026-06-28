@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-10-28T14:06:45.640", "created": "2024-10-28T14:06:45.640", "criteria": "cpe:2.3:a:lakesidesoftware:systrack_lsiagent:*:*:*:*:*:windows:*:*", "lastModified": "2024-10-31T02:00:39.400", "matchCriteriaId": "9B356D46-8609-4A5D-805F-63DBB2185293", "status": "Inactive", "versionEndIncluding": "11.0", "versionStartIncluding": "10.7.8"}

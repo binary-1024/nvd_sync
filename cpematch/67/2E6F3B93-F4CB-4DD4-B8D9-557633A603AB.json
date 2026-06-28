@@ -1,0 +1,1 @@
+{"created": "2021-07-19T13:20:33.790", "criteria": "cpe:2.3:a:paloaltonetworks:prisma_cloud:*:*:*:*:compute:*:*:*", "lastModified": "2021-07-19T13:20:33.790", "matchCriteriaId": "2E6F3B93-F4CB-4DD4-B8D9-557633A603AB", "status": "Active", "versionEndExcluding": "21.04.439", "versionStartIncluding": "21.04"}

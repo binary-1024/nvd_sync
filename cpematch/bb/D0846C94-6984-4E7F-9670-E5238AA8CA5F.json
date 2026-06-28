@@ -1,0 +1,1 @@
+{"created": "2025-10-23T15:15:41.613", "criteria": "cpe:2.3:a:oracle:vm_virtualbox:7.1.12:*:*:*:*:*:*:*", "lastModified": "2025-10-28T18:38:43.197", "matchCriteriaId": "D0846C94-6984-4E7F-9670-E5238AA8CA5F", "matches": [{"cpeName": "cpe:2.3:a:oracle:vm_virtualbox:7.1.12:*:*:*:*:*:*:*", "cpeNameId": "45CCFA8E-6733-4DE6-8DCA-FBCB432DA3C6"}], "status": "Active"}

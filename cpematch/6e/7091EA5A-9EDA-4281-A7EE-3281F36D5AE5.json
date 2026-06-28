@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-07-02T01:20:02.697", "created": "2022-07-02T01:20:02.697", "criteria": "cpe:2.3:a:pypi:watools:*:*:*:*:*:pypi:*:*", "lastModified": "2022-07-02T01:20:02.697", "matchCriteriaId": "7091EA5A-9EDA-4281-A7EE-3281F36D5AE5", "status": "Active", "versionEndIncluding": "0.0.8", "versionStartIncluding": "0.0.1"}

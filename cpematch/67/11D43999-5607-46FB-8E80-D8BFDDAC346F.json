@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-02-27T19:19:37.687", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:a:openssl_project:openssl:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "11D43999-5607-46FB-8E80-D8BFDDAC346F", "status": "Inactive", "versionEndIncluding": "0.9.8g"}

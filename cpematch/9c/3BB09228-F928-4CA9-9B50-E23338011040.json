@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-07-06T18:51:08.237", "created": "2022-07-06T18:51:08.237", "criteria": "cpe:2.3:a:catly_translate_project:catly_translate:*:*:*:*:*:pypi:*:*", "lastModified": "2022-07-06T18:51:08.237", "matchCriteriaId": "3BB09228-F928-4CA9-9B50-E23338011040", "status": "Active", "versionEndIncluding": "0.0.5", "versionStartIncluding": "0.0.3"}

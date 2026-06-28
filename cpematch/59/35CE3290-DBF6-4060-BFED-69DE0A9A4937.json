@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-05-03T17:53:50.150", "created": "2021-03-29T12:44:26.827", "criteria": "cpe:2.3:a:redmine:redmine:*:*:*:*:*:*:*:*", "lastModified": "2021-03-29T12:44:26.827", "matchCriteriaId": "35CE3290-DBF6-4060-BFED-69DE0A9A4937", "status": "Inactive", "versionEndExcluding": "4.1.2", "versionStartIncluding": "4.0.0"}

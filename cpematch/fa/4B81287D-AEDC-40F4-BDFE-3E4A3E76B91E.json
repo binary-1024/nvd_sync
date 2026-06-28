@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-11-29T18:50:24.327", "created": "2024-11-29T18:50:24.327", "criteria": "cpe:2.3:a:microsoft:confidental_containers:*:*:*:*:*:azure_cli:*:*", "lastModified": "2024-11-29T18:50:24.327", "matchCriteriaId": "4B81287D-AEDC-40F4-BDFE-3E4A3E76B91E", "status": "Active", "versionEndExcluding": "0.3.3"}

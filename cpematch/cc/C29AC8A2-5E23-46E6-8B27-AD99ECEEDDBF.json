@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-04-07T12:54:28.107", "created": "2025-04-07T12:54:28.107", "criteria": "cpe:2.3:a:arm:midgard_gpu_kernel_driver:*:*:*:*:*:*:*:*", "lastModified": "2025-04-08T02:00:38.343", "matchCriteriaId": "C29AC8A2-5E23-46E6-8B27-AD99ECEEDDBF", "status": "Inactive", "versionEndIncluding": "r32p0", "versionStartIncluding": "r26p0"}

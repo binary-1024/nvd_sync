@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-09-26T11:29:46.647", "created": "2022-09-26T11:29:46.647", "criteria": "cpe:2.3:a:microsoft:system_center_configuration_manager:*:*:*:*:*:*:*:*", "lastModified": "2022-09-26T12:34:25.123", "matchCriteriaId": "6BD77F97-4FBE-42E4-9D57-DDB37D9F6612", "status": "Inactive", "versionEndExcluding": "2.3.0"}

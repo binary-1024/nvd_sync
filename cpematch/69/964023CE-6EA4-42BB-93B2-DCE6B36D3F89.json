@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-10-04T16:14:02.737", "created": "2021-10-04T12:19:52.220", "criteria": "cpe:2.3:a:sap:s4core:104:*:*:*:*:*:*:*", "lastModified": "2021-10-04T12:19:52.220", "matchCriteriaId": "964023CE-6EA4-42BB-93B2-DCE6B36D3F89", "matches": [{"cpeName": "cpe:2.3:a:sap:s4core:104:*:*:*:*:*:*:*", "cpeNameId": "EB44F358-C015-41DC-8D73-4D0B63357923"}], "status": "Active"}

@@ -1,0 +1,1 @@
+{"created": "2025-12-18T18:36:38.757", "criteria": "cpe:2.3:o:valuehd:vx60asl_firmware:*:*:*:*:*:*:*:*", "lastModified": "2025-12-19T19:24:54.553", "matchCriteriaId": "4CC87018-A8AA-459B-8E66-3557E4FDBE25", "matches": [{"cpeName": "cpe:2.3:o:valuehd:vx60asl_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "6A60EA13-5964-4BC5-8755-F7C5F0A97791"}], "status": "Active"}

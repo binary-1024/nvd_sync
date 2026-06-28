@@ -1,0 +1,1 @@
+{"created": "2025-08-25T14:29:58.480", "criteria": "cpe:2.3:h:cisco:secure_firewall_4215:-:*:*:*:*:*:*:*", "lastModified": "2025-08-25T17:50:58.130", "matchCriteriaId": "CC379023-9ECB-4BED-B667-5BCFC9872416", "matches": [{"cpeName": "cpe:2.3:h:cisco:secure_firewall_4215:-:*:*:*:*:*:*:*", "cpeNameId": "71F07915-A99A-4588-A134-19774C306023"}], "status": "Active"}

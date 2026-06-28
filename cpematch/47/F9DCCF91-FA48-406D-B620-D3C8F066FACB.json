@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-02-03T03:15:39.403", "created": "2023-12-27T20:44:48.893", "criteria": "cpe:2.3:a:libssh2:libssh2:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "F9DCCF91-FA48-406D-B620-D3C8F066FACB", "status": "Inactive", "versionEndExcluding": "1.11.10"}

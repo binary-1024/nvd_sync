@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-09-25T16:25:22.153", "created": "2023-09-25T16:25:22.153", "criteria": "cpe:2.3:a:miniorange:prevent_files_\\/_folders_access:*:*:*:*:*:wordpress:*:*", "lastModified": "2023-09-25T16:25:22.153", "matchCriteriaId": "90699DDE-E529-4C9B-A598-6F6C544B38D1", "status": "Active", "versionEndExcluding": "2.5.2"}

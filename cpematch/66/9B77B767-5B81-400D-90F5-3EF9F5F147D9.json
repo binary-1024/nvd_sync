@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-04-09T13:23:01.603", "created": "2023-07-24T11:11:01.540", "criteria": "cpe:2.3:a:mongoosejs:mongoose:*:*:*:*:*:node.js:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "9B77B767-5B81-400D-90F5-3EF9F5F147D9", "status": "Inactive", "versionEndExcluding": "7.3.4"}

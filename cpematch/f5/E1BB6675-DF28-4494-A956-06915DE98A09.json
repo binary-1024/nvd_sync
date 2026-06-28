@@ -1,0 +1,1 @@
+{"created": "2026-05-07T15:03:21.660", "criteria": "cpe:2.3:o:suse:linux_enterprise_micro:5.3:*:*:*:*:rancher:*:*", "lastModified": "2026-05-18T12:11:21.543", "matchCriteriaId": "E1BB6675-DF28-4494-A956-06915DE98A09", "matches": [{"cpeName": "cpe:2.3:o:suse:linux_enterprise_micro:5.3:*:*:*:*:rancher:*:*", "cpeNameId": "73B86BC3-0F53-40D4-ABDD-BA1E0F0EA9D0"}], "status": "Active"}

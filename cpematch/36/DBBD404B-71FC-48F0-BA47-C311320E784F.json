@@ -1,0 +1,1 @@
+{"created": "2025-12-18T18:36:38.757", "criteria": "cpe:2.3:o:smtav:ba12-n_firmware:*:*:*:*:*:*:*:*", "lastModified": "2025-12-19T19:24:16.480", "matchCriteriaId": "DBBD404B-71FC-48F0-BA47-C311320E784F", "matches": [{"cpeName": "cpe:2.3:o:smtav:ba12-n_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "08EF9A10-9646-4B19-A808-1674DA3169BA"}], "status": "Active"}

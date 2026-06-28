@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-11-14T17:54:19.240", "created": "2024-11-14T17:54:19.240", "criteria": "cpe:2.3:a:sap:hana-client:*:*:*:*:*:node.js:*:*", "lastModified": "2024-11-14T17:54:19.240", "matchCriteriaId": "F5C1E6EC-59D6-4B6B-AEFA-5CA4E39D8AC2", "status": "Active", "versionEndExcluding": "2.21.31", "versionStartIncluding": "2.0.0"}

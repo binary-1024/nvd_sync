@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-03-06T22:35:21.623", "created": "2026-03-06T22:35:21.623", "criteria": "cpe:2.3:a:gnu:libcdio:*:*:*:*:*:*:*:*", "lastModified": "2026-03-06T22:35:21.623", "matchCriteriaId": "F6ECB3A8-51A1-4574-A821-AA0D861E23FF", "status": "Active", "versionEndExcluding": "2.3.0", "versionStartIncluding": "2.2.0"}

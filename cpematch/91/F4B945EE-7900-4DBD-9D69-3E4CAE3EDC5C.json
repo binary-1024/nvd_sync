@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-08-13T12:25:41.167", "created": "2021-08-13T12:25:41.167", "criteria": "cpe:2.3:a:citrix:netscaler_application_delivery_controller:*:*:*:*:*:*:*:*", "lastModified": "2021-08-13T12:25:41.167", "matchCriteriaId": "F4B945EE-7900-4DBD-9D69-3E4CAE3EDC5C", "status": "Inactive", "versionEndExcluding": "11.1-65.22", "versionStartIncluding": "11.1"}

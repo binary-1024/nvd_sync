@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-06-30T16:34:30.163", "created": "2022-06-30T16:34:30.163", "criteria": "cpe:2.3:a:saltstack:salt:*:*:*:*:*:*:*:*", "lastModified": "2022-06-30T16:34:30.163", "matchCriteriaId": "120B6309-524A-4009-BA3D-4AA0BD6EC940", "status": "Inactive", "versionEndExcluding": "3002.9", "versionStartIncluding": "3002"}

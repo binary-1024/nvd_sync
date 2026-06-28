@@ -1,0 +1,1 @@
+{"created": "2025-08-15T14:43:57.120", "criteria": "cpe:2.3:a:ibm:security_directory_integrator:*:*:*:*:*:*:*:*", "lastModified": "2025-08-15T14:43:57.120", "matchCriteriaId": "17017E07-0E79-4B27-84B6-0EDC78E9C97C", "status": "Active", "versionEndIncluding": "10.0.3", "versionStartIncluding": "10.0.0"}

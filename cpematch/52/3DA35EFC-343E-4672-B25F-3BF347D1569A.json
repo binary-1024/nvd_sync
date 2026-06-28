@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-06-04T14:01:41.883", "created": "2024-06-04T14:01:41.883", "criteria": "cpe:2.3:a:atlassian:confluence_data_center:*:*:*:*:lts:*:*:*", "lastModified": "2024-06-04T14:01:41.883", "matchCriteriaId": "3DA35EFC-343E-4672-B25F-3BF347D1569A", "status": "Inactive", "versionEndExcluding": "8.5.9", "versionStartIncluding": "8.5.0"}

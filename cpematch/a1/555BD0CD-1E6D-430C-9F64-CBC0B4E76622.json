@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-02-19T03:53:11.587", "created": "2022-02-17T20:46:34.087", "criteria": "cpe:2.3:o:intel:xeon_w-1300_series_firmware:*:*:*:*:*:*:*:*", "lastModified": "2022-02-17T20:46:34.087", "matchCriteriaId": "555BD0CD-1E6D-430C-9F64-CBC0B4E76622", "status": "Active", "versionEndExcluding": "csme_15.0.35"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2020-12-17T19:16:14.923", "created": "2020-12-17T19:16:14.907", "criteria": "cpe:2.3:a:influxdata:influxdb:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "DEFB32C5-EF3D-44CC-8880-E9F748942F30", "status": "Inactive", "versionEndExcluding": "1.7.3-mete-alpine", "versionStartIncluding": "1.0.1-alpine"}

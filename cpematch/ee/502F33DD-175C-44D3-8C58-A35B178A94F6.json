@@ -1,0 +1,1 @@
+{"created": "2025-07-25T12:18:48.353", "criteria": "cpe:2.3:a:citrix:provisioning:1912:cu1:*:*:ltsr:*:*:*", "lastModified": "2025-08-12T17:39:11.590", "matchCriteriaId": "502F33DD-175C-44D3-8C58-A35B178A94F6", "matches": [{"cpeName": "cpe:2.3:a:citrix:provisioning:1912:cu1:*:*:ltsr:*:*:*", "cpeNameId": "C9475E0D-247E-4BA3-8BDD-1490ABEAB33E"}], "status": "Active"}

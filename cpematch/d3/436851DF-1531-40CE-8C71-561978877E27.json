@@ -1,0 +1,1 @@
+{"created": "2025-05-09T20:20:51.467", "criteria": "cpe:2.3:h:netapp:hci_h610c:-:*:*:*:*:*:*:*", "lastModified": "2025-10-14T17:09:41.363", "matchCriteriaId": "436851DF-1531-40CE-8C71-561978877E27", "matches": [{"cpeName": "cpe:2.3:h:netapp:hci_h610c:-:*:*:*:*:*:*:*", "cpeNameId": "4790A4DD-DA3D-4276-A1E8-0C7A60751B70"}], "status": "Active"}

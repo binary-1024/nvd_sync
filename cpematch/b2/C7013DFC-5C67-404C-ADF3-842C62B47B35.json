@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-11-23T14:58:14.913", "created": "2021-11-22T19:20:49.257", "criteria": "cpe:2.3:a:gallagher:command_centre_mobile_connect:*:*:*:*:*:android:*:*", "lastModified": "2021-11-22T19:20:49.257", "matchCriteriaId": "C7013DFC-5C67-404C-ADF3-842C62B47B35", "status": "Active", "versionEndExcluding": "15.04.040", "versionStartIncluding": "15.0"}

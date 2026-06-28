@@ -1,0 +1,1 @@
+{"created": "2026-03-10T19:21:33.557", "criteria": "cpe:2.3:a:redhat:jboss_enterprise_application_platform:*:*:*:*:*:*:*:*", "lastModified": "2026-03-10T19:21:33.557", "matchCriteriaId": "47585EEB-2EB2-42D6-B06E-290BCE788A9F", "status": "Active", "versionEndExcluding": "8.1.3", "versionStartIncluding": "8.1.0"}

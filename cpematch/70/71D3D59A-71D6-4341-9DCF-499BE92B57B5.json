@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-08-02T15:22:40.343", "created": "2022-08-02T15:22:40.343", "criteria": "cpe:2.3:a:mcafee:endpoint_security_for_linux_threat_prevention:*:*:*:*:*:linux:*:*", "lastModified": "2022-08-02T15:22:40.343", "matchCriteriaId": "71D3D59A-71D6-4341-9DCF-499BE92B57B5", "status": "Inactive", "versionEndExcluding": "10.7.5", "versionStartIncluding": "10.5.0"}

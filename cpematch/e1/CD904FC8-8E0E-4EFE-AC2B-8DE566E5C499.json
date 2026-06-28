@@ -1,0 +1,1 @@
+{"cpeLastModified": "2019-09-26T22:02:16.827", "created": "2019-09-26T22:02:16.810", "criteria": "cpe:2.3:a:apache:http_server:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "CD904FC8-8E0E-4EFE-AC2B-8DE566E5C499", "status": "Inactive", "versionEndIncluding": "2.4.39", "versionStartIncluding": "2.4.32"}

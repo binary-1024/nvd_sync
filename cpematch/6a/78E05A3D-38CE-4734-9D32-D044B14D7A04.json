@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-07-03T20:59:17.147", "created": "2021-02-10T15:55:28.700", "criteria": "cpe:2.3:a:trustwave:modsecurity:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "78E05A3D-38CE-4734-9D32-D044B14D7A04", "status": "Inactive", "versionEndIncluding": "2.5.10"}

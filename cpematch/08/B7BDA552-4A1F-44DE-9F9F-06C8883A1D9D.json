@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-12-16T13:42:35.790", "created": "2025-12-16T13:42:35.790", "criteria": "cpe:2.3:a:alexusmai:laravel_file_manager:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T13:42:35.790", "matchCriteriaId": "B7BDA552-4A1F-44DE-9F9F-06C8883A1D9D", "status": "Active", "versionEndIncluding": "3.3.1"}

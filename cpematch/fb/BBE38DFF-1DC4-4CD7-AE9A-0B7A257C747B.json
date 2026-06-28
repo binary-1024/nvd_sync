@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-08-18T15:31:59.203", "created": "2022-09-19T11:31:32.187", "criteria": "cpe:2.3:a:go-cvss_project:go-cvss:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "BBE38DFF-1DC4-4CD7-AE9A-0B7A257C747B", "status": "Inactive", "versionEndExcluding": "0.4.0", "versionStartIncluding": "0.2.0"}

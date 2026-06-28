@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-07-20T15:17:03.797", "created": "2023-07-20T15:17:03.797", "criteria": "cpe:2.3:a:sonicwall:global_management_system:*:*:*:*:virtual_appliance:*:*:*", "lastModified": "2023-07-20T15:17:03.797", "matchCriteriaId": "12CB3495-2949-4D79-98F9-2156B0296C94", "status": "Active", "versionEndExcluding": "9.3.2"}

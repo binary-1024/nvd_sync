@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-12-17T22:08:09.510", "created": "2025-12-17T22:08:09.510", "criteria": "cpe:2.3:a:git:git:*:*:*:*:*:*:*:*", "lastModified": "2025-12-17T22:08:09.510", "matchCriteriaId": "C8D64084-F97C-495F-953A-36542E0E09B1", "status": "Active", "versionEndIncluding": "2.45.3", "versionStartIncluding": "2.45.0"}

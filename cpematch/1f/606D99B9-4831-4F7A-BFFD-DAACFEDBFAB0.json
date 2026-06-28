@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-03-17T21:17:02.613", "created": "2019-09-17T16:13:02.167", "criteria": "cpe:2.3:a:codesys:hmi:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "606D99B9-4831-4F7A-BFFD-DAACFEDBFAB0", "status": "Inactive", "versionEndIncluding": "3.5.12.30", "versionStartIncluding": "3.5.12.0"}

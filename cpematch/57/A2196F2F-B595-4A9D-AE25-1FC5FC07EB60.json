@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-03-10T14:30:50.460", "created": "2022-03-07T18:30:46.643", "criteria": "cpe:2.3:a:neo4j:awesome_procedures:*:*:*:*:*:neo4j:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "A2196F2F-B595-4A9D-AE25-1FC5FC07EB60", "status": "Inactive", "versionEndExcluding": "3.5.17"}

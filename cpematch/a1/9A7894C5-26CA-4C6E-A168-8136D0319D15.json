@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-12-06T15:29:44.907", "created": "2022-02-09T18:39:38.620", "criteria": "cpe:2.3:a:frourio_project:frourio:*:*:*:*:*:node.js:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "9A7894C5-26CA-4C6E-A168-8136D0319D15", "status": "Inactive", "versionEndExcluding": "0.26.0"}

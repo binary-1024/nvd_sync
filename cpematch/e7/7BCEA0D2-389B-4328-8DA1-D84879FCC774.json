@@ -1,0 +1,1 @@
+{"created": "2021-10-08T16:01:28.123", "criteria": "cpe:2.3:a:redislabs:redis:*:*:*:*:*:*:*:*", "lastModified": "2021-10-08T16:01:28.123", "matchCriteriaId": "7BCEA0D2-389B-4328-8DA1-D84879FCC774", "status": "Inactive", "versionEndExcluding": "5.0.14"}

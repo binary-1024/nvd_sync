@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-10-25T19:40:12.230", "created": "2021-10-22T21:00:13.290", "criteria": "cpe:2.3:a:oracle:mysql:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "4AAA7CE5-AF4D-4CF7-9EAA-92F8BE08778C", "status": "Inactive", "versionEndIncluding": "7.5.23", "versionStartIncluding": "7.5.0"}

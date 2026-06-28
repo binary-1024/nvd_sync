@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-03-05T16:25:07.803", "created": "2020-10-06T11:07:47.277", "criteria": "cpe:2.3:a:smallpdf:json-pointer:*:*:*:*:*:node.js:*:*", "lastModified": "2025-03-06T03:00:41.263", "matchCriteriaId": "932B7E85-3F8D-4572-AAC6-AECFCB914C8A", "status": "Inactive", "versionEndExcluding": "0.6.1"}

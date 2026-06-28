@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-08-10T13:00:13.523", "created": "2023-08-10T12:54:05.217", "criteria": "cpe:2.3:a:matrix:matrix-appservice-irc:*:*:*:*:*:node.js:*:*", "lastModified": "2023-08-10T12:54:05.217", "matchCriteriaId": "D782170E-C590-428D-ACE7-29E22D4D6235", "status": "Active", "versionEndExcluding": "1.0.1"}

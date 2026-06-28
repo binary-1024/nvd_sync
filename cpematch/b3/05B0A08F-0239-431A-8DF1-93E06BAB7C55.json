@@ -1,0 +1,1 @@
+{"created": "2025-08-04T14:20:24.413", "criteria": "cpe:2.3:o:cisco:wap121_firmware:-:*:*:*:*:*:*:*", "lastModified": "2025-08-08T18:51:25.227", "matchCriteriaId": "05B0A08F-0239-431A-8DF1-93E06BAB7C55", "matches": [{"cpeName": "cpe:2.3:o:cisco:wap121_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "815744C7-B1F5-4C3D-9C77-D96980913B4D"}], "status": "Active"}

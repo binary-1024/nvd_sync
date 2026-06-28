@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-01-14T17:24:14.833", "created": "2021-01-06T14:34:43.630", "criteria": "cpe:2.3:a:protocol:multihash:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "5E649A00-077F-4E9D-9134-7521C75C479E", "status": "Inactive", "versionEndExcluding": "0.11.3"}

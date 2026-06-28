@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-06-02T15:26:03.170", "created": "2023-06-02T15:26:03.170", "criteria": "cpe:2.3:a:shopbeat:shop_beat:*:*:*:*:*:*:arm:*", "lastModified": "2023-06-03T02:00:13.250", "matchCriteriaId": "43D62A79-D10F-4821-9984-535918289A23", "status": "Inactive", "versionEndExcluding": "3.2.57", "versionStartIncluding": "2.5.95"}

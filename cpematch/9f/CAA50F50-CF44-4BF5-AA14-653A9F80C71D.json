@@ -1,0 +1,1 @@
+{"created": "2025-08-18T17:41:26.733", "criteria": "cpe:2.3:a:ibm:qiskit:*:*:*:*:*:php:*:*", "lastModified": "2025-08-18T17:41:26.733", "matchCriteriaId": "CAA50F50-CF44-4BF5-AA14-653A9F80C71D", "status": "Active", "versionEndExcluding": "1.4.2", "versionStartIncluding": "0.18.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-01-27T20:37:13.080", "created": "2026-01-27T20:37:13.080", "criteria": "cpe:2.3:a:cloudflare:wrangler:*:*:*:*:*:node.js:*:*", "lastModified": "2026-01-29T16:29:55.697", "matchCriteriaId": "D363B70A-7EC6-46E3-8B7C-185023AE6A35", "status": "Inactive", "versionEndExcluding": "3.114.17", "versionStartIncluding": "2.0.0"}

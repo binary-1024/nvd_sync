@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-03-06T20:26:20.267", "created": "2026-03-06T20:26:20.267", "criteria": "cpe:2.3:a:apollographql:apollo-server:*:*:*:*:*:*:*:*", "lastModified": "2026-03-06T20:26:20.267", "matchCriteriaId": "452E047E-0565-4E46-9511-05AC5DDE0A1A", "status": "Active", "versionEndExcluding": "5.4.0", "versionStartIncluding": "5.0.0"}

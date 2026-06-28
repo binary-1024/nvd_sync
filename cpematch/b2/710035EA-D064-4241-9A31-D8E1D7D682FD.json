@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-06-24T14:03:10.453", "created": "2022-06-24T14:03:10.453", "criteria": "cpe:2.3:a:1password:1password:*:*:*:*:*:linux:*:*", "lastModified": "2022-06-24T14:03:10.453", "matchCriteriaId": "710035EA-D064-4241-9A31-D8E1D7D682FD", "status": "Active", "versionEndExcluding": "8.7.1", "versionStartIncluding": "8.0"}

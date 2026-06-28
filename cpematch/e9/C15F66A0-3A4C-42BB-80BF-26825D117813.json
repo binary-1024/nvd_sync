@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-06-02T14:21:54.273", "created": "2025-06-02T14:07:18.710", "criteria": "cpe:2.3:a:ffmpeg:ffmpeg:*:*:*:*:*:*:*:*", "lastModified": "2025-06-02T14:21:54.273", "matchCriteriaId": "C15F66A0-3A4C-42BB-80BF-26825D117813", "status": "Inactive", "versionEndExcluding": "6.1.1", "versionStartIncluding": "5.1"}

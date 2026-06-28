@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-09-06T19:06:11.480", "created": "2024-09-06T19:06:11.480", "criteria": "cpe:2.3:a:miniorange:web_application_firewall:*:*:*:*:*:wordpress:*:*", "lastModified": "2024-09-06T19:06:11.480", "matchCriteriaId": "673D0DED-8B1F-4967-8EEB-B8955B0FFD4C", "status": "Active", "versionEndExcluding": "2.1.3"}

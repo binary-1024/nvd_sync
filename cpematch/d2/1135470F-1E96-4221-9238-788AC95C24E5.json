@@ -1,0 +1,1 @@
+{"created": "2025-08-26T20:54:54.783", "criteria": "cpe:2.3:a:mailjet_project:mailjet:*:*:*:*:*:drupal:*:*", "lastModified": "2025-08-26T20:55:15.997", "matchCriteriaId": "1135470F-1E96-4221-9238-788AC95C24E5", "status": "Inactive", "versionEndExcluding": "4.0.1", "versionStartIncluding": "3.x-dev"}

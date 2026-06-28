@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-08-22T17:36:05.803", "created": "2022-08-22T17:36:05.803", "criteria": "cpe:2.3:a:weave:gitops_tools:*:*:*:*:*:visual_studio_code:*:*", "lastModified": "2022-08-22T17:36:05.803", "matchCriteriaId": "40BDAEF7-757B-44AB-A042-97CEA0798553", "status": "Active", "versionEndIncluding": "0.20.9", "versionStartIncluding": "0.5.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-12-08T19:01:19.383", "created": "2021-12-08T18:55:18.287", "criteria": "cpe:2.3:a:citrix:sd-wan:*:*:*:*:wanop:*:*:*", "lastModified": "2021-12-08T18:55:18.287", "matchCriteriaId": "00C0944E-937D-42CD-A117-BB4ECAE52B61", "status": "Active", "versionEndExcluding": "10.2.9c"}

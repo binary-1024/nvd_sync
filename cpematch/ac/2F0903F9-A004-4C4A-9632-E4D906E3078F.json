@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-07-19T15:26:11.543", "created": "2022-07-19T15:26:11.543", "criteria": "cpe:2.3:a:convert2rhel_project:convert2rhel:*:*:*:*:*:*:*:*", "lastModified": "2022-07-19T15:26:11.543", "matchCriteriaId": "2F0903F9-A004-4C4A-9632-E4D906E3078F", "status": "Inactive", "versionEndExcluding": "0.26", "versionStartIncluding": "0.24"}

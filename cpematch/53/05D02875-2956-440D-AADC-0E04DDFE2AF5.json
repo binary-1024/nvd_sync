@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-01-25T21:08:28.450", "created": "2022-01-25T21:07:30.653", "criteria": "cpe:2.3:a:thalesgroup:safenet_authentication_service_remote_desktop_gateway:*:*:*:*:*:windows:*:*", "lastModified": "2022-01-25T21:07:30.653", "matchCriteriaId": "05D02875-2956-440D-AADC-0E04DDFE2AF5", "status": "Active", "versionEndIncluding": "2.0.3"}

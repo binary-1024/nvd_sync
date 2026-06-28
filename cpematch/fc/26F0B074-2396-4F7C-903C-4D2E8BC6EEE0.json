@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-12-31T00:03:33.163", "created": "2022-12-31T00:03:33.163", "criteria": "cpe:2.3:a:nats:nats_server:*:*:*:*:*:*:*:*", "lastModified": "2026-03-30T14:30:00.877", "matchCriteriaId": "26F0B074-2396-4F7C-903C-4D2E8BC6EEE0", "status": "Inactive", "versionEndExcluding": "2.0.2"}

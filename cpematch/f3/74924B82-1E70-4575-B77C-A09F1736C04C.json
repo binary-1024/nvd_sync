@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-06-08T15:12:20.420", "created": "2021-06-08T12:55:21.680", "criteria": "cpe:2.3:a:opennms:opennms:*:*:*:*:*:*:*:*", "lastModified": "2021-06-08T12:55:21.680", "matchCriteriaId": "74924B82-1E70-4575-B77C-A09F1736C04C", "status": "Inactive", "versionEndIncluding": "27.1.0-1", "versionStartIncluding": "1.0.1"}

@@ -1,0 +1,1 @@
+{"created": "2021-08-04T13:10:40.303", "criteria": "cpe:2.3:o:siemens:sinumerik_integrate_client_firmware:*:*:*:*:*:*:*:*", "lastModified": "2021-08-04T13:10:40.303", "matchCriteriaId": "63B57057-5292-44D6-BC83-EA91B69F8748", "status": "Active", "versionEndExcluding": "2.00.18", "versionStartIncluding": "2.00.12"}

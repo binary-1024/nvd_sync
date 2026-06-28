@@ -1,0 +1,1 @@
+{"cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:a:typo3:sql_frontend_extension:*:*:*:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "matchCriteriaId": "60CE5884-BF2B-48D2-BC34-1105A8F2E67E", "status": "Active", "versionEndIncluding": "1.0.11"}

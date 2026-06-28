@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-11-12T18:39:34.947", "created": "2025-11-12T18:39:34.947", "criteria": "cpe:2.3:a:microsoft:dynamics_365:*:*:*:*:*:field_service:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "A92EF3AD-BFFD-42E2-8A0A-E572030303F6", "status": "Inactive", "versionEndExcluding": "8.8.139.398"}

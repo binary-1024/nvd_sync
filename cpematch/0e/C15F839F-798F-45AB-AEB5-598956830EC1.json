@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-04-29T16:23:07.443", "created": "2025-04-29T16:23:07.443", "criteria": "cpe:2.3:o:cisco:fxos:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "C15F839F-798F-45AB-AEB5-598956830EC1", "status": "Inactive", "versionEndExcluding": "2.10.1.312", "versionStartIncluding": "2.8.1"}

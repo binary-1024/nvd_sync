@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-02-23T18:09:24.203", "created": "2024-02-23T18:09:24.203", "criteria": "cpe:2.3:a:esri:arcgis_server:*:*:*:*:*:*:*:*", "lastModified": "2024-02-23T18:12:46.773", "matchCriteriaId": "92F0BDAE-DA06-4D40-A37D-97A396ED0675", "status": "Inactive", "versionEndIncluding": "11.1", "versionStartIncluding": "10.8.1"}

@@ -1,0 +1,1 @@
+{"created": "2026-04-13T18:31:34.267", "criteria": "cpe:2.3:a:python:python:3.15.0:alpha4:*:*:*:*:*:*", "lastModified": "2026-05-18T14:53:36.137", "matchCriteriaId": "7184ABBA-B100-489E-B5C1-1C9EEC0546CA", "matches": [{"cpeName": "cpe:2.3:a:python:python:3.15.0:alpha4:*:*:*:*:*:*", "cpeNameId": "BA34036F-E0CE-4F06-9A7E-9E9E8C46452B"}], "status": "Active"}

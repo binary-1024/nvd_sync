@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-04-23T16:42:27.057", "created": "2021-03-11T14:34:16.390", "criteria": "cpe:2.3:a:zabbix:zabbix:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "F1EB9A59-4C03-48C6-B454-E7BCAE5FB4F3", "status": "Inactive", "versionEndExcluding": "5.2.4", "versionStartIncluding": "5.1.0"}

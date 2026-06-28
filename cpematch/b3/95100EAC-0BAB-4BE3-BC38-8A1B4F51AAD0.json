@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-11-30T17:24:45.897", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:a:emc:rsa_bsafe:*:*:*:*:micro_edition_suite:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "matchCriteriaId": "95100EAC-0BAB-4BE3-BC38-8A1B4F51AAD0", "status": "Inactive", "versionEndExcluding": "4.1.6.2", "versionStartIncluding": "4.1.0"}

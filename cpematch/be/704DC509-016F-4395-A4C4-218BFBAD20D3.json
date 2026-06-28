@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-07-31T16:10:33.880", "created": "2019-10-16T17:02:30.597", "criteria": "cpe:2.3:a:gnu:ncurses:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "704DC509-016F-4395-A4C4-218BFBAD20D3", "status": "Inactive", "versionEndExcluding": "6.1.20191012"}

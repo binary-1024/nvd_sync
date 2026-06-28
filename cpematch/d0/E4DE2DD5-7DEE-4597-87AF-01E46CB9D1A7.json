@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-03-17T16:56:48.970", "created": "2021-03-17T16:55:06.973", "criteria": "cpe:2.3:a:apache:subversion:*:*:*:*:*:*:*:*", "lastModified": "2021-03-17T16:55:06.973", "matchCriteriaId": "E4DE2DD5-7DEE-4597-87AF-01E46CB9D1A7", "status": "Inactive", "versionEndExcluding": "1.10.7"}

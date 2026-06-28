@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-10-25T05:35:53.593", "created": "2023-04-27T14:26:32.620", "criteria": "cpe:2.3:a:contribsys:sidekiq:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "CA980888-D4E1-481C-9509-AAA31E28B00C", "status": "Inactive", "versionEndExcluding": "7.0.8"}

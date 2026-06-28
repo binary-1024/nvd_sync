@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-03-13T19:49:41.667", "created": "2025-03-13T19:49:41.667", "criteria": "cpe:2.3:o:arm:trusted_firmware-m:*:*:*:*:*:*:*:*", "lastModified": "2026-06-05T20:07:06.873", "matchCriteriaId": "F4B4BC29-D610-4699-8E7C-203B54DB7A8D", "status": "Inactive", "versionEndIncluding": "1.2.0"}

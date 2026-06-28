@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-11-28T18:48:55.443", "created": "2025-11-28T18:48:55.443", "criteria": "cpe:2.3:a:finto:langfuse:*:*:*:*:*:*:*:*", "lastModified": "2025-12-02T17:40:40.233", "matchCriteriaId": "25AF97CA-987A-406F-9137-B081BE9D8479", "status": "Inactive", "versionEndExcluding": "2.95.11", "versionStartIncluding": "2.70.0"}

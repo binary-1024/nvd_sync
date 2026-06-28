@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-02-20T13:52:51.157", "created": "2025-02-19T15:51:45.540", "criteria": "cpe:2.3:a:jupyter:jupyter_server_proxy:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "2DC37C52-8463-4889-9F73-C2E40078A192", "status": "Inactive", "versionEndExcluding": "4.2.0", "versionStartIncluding": "4.0.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-01-05T15:27:19.127", "created": "2026-01-05T15:27:19.127", "criteria": "cpe:2.3:o:xen:xen:*:*:*:*:*:*:x86:*", "lastModified": "2026-01-05T15:36:19.333", "matchCriteriaId": "28B3C891-391E-4382-A43F-049E76B7B1C4", "status": "Inactive", "versionEndExcluding": "4.17.0"}

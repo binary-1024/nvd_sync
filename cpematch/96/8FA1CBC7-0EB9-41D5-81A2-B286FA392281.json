@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-06-10T11:39:35.407", "created": "2025-06-09T16:53:53.017", "criteria": "cpe:2.3:a:events_log_track_project:events_log_track:*:*:*:*:*:wordpress:*:*", "lastModified": "2025-06-09T16:53:53.017", "matchCriteriaId": "8FA1CBC7-0EB9-41D5-81A2-B286FA392281", "status": "Active", "versionEndExcluding": "3.1.11"}

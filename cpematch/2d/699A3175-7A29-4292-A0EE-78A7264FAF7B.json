@@ -1,0 +1,1 @@
+{"created": "2025-07-18T20:36:02.940", "criteria": "cpe:2.3:a:ibm:storage_scale:5.2.3.1:*:*:*:*:*:*:*", "lastModified": "2025-08-11T17:18:38.633", "matchCriteriaId": "699A3175-7A29-4292-A0EE-78A7264FAF7B", "matches": [{"cpeName": "cpe:2.3:a:ibm:storage_scale:5.2.3.1:*:*:*:*:*:*:*", "cpeNameId": "FE346731-8AA6-40D4-A577-1886B1D0B6B3"}], "status": "Active"}

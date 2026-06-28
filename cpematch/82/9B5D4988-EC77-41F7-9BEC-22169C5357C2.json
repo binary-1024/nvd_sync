@@ -1,0 +1,1 @@
+{"created": "2025-08-04T14:20:24.413", "criteria": "cpe:2.3:o:cisco:wap571_firmware:-:*:*:*:*:*:*:*", "lastModified": "2025-08-08T18:51:25.227", "matchCriteriaId": "9B5D4988-EC77-41F7-9BEC-22169C5357C2", "matches": [{"cpeName": "cpe:2.3:o:cisco:wap571_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "39D33E2F-7565-42AB-B767-B1635B6FF673"}], "status": "Active"}

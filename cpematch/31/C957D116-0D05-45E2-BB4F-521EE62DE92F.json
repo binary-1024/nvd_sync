@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-09-14T16:16:17.733", "created": "2022-09-14T16:16:17.733", "criteria": "cpe:2.3:a:kubevela:kubevela:*:*:*:*:*:*:*:*", "lastModified": "2022-09-14T16:16:17.733", "matchCriteriaId": "C957D116-0D05-45E2-BB4F-521EE62DE92F", "status": "Active", "versionEndExcluding": "1.4.11", "versionStartIncluding": "1.4.0"}

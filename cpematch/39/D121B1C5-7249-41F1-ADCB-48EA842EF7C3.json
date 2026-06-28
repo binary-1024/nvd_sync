@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-07-24T21:42:50.060", "created": "2023-07-24T21:42:50.060", "criteria": "cpe:2.3:a:wpadmin:aws_cdn:*:*:*:*:*:wordpress:*:*", "lastModified": "2023-07-24T21:42:50.060", "matchCriteriaId": "D121B1C5-7249-41F1-ADCB-48EA842EF7C3", "status": "Active", "versionEndIncluding": "2.0.13"}

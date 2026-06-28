@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-10-02T18:46:04.417", "created": "2023-10-02T18:42:18.587", "criteria": "cpe:2.3:a:illumio:illumio_core_pce:*:*:*:*:*:*:*:*", "lastModified": "2023-10-03T02:00:16.983", "matchCriteriaId": "91D3424F-6EC1-43C6-9030-4A9EBAFDC3CB", "status": "Inactive", "versionEndExcluding": "22.5.31", "versionStartIncluding": "22.5.0"}

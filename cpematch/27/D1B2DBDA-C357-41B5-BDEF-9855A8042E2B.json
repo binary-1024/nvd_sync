@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-12-19T14:53:02.307", "created": "2024-08-20T14:15:19.720", "criteria": "cpe:2.3:h:dell:dns-343:-:*:*:*:*:*:*:*", "lastModified": "2024-12-19T14:53:02.307", "matchCriteriaId": "D1B2DBDA-C357-41B5-BDEF-9855A8042E2B", "matches": [{"cpeName": "cpe:2.3:h:dell:dns-343:-:*:*:*:*:*:*:*", "cpeNameId": "1FA6B7BA-0D5D-4608-9443-DA0F445B12D6"}], "status": "Active"}

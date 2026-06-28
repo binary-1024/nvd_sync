@@ -1,0 +1,1 @@
+{"created": "2025-03-10T16:18:09.547", "criteria": "cpe:2.3:o:netapp:c800_firmware:-:*:*:*:*:*:*:*", "lastModified": "2025-08-18T18:45:48.710", "matchCriteriaId": "B5AE3364-DB2D-4543-B1E2-175BF8BEBEE7", "matches": [{"cpeName": "cpe:2.3:o:netapp:c800_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "2B2CF024-02EF-44E5-90BD-79CBAB1C9DB8"}], "status": "Active"}

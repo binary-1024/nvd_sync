@@ -1,0 +1,1 @@
+{"created": "2026-03-31T18:37:46.233", "criteria": "cpe:2.3:a:mariadb:mariadb:12.1.2:*:*:*:*:*:*:*", "lastModified": "2026-06-15T13:02:37.057", "matchCriteriaId": "2D463CD2-E30F-4899-9802-5AAA1E2B9048", "matches": [{"cpeName": "cpe:2.3:a:mariadb:mariadb:12.1.2:*:*:*:*:*:*:*", "cpeNameId": "FC1D26FC-248C-438C-A1C2-0A6470D68B3F"}], "status": "Active"}

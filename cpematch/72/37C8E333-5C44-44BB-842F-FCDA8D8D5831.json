@@ -1,0 +1,1 @@
+{"created": "2025-08-01T17:46:58.403", "criteria": "cpe:2.3:h:commscope:ruckus_h350:-:*:*:*:*:*:*:*", "lastModified": "2025-08-07T12:48:58.223", "matchCriteriaId": "37C8E333-5C44-44BB-842F-FCDA8D8D5831", "matches": [{"cpeName": "cpe:2.3:h:commscope:ruckus_h350:-:*:*:*:*:*:*:*", "cpeNameId": "F1E10B7A-0FF7-4936-9B81-086F90987BFB"}], "status": "Active"}

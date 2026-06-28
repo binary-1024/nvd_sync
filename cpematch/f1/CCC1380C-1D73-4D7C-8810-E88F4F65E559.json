@@ -1,0 +1,1 @@
+{"created": "2025-04-07T14:26:50.817", "criteria": "cpe:2.3:a:ruby:uri:*:*:*:*:*:ruby:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "CCC1380C-1D73-4D7C-8810-E88F4F65E559", "status": "Inactive", "versionEndExcluding": "0.12.4", "versionStartIncluding": "0.12.0"}

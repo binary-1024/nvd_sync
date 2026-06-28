@@ -1,0 +1,1 @@
+{"created": "2026-02-18T20:40:14.750", "criteria": "cpe:2.3:a:ibm:qradar_edr:*:*:*:*:*:*:*:*", "lastModified": "2026-02-18T20:40:14.750", "matchCriteriaId": "459C48F4-5ECA-4F7C-AD84-F6AF4AB038E7", "status": "Active", "versionEndExcluding": "3.12.24", "versionStartIncluding": "3.12.0"}

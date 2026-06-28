@@ -1,0 +1,1 @@
+{"created": "2026-05-06T17:45:10.957", "criteria": "cpe:2.3:o:qualcomm:sm8845p_firmware:-:*:*:*:*:*:*:*", "lastModified": "2026-06-11T13:47:23.237", "matchCriteriaId": "A205320E-6C60-4F6A-90D5-06CABAF0FDEA", "matches": [{"cpeName": "cpe:2.3:o:qualcomm:sm8845p_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "5F897284-8A41-4C3D-A383-BC3B3C7DBD0F"}], "status": "Active"}

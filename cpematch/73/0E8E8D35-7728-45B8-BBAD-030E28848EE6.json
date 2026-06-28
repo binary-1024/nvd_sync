@@ -1,0 +1,1 @@
+{"created": "2022-01-24T18:28:17.643", "criteria": "cpe:2.3:a:apache:log4j:*:*:*:*:*:*:*:*", "lastModified": "2022-01-24T18:28:17.643", "matchCriteriaId": "0E8E8D35-7728-45B8-BBAD-030E28848EE6", "status": "Inactive", "versionEndExcluding": "2.0", "versionStartIncluding": "1.2.1"}

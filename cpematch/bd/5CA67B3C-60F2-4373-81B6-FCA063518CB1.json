@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-04-11T14:15:36.887", "created": "2025-04-11T14:15:36.887", "criteria": "cpe:2.3:a:cisco:secure_firewall_management_center:*:*:*:*:*:*:*:*", "lastModified": "2025-04-12T02:00:35.263", "matchCriteriaId": "5CA67B3C-60F2-4373-81B6-FCA063518CB1", "status": "Inactive", "versionEndIncluding": "7.3.1.2", "versionStartIncluding": "7.3.0"}

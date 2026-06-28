@@ -1,0 +1,1 @@
+{"created": "2025-03-04T18:27:25.553", "criteria": "cpe:2.3:o:huawei:harmonyos:4.3.0:*:*:*:*:*:*:*", "lastModified": "2025-08-11T20:10:59.193", "matchCriteriaId": "082BBC06-A0B2-481E-BF6F-56180E17ABEF", "matches": [{"cpeName": "cpe:2.3:o:huawei:harmonyos:4.3.0:*:*:*:*:*:*:*", "cpeNameId": "BA77CDC9-CEC0-48D0-A9AA-44A23DA2AAC7"}], "status": "Active"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-05-03T13:17:17.443", "created": "2024-05-03T13:17:17.443", "criteria": "cpe:2.3:a:wso2:carbon_identity_application_authentication_framework:*:*:*:*:*:*:*:*", "lastModified": "2024-05-03T13:17:17.443", "matchCriteriaId": "D7917C09-061E-4CB9-9AFA-A11C586C9AEC", "status": "Active", "versionEndExcluding": "5.12.387.7", "versionStartIncluding": "5.12.154.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-07-22T20:46:04.783", "created": "2025-07-07T14:12:50.367", "criteria": "cpe:2.3:a:ibm:maximo_application_suite:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "8F381C5D-EA0E-46CB-B87B-B9D8AE7F6E55", "status": "Inactive", "versionEndIncluding": "8.11.13", "versionStartIncluding": "8.11"}

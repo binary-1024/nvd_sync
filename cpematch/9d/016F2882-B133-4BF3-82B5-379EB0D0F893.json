@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-05-12T06:01:29.827", "created": "2022-05-12T06:01:29.827", "criteria": "cpe:2.3:a:cisco:sd-wan_vmanage:*:*:*:*:*:*:*:*", "lastModified": "2022-05-12T06:01:29.827", "matchCriteriaId": "016F2882-B133-4BF3-82B5-379EB0D0F893", "status": "Inactive", "versionEndExcluding": "20.7.1", "versionStartIncluding": "20.7"}

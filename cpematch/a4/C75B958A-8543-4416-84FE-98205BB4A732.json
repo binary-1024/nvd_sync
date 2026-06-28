@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-03-14T16:19:52.680", "created": "2025-03-14T16:19:52.680", "criteria": "cpe:2.3:a:libtiff:libtiff:*:*:*:*:*:*:*:*", "lastModified": "2025-03-15T02:00:28.990", "matchCriteriaId": "C75B958A-8543-4416-84FE-98205BB4A732", "status": "Inactive", "versionEndExcluding": "4.5.0", "versionStartIncluding": "3.5.1"}

@@ -1,0 +1,1 @@
+{"created": "2025-07-17T22:46:41.747", "criteria": "cpe:2.3:o:qualcomm:qca8080_firmware:-:*:*:*:*:*:*:*", "lastModified": "2025-08-11T15:06:17.607", "matchCriteriaId": "FC553591-A429-48B6-B378-CDF0A2173EA2", "matches": [{"cpeName": "cpe:2.3:o:qualcomm:qca8080_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "84B3801E-23F6-451B-9C12-4633FD4B2E1C"}], "status": "Active"}

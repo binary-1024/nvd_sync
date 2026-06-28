@@ -1,0 +1,1 @@
+{"created": "2025-08-01T14:39:50.510", "criteria": "cpe:2.3:a:codeigniter:codeigniter:3.1.13:*:*:*:*:*:*:*", "lastModified": "2025-08-20T15:29:36.237", "matchCriteriaId": "E4DDD594-2B3A-4C35-9C4F-122A942A15EE", "matches": [{"cpeName": "cpe:2.3:a:codeigniter:codeigniter:3.1.13:*:*:*:*:*:*:*", "cpeNameId": "C93A23EC-1C9D-4651-94F3-E7E8C1F10DEA"}], "status": "Active"}

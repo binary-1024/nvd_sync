@@ -1,0 +1,1 @@
+{"created": "2025-07-24T14:43:19.013", "criteria": "cpe:2.3:a:oracle:database_materialized_view:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "43497FB0-2A3D-4705-9000-5B4FBE750F2B", "status": "Inactive", "versionEndIncluding": "19.27", "versionStartIncluding": "19.3"}

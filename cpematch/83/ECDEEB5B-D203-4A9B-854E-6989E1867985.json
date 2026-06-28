@@ -1,0 +1,1 @@
+{"created": "2025-08-05T17:32:03.380", "criteria": "cpe:2.3:a:f5:big-ip_analytics:17.1.2:*:*:*:*:*:*:*", "lastModified": "2025-08-08T18:55:13.960", "matchCriteriaId": "ECDEEB5B-D203-4A9B-854E-6989E1867985", "matches": [{"cpeName": "cpe:2.3:a:f5:big-ip_analytics:17.1.2:*:*:*:*:*:*:*", "cpeNameId": "97115C90-8E17-45B1-8E39-CB0ED7ADE777"}], "status": "Active"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2020-04-13T14:41:51.650", "created": "2020-04-13T14:23:08.703", "criteria": "cpe:2.3:a:cpp-httplib_project:cpp-httplib:*:*:*:*:*:*:*:*", "lastModified": "2025-08-05T20:28:36.623", "matchCriteriaId": "20734923-D6DF-460F-B2BE-20879008EABB", "status": "Inactive", "versionEndIncluding": "0.5.8"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-12-06T20:20:32.630", "created": "2022-12-06T20:20:32.630", "criteria": "cpe:2.3:a:proxmox:pve_http_server:*:*:*:*:*:*:*:*", "lastModified": "2022-12-06T20:20:32.630", "matchCriteriaId": "A8D79E9B-8BD2-474C-BA09-16CCE2852818", "status": "Active", "versionEndExcluding": "4.1-3"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-04-09T12:55:59.950", "created": "2021-03-13T01:41:33.443", "criteria": "cpe:2.3:a:ssri_project:ssri:*:*:*:*:*:node.js:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "D0066B96-F6D9-40BE-90B2-48244D2A5955", "status": "Inactive", "versionEndExcluding": "8.0.1", "versionStartIncluding": "5.2.2"}

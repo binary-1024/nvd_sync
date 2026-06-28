@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-06-10T16:17:18.133", "created": "2025-06-10T16:17:18.133", "criteria": "cpe:2.3:a:openvpn:openvpn:*:*:*:*:community:*:*:*", "lastModified": "2025-06-11T02:00:37.170", "matchCriteriaId": "F56E013D-B23F-4CF9-A6FF-768D8EE77616", "status": "Inactive", "versionEndIncluding": "2.6.10", "versionStartIncluding": "2.6.0"}

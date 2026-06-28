@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-03-07T14:37:49.580", "created": "2021-06-10T17:28:04.877", "criteria": "cpe:2.3:a:flask-appbuilder_project:flask-appbuilder:*:*:*:*:*:*:*:*", "lastModified": "2025-03-08T03:00:32.297", "matchCriteriaId": "5104FD60-B849-447E-A0D3-1EF3359467E9", "status": "Inactive", "versionEndIncluding": "3.2.3"}

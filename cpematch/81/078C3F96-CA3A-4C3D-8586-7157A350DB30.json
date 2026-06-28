@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-08-05T17:13:15.650", "created": "2021-04-30T17:35:26.000", "criteria": "cpe:2.3:h:avaya:session_border_controller_for_enterprise:*:*:*:*:*:*:*:*", "lastModified": "2021-04-30T17:35:26.000", "matchCriteriaId": "078C3F96-CA3A-4C3D-8586-7157A350DB30", "status": "Active", "versionEndExcluding": "8.1.2.0", "versionStartIncluding": "7.0"}

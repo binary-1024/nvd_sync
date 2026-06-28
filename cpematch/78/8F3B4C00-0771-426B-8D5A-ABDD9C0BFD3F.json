@@ -1,0 +1,1 @@
+{"created": "2025-05-01T19:49:15.240", "criteria": "cpe:2.3:a:roundcube:webmail:*:*:*:*:*:windows:*:*", "lastModified": "2025-05-01T19:49:15.240", "matchCriteriaId": "8F3B4C00-0771-426B-8D5A-ABDD9C0BFD3F", "status": "Active", "versionEndExcluding": "1.6.7", "versionStartIncluding": "1.6.0"}

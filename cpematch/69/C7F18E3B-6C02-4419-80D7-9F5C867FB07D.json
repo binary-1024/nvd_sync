@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-01-23T20:51:54.820", "created": "2022-08-15T14:43:28.777", "criteria": "cpe:2.3:a:linuxfoundation:ceph:*:*:*:*:*:*:*:*", "lastModified": "2022-08-15T14:43:28.777", "matchCriteriaId": "C7F18E3B-6C02-4419-80D7-9F5C867FB07D", "status": "Active", "versionEndExcluding": "16.2.10", "versionStartIncluding": "16.0.0"}

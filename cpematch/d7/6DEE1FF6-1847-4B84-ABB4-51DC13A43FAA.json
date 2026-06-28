@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-02-15T16:35:38.787", "created": "2023-02-15T16:35:38.787", "criteria": "cpe:2.3:a:yugabyte:yugabytedb_managed:*:*:*:*:*:*:*:*", "lastModified": "2023-02-15T16:35:38.787", "matchCriteriaId": "6DEE1FF6-1847-4B84-ABB4-51DC13A43FAA", "status": "Active", "versionEndIncluding": "2.13", "versionStartIncluding": "2.0"}

@@ -1,0 +1,1 @@
+{"created": "2025-07-23T11:03:39.057", "criteria": "cpe:2.3:a:google:protobuf-kotlin:4.28.2:*:*:*:*:*:*:*", "lastModified": "2025-08-21T20:55:21.130", "matchCriteriaId": "439354DD-443B-4B65-83E1-EEDFBC91EC11", "matches": [{"cpeName": "cpe:2.3:a:google:protobuf-kotlin:4.28.2:*:*:*:*:*:*:*", "cpeNameId": "BC2AE3C2-71E4-46AC-A329-195C4FAFC120"}], "status": "Active"}

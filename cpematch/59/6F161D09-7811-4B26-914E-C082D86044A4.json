@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-11-15T19:53:06.653", "created": "2022-11-15T19:53:06.653", "criteria": "cpe:2.3:a:insyde:kernel:*:*:*:*:*:*:*:*", "lastModified": "2022-11-15T19:53:06.653", "matchCriteriaId": "6F161D09-7811-4B26-914E-C082D86044A4", "status": "Active", "versionEndExcluding": "5.4.05.44.25", "versionStartIncluding": "5.4"}

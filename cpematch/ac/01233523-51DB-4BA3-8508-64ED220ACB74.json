@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-10-29T11:23:20.927", "created": "2023-10-29T11:23:20.927", "criteria": "cpe:2.3:a:vonautomatisch:django_grappelli:*:*:*:*:*:*:*:*", "lastModified": "2023-10-29T11:23:20.927", "matchCriteriaId": "01233523-51DB-4BA3-8508-64ED220ACB74", "status": "Active", "versionEndExcluding": "2.15.2"}

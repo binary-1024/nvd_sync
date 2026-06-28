@@ -1,0 +1,1 @@
+{"created": "2021-03-06T03:40:25.720", "criteria": "cpe:2.3:a:rubyonrails:active_record_session_store:*:*:*:*:*:ruby_on_rails:*:*", "lastModified": "2021-03-06T03:40:25.720", "matchCriteriaId": "CBDCE12B-3109-436B-94B4-B49C1AA71AAC", "status": "Active", "versionEndIncluding": "1.1.3"}

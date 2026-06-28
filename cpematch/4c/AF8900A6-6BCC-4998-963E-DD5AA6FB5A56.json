@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-10-23T12:24:08.717", "created": "2025-10-23T12:24:08.717", "criteria": "cpe:2.3:a:kccs:lanscope_endpoint_manager:*:*:*:*:on-premise:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "AF8900A6-6BCC-4998-963E-DD5AA6FB5A56", "status": "Inactive", "versionEndExcluding": "9.4.4.6", "versionStartIncluding": "9.4.4.0"}

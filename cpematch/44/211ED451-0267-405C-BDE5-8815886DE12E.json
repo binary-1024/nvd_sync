@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-12-02T18:40:13.743", "created": "2025-12-02T18:40:13.743", "criteria": "cpe:2.3:a:apache:struts:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "211ED451-0267-405C-BDE5-8815886DE12E", "status": "Inactive", "versionEndIncluding": "6.7.0", "versionStartIncluding": "2.0.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-07-08T15:07:36.390", "created": "2021-07-08T15:07:36.390", "criteria": "cpe:2.3:a:gitlab:gitlab:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "83E205C6-FC44-4FA8-A9F9-FB673D17E707", "status": "Inactive", "versionEndExcluding": "13.11.6", "versionStartIncluding": "11.9.0"}

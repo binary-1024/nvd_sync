@@ -1,0 +1,1 @@
+{"cpeLastModified": "2020-12-07T13:34:18.760", "created": "2020-12-04T14:34:51.543", "criteria": "cpe:2.3:a:hashicorp:go-slug:*:*:*:*:*:*:*:*", "lastModified": "2025-12-10T18:46:45.703", "matchCriteriaId": "F710AE72-4349-4947-9908-8579C9E47B5D", "status": "Inactive", "versionEndExcluding": "0.50.0"}

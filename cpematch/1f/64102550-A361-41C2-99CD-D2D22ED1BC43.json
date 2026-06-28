@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-07-28T19:07:26.457", "created": "2021-07-28T19:06:42.180", "criteria": "cpe:2.3:a:st:stm32cube_mcu_\\&_mpu_packages:*:*:*:*:*:*:*:*", "lastModified": "2021-07-28T19:06:42.180", "matchCriteriaId": "64102550-A361-41C2-99CD-D2D22ED1BC43", "status": "Inactive", "versionEndIncluding": "1.8.0"}

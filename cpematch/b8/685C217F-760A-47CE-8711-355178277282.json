@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-08-15T16:55:19.957", "created": "2022-08-15T16:55:19.957", "criteria": "cpe:2.3:a:neo4j:awesome_procedures_on_cypher:*:*:*:*:*:*:*:*", "lastModified": "2022-08-15T16:55:19.957", "matchCriteriaId": "685C217F-760A-47CE-8711-355178277282", "status": "Active", "versionEndExcluding": "4.4.0.8", "versionStartIncluding": "4.4.0.0"}

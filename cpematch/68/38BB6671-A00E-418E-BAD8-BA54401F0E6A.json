@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-10-11T21:49:31.090", "created": "2024-10-11T21:49:31.090", "criteria": "cpe:2.3:a:wikimedia:wikimedia-extensions-css:*:*:*:*:*:*:*:*", "lastModified": "2024-10-11T21:49:31.090", "matchCriteriaId": "38BB6671-A00E-418E-BAD8-BA54401F0E6A", "status": "Active", "versionEndExcluding": "1.42.2", "versionStartIncluding": "1.42.0"}

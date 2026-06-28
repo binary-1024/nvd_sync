@@ -1,0 +1,1 @@
+{"created": "2025-09-11T17:26:21.780", "criteria": "cpe:2.3:a:libretro:retroarch:1.20.0:*:*:*:*:*:*:*", "lastModified": "2025-09-11T17:27:22.383", "matchCriteriaId": "0125AD73-FE45-409B-A5BC-B95AC62372DC", "matches": [{"cpeName": "cpe:2.3:a:libretro:retroarch:1.20.0:*:*:*:*:*:*:*", "cpeNameId": "F952F1A8-8DBF-4D18-8B27-06DE52760E2E"}], "status": "Active"}

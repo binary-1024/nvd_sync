@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-04-29T13:36:05.790", "created": "2022-03-04T11:52:47.417", "criteria": "cpe:2.3:a:siemens:sinvr\\/sivms_video_server:*:*:*:*:*:*:*:*", "lastModified": "2022-03-04T11:52:47.417", "matchCriteriaId": "C828CDE1-4C89-4FF1-A8A7-434D665CD0E1", "status": "Active", "versionStartExcluding": "5.0.2"}

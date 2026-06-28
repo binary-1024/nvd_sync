@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-02-18T20:40:10.567", "created": "2026-02-18T20:40:10.567", "criteria": "cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:*:*:*:*:*:*:*:*", "lastModified": "2026-02-18T20:40:10.567", "matchCriteriaId": "1FCBECBB-D90D-4883-81FF-F5F43C7A926C", "status": "Active", "versionEndExcluding": "4.22.0", "versionStartIncluding": "4.0.0"}

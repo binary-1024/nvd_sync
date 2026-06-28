@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-03-17T10:11:11.400", "created": "2023-03-17T10:11:11.400", "criteria": "cpe:2.3:a:ibm:app_connect_enterprise_certified_container:*:*:*:*:*:*:*:*", "lastModified": "2023-03-17T10:11:46.423", "matchCriteriaId": "C6E28DE3-50F5-4080-BB6A-7F39DC1CE203", "status": "Inactive", "versionEndExcluding": "7.1", "versionStartIncluding": "4.1"}

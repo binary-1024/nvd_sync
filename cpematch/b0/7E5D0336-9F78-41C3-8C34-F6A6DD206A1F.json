@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-12-03T19:00:21.107", "created": "2024-12-03T19:00:21.107", "criteria": "cpe:2.3:a:ibm:qradar_suite:*:*:*:*:*:*:*:*", "lastModified": "2024-12-03T20:39:22.500", "matchCriteriaId": "7E5D0336-9F78-41C3-8C34-F6A6DD206A1F", "status": "Inactive", "versionEndIncluding": "1.10.17.0", "versionStartIncluding": "1.10.12.0"}

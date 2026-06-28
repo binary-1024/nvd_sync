@@ -1,0 +1,1 @@
+{"cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:a:hp:vertica:*:*:*:*:*:*:*:*", "lastModified": "2025-11-19T13:23:10.650", "matchCriteriaId": "4C54FF10-481F-4302-A878-E1006D35A354", "status": "Inactive", "versionEndExcluding": "7.1.2-12", "versionStartIncluding": "7.1.0"}

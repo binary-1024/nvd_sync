@@ -1,0 +1,1 @@
+{"created": "2026-04-08T16:26:31.110", "criteria": "cpe:2.3:a:huggingface:transformers:5.0.0:rc1:*:*:*:*:*:*", "lastModified": "2026-05-05T13:49:27.183", "matchCriteriaId": "424574B4-B321-4D5A-BE48-95A61D9F3752", "matches": [{"cpeName": "cpe:2.3:a:huggingface:transformers:5.0.0:rc1:*:*:*:*:*:*", "cpeNameId": "53762160-600E-4112-8693-872BE1C91887"}], "status": "Active"}

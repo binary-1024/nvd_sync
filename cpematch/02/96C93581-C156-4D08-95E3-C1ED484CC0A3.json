@@ -1,0 +1,1 @@
+{"created": "2025-09-29T20:30:22.270", "criteria": "cpe:2.3:a:fabian:simple_scheduling_system:1.0:*:*:*:*:*:*:*", "lastModified": "2025-10-23T20:06:00.793", "matchCriteriaId": "96C93581-C156-4D08-95E3-C1ED484CC0A3", "matches": [{"cpeName": "cpe:2.3:a:fabian:simple_scheduling_system:1.0:*:*:*:*:*:*:*", "cpeNameId": "2F5DB27A-6D15-4C7B-907E-9FA752267A5A"}], "status": "Active"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-05-28T20:07:51.920", "created": "2025-05-28T20:07:51.920", "criteria": "cpe:2.3:a:drupal:drupal:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "D7D9C3FA-F517-434D-BD22-B46AF5AAF04E", "status": "Inactive", "versionEndExcluding": "10.1.8", "versionStartIncluding": "10.1.0"}

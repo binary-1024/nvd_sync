@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-07-18T15:16:02.293", "created": "2022-10-25T13:59:44.510", "criteria": "cpe:2.3:a:oracle:jdk:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "BCF9F60D-8639-476E-9AFC-DD8428E08887", "status": "Inactive", "versionStartIncluding": "1.8.0_181"}

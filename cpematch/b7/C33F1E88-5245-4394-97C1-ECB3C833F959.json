@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-05-08T19:09:50.133", "created": "2023-05-08T19:09:50.133", "criteria": "cpe:2.3:a:hypr:workforce_access:*:*:*:*:*:*:*:*", "lastModified": "2023-05-08T19:11:30.480", "matchCriteriaId": "C33F1E88-5245-4394-97C1-ECB3C833F959", "status": "Inactive", "versionEndExcluding": "8.1", "versionStartIncluding": "6.12.0"}

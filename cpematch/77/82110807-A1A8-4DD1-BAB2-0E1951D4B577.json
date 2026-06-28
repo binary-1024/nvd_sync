@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-09-18T14:39:48.073", "created": "2024-09-18T14:39:48.073", "criteria": "cpe:2.3:a:dell:powerprotect_data_domain:*:*:*:*:lts:*:*:*", "lastModified": "2024-09-20T18:02:29.253", "matchCriteriaId": "82110807-A1A8-4DD1-BAB2-0E1951D4B577", "status": "Inactive", "versionEndExcluding": "8.0", "versionStartIncluding": "7.14.0"}

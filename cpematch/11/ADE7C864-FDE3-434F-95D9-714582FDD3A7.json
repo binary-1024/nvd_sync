@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-11-12T17:06:14.460", "created": "2024-11-12T17:06:14.460", "criteria": "cpe:2.3:a:eclipse:mosquitto:*:*:*:*:*:*:*:*", "lastModified": "2024-11-16T03:00:36.603", "matchCriteriaId": "ADE7C864-FDE3-434F-95D9-714582FDD3A7", "status": "Inactive", "versionEndIncluding": "2.0.18a"}

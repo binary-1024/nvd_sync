@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-02-13T15:37:38.553", "created": "2023-02-16T18:54:42.957", "criteria": "cpe:2.3:a:rack_project:rack:*:*:*:*:*:ruby:*:*", "lastModified": "2025-02-14T03:00:27.557", "matchCriteriaId": "7ADE4A55-881C-4242-B146-E2E0F9D03DB9", "status": "Inactive", "versionEndExcluding": "2.2.4.1", "versionStartIncluding": "2.2.0"}

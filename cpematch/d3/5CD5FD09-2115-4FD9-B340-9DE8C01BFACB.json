@@ -1,0 +1,1 @@
+{"created": "2025-04-15T11:54:05.077", "criteria": "cpe:2.3:a:snowplow:collector:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "5CD5FD09-2115-4FD9-B340-9DE8C01BFACB", "status": "Inactive", "versionEndExcluding": "3.3.0", "versionStartIncluding": "3.0.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-08-21T18:18:56.783", "created": "2025-08-21T18:18:56.783", "criteria": "cpe:2.3:a:psu:haxcms-nodejs:*:-:*:*:*:node.js:*:*", "lastModified": "2025-08-21T18:19:09.783", "matchCriteriaId": "E3747A5C-CDD6-4279-BB27-08567A52AEA1", "status": "Inactive", "versionEndExcluding": "11.0.10"}

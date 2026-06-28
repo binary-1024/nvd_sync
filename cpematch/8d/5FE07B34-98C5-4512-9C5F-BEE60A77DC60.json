@@ -1,0 +1,1 @@
+{"created": "2025-07-24T16:20:13.410", "criteria": "cpe:2.3:a:ibm:http_server:6.0.2.31:*:*:*:*:*:*:*", "lastModified": "2025-07-28T14:58:57.380", "matchCriteriaId": "5FE07B34-98C5-4512-9C5F-BEE60A77DC60", "matches": [{"cpeName": "cpe:2.3:a:ibm:http_server:6.0.2.31:*:*:*:*:*:*:*", "cpeNameId": "68FC42B2-F6B9-4AA6-9CA2-12802B3188DB"}], "status": "Active"}

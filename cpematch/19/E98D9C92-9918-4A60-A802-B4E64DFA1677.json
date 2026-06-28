@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-09-03T21:26:26.270", "created": "2024-09-03T21:26:26.270", "criteria": "cpe:2.3:a:zohocorp:manageengine_endpoint_central:*:*:*:*:*:*:*:*", "lastModified": "2024-09-05T02:01:07.517", "matchCriteriaId": "E98D9C92-9918-4A60-A802-B4E64DFA1677", "status": "Inactive", "versionEndExcluding": "11.3.2400.15", "versionStartIncluding": "11.3.2400.12"}

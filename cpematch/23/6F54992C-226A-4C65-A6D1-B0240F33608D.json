@@ -1,0 +1,1 @@
+{"cpeLastModified": "2020-06-23T16:08:47.897", "created": "2020-06-23T16:08:47.883", "criteria": "cpe:2.3:a:google:skia:-:*:*:*:*:*:*:*", "lastModified": "2020-06-23T16:08:47.883", "matchCriteriaId": "6F54992C-226A-4C65-A6D1-B0240F33608D", "matches": [{"cpeName": "cpe:2.3:a:google:skia:-:*:*:*:*:*:*:*", "cpeNameId": "6109D5CC-0D3E-4BB7-93B7-B69D8B891BC5"}], "status": "Active"}

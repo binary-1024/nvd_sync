@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-10-20T17:18:49.770", "created": "2021-10-14T19:47:49.030", "criteria": "cpe:2.3:a:hitachi:jp1\\/remote_control_agent:*:*:*:*:*:*:*:*", "lastModified": "2021-10-14T19:47:49.030", "matchCriteriaId": "5B4F01A7-4BDA-402D-BB0A-43CDFC3CC1BA", "status": "Active", "versionEndIncluding": "11-00-02", "versionStartIncluding": "11-00"}

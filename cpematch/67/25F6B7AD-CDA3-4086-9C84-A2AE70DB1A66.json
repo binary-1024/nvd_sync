@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-10-09T16:33:59.307", "created": "2024-10-09T16:33:59.307", "criteria": "cpe:2.3:o:microsoft:windows_10_22h2:*:*:*:*:*:*:x86:*", "lastModified": "2024-10-11T02:01:06.507", "matchCriteriaId": "25F6B7AD-CDA3-4086-9C84-A2AE70DB1A66", "status": "Inactive", "versionEndExcluding": "10.0.19045.5011", "versionStartIncluding": "10.0.0"}

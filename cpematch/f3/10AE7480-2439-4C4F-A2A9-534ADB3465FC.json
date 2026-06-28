@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-09-28T16:24:04.380", "created": "2021-09-17T14:23:49.857", "criteria": "cpe:2.3:o:siemens:apogee_mec_\\(ppc\\)_\\(p2_ethernet\\)_firmware:*:*:*:*:*:*:*:*", "lastModified": "2021-09-17T14:23:49.857", "matchCriteriaId": "10AE7480-2439-4C4F-A2A9-534ADB3465FC", "status": "Active", "versionEndIncluding": "2.6.3"}

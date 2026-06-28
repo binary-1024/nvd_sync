@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-11-25T16:43:49.327", "created": "2024-11-25T12:43:38.320", "criteria": "cpe:2.3:a:linuxfoundation:zowe:*:*:*:*:*:*:*:*", "lastModified": "2024-11-25T18:01:07.227", "matchCriteriaId": "8A02FD24-76A4-4CE4-8A17-991F7CD2612D", "status": "Inactive", "versionEndExcluding": "2.18.0", "versionStartIncluding": "2.0.0"}

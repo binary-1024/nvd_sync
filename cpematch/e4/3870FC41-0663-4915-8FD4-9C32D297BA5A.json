@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-08-14T16:21:41.273", "created": "2025-08-14T16:21:41.273", "criteria": "cpe:2.3:a:ibm:storage_fusion_hci:*:*:*:*:*:*:*:*", "lastModified": "2025-08-14T16:22:32.843", "matchCriteriaId": "3870FC41-0663-4915-8FD4-9C32D297BA5A", "status": "Inactive", "versionEndIncluding": "2.7.2", "versionStartIncluding": "2.5.2"}

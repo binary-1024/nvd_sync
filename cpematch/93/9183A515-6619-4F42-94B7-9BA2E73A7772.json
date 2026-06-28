@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-05-13T13:36:02.903", "created": "2022-05-13T13:36:02.903", "criteria": "cpe:2.3:a:fluxcd:kustomize-controller:*:*:*:*:*:*:*:*", "lastModified": "2022-05-13T13:36:02.903", "matchCriteriaId": "9183A515-6619-4F42-94B7-9BA2E73A7772", "status": "Inactive", "versionEndIncluding": "0.16.0"}

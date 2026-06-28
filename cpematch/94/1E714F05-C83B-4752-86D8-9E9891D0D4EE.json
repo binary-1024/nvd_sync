@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-03-03T22:41:34.363", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:a:ibm:tivoli_storage_manager_for_databases_data_protection_for_microsoft_sql_server:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "1E714F05-C83B-4752-86D8-9E9891D0D4EE", "status": "Inactive", "versionEndIncluding": "6.3.1.5"}

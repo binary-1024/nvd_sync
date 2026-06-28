@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-01-04T19:41:55.560", "created": "2024-01-04T19:41:55.560", "criteria": "cpe:2.3:a:mattermost:mattermost:*:*:*:*:*:android:*:*", "lastModified": "2024-01-05T03:00:24.023", "matchCriteriaId": "F09C5626-0DE2-4C8A-A407-E6B2C0DEA96F", "status": "Inactive", "versionEndExcluding": "2.10.0"}

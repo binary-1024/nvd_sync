@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-05-26T19:43:54.423", "created": "2021-05-26T19:43:54.423", "criteria": "cpe:2.3:a:haxx:libcurl:*:*:*:*:*:*:*:*", "lastModified": "2021-05-26T19:43:54.423", "matchCriteriaId": "87D24D1E-1479-44E0-BDDC-9109509ADC55", "status": "Inactive", "versionEndExcluding": "7.77.0", "versionStartIncluding": "7.63.0"}

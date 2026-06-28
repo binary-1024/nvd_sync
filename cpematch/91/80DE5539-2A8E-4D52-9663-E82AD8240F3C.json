@@ -1,0 +1,1 @@
+{"created": "2025-09-03T13:55:39.150", "criteria": "cpe:2.3:a:langflow:langflow:1.5.0:dev18:*:*:*:*:*:*", "lastModified": "2025-09-03T14:27:09.910", "matchCriteriaId": "80DE5539-2A8E-4D52-9663-E82AD8240F3C", "matches": [{"cpeName": "cpe:2.3:a:langflow:langflow:1.5.0:dev18:*:*:*:*:*:*", "cpeNameId": "1FB04309-FD68-447A-B5C6-886B287976A3"}], "status": "Active"}

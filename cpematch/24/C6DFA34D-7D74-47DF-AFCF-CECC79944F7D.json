@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-12-16T14:32:04.133", "created": "2021-12-15T23:45:06.530", "criteria": "cpe:2.3:a:mozilla:nss_esr:*:*:*:*:*:*:*:*", "lastModified": "2021-12-15T23:45:06.530", "matchCriteriaId": "C6DFA34D-7D74-47DF-AFCF-CECC79944F7D", "status": "Active", "versionEndExcluding": "3.68.1"}

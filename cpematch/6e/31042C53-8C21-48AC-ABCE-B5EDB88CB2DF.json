@@ -1,0 +1,1 @@
+{"created": "2021-09-20T18:01:28.417", "criteria": "cpe:2.3:a:f5:big-ip_fraud_protection_service:*:*:*:*:*:*:*:*", "lastModified": "2021-09-20T18:01:28.417", "matchCriteriaId": "31042C53-8C21-48AC-ABCE-B5EDB88CB2DF", "status": "Inactive", "versionEndExcluding": "14.1.2.8", "versionStartIncluding": "14.0.0"}

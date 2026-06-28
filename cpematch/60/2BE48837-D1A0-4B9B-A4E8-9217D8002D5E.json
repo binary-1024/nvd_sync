@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-12-21T18:39:56.633", "created": "2021-12-21T18:06:18.337", "criteria": "cpe:2.3:a:tcman:gim:8.0:*:*:*:*:*:*:*", "lastModified": "2021-12-21T18:06:18.337", "matchCriteriaId": "2BE48837-D1A0-4B9B-A4E8-9217D8002D5E", "matches": [{"cpeName": "cpe:2.3:a:tcman:gim:8.0:*:*:*:*:*:*:*", "cpeNameId": "4F49F0A1-4B3A-426B-8731-01F6EFE5DD95"}], "status": "Active"}

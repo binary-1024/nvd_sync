@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-09-12T19:47:00.570", "created": "2024-09-12T19:47:00.570", "criteria": "cpe:2.3:a:payara:payara:*:*:*:*:enterprise:*:*:*", "lastModified": "2024-09-13T02:00:26.260", "matchCriteriaId": "C11D2E33-5AA0-497A-8563-51035B02B876", "status": "Inactive", "versionEndExcluding": "5.2022.5", "versionStartIncluding": "5.2020.2"}

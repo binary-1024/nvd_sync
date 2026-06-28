@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-08-13T17:24:14.770", "created": "2021-08-13T17:24:14.770", "criteria": "cpe:2.3:a:redhat:wildfly_elytron:*:*:*:*:*:*:*:*", "lastModified": "2021-08-13T17:24:14.770", "matchCriteriaId": "A9232270-AA1A-46B6-839B-D73945411325", "status": "Inactive", "versionEndExcluding": "1.10.12"}

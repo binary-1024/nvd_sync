@@ -1,0 +1,1 @@
+{"created": "2025-12-11T17:24:15.367", "criteria": "cpe:2.3:a:traefik:traefik:*:*:*:*:*:go:*:*", "lastModified": "2025-12-11T17:24:15.367", "matchCriteriaId": "EE129521-F412-4E5A-8BD3-67B82A9CCC51", "status": "Active", "versionEndExcluding": "3.6.3", "versionStartIncluding": "3.0.0"}

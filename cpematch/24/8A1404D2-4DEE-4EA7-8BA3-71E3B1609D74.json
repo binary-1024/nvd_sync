@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-08-22T14:37:42.390", "created": "2022-08-22T14:37:42.390", "criteria": "cpe:2.3:a:intel:open_amt_cloud_toolkit:*:*:*:*:*:*:*:*", "lastModified": "2022-08-22T14:37:42.390", "matchCriteriaId": "8A1404D2-4DEE-4EA7-8BA3-71E3B1609D74", "status": "Inactive", "versionEndExcluding": "2.2.2", "versionStartIncluding": "2.2.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-10-13T18:53:11.600", "created": "2022-10-13T18:53:11.600", "criteria": "cpe:2.3:a:hashicorp:packer:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "A3FB34CA-DA69-46F9-8559-62DE6B494077", "status": "Inactive", "versionEndExcluding": "2.3.1"}

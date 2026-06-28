@@ -1,0 +1,1 @@
+{"created": "2025-07-17T21:13:39.870", "criteria": "cpe:2.3:o:qualcomm:qca6698au_firmware:-:*:*:*:*:*:*:*", "lastModified": "2025-08-11T15:06:17.607", "matchCriteriaId": "3ACA09C0-84A5-493A-A9BD-EF95A8330D54", "matches": [{"cpeName": "cpe:2.3:o:qualcomm:qca6698au_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "860E75DE-CDD3-4DF8-8C4F-3A0A66EF2A3B"}], "status": "Active"}

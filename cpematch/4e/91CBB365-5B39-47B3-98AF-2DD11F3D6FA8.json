@@ -1,0 +1,1 @@
+{"created": "2026-05-27T16:05:13.877", "criteria": "cpe:2.3:a:nvidia:gpu_display_driver:*:*:*:*:*:linux:*:*", "lastModified": "2026-05-27T16:05:13.877", "matchCriteriaId": "91CBB365-5B39-47B3-98AF-2DD11F3D6FA8", "status": "Active", "versionEndExcluding": "580.159.03", "versionStartIncluding": "580"}

@@ -1,0 +1,1 @@
+{"created": "2021-08-26T19:34:21.603", "criteria": "cpe:2.3:a:apache:nifi_minifi:*:*:*:*:*:*:*:*", "lastModified": "2021-08-26T19:34:21.603", "matchCriteriaId": "65A079CA-0055-4723-BBE4-C8A243D94DBE", "status": "Inactive", "versionEndExcluding": "0.10.0", "versionStartIncluding": "0.5.0"}

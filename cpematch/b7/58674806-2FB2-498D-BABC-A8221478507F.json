@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-10-09T13:37:06.090", "created": "2021-06-02T16:58:39.163", "criteria": "cpe:2.3:a:redhat:libvirt:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "58674806-2FB2-498D-BABC-A8221478507F", "status": "Inactive", "versionEndExcluding": "7.0.0"}

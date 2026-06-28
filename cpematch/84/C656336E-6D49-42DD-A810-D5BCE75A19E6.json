@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-03-19T20:00:24.240", "created": "2026-03-19T20:00:24.240", "criteria": "cpe:2.3:a:microsoft:linux_diagnostic_extension:*:*:*:*:*:*:*:*", "lastModified": "2026-03-19T20:00:24.240", "matchCriteriaId": "C656336E-6D49-42DD-A810-D5BCE75A19E6", "status": "Active", "versionEndExcluding": "2.1.24", "versionStartIncluding": "1.0.0"}

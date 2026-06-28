@@ -1,0 +1,1 @@
+{"created": "2020-12-17T16:12:13.613", "criteria": "cpe:2.3:a:influxdata:telegraf:*:*:*:*:*:*:*:*", "lastModified": "2020-12-17T16:12:13.613", "matchCriteriaId": "362FD2AA-9EF3-45AD-B5E9-A2961EE65E0E", "status": "Active", "versionEndExcluding": "1.9.4-alpine", "versionStartIncluding": "0.13.0-alpine"}

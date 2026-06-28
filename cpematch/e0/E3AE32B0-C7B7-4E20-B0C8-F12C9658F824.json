@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-02-02T15:31:32.800", "created": "2024-02-02T15:31:32.800", "criteria": "cpe:2.3:o:cisco:sg550x-48t_firmware:*:*:*:*:*:*:*:*", "lastModified": "2024-02-02T15:31:32.800", "matchCriteriaId": "E3AE32B0-C7B7-4E20-B0C8-F12C9658F824", "status": "Active", "versionEndExcluding": "2.5.9.54", "versionStartIncluding": "2.5"}

@@ -1,0 +1,1 @@
+{"created": "2026-05-07T14:39:30.570", "criteria": "cpe:2.3:o:suse:linux_enterprise_server:16.1:-:*:*:-:sap:*:*", "lastModified": "2026-05-18T12:11:21.543", "matchCriteriaId": "56519853-7A3E-412C-A4F6-6921A1742033", "matches": [{"cpeName": "cpe:2.3:o:suse:linux_enterprise_server:16.1:-:*:*:-:sap:*:*", "cpeNameId": "D1D00A15-9570-4006-AECE-01965BAECEBC"}], "status": "Active"}

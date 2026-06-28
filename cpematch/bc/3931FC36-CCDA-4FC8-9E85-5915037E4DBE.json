@@ -1,0 +1,1 @@
+{"cpeLastModified": "2020-09-29T14:34:43.247", "created": "2020-09-29T13:57:00.110", "criteria": "cpe:2.3:a:apache:zookeeper:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "3931FC36-CCDA-4FC8-9E85-5915037E4DBE", "status": "Inactive", "versionEndIncluding": "3.6.2", "versionStartIncluding": "3.6.0"}

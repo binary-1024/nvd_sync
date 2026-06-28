@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-07-24T14:37:27.243", "created": "2024-07-24T11:52:49.860", "criteria": "cpe:2.3:a:twilio:authy_authentication:*:*:*:*:*:android:*:*", "lastModified": "2024-07-25T02:00:25.707", "matchCriteriaId": "011DC333-051B-4D23-8413-D0BB9B581599", "status": "Inactive", "versionEndExcluding": "25.1.0"}

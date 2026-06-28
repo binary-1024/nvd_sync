@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-07-02T01:21:42.547", "created": "2022-07-02T01:21:42.547", "criteria": "cpe:2.3:a:pypi:django-navbar-client:*:*:*:*:*:pypi:*:*", "lastModified": "2022-07-02T01:21:42.547", "matchCriteriaId": "20B20DF4-9E43-45BD-B229-16D1FE8BE201", "status": "Active", "versionEndIncluding": "1.0.1", "versionStartIncluding": "0.9.50"}

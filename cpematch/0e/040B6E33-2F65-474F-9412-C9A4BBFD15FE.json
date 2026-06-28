@@ -1,0 +1,1 @@
+{"created": "2021-05-10T14:07:07.010", "criteria": "cpe:2.3:a:dell:unisphere_for_powermax_virtual_appliance:*:*:*:*:*:*:*:*", "lastModified": "2021-05-10T14:07:07.010", "matchCriteriaId": "040B6E33-2F65-474F-9412-C9A4BBFD15FE", "status": "Active", "versionEndExcluding": "9.2.1.6", "versionStartIncluding": "9.2.1.0"}

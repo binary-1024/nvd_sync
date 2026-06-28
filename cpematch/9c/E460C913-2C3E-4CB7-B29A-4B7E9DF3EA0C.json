@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-11-28T15:21:55.080", "created": "2025-11-28T15:21:55.080", "criteria": "cpe:2.3:o:cisco:ip_phone_8811_firmware:*:*:*:*:*:*:*:*", "lastModified": "2025-11-28T15:28:47.583", "matchCriteriaId": "E460C913-2C3E-4CB7-B29A-4B7E9DF3EA0C", "status": "Inactive", "versionEndExcluding": "14.3\\(1\\)", "versionStartIncluding": "2.0\\(1\\)"}

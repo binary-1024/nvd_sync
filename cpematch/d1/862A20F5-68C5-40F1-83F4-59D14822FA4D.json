@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-06-09T14:32:12.750", "created": "2022-06-09T14:32:12.750", "criteria": "cpe:2.3:a:lightbend:play_framework:*:*:*:*:*:*:*:*", "lastModified": "2022-06-09T14:32:12.750", "matchCriteriaId": "862A20F5-68C5-40F1-83F4-59D14822FA4D", "status": "Inactive", "versionEndExcluding": "2.8.16", "versionStartIncluding": "2.8.3"}

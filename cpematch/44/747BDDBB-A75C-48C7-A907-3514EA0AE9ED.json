@@ -1,0 +1,1 @@
+{"created": "2020-10-08T15:20:47.090", "criteria": "cpe:2.3:a:atlassian:jira:*:*:*:*:data_center:*:*:*", "lastModified": "2020-10-08T15:20:47.090", "matchCriteriaId": "747BDDBB-A75C-48C7-A907-3514EA0AE9ED", "status": "Active", "versionEndExcluding": "8.5.9", "versionStartIncluding": "8.0.0"}

@@ -1,0 +1,1 @@
+{"created": "2026-04-16T20:10:11.630", "criteria": "cpe:2.3:a:djangoproject:django:*:*:*:*:*:*:*:*", "lastModified": "2026-04-16T20:12:52.220", "matchCriteriaId": "55E32EC9-FE81-4195-A082-39E4E2A1AB62", "status": "Inactive", "versionEndExcluding": "0.95.4", "versionStartIncluding": "0.95.0"}

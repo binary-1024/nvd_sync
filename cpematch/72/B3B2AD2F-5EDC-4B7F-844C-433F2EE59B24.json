@@ -1,0 +1,1 @@
+{"created": "2025-03-06T14:53:06.530", "criteria": "cpe:2.3:h:qualcomm:snapdragon_x35_5g-rf:*:*:*:*:*:*:*:*", "lastModified": "2025-08-07T13:00:11.150", "matchCriteriaId": "B3B2AD2F-5EDC-4B7F-844C-433F2EE59B24", "matches": [{"cpeName": "cpe:2.3:h:qualcomm:snapdragon_x35_5g-rf:-:*:*:*:*:*:*:*", "cpeNameId": "FF8305E6-678A-4FC3-A6C9-F0EF36277BCE"}], "status": "Active"}

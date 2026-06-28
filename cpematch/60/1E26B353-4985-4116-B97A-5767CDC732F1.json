@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-12-27T16:02:26.290", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:o:kde:kde:3.3.1:*:*:*:*:*:*:*", "lastModified": "2023-12-27T16:02:26.290", "matchCriteriaId": "1E26B353-4985-4116-B97A-5767CDC732F1", "matches": [{"cpeName": "cpe:2.3:o:kde:kde:3.3.1:*:*:*:*:*:*:*", "cpeNameId": "479B7FBD-5AB7-4A86-862D-AF7EA7092352"}], "status": "Active"}

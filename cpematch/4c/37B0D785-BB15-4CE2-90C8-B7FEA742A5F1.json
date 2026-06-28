@@ -1,0 +1,1 @@
+{"created": "2025-08-12T21:17:10.360", "criteria": "cpe:2.3:a:google:protobuf:*:*:*:*:*:ruby:*:*", "lastModified": "2025-08-12T21:17:10.360", "matchCriteriaId": "37B0D785-BB15-4CE2-90C8-B7FEA742A5F1", "status": "Active", "versionEndExcluding": "4.27.5", "versionStartIncluding": "4.0.0"}

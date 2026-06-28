@@ -1,0 +1,1 @@
+{"created": "2025-12-08T13:29:41.970", "criteria": "cpe:2.3:a:dfinity:agent-js:*:*:*:*:*:node.js:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "9CEE3D87-1DF0-4E72-ABCA-EE9525A645FD", "status": "Inactive", "versionEndIncluding": "1.0.1", "versionStartIncluding": "0.20.1"}

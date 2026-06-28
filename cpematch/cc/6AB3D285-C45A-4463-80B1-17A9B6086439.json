@@ -1,0 +1,1 @@
+{"created": "2025-08-12T19:36:48.543", "criteria": "cpe:2.3:a:ibm:cloud_pak_system:2.3.3.7:-:*:*:*:*:*:*", "lastModified": "2025-08-15T17:59:02.537", "matchCriteriaId": "6AB3D285-C45A-4463-80B1-17A9B6086439", "matches": [{"cpeName": "cpe:2.3:a:ibm:cloud_pak_system:2.3.3.7:-:*:*:*:*:*:*", "cpeNameId": "8C6D2C2F-FB4F-48DA-998B-42D995EE55CF"}], "status": "Active"}

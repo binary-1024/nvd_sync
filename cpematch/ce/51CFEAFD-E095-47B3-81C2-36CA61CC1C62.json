@@ -1,0 +1,1 @@
+{"created": "2022-02-07T12:06:05.220", "criteria": "cpe:2.3:a:varnish-software:varnich_cache:*:*:*:*:*:plus:*:*", "lastModified": "2022-02-07T12:06:05.220", "matchCriteriaId": "51CFEAFD-E095-47B3-81C2-36CA61CC1C62", "status": "Inactive", "versionEndExcluding": "4.1.11r6", "versionStartIncluding": "4.1.1"}

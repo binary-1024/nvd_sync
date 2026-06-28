@@ -1,0 +1,1 @@
+{"created": "2026-06-17T14:17:07.610", "criteria": "cpe:2.3:a:microsoft:azure_network_adapter:*:*:*:*:*:*:*:*", "lastModified": "2026-06-17T14:17:07.610", "matchCriteriaId": "39CC096D-0B3F-4605-A4E9-D638C23DDF29", "status": "Active", "versionEndExcluding": "7.1", "versionStartIncluding": "1.0.0"}

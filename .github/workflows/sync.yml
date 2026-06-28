@@ -1,0 +1,54 @@
+name: nvd-mirror-sync
+
+# Hourly incremental sync of NVD CVE + cpematch into this repo.
+on:
+  schedule:
+    - cron: "15 * * * *"        # every hour at :15 (UTC)
+  workflow_dispatch:
+    inputs:
+      seed:
+        description: "Full seed dump (one-time; large)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write               # needed to commit + push
+
+concurrency:
+  group: nvd-mirror-sync
+  cancel-in-progress: false     # never overlap runs
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330        # room for a seed; incremental is minutes
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch NVD updates
+        env:
+          NVD_API_KEYS: ${{ secrets.NVD_API_KEYS }}   # comma/space separated
+        run: |
+          if [ "${{ inputs.seed }}" = "true" ]; then
+            python nvd_mirror.py --base . --seed
+          else
+            python nvd_mirror.py --base . --window-min 120
+          fi
+
+      - name: Commit changes
+        run: |
+          git config user.name  "nvd-mirror-bot"
+          git config user.email "nvd-mirror-bot@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "sync $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi

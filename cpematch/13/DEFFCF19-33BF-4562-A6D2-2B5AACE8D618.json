@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-11-25T19:26:33.107", "created": "2022-11-25T19:26:33.107", "criteria": "cpe:2.3:a:arm:utgard_gpu_kernel_driver:*:*:*:*:*:*:*:*", "lastModified": "2022-11-25T19:27:46.763", "matchCriteriaId": "DEFFCF19-33BF-4562-A6D2-2B5AACE8D618", "status": "Inactive", "versionEndIncluding": "r12p0", "versionStartIncluding": "r11p0"}

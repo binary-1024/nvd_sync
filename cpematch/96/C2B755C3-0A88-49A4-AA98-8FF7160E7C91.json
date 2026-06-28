@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-10-08T18:54:30.573", "created": "2024-10-08T18:54:30.573", "criteria": "cpe:2.3:o:microchip:timeprovider_4100_grandmaster_firmware:*:*:*:*:*:*:*:*", "lastModified": "2024-10-08T18:54:30.573", "matchCriteriaId": "C2B755C3-0A88-49A4-AA98-8FF7160E7C91", "status": "Active", "versionEndExcluding": "2.4.7", "versionStartIncluding": "1.0"}

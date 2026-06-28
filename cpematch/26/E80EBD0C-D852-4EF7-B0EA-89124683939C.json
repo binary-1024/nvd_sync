@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-05-04T16:09:53.660", "created": "2022-05-04T16:09:53.660", "criteria": "cpe:2.3:o:bender:cc612_firmware:*:*:*:*:*:*:*:*", "lastModified": "2022-05-04T16:09:53.660", "matchCriteriaId": "E80EBD0C-D852-4EF7-B0EA-89124683939C", "status": "Active", "versionEndExcluding": "5.20.2", "versionStartIncluding": "5.20.0"}

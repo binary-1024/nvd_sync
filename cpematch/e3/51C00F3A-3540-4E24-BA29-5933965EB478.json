@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-01-18T18:09:02.847", "created": "2024-01-18T18:09:02.847", "criteria": "cpe:2.3:a:nvidia:triton_inference_server:*:*:*:*:*:*:*:*", "lastModified": "2024-01-18T18:09:02.847", "matchCriteriaId": "51C00F3A-3540-4E24-BA29-5933965EB478", "status": "Active", "versionEndExcluding": "2.40"}

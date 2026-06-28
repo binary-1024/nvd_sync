@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-03-22T16:31:03.243", "created": "2023-03-22T16:31:03.243", "criteria": "cpe:2.3:a:ansible-semaphore:semaphore:*:*:*:*:*:ansible:*:*", "lastModified": "2023-03-22T16:31:03.243", "matchCriteriaId": "BC2D5479-68AD-4E15-97FE-E36304EE3B05", "status": "Inactive", "versionEndExcluding": "2.8.89"}

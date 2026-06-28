@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-08-29T16:50:45.083", "created": "2022-08-29T16:50:45.083", "criteria": "cpe:2.3:a:debian:schroot:*:*:*:*:*:*:*:*", "lastModified": "2022-08-29T16:50:45.083", "matchCriteriaId": "85DE1817-3E35-432D-8EBD-E2F14AB6E032", "status": "Active", "versionEndExcluding": "1.6.13"}

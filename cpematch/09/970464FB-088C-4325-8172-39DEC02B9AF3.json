@@ -1,0 +1,1 @@
+{"created": "2025-10-21T14:31:04.550", "criteria": "cpe:2.3:a:ibm:content_navigator:3.0.15:-:*:*:*:*:*:*", "lastModified": "2025-11-10T21:26:10.607", "matchCriteriaId": "970464FB-088C-4325-8172-39DEC02B9AF3", "matches": [{"cpeName": "cpe:2.3:a:ibm:content_navigator:3.0.15:-:*:*:*:*:*:*", "cpeNameId": "09B23BAB-F051-4A51-AEE0-3DF4B77320BF"}], "status": "Active"}

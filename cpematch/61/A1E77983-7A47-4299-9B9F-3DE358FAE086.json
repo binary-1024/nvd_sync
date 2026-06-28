@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-06-04T16:47:54.747", "created": "2021-06-04T16:47:18.270", "criteria": "cpe:2.3:a:apache:drill:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "A1E77983-7A47-4299-9B9F-3DE358FAE086", "status": "Inactive", "versionEndExcluding": "1.19.0"}

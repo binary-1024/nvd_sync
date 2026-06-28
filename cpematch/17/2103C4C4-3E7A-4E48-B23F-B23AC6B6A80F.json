@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-05-28T17:51:54.090", "created": "2025-05-27T19:52:31.390", "criteria": "cpe:2.3:a:gutentor:gutentor:*:*:*:*:*:wordpress:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "2103C4C4-3E7A-4E48-B23F-B23AC6B6A80F", "status": "Inactive", "versionEndExcluding": "3.4.7", "versionStartIncluding": "0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-04-29T17:18:11.687", "created": "2021-04-29T17:12:35.460", "criteria": "cpe:2.3:a:nvidia:gpu_display_driver:*:*:*:*:*:*:*:*", "lastModified": "2021-04-29T17:12:35.460", "matchCriteriaId": "61EF672A-3AAC-47E5-8F13-A4B486A4BBB6", "status": "Inactive", "versionEndExcluding": "462.31", "versionStartIncluding": "460"}

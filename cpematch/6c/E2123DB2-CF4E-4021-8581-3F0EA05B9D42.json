@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-02-19T21:23:47.960", "created": "2026-02-19T21:23:47.960", "criteria": "cpe:2.3:a:chainguard:malcontent:*:*:*:*:*:go:*:*", "lastModified": "2026-02-19T21:23:47.960", "matchCriteriaId": "E2123DB2-CF4E-4021-8581-3F0EA05B9D42", "status": "Active", "versionEndExcluding": "1.20.3", "versionStartIncluding": "1.8.0"}

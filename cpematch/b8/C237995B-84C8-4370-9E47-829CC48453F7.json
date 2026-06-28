@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-04-22T13:21:17.333", "created": "2025-02-14T19:43:11.247", "criteria": "cpe:2.3:a:laravel:livewire:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "C237995B-84C8-4370-9E47-829CC48453F7", "status": "Inactive", "versionEndIncluding": "3.5.2", "versionStartIncluding": "3.0.0"}

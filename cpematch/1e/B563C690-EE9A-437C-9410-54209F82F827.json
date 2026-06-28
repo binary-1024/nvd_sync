@@ -1,0 +1,1 @@
+{"created": "2025-07-17T15:15:48.210", "criteria": "cpe:2.3:a:sudo_project:sudo:1.9.17:-:*:*:*:*:*:*", "lastModified": "2025-10-20T16:04:17.950", "matchCriteriaId": "B563C690-EE9A-437C-9410-54209F82F827", "matches": [{"cpeName": "cpe:2.3:a:sudo_project:sudo:1.9.17:-:*:*:*:*:*:*", "cpeNameId": "970FE05F-D6F1-490E-84DC-267D6EF28F41"}], "status": "Active"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-03-26T14:39:18.147", "created": "2022-08-29T13:10:05.400", "criteria": "cpe:2.3:a:sqlite:sqlite:*:*:*:*:*:*:*:*", "lastModified": "2025-08-14T15:57:38.697", "matchCriteriaId": "8107770F-F11A-49A8-AEDB-82FB1E05892A", "status": "Inactive", "versionEndExcluding": "3.34.0"}

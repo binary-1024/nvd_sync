@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-08-05T12:56:34.623", "created": "2022-08-05T12:56:34.623", "criteria": "cpe:2.3:a:graphql-go_project:graphql-go:*:*:*:*:*:*:*:*", "lastModified": "2022-08-05T12:56:34.623", "matchCriteriaId": "0A43A019-10F3-43A1-88D9-208262CDBEEB", "status": "Active", "versionEndIncluding": "0.8.0"}

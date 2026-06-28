@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-10-21T18:11:15.367", "created": "2025-10-21T18:11:15.367", "criteria": "cpe:2.3:a:centreon:centreon_web:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "BF0C6643-19DF-487B-B73B-332501E2D342", "status": "Inactive", "versionEndExcluding": "24.10.04", "versionStartIncluding": "24.10.0"}

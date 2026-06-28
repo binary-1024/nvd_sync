@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-11-10T15:47:28.873", "created": "2021-11-10T13:51:46.000", "criteria": "cpe:2.3:a:microsoft:azure_real_time_operating_system:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "B7C4C4D7-6E31-41F4-9463-00BE6A55DA41", "status": "Inactive", "versionEndExcluding": "6.1.9"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-03-09T14:31:49.430", "created": "2021-03-09T14:30:03.333", "criteria": "cpe:2.3:a:bitnami:containers:*:*:*:*:*:laravel:*:*", "lastModified": "2021-03-09T14:30:03.333", "matchCriteriaId": "CD7BBD6D-049F-4573-9FE3-B8782EC84F0D", "status": "Inactive", "versionEndExcluding": "7.30.1-debian-10-r108", "versionStartIncluding": "7.0.0-debian-10-r0"}

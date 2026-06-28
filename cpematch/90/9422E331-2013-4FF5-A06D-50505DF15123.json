@@ -1,0 +1,1 @@
+{"created": "2025-08-01T20:01:27.357", "criteria": "cpe:2.3:o:cisco:ios_xe_sd-wan:16.12.1a:*:*:*:*:*:*:*", "lastModified": "2025-08-08T18:51:25.227", "matchCriteriaId": "9422E331-2013-4FF5-A06D-50505DF15123", "matches": [{"cpeName": "cpe:2.3:o:cisco:ios_xe_sd-wan:16.12.1a:*:*:*:*:*:*:*", "cpeNameId": "BCD0F8F6-97A6-4132-940D-E3ED12693B5A"}], "status": "Active"}

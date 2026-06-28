@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-03-16T13:07:19.670", "created": "2026-03-16T13:07:19.670", "criteria": "cpe:2.3:a:magic-wormhole_project:magic_wormhole:*:*:*:*:*:python:*:*", "lastModified": "2026-03-16T13:07:19.670", "matchCriteriaId": "DB258A1D-FF14-459B-9EAC-8B4EE6F2B27F", "status": "Active", "versionEndExcluding": "0.23.0", "versionStartIncluding": "0.21.0"}

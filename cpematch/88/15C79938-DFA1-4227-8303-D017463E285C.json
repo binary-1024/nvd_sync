@@ -1,0 +1,1 @@
+{"created": "2025-08-26T14:28:27.060", "criteria": "cpe:2.3:a:canonical:metal_as_a_service:3.5.0:*:*:*:*:*:*:*", "lastModified": "2025-08-26T14:57:30.350", "matchCriteriaId": "15C79938-DFA1-4227-8303-D017463E285C", "matches": [{"cpeName": "cpe:2.3:a:canonical:metal_as_a_service:3.5.0:*:*:*:*:*:*:*", "cpeNameId": "0D99F797-2306-4E3B-9311-2E21D30C2A56"}], "status": "Active"}

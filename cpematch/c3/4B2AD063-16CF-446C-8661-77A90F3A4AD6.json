@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-07-23T16:56:02.180", "created": "2025-07-23T16:56:02.180", "criteria": "cpe:2.3:a:google:gvisor:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "4B2AD063-16CF-446C-8661-77A90F3A4AD6", "status": "Inactive", "versionEndExcluding": "20241028.0"}

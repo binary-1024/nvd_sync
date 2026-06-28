@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-07-06T12:33:58.967", "created": "2021-07-06T12:33:27.790", "criteria": "cpe:2.3:a:apache:druid:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "1128CB66-5B19-4178-AB30-12E7AC7A752A", "status": "Inactive", "versionEndExcluding": "0.21.0"}

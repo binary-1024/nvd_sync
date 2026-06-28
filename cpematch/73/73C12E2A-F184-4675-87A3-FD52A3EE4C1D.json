@@ -1,0 +1,1 @@
+{"created": "2025-08-13T18:12:51.410", "criteria": "cpe:2.3:o:ixsystems:truenas_firmware:13.0:u1.1:*:*:*:*:*:*", "lastModified": "2025-09-09T18:42:30.447", "matchCriteriaId": "73C12E2A-F184-4675-87A3-FD52A3EE4C1D", "matches": [{"cpeName": "cpe:2.3:o:ixsystems:truenas_firmware:13.0:u1.1:*:*:*:*:*:*", "cpeNameId": "29BBBFDE-E6DF-4772-A045-9B905C69BFBF"}], "status": "Active"}

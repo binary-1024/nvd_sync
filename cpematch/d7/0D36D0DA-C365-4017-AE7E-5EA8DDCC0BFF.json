@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-12-06T15:41:37.770", "created": "2022-12-06T15:41:37.770", "criteria": "cpe:2.3:a:ni:labview_command_line_interface:*:*:*:*:*:*:*:*", "lastModified": "2022-12-06T15:41:37.770", "matchCriteriaId": "0D36D0DA-C365-4017-AE7E-5EA8DDCC0BFF", "status": "Active", "versionEndExcluding": "22.3.1"}

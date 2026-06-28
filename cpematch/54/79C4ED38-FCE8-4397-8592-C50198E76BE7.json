@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-09-05T20:30:03.980", "created": "2025-09-05T20:30:03.980", "criteria": "cpe:2.3:a:opencv:opencv:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "79C4ED38-FCE8-4397-8592-C50198E76BE7", "status": "Inactive", "versionEndExcluding": "4.12.0"}

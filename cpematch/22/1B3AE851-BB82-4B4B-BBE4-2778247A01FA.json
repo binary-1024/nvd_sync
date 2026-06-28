@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-11-08T16:38:49.013", "created": "2022-11-08T16:38:49.013", "criteria": "cpe:2.3:a:ibm:tivoli_storage_manager:*:*:*:*:*:*:*:*", "lastModified": "2022-11-09T03:00:12.597", "matchCriteriaId": "1B3AE851-BB82-4B4B-BBE4-2778247A01FA", "status": "Inactive", "versionEndIncluding": "6.3.2.5", "versionStartIncluding": "6.3.0.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-04-27T15:37:43.693", "created": "2020-12-09T14:38:41.030", "criteria": "cpe:2.3:a:apple:icloud:*:*:*:*:*:windows:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "02FB75A4-22FC-45CE-90A1-540D1FD816D3", "status": "Inactive", "versionEndExcluding": "12.10.9", "versionStartIncluding": "12.0.0"}

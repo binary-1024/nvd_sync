@@ -1,0 +1,1 @@
+{"created": "2019-08-22T16:49:59.687", "criteria": "cpe:2.3:a:microfocus:netiq_self_service_password_reset:*:*:*:*:*:*:*:*", "lastModified": "2019-08-22T16:49:59.687", "matchCriteriaId": "1E3607F1-C736-43C8-A7A6-EA0AFFAA041A", "status": "Active", "versionEndExcluding": "4.3.0.6", "versionStartIncluding": "4.3.0.0"}

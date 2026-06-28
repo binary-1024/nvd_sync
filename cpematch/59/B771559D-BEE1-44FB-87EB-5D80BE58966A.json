@@ -1,0 +1,1 @@
+{"created": "2025-07-24T21:06:43.017", "criteria": "cpe:2.3:a:cisco:confd_premium:7.6:*:*:*:*:*:*:*", "lastModified": "2025-07-25T14:41:13.430", "matchCriteriaId": "B771559D-BEE1-44FB-87EB-5D80BE58966A", "matches": [{"cpeName": "cpe:2.3:a:cisco:confd_premium:7.6:*:*:*:*:*:*:*", "cpeNameId": "2130F0E2-A79B-4E36-89DF-F9956A1C6EB8"}], "status": "Active"}

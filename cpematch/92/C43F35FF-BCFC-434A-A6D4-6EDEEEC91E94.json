@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-10-15T14:22:19.143", "created": "2024-10-15T14:22:19.143", "criteria": "cpe:2.3:a:microsoft:defender_for_endpoint:*:*:*:*:*:windows:*:*", "lastModified": "2024-10-15T14:22:19.143", "matchCriteriaId": "C43F35FF-BCFC-434A-A6D4-6EDEEEC91E94", "status": "Active", "versionEndExcluding": "10.0.22621.2715"}

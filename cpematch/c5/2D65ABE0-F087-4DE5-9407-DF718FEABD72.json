@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-10-15T16:43:04.443", "created": "2021-05-18T18:20:08.683", "criteria": "cpe:2.3:a:microsoft:.net:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "2D65ABE0-F087-4DE5-9407-DF718FEABD72", "status": "Inactive", "versionEndExcluding": "5.0.6", "versionStartIncluding": "5.0"}

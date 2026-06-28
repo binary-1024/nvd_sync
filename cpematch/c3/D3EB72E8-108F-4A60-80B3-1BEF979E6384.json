@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-12-13T18:47:18.183", "created": "2022-06-13T12:59:37.177", "criteria": "cpe:2.3:a:port389:389-ds-base:*:*:*:*:*:*:*:*", "lastModified": "2024-12-14T03:00:27.210", "matchCriteriaId": "D3EB72E8-108F-4A60-80B3-1BEF979E6384", "status": "Inactive", "versionEndIncluding": "2.0.0", "versionStartIncluding": "1.3.0.0"}

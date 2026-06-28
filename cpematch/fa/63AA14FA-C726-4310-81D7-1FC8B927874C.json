@@ -1,0 +1,1 @@
+{"created": "2025-08-27T15:34:27.220", "criteria": "cpe:2.3:a:smart_ip_ban_project:smart_ip_ban:*:*:*:*:*:drupal:*:*", "lastModified": "2025-08-27T15:34:27.220", "matchCriteriaId": "63AA14FA-C726-4310-81D7-1FC8B927874C", "status": "Active", "versionEndExcluding": "7.x-1.1", "versionStartIncluding": "7.x-1.0"}

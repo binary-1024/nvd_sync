@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-04-19T17:26:03.760", "created": "2022-04-16T02:05:33.913", "criteria": "cpe:2.3:a:samsung:android_usb_driver_windows_installer:*:*:*:*:*:*:*:*", "lastModified": "2022-04-16T02:05:33.913", "matchCriteriaId": "B54234ED-3CA3-41D6-B30E-ACEFE375A834", "status": "Active", "versionEndExcluding": "1.7.50"}

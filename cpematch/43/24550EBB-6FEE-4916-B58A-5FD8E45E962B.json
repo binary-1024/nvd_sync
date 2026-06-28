@@ -1,0 +1,1 @@
+{"created": "2025-08-01T18:15:37.487", "criteria": "cpe:2.3:h:cisco:ncs_540-24q2c2dd-sys:-:*:*:*:*:*:*:*", "lastModified": "2025-08-04T12:02:05.823", "matchCriteriaId": "24550EBB-6FEE-4916-B58A-5FD8E45E962B", "matches": [{"cpeName": "cpe:2.3:h:cisco:ncs_540-24q2c2dd-sys:-:*:*:*:*:*:*:*", "cpeNameId": "2693CA6F-0234-467D-A9FE-DD8D005E42A9"}], "status": "Active"}

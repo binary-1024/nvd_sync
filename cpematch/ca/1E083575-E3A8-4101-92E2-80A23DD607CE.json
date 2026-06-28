@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-09-28T18:06:41.050", "created": "2021-09-28T18:06:37.543", "criteria": "cpe:2.3:a:semver-regex_project:semver-regex:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "1E083575-E3A8-4101-92E2-80A23DD607CE", "status": "Inactive", "versionEndExcluding": "4.0.1", "versionStartIncluding": "4.0.0"}

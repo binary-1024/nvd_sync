@@ -1,0 +1,1 @@
+{"created": "2025-06-12T16:24:36.940", "criteria": "cpe:2.3:a:gnu:pspp:-:*:*:*:*:*:*:*", "lastModified": "2025-08-22T16:59:40.310", "matchCriteriaId": "293DBCDE-628A-418F-91C3-3BF35306D67C", "matches": [{"cpeName": "cpe:2.3:a:gnu:pspp:-:*:*:*:*:*:*:*", "cpeNameId": "4320897B-B4AE-4C39-A86F-857C155ABB3F"}], "status": "Active"}

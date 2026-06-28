@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-04-22T12:44:51.647", "created": "2025-04-16T17:33:27.917", "criteria": "cpe:2.3:a:jenkins:ssh-agent:*:*:*:*:*:jenkins:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "B6177C65-C483-498F-8DD0-C1AF452D7300", "status": "Inactive", "versionEndExcluding": "6.11.2"}

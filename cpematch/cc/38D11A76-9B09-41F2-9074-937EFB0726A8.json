@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-05-13T14:33:06.130", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:a:oracle:jdk:*:update_19:*:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "matchCriteriaId": "38D11A76-9B09-41F2-9074-937EFB0726A8", "status": "Inactive", "versionEndIncluding": "1.6.0"}

@@ -1,0 +1,1 @@
+{"created": "2025-11-20T17:06:46.430", "criteria": "cpe:2.3:a:checkmk:checkmk:2.4.0:p7:*:*:*:*:*:*", "lastModified": "2025-11-20T18:08:21.250", "matchCriteriaId": "ACE440F8-EBF5-4DBB-A215-57D770C66219", "matches": [{"cpeName": "cpe:2.3:a:checkmk:checkmk:2.4.0:p7:*:*:*:*:*:*", "cpeNameId": "2730767C-FCD7-4F98-A3C1-5374B7B34298"}], "status": "Active"}

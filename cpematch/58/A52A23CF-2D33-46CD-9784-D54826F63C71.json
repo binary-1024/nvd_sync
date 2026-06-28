@@ -1,0 +1,1 @@
+{"created": "2025-08-01T18:15:37.487", "criteria": "cpe:2.3:h:cisco:ncs_540x-4z14g2q-a:-:*:*:*:*:*:*:*", "lastModified": "2025-08-04T12:02:05.823", "matchCriteriaId": "A52A23CF-2D33-46CD-9784-D54826F63C71", "matches": [{"cpeName": "cpe:2.3:h:cisco:ncs_540x-4z14g2q-a:-:*:*:*:*:*:*:*", "cpeNameId": "4726E708-9CCC-4A24-9010-722731E15258"}], "status": "Active"}

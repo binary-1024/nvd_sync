@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-03-22T17:39:44.420", "created": "2023-03-22T17:39:44.420", "criteria": "cpe:2.3:a:fastxml:jackson-databind:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "A18D21CF-2A53-4D4F-8730-A2530D20514D", "status": "Inactive", "versionEndExcluding": "2.12.6", "versionStartIncluding": "2.10.0"}

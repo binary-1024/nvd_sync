@@ -1,0 +1,1 @@
+{"created": "2020-01-21T15:47:31.290", "criteria": "cpe:2.3:a:mit:kerberos_5:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "626BD36D-D320-4D56-A508-0900D752A156", "status": "Inactive", "versionEndIncluding": "5-1.17", "versionStartIncluding": "5-1.16.1"}

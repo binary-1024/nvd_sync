@@ -1,0 +1,1 @@
+{"cpeLastModified": "2020-12-08T18:40:53.387", "created": "2020-11-13T18:03:55.683", "criteria": "cpe:2.3:a:sap:erp:600:*:*:*:*:*:*:*", "lastModified": "2020-11-13T18:03:55.683", "matchCriteriaId": "9E53BFD1-8B0D-4BAD-ABA8-24C4FB25036F", "matches": [{"cpeName": "cpe:2.3:a:sap:erp:600:*:*:*:*:*:*:*", "cpeNameId": "FFEFD36B-38F8-41F6-BEDD-3A4F5EB43837"}], "status": "Active"}

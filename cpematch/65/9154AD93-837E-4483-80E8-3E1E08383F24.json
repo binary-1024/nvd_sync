@@ -1,0 +1,1 @@
+{"created": "2022-03-09T16:22:11.370", "criteria": "cpe:2.3:a:dell:emc_enterprise_storage_analytics:*:*:*:*:*:vrealize_operations:*:*", "lastModified": "2022-03-09T16:22:11.370", "matchCriteriaId": "9154AD93-837E-4483-80E8-3E1E08383F24", "status": "Inactive", "versionEndIncluding": "6.2.1", "versionStartIncluding": "4.0.1"}

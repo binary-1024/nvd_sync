@@ -1,0 +1,1 @@
+{"created": "2026-04-13T17:49:01.237", "criteria": "cpe:2.3:a:socket:socket.io:*:*:*:*:*:node.js:*:*", "lastModified": "2026-04-13T17:49:01.237", "matchCriteriaId": "63A0241B-F912-474E-8D56-66EA3BC82DD2", "status": "Active", "versionEndExcluding": "3.4.4", "versionStartIncluding": "3.4.0"}

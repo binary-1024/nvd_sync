@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-12-04T17:05:55.760", "created": "2024-12-04T17:05:55.760", "criteria": "cpe:2.3:a:dell:secure_connect_gateway:*:*:*:*:*:*:*:*", "lastModified": "2025-05-23T13:56:38.400", "matchCriteriaId": "E43EF20A-504E-4153-90CD-E7E983C8F761", "status": "Inactive", "versionEndExcluding": "5.22.00.18", "versionStartIncluding": "5.18.00.20"}

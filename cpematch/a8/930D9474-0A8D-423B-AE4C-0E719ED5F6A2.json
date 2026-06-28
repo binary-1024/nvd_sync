@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-06-06T17:44:54.830", "created": "2022-06-07T14:41:48.497", "criteria": "cpe:2.3:o:microsoft:azure_rtos_usbx:*:*:*:*:*:*:*:*", "lastModified": "2025-10-27T13:57:06.663", "matchCriteriaId": "930D9474-0A8D-423B-AE4C-0E719ED5F6A2", "status": "Inactive", "versionEndExcluding": "6.1.11"}

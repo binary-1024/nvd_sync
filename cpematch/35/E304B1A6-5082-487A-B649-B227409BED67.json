@@ -1,0 +1,1 @@
+{"created": "2025-09-05T14:30:54.710", "criteria": "cpe:2.3:a:lfprojects:valkey:*:*:*:*:*:*:*:*", "lastModified": "2025-09-05T14:31:16.330", "matchCriteriaId": "E304B1A6-5082-487A-B649-B227409BED67", "status": "Inactive", "versionEndExcluding": "7.2.9", "versionStartIncluding": "7.2.5"}

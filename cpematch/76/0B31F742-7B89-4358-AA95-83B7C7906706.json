@@ -1,0 +1,1 @@
+{"created": "2021-03-24T17:25:51.457", "criteria": "cpe:2.3:a:varnish-cache:varnish_klarlack:*:*:*:*:*:*:*:*", "lastModified": "2021-03-24T17:25:51.457", "matchCriteriaId": "0B31F742-7B89-4358-AA95-83B7C7906706", "status": "Inactive", "versionEndExcluding": "0.17.1"}

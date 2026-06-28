@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-05-22T22:13:41.060", "created": "2022-05-22T22:13:41.060", "criteria": "cpe:2.3:h:siemens:simatic_process_historian:*:*:*:*:*:*:*:*", "lastModified": "2022-05-22T22:13:41.060", "matchCriteriaId": "73659BCA-7F7A-45D4-AB01-07932B16EA59", "status": "Active", "versionEndExcluding": "2020", "versionStartIncluding": "2019"}

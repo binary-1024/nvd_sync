@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-03-04T14:19:13.653", "created": "2022-03-04T05:11:57.137", "criteria": "cpe:2.3:a:kitodo:kitodo.presentation:*:*:*:*:*:typo3:*:*", "lastModified": "2022-03-04T05:11:57.137", "matchCriteriaId": "0D911D0F-543E-4D75-98F6-75201E7B7265", "status": "Active", "versionEndExcluding": "3.3.4", "versionStartIncluding": "3.3.0"}

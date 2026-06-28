@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-05-15T19:48:39.467", "created": "2025-05-15T19:48:39.467", "criteria": "cpe:2.3:a:apache:ranger:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "0187BB02-9726-484D-87C7-20E785043E4F", "status": "Inactive", "versionEndExcluding": "2.5.0"}

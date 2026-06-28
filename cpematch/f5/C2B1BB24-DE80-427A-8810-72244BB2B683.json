@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-04-01T16:08:57.877", "created": "2026-04-01T16:08:57.877", "criteria": "cpe:2.3:a:linuxfoundation:\\@backstage\\/backend_defaults:*:*:*:*:*:node.js:*:*", "lastModified": "2026-04-01T16:08:57.877", "matchCriteriaId": "C2B1BB24-DE80-427A-8810-72244BB2B683", "status": "Active", "versionEndIncluding": "0.13.2", "versionStartIncluding": "0.13.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-01-21T15:04:17.860", "created": "2025-01-21T15:04:17.860", "criteria": "cpe:2.3:a:linuxfoundation:onnx:*:*:*:*:*:*:*:*", "lastModified": "2025-01-22T03:00:31.677", "matchCriteriaId": "778CA0F5-852D-493E-B94C-03DC2C7BEF94", "status": "Inactive", "versionEndIncluding": "1.16.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-12-16T15:37:51.643", "created": "2025-12-16T15:37:51.643", "criteria": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T15:39:38.010", "matchCriteriaId": "28578CDA-AF1A-46E6-8519-37B6925B1D0F", "status": "Inactive", "versionEndIncluding": "r52p0", "versionStartIncluding": "r50p0"}

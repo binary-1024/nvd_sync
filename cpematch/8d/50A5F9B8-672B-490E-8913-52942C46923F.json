@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-09-18T19:46:23.740", "created": "2024-09-18T19:46:23.740", "criteria": "cpe:2.3:a:wagtail:wagtail:*:*:*:*:*:*:*:*", "lastModified": "2024-09-18T19:46:23.740", "matchCriteriaId": "50A5F9B8-672B-490E-8913-52942C46923F", "status": "Active", "versionEndExcluding": "6.0.6", "versionStartIncluding": "6.0"}

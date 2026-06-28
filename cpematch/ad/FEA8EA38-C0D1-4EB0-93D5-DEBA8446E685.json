@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-12-12T20:16:50.737", "created": "2023-05-12T15:06:05.483", "criteria": "cpe:2.3:a:sap:s4fnd:102:*:*:*:*:*:*:*", "lastModified": "2023-12-16T04:05:58.243", "matchCriteriaId": "FEA8EA38-C0D1-4EB0-93D5-DEBA8446E685", "matches": [{"cpeName": "cpe:2.3:a:sap:s4fnd:102:*:*:*:*:*:*:*", "cpeNameId": "6F508426-E594-4AFB-BDEE-16875E06BA08"}], "status": "Active"}

@@ -1,0 +1,1 @@
+{"created": "2025-08-15T14:25:37.650", "criteria": "cpe:2.3:a:adobe:magento:2.4.9:alpha1:*:*:open_source:*:*:*", "lastModified": "2025-08-15T19:11:33.580", "matchCriteriaId": "E34849F7-54EE-4E4C-9184-3DE9C30E12AA", "matches": [{"cpeName": "cpe:2.3:a:adobe:magento:2.4.9:alpha1:*:*:open_source:*:*:*", "cpeNameId": "F72C517E-DD33-48B5-9A73-2025A14A1AF4"}], "status": "Active"}

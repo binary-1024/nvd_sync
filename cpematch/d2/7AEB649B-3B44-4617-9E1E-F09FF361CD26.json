@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-03-22T20:02:38.157", "created": "2020-10-21T14:27:52.320", "criteria": "cpe:2.3:a:vmware:nsx-t_data_center:*:*:*:*:*:*:*:*", "lastModified": "2025-08-13T12:52:10.387", "matchCriteriaId": "7AEB649B-3B44-4617-9E1E-F09FF361CD26", "status": "Inactive", "versionEndExcluding": "2.5.2.2.0", "versionStartIncluding": "2.5.0"}

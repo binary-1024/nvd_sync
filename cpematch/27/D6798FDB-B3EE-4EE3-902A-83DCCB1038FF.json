@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-04-09T13:35:09.060", "created": "2021-04-09T13:31:45.073", "criteria": "cpe:2.3:a:jsrsasign_project:jsrsasign:*:*:*:*:*:node.js:*:*", "lastModified": "2026-06-22T03:18:31.867", "matchCriteriaId": "D6798FDB-B3EE-4EE3-902A-83DCCB1038FF", "status": "Inactive", "versionEndIncluding": "10.1.13"}

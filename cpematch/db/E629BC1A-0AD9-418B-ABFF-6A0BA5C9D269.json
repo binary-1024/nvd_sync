@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-07-31T19:28:02.240", "created": "2025-07-31T19:28:02.240", "criteria": "cpe:2.3:a:cosmwasm:serde-json-wasm:*:*:*:*:*:rust:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "E629BC1A-0AD9-418B-ABFF-6A0BA5C9D269", "status": "Inactive", "versionEndExcluding": "0.5.2"}

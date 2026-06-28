@@ -1,0 +1,1 @@
+{"created": "2025-08-01T15:02:32.613", "criteria": "cpe:2.3:o:cisco:ios:15.0ej:*:*:*:*:*:*:*", "lastModified": "2025-08-08T15:23:50.747", "matchCriteriaId": "633349DC-BFAC-4846-84F4-C65F187BE02B", "matches": [{"cpeName": "cpe:2.3:o:cisco:ios:15.0ej:*:*:*:*:*:*:*", "cpeNameId": "6456BAFC-F408-45EF-BE9E-07A3197B20E2"}], "status": "Active"}

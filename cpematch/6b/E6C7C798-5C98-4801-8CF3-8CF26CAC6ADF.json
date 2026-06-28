@@ -1,0 +1,1 @@
+{"created": "2025-05-22T21:30:36.413", "criteria": "cpe:2.3:a:gfx-rs:wgpu:*:*:*:*:*:rust:*:*", "lastModified": "2025-05-22T21:30:36.413", "matchCriteriaId": "E6C7C798-5C98-4801-8CF3-8CF26CAC6ADF", "status": "Active", "versionEndExcluding": "25.0.0"}

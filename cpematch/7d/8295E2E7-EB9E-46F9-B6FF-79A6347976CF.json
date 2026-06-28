@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-08-03T13:39:12.493", "created": "2021-08-03T13:26:59.320", "criteria": "cpe:2.3:a:hibernate:hibernate-validator:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "8295E2E7-EB9E-46F9-B6FF-79A6347976CF", "status": "Inactive", "versionEndExcluding": "6.0.18"}

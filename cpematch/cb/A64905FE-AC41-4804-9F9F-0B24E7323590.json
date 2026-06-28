@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-03-22T20:02:38.157", "created": "2021-01-11T15:43:33.677", "criteria": "cpe:2.3:o:nutanix:ahv:-:*:*:*:*:*:*:*", "lastModified": "2021-01-11T15:43:33.677", "matchCriteriaId": "A64905FE-AC41-4804-9F9F-0B24E7323590", "matches": [{"cpeName": "cpe:2.3:o:nutanix:ahv:-:*:*:*:*:*:*:*", "cpeNameId": "91CE13BE-5F5F-46A4-A16E-353845706C30"}], "status": "Active"}

@@ -1,0 +1,1 @@
+{"created": "2025-07-18T00:13:27.673", "criteria": "cpe:2.3:o:qualcomm:qca8112_firmware:-:*:*:*:*:*:*:*", "lastModified": "2025-08-11T15:06:17.607", "matchCriteriaId": "8C25D65C-0F25-49EE-8CD6-16472D081509", "matches": [{"cpeName": "cpe:2.3:o:qualcomm:qca8112_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "19334346-26FD-4D47-8880-07C874ED0656"}], "status": "Active"}

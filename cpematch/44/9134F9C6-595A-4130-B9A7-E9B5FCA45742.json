@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-07-23T01:45:47.800", "created": "2025-07-23T01:45:47.800", "criteria": "cpe:2.3:a:fortinet:fortimail:*:*:*:*:*:*:*:*", "lastModified": "2025-07-23T02:00:28.287", "matchCriteriaId": "9134F9C6-595A-4130-B9A7-E9B5FCA45742", "status": "Inactive", "versionEndExcluding": "5.4.12", "versionStartIncluding": "5.4.0"}

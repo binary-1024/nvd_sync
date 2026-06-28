@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-11-19T13:55:29.653", "created": "2021-10-06T17:30:10.260", "criteria": "cpe:2.3:a:calibre-web_project:calibre-web:*:*:*:*:*:*:*:*", "lastModified": "2024-11-20T03:00:49.050", "matchCriteriaId": "6FF6EA1D-D6C6-4A33-877E-F29514871A6D", "status": "Inactive", "versionEndExcluding": "0.6.12", "versionStartIncluding": "0.6.0"}

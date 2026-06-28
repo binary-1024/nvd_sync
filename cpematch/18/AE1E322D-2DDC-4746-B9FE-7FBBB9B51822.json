@@ -1,0 +1,1 @@
+{"cpeLastModified": "2019-12-09T19:14:52.387", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:a:native-opencv_project:native-opencv:*:*:*:*:*:node.js:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "AE1E322D-2DDC-4746-B9FE-7FBBB9B51822", "status": "Inactive", "versionEndIncluding": "3.0.0b"}

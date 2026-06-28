@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-04-03T19:05:45.267", "created": "2026-04-03T19:05:45.267", "criteria": "cpe:2.3:a:giskard:giskard-agent:*:*:*:*:*:python:*:*", "lastModified": "2026-04-03T19:05:45.267", "matchCriteriaId": "694950AE-BE3D-4FBA-BB9C-8DCC461CFD12", "status": "Active", "versionEndExcluding": "0.3.4"}

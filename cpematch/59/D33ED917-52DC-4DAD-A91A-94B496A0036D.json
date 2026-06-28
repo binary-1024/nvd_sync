@@ -1,0 +1,1 @@
+{"created": "2025-09-02T20:06:37.527", "criteria": "cpe:2.3:a:notaryproject:notation-go:1.3.0:rc1:*:*:*:*:*:*", "lastModified": "2025-09-03T20:42:22.630", "matchCriteriaId": "D33ED917-52DC-4DAD-A91A-94B496A0036D", "matches": [{"cpeName": "cpe:2.3:a:notaryproject:notation-go:1.3.0:rc1:*:*:*:*:*:*", "cpeNameId": "B138ACC2-167F-4D7D-95D4-7A0940173953"}], "status": "Active"}

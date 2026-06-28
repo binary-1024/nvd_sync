@@ -1,0 +1,1 @@
+{"created": "2021-08-03T15:11:15.593", "criteria": "cpe:2.3:a:cisco:firepower_device_manager_on-box:*:*:*:*:*:*:*:*", "lastModified": "2021-08-03T15:11:15.593", "matchCriteriaId": "C57AE481-D7EB-4AA7-8E5F-D9CCFAE3E089", "status": "Active", "versionEndExcluding": "6.4.0", "versionStartIncluding": "6.3.0"}

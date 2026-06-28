@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-12-26T19:51:20.300", "created": "2024-12-26T19:51:20.300", "criteria": "cpe:2.3:a:glpi-project:glpi:*:*:*:*:*:*:*:*", "lastModified": "2024-12-27T03:00:27.833", "matchCriteriaId": "342F153B-5127-461D-8C8F-26F9CB788A35", "status": "Inactive", "versionEndExcluding": "10.0.17", "versionStartIncluding": "9.2"}

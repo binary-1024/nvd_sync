@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-04-29T23:37:52.060", "created": "2022-04-27T16:35:07.403", "criteria": "cpe:2.3:a:mcafee:web_gateway:*:*:*:*:*:*:*:*", "lastModified": "2022-04-27T16:35:07.403", "matchCriteriaId": "20E056E8-414A-421E-B0F5-8B14D03C39EE", "status": "Active", "versionEndExcluding": "11.1.3", "versionStartIncluding": "11.0.0"}

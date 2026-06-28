@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-05-20T17:30:10.110", "created": "2022-05-20T17:30:10.110", "criteria": "cpe:2.3:a:intel:software_guard_extensions:*:*:*:*:*:linux:*:*", "lastModified": "2022-05-20T17:30:10.110", "matchCriteriaId": "B4FB1D68-2743-4F4A-8899-29626373BCA9", "status": "Active", "versionEndIncluding": "2.14"}

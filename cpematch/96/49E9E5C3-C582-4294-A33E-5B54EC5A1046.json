@@ -1,0 +1,1 @@
+{"cpeLastModified": "2020-01-16T17:10:48.073", "created": "2020-01-16T17:10:48.060", "criteria": "cpe:2.3:a:sap:basis:7.0:*:*:*:*:*:*:*", "lastModified": "2020-01-16T17:10:48.060", "matchCriteriaId": "49E9E5C3-C582-4294-A33E-5B54EC5A1046", "matches": [{"cpeName": "cpe:2.3:a:sap:basis:7.0:*:*:*:*:*:*:*", "cpeNameId": "76F1CD05-DED7-4B6A-BFFD-600AEE087FD0"}], "status": "Active"}

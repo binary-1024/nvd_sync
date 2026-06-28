@@ -1,0 +1,1 @@
+{"created": "2026-01-28T21:06:08.067", "criteria": "cpe:2.3:a:ibm:aspera_console:3.4.7:*:*:*:*:*:*:*", "lastModified": "2026-04-27T18:07:34.770", "matchCriteriaId": "82D4C647-F4F9-4BB4-A1CE-8F176D01AD68", "matches": [{"cpeName": "cpe:2.3:a:ibm:aspera_console:3.4.7:*:*:*:*:*:*:*", "cpeNameId": "D1016A05-6274-4C7F-A243-8528177C26A0"}], "status": "Active"}

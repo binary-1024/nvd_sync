@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-06-30T04:57:14.233", "created": "2022-06-30T04:57:14.233", "criteria": "cpe:2.3:a:finastra:nestjs-proxy:*:*:*:*:*:node.js:*:*", "lastModified": "2022-06-30T04:57:14.233", "matchCriteriaId": "9469F21C-0C32-43EE-8AD4-155AF994176A", "status": "Active", "versionEndExcluding": "0.7.0"}

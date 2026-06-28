@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-07-29T02:13:04.720", "created": "2022-07-29T02:13:04.720", "criteria": "cpe:2.3:a:scu-captcha_project:scu-captcha:*:*:*:*:*:pypi:*:*", "lastModified": "2022-07-29T02:13:04.720", "matchCriteriaId": "0AFBCED0-CC15-46A3-A5EE-C462FFF376F4", "status": "Active", "versionEndIncluding": "0.0.4", "versionStartIncluding": "0.0.1"}

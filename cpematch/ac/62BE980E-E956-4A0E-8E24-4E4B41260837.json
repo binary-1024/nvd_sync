@@ -1,0 +1,1 @@
+{"cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:a:redhat:slapi-nis:*:*:*:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "matchCriteriaId": "62BE980E-E956-4A0E-8E24-4E4B41260837", "status": "Active", "versionEndIncluding": "0.54.1"}

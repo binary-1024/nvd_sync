@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-10-26T02:03:51.073", "created": "2021-10-26T02:03:41.310", "criteria": "cpe:2.3:o:ibm:flashsystem_9000_firmware:*:*:*:*:*:*:*:*", "lastModified": "2021-10-26T02:03:41.310", "matchCriteriaId": "EC2D5883-B6E1-48CA-ACD5-25AEE8BDEC2D", "status": "Active", "versionEndExcluding": "8.4.0.0", "versionStartIncluding": "7.8.0.0"}

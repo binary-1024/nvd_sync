@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-11-02T18:28:44.640", "created": "2021-10-21T12:22:07.697", "criteria": "cpe:2.3:h:netapp:a320:-:*:*:*:*:*:*:*", "lastModified": "2022-08-18T13:44:43.220", "matchCriteriaId": "E8FD5E05-3C58-465F-9D4F-ECC2CD78DCFF", "matches": [{"cpeName": "cpe:2.3:h:netapp:a320:-:*:*:*:*:*:*:*", "cpeNameId": "18DD8D8C-2AF4-4749-9437-644FDB96033A"}], "status": "Active"}

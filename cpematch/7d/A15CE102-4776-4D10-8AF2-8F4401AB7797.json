@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-07-18T13:20:27.840", "created": "2022-07-18T13:20:27.840", "criteria": "cpe:2.3:a:siemens:opcenter_quality:*:*:*:*:*:*:*:*", "lastModified": "2022-07-18T13:20:27.840", "matchCriteriaId": "A15CE102-4776-4D10-8AF2-8F4401AB7797", "status": "Active", "versionEndExcluding": "13.1.20220624", "versionStartIncluding": "13.1.0"}

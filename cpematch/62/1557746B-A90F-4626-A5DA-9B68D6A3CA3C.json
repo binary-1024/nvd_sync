@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-10-15T13:42:09.260", "created": "2025-10-15T13:42:09.260", "criteria": "cpe:2.3:a:fortinet:forticlient:*:*:*:*:*:macos:*:*", "lastModified": "2025-10-27T14:30:18.850", "matchCriteriaId": "1557746B-A90F-4626-A5DA-9B68D6A3CA3C", "status": "Active", "versionEndExcluding": "7.2.10", "versionStartIncluding": "7.0.0"}

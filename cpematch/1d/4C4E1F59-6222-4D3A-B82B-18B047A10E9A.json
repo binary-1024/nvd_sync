@@ -1,0 +1,1 @@
+{"cpeLastModified": "2020-09-09T13:21:55.687", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:a:kth:kth_kerberos_5:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "4C4E1F59-6222-4D3A-B82B-18B047A10E9A", "status": "Inactive", "versionEndIncluding": "0.5.1"}

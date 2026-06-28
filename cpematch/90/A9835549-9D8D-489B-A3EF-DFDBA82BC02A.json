@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-06-17T17:27:10.060", "created": "2025-06-16T14:01:06.067", "criteria": "cpe:2.3:a:admin_audit_trail_project:admin_audit_trail:*:*:*:*:*:drupal:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "A9835549-9D8D-489B-A3EF-DFDBA82BC02A", "status": "Inactive", "versionEndExcluding": "1.0.5", "versionStartIncluding": "1.0.0"}

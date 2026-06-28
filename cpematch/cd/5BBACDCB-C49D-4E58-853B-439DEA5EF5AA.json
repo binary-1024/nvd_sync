@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-07-25T14:59:53.200", "created": "2025-07-25T14:59:53.200", "criteria": "cpe:2.3:a:citrix:netscaler_gateway:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "5BBACDCB-C49D-4E58-853B-439DEA5EF5AA", "status": "Inactive", "versionEndExcluding": "13.1-55.34", "versionStartIncluding": "13.1"}

@@ -1,0 +1,1 @@
+{"created": "2021-12-23T17:55:57.840", "criteria": "cpe:2.3:a:busybox:busybox:*:*:*:*:*:*:*:*", "lastModified": "2021-12-23T17:55:57.840", "matchCriteriaId": "1065C726-47E6-441F-8237-4588E4C33A60", "status": "Inactive", "versionEndExcluding": "1.34.0", "versionStartIncluding": "1.28.0"}

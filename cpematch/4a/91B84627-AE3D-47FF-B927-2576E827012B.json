@@ -1,0 +1,1 @@
+{"created": "2026-02-27T17:14:14.540", "criteria": "cpe:2.3:a:fast-xml-parser_project:fast-xml-parser:*:*:*:*:*:node.js:*:*", "lastModified": "2026-02-27T17:14:14.540", "matchCriteriaId": "91B84627-AE3D-47FF-B927-2576E827012B", "status": "Active", "versionEndExcluding": "5.3.8", "versionStartIncluding": "5.0.0"}

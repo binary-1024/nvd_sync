@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-12-03T14:53:45.540", "created": "2025-12-03T14:53:45.540", "criteria": "cpe:2.3:a:apache:kvrocks:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "2FF40422-E36D-49F5-A463-D851ED7E46DE", "status": "Inactive", "versionEndIncluding": "2.13.0", "versionStartIncluding": "2.9.0"}

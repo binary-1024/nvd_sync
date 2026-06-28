@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-07-18T15:17:31.080", "created": "2022-07-18T15:17:31.080", "criteria": "cpe:2.3:a:mendix:mendix:*:*:*:*:*:*:*:*", "lastModified": "2022-07-18T15:17:31.080", "matchCriteriaId": "16D49D7F-4CAC-4A92-9CA7-0BDCDAD5B41D", "status": "Active", "versionEndExcluding": "9.15.0", "versionStartIncluding": "9.11.0"}

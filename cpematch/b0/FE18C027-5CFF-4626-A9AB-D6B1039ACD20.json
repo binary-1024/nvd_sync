@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-09-02T18:15:11.863", "created": "2021-08-17T17:42:38.367", "criteria": "cpe:2.3:a:dell:command_\\|_update:*:*:*:*:*:*:*:*", "lastModified": "2021-08-17T17:42:38.367", "matchCriteriaId": "FE18C027-5CFF-4626-A9AB-D6B1039ACD20", "status": "Active", "versionEndIncluding": "4.3.0"}

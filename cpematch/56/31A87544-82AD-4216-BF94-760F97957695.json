@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-07-02T11:24:38.207", "created": "2021-07-02T11:24:38.207", "criteria": "cpe:2.3:a:bluecoat:proxysg:*:*:*:*:*:*:*:*", "lastModified": "2021-07-02T11:24:38.207", "matchCriteriaId": "31A87544-82AD-4216-BF94-760F97957695", "status": "Inactive", "versionEndExcluding": "6.6.5.19", "versionStartIncluding": "6.6"}

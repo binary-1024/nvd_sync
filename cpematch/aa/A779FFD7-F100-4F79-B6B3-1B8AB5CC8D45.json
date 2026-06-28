@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-02-12T19:55:44.310", "created": "2023-08-02T15:05:08.017", "criteria": "cpe:2.3:a:kennethreitz:certifi:*:*:*:*:*:python:*:*", "lastModified": "2025-02-13T03:00:27.840", "matchCriteriaId": "A779FFD7-F100-4F79-B6B3-1B8AB5CC8D45", "status": "Inactive", "versionEndExcluding": "2023.07.22", "versionStartIncluding": "2015.04.28"}

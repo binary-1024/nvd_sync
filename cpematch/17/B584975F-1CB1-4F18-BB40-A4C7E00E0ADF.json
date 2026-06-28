@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-06-15T19:27:33.003", "created": "2026-06-15T19:27:33.003", "criteria": "cpe:2.3:a:hiddenlayer:chroma:*:*:*:*:python:*:*:*", "lastModified": "2026-06-15T19:27:33.003", "matchCriteriaId": "B584975F-1CB1-4F18-BB40-A4C7E00E0ADF", "status": "Active", "versionEndIncluding": "1.5.9", "versionStartIncluding": "0.4.17"}

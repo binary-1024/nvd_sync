@@ -1,0 +1,1 @@
+{"created": "2025-06-09T15:01:31.063", "criteria": "cpe:2.3:o:tenda:ac5_firmware:15.03.06.47:*:*:*:*:*:*:*", "lastModified": "2025-08-28T19:09:33.120", "matchCriteriaId": "2D94CA12-3FED-4730-B1B4-4F6AAA3AB17E", "matches": [{"cpeName": "cpe:2.3:o:tenda:ac5_firmware:15.03.06.47:*:*:*:*:*:*:*", "cpeNameId": "495CAB00-B3A8-4810-8563-B91161548748"}], "status": "Active"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-03-10T16:36:34.330", "created": "2026-03-10T16:36:34.330", "criteria": "cpe:2.3:a:parseplatform:parse-server:*:-:*:*:*:node.js:*:*", "lastModified": "2026-03-10T16:51:18.293", "matchCriteriaId": "C80278D3-30F6-4B0E-BEDC-16B6C7F22A53", "status": "Inactive", "versionEndIncluding": "9.5.0", "versionStartIncluding": "9.0.0"}

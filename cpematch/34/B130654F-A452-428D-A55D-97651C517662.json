@@ -1,0 +1,1 @@
+{"created": "2025-08-05T17:32:03.380", "criteria": "cpe:2.3:a:f5:big-ip_link_controller:17.1.2:*:*:*:*:*:*:*", "lastModified": "2025-08-08T18:55:13.960", "matchCriteriaId": "B130654F-A452-428D-A55D-97651C517662", "matches": [{"cpeName": "cpe:2.3:a:f5:big-ip_link_controller:17.1.2:*:*:*:*:*:*:*", "cpeNameId": "95FD4C12-D837-4048-AF9C-3476FC12A4AF"}], "status": "Active"}

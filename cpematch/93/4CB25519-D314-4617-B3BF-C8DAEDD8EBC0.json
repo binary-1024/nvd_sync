@@ -1,0 +1,1 @@
+{"created": "2021-06-30T00:33:41.293", "criteria": "cpe:2.3:a:vmware:tools:*:*:*:*:*:windows:*:*", "lastModified": "2021-06-30T00:33:41.293", "matchCriteriaId": "4CB25519-D314-4617-B3BF-C8DAEDD8EBC0", "status": "Active", "versionEndExcluding": "11.2.6", "versionStartIncluding": "11.0.0"}

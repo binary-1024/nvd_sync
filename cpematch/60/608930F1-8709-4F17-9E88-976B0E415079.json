@@ -1,0 +1,1 @@
+{"created": "2026-01-28T18:27:20.760", "criteria": "cpe:2.3:o:dlink:dcs-700l_firmware:1.03.09:*:*:*:*:*:*:*", "lastModified": "2026-02-20T16:57:57.113", "matchCriteriaId": "608930F1-8709-4F17-9E88-976B0E415079", "matches": [{"cpeName": "cpe:2.3:o:dlink:dcs-700l_firmware:1.03.09:*:*:*:*:*:*:*", "cpeNameId": "512EA7BD-CFEA-484C-936B-FFDD01A7381C"}], "status": "Active"}

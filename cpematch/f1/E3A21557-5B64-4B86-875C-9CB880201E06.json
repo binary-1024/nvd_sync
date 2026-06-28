@@ -1,0 +1,1 @@
+{"created": "2021-06-17T17:58:54.877", "criteria": "cpe:2.3:a:redhat:machine-config-operator:*:*:*:*:*:*:*:*", "lastModified": "2021-06-17T17:58:54.877", "matchCriteriaId": "E3A21557-5B64-4B86-875C-9CB880201E06", "status": "Active", "versionEndExcluding": "4.4.3", "versionStartIncluding": "4.4.0"}

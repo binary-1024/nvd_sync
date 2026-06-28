@@ -1,0 +1,1 @@
+{"cpeLastModified": "2020-08-03T11:17:03.647", "created": "2020-06-25T18:47:07.210", "criteria": "cpe:2.3:h:intel:82557:-:*:*:*:*:*:*:*", "lastModified": "2020-06-25T18:47:07.210", "matchCriteriaId": "B15B3AE8-CE85-4859-917F-7761D4C7E0EA", "matches": [{"cpeName": "cpe:2.3:h:intel:82557:-:*:*:*:*:*:*:*", "cpeNameId": "A6E008F3-D833-4433-A4F6-D70BB2E90883"}], "status": "Active"}

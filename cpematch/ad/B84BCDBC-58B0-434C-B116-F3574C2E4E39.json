@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-01-11T17:44:32.870", "created": "2024-01-10T15:54:18.910", "criteria": "cpe:2.3:a:petero:cbor:*:*:*:*:*:*:*:*", "lastModified": "2024-01-12T03:00:24.187", "matchCriteriaId": "B84BCDBC-58B0-434C-B116-F3574C2E4E39", "status": "Inactive", "versionEndExcluding": "4.5.1", "versionStartIncluding": "4.0.0"}

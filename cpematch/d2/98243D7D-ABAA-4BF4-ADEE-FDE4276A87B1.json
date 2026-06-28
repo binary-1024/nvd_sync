@@ -1,0 +1,1 @@
+{"created": "2025-08-12T21:17:10.360", "criteria": "cpe:2.3:a:google:protobuf-kotlin:*:*:*:*:*:*:*:*", "lastModified": "2025-08-12T21:17:10.360", "matchCriteriaId": "98243D7D-ABAA-4BF4-ADEE-FDE4276A87B1", "status": "Active", "versionEndExcluding": "4.28.2", "versionStartIncluding": "4.28.0"}

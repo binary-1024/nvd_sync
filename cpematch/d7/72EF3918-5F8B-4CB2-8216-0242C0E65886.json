@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-12-08T16:13:28.667", "created": "2025-12-08T16:13:28.667", "criteria": "cpe:2.3:a:canonical:lxd:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "72EF3918-5F8B-4CB2-8216-0242C0E65886", "status": "Inactive", "versionEndExcluding": "5.21.4", "versionStartIncluding": "4.0"}

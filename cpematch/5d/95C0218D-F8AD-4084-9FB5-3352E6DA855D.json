@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-10-28T18:19:27.947", "created": "2020-03-18T16:38:05.543", "criteria": "cpe:2.3:a:yargs:yargs-parser:*:*:*:*:*:node.js:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "95C0218D-F8AD-4084-9FB5-3352E6DA855D", "status": "Inactive", "versionEndExcluding": "13.1.2"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-02-02T18:56:57.683", "created": "2021-01-12T13:13:32.827", "criteria": "cpe:2.3:a:python:pillow:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "94D570F3-C0AC-4350-90AD-5AE953570B23", "status": "Inactive", "versionEndExcluding": "8.1.0", "versionStartIncluding": "6.0.0"}

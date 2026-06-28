@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-10-27T15:16:09.700", "created": "2022-10-11T17:00:59.013", "criteria": "cpe:2.3:a:xmldom_project:xmldom:*:*:*:*:*:node.js:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "0A9C97DA-53CE-4779-B438-81FBA6B99FD0", "status": "Inactive", "versionEndExcluding": "0.8.3", "versionStartIncluding": "0.6.0"}

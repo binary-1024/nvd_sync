@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-03-27T01:18:07.203", "created": "2021-03-27T01:18:07.203", "criteria": "cpe:2.3:a:openvswitch:openvswitch:*:*:*:*:*:*:*:*", "lastModified": "2021-03-27T01:18:07.203", "matchCriteriaId": "6316310F-D126-465B-BFC4-7C43E558214D", "status": "Inactive", "versionEndExcluding": "1.2.1"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-06-27T13:41:36.617", "created": "2022-06-27T13:41:36.617", "criteria": "cpe:2.3:o:realtek:rtl8152b_firmware:*:*:*:*:*:*:*:*", "lastModified": "2022-06-27T13:41:36.617", "matchCriteriaId": "49282A56-8B23-46FB-95FD-5F0F6CFD2E27", "status": "Inactive", "versionEndExcluding": "10.50", "versionStartIncluding": "7.42"}

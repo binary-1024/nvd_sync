@@ -1,0 +1,1 @@
+{"created": "2025-09-09T18:49:13.797", "criteria": "cpe:2.3:a:adobe:commerce_b2b:1.5.2:p2:*:*:*:*:*:*", "lastModified": "2025-09-10T12:47:19.317", "matchCriteriaId": "2117B163-D88E-4EB4-AEA7-F27FB732BD48", "matches": [{"cpeName": "cpe:2.3:a:adobe:commerce_b2b:1.5.2:p2:*:*:*:*:*:*", "cpeNameId": "F99BA7B1-898D-4456-A65C-AF1746BA42AD"}], "status": "Active"}

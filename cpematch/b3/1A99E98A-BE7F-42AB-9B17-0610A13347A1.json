@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-10-05T18:49:00.257", "created": "2021-10-05T18:48:54.580", "criteria": "cpe:2.3:a:spomky-labs:webauthn_framwork:*:*:*:*:*:*:*:*", "lastModified": "2021-10-05T18:48:54.580", "matchCriteriaId": "1A99E98A-BE7F-42AB-9B17-0610A13347A1", "status": "Active", "versionEndExcluding": "3.2.9"}

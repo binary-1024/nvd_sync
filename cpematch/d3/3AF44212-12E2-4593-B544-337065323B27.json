@@ -1,0 +1,1 @@
+{"created": "2025-05-06T18:52:59.057", "criteria": "cpe:2.3:o:netgear:rax50_firmware:1.0.2.26:*:*:*:*:*:*:*", "lastModified": "2025-08-11T17:19:11.577", "matchCriteriaId": "3AF44212-12E2-4593-B544-337065323B27", "matches": [{"cpeName": "cpe:2.3:o:netgear:rax50_firmware:1.0.2.26:*:*:*:*:*:*:*", "cpeNameId": "AFF27692-1ACB-462D-A415-702BAEC636A8"}], "status": "Active"}

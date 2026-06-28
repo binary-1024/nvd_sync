@@ -1,0 +1,1 @@
+{"created": "2025-07-30T21:35:35.903", "criteria": "cpe:2.3:a:eclipse:open_vsx:-:*:*:*:*:*:*:*", "lastModified": "2025-08-13T15:10:30.227", "matchCriteriaId": "B5C52F4B-E691-46D3-9D9A-46F0865EFC9F", "matches": [{"cpeName": "cpe:2.3:a:eclipse:open_vsx:-:*:*:*:*:*:*:*", "cpeNameId": "693CCE45-51CF-4F9B-BE46-775D7E2C49B6"}], "status": "Active"}

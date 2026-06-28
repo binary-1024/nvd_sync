@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-03-03T23:02:44.753", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:a:berkeley:berkeley_open_infrastructure_for_network_computing:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "52848765-2964-4065-981C-13C4C7307784", "status": "Inactive", "versionEndIncluding": "1.0.2", "versionStartIncluding": "0.9"}

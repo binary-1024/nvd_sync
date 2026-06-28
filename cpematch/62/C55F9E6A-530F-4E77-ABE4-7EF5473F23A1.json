@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-08-27T16:43:29.270", "created": "2021-08-24T15:49:21.967", "criteria": "cpe:2.3:a:hmplugin:hm_multiple_roles:*:*:*:*:*:wordpress:*:*", "lastModified": "2021-08-24T15:49:21.967", "matchCriteriaId": "C55F9E6A-530F-4E77-ABE4-7EF5473F23A1", "status": "Active", "versionEndExcluding": "1.3"}

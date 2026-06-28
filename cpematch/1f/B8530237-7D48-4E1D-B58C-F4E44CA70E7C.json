@@ -1,0 +1,1 @@
+{"created": "2021-08-14T01:13:26.883", "criteria": "cpe:2.3:a:generic-array_project:generic-array:*:*:*:*:*:rust:*:*", "lastModified": "2021-08-14T01:13:26.883", "matchCriteriaId": "B8530237-7D48-4E1D-B58C-F4E44CA70E7C", "status": "Inactive", "versionEndExcluding": "0.8.4"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-06-10T12:08:50.253", "created": "2025-06-10T12:08:50.253", "criteria": "cpe:2.3:a:nodejs:node.js:*:*:*:*:lts:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "37E3E6D9-23B0-4CBE-B678-574635E83D22", "status": "Inactive", "versionEndExcluding": "18.18.2", "versionStartIncluding": "18.12.0"}

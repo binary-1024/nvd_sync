@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-04-07T20:31:56.623", "created": "2025-04-07T20:31:56.623", "criteria": "cpe:2.3:a:hcltechsw:hcl_devops_deploy:*:*:*:*:*:*:*:*", "lastModified": "2025-04-09T02:00:39.087", "matchCriteriaId": "8AE7FC8C-19D7-472C-AEBB-6BA1B17E06D4", "status": "Inactive", "versionEndExcluding": "8.0.1.0", "versionStartIncluding": "8.0.0.0"}

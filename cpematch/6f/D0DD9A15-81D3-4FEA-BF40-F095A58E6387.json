@@ -1,0 +1,1 @@
+{"created": "2026-06-01T16:19:15.937", "criteria": "cpe:2.3:a:stborchert:simple_hierarchical_select:*:*:*:*:*:drupla:*:*", "lastModified": "2026-06-01T16:19:15.937", "matchCriteriaId": "D0DD9A15-81D3-4FEA-BF40-F095A58E6387", "status": "Active", "versionEndIncluding": "7.x-1.10", "versionStartIncluding": "7.x-1.0"}

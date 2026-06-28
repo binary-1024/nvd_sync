@@ -1,0 +1,1 @@
+{"created": "2026-01-29T15:01:55.440", "criteria": "cpe:2.3:a:angular:template_complier:*:*:*:*:*:*:*:*", "lastModified": "2026-01-29T15:01:55.440", "matchCriteriaId": "ABBEFF62-2ADE-49F1-9997-F6580D0A8E34", "status": "Active", "versionEndExcluding": "20.3.15", "versionStartIncluding": "20.0.0-next.0"}

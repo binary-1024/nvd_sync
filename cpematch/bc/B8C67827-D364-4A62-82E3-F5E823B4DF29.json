@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-09-20T18:59:39.290", "created": "2024-09-20T18:59:39.290", "criteria": "cpe:2.3:a:microsoft:sql_2016_azure_connect_feature_pack:*:*:*:*:*:*:*:*", "lastModified": "2024-09-20T18:59:39.290", "matchCriteriaId": "B8C67827-D364-4A62-82E3-F5E823B4DF29", "status": "Active", "versionEndIncluding": "13.0.7037.1", "versionStartIncluding": "13.0.7000.253"}

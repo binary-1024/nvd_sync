@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-06-11T16:23:34.163", "created": "2024-06-11T16:23:34.163", "criteria": "cpe:2.3:a:jetbrains:intellij_idea:*:*:*:*:*:*:*:*", "lastModified": "2024-06-11T18:54:52.200", "matchCriteriaId": "227F8000-7CEA-4BCF-BF78-189DCE3B4A2A", "status": "Inactive", "versionEndExcluding": "2023.1.7", "versionStartIncluding": "2023.1.0"}

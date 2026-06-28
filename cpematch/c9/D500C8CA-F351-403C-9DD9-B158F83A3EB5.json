@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-10-20T17:18:26.963", "created": "2021-10-15T15:23:51.453", "criteria": "cpe:2.3:a:hitachi:jp1\\/netm\\/dm_client-remote_control_feature:*:*:*:*:*:*:*:*", "lastModified": "2021-10-15T15:23:51.453", "matchCriteriaId": "D500C8CA-F351-403C-9DD9-B158F83A3EB5", "status": "Active", "versionEndIncluding": "10-10-20", "versionStartIncluding": "10-10"}

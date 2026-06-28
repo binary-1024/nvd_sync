@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-07-11T14:16:55.790", "created": "2025-07-11T14:16:55.790", "criteria": "cpe:2.3:a:vmware:cloud_foundation:*:*:*:*:*:*:*:*", "lastModified": "2025-07-11T14:28:49.347", "matchCriteriaId": "72DC07BE-7F78-42EA-88FF-448421E7BFAB", "status": "Inactive", "versionEndExcluding": "8.18.1", "versionStartIncluding": "4.0"}

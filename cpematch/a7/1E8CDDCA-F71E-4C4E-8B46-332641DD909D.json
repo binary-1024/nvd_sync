@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-07-25T11:43:11.450", "created": "2021-06-14T18:19:08.503", "criteria": "cpe:2.3:a:redhat:openstack-selinux:*:*:*:*:*:*:*:*", "lastModified": "2021-06-14T18:19:08.503", "matchCriteriaId": "1E8CDDCA-F71E-4C4E-8B46-332641DD909D", "status": "Active", "versionEndExcluding": "0.8.24"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-01-26T12:33:34.460", "created": "2020-11-12T15:25:58.887", "criteria": "cpe:2.3:a:freetype:freetype2:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "0D642BA5-1614-4508-A5E1-EFF95B600B3D", "status": "Inactive", "versionEndExcluding": "2.10.4", "versionStartIncluding": "2.6.0"}

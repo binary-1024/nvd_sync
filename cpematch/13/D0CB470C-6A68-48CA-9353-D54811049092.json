@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-06-05T19:48:27.367", "created": "2026-03-25T20:37:16.537", "criteria": "cpe:2.3:o:arm:arm-trusted-firmware:*:*:*:*:*:*:*:*", "lastModified": "2026-03-25T20:37:16.537", "matchCriteriaId": "D0CB470C-6A68-48CA-9353-D54811049092", "status": "Active", "versionEndIncluding": "2.1"}

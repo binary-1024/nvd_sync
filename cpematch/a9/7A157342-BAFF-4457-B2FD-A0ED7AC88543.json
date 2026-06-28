@@ -1,0 +1,1 @@
+{"cpeLastModified": "2020-07-07T12:39:19.993", "created": "2020-07-07T12:39:19.943", "criteria": "cpe:2.3:a:squid-cache:squid:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "7A157342-BAFF-4457-B2FD-A0ED7AC88543", "status": "Inactive", "versionEndExcluding": "5.0.03", "versionStartIncluding": "5.0"}

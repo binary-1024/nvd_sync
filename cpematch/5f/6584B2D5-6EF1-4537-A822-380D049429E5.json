@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-03-25T17:15:26.597", "created": "2022-03-25T15:32:31.340", "criteria": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "6584B2D5-6EF1-4537-A822-380D049429E5", "status": "Inactive", "versionEndIncluding": "1.17.8", "versionStartIncluding": "1.17.0"}

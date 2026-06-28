@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-08-20T18:56:05.673", "created": "2021-08-19T18:18:31.617", "criteria": "cpe:2.3:o:siemens:cpu_1517-3_pn\\/dp_firmware:*:*:*:*:*:*:*:*", "lastModified": "2021-08-19T18:18:31.617", "matchCriteriaId": "C444654E-A635-4D59-A449-7A81380E5D60", "status": "Active", "versionEndExcluding": "2.9.2", "versionStartIncluding": "2.5"}

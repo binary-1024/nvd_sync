@@ -1,0 +1,1 @@
+{"created": "2025-08-14T16:21:16.823", "criteria": "cpe:2.3:a:libcsp:libcsp:2.0:*:*:*:*:*:*:*", "lastModified": "2025-08-14T16:24:21.080", "matchCriteriaId": "8702E1D9-7F60-47B7-B69C-7C177D3ACE3B", "matches": [{"cpeName": "cpe:2.3:a:libcsp:libcsp:2.0:*:*:*:*:*:*:*", "cpeNameId": "6AE4F4E4-2B77-4DCA-9A1A-90089EC4B468"}], "status": "Active"}

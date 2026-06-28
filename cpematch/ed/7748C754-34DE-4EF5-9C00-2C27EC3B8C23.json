@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-12-09T13:59:49.453", "created": "2022-12-09T13:59:49.453", "criteria": "cpe:2.3:a:libp2p:libp2p:*:*:*:*:*:rust:*:*", "lastModified": "2022-12-10T03:00:12.747", "matchCriteriaId": "7748C754-34DE-4EF5-9C00-2C27EC3B8C23", "status": "Inactive", "versionEndExcluding": "0.45.1"}

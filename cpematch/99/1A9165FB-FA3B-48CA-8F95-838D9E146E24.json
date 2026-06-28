@@ -1,0 +1,1 @@
+{"created": "2025-07-24T16:56:26.320", "criteria": "cpe:2.3:h:citrix:sd-wan_5100:-:*:*:*:standard:*:*:*", "lastModified": "2025-07-25T15:36:40.450", "matchCriteriaId": "1A9165FB-FA3B-48CA-8F95-838D9E146E24", "matches": [{"cpeName": "cpe:2.3:h:citrix:sd-wan_5100:-:*:*:*:standard:*:*:*", "cpeNameId": "BE2B0778-737B-41DE-9D5A-8EE415116BCE"}], "status": "Active"}

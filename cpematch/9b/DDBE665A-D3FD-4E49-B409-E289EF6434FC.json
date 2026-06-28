@@ -1,0 +1,1 @@
+{"cpeLastModified": "2020-12-29T15:07:58.550", "created": "2020-12-28T19:36:56.120", "criteria": "cpe:2.3:a:gnome:gdk-pixbuf:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "DDBE665A-D3FD-4E49-B409-E289EF6434FC", "status": "Inactive", "versionEndExcluding": "2.42.2"}

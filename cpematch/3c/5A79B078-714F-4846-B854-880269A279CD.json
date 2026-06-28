@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-05-05T19:39:21.763", "created": "2022-05-09T12:56:46.960", "criteria": "cpe:2.3:a:encode:httpx:*:*:*:*:*:python:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "5A79B078-714F-4846-B854-880269A279CD", "status": "Inactive", "versionEndIncluding": "0.19.0"}

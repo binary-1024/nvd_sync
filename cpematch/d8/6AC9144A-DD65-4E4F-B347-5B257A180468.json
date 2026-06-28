@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-07-18T16:37:01.290", "created": "2022-07-18T16:07:58.247", "criteria": "cpe:2.3:a:mariadb:mariadb:*:*:*:*:*:*:*:*", "lastModified": "2022-07-18T16:37:01.290", "matchCriteriaId": "6AC9144A-DD65-4E4F-B347-5B257A180468", "status": "Inactive", "versionEndIncluding": "5.5.51", "versionStartIncluding": "5.5.0"}

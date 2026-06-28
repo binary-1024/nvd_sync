@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-03-14T14:50:24.277", "created": "2025-03-14T14:50:24.277", "criteria": "cpe:2.3:a:ibm:app_connect_enterprise_certified_container:*:*:*:*:*:*:*:*", "lastModified": "2025-03-15T02:00:28.990", "matchCriteriaId": "F52A5781-1CA6-4563-9C54-D1314ECB6D4D", "status": "Inactive", "versionEndExcluding": "12.9.0 ", "versionStartIncluding": "7.2"}

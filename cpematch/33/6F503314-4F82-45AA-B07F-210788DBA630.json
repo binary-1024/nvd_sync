@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-03-26T13:49:20.150", "created": "2021-03-26T13:49:20.150", "criteria": "cpe:2.3:a:netapp:active_iq_unified_manager:*:*:*:*:*:vmware_vsphere:*:*", "lastModified": "2021-03-26T13:49:20.150", "matchCriteriaId": "6F503314-4F82-45AA-B07F-210788DBA630", "status": "Inactive", "versionEndExcluding": "9.5"}

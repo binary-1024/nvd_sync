@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-06-08T18:21:06.127", "created": "2021-06-08T18:21:06.127", "criteria": "cpe:2.3:a:vmware:spring_security:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "B4FA8458-9133-40D1-A08B-16688A21DDC0", "status": "Inactive", "versionEndIncluding": "4.2.3", "versionStartIncluding": "4.2.0"}

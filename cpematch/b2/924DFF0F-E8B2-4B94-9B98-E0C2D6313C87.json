@@ -1,0 +1,1 @@
+{"created": "2026-02-04T17:45:27.160", "criteria": "cpe:2.3:o:qualcomm:g2_gen_1_firmware:-:*:*:*:*:*:*:*", "lastModified": "2026-06-11T13:47:23.237", "matchCriteriaId": "924DFF0F-E8B2-4B94-9B98-E0C2D6313C87", "matches": [{"cpeName": "cpe:2.3:o:qualcomm:g2_gen_1_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "85A359CF-7AAE-4871-AE32-0B090C5959CE"}], "status": "Active"}

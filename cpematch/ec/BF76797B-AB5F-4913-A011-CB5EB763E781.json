@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-12-30T17:24:16.100", "created": "2024-12-30T17:24:16.100", "criteria": "cpe:2.3:a:microsoft:visual_studio_2022:*:*:*:*:*:*:*:*", "lastModified": "2024-12-31T03:00:30.583", "matchCriteriaId": "BF76797B-AB5F-4913-A011-CB5EB763E781", "status": "Inactive", "versionEndExcluding": "17.6.14", "versionStartIncluding": "17.6"}

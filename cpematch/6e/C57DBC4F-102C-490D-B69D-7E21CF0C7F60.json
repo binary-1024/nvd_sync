@@ -1,0 +1,1 @@
+{"created": "2025-08-01T19:28:26.990", "criteria": "cpe:2.3:h:cisco:ncs_55a1-24q6h-ss:-:*:*:*:*:*:*:*", "lastModified": "2025-08-08T18:51:25.227", "matchCriteriaId": "C57DBC4F-102C-490D-B69D-7E21CF0C7F60", "matches": [{"cpeName": "cpe:2.3:h:cisco:ncs_55a1-24q6h-ss:-:*:*:*:*:*:*:*", "cpeNameId": "B6002928-42FB-4845-89FE-1A022060E0C7"}], "status": "Active"}

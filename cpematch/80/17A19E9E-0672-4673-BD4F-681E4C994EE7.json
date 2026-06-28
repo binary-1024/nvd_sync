@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-09-27T19:39:21.900", "created": "2024-09-27T19:39:21.900", "criteria": "cpe:2.3:a:watchguard:single_sign-on_client:*:*:*:*:*:windows:*:*", "lastModified": "2024-09-27T19:39:21.900", "matchCriteriaId": "17A19E9E-0672-4673-BD4F-681E4C994EE7", "status": "Active", "versionEndIncluding": "12.7"}

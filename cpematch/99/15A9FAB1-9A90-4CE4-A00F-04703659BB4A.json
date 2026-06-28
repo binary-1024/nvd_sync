@@ -1,0 +1,1 @@
+{"created": "2025-07-18T00:13:27.673", "criteria": "cpe:2.3:o:qualcomm:qca8111_firmware:-:*:*:*:*:*:*:*", "lastModified": "2025-08-11T15:06:17.607", "matchCriteriaId": "15A9FAB1-9A90-4CE4-A00F-04703659BB4A", "matches": [{"cpeName": "cpe:2.3:o:qualcomm:qca8111_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "CBDEA3F1-7A67-456B-B831-76BB3362CF26"}], "status": "Active"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-12-29T17:19:27.727", "created": "2025-12-29T17:19:27.727", "criteria": "cpe:2.3:a:ibm:concert:*:*:*:*:*:*:*:*", "lastModified": "2026-02-12T03:00:00.080", "matchCriteriaId": "8B6D750C-7288-4508-A0F0-5C40589E9841", "status": "Inactive", "versionEndIncluding": "2.1.0", "versionStartIncluding": "1.0.0"}

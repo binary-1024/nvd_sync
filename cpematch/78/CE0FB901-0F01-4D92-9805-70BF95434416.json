@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-06-06T19:11:12.633", "created": "2022-06-06T19:11:12.633", "criteria": "cpe:2.3:a:debian:dpkg:*:*:*:*:*:*:*:*", "lastModified": "2022-06-06T19:11:12.633", "matchCriteriaId": "CE0FB901-0F01-4D92-9805-70BF95434416", "status": "Inactive", "versionEndExcluding": "1.18.26"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-02-26T15:40:24.110", "created": "2026-02-26T15:40:24.110", "criteria": "cpe:2.3:a:cisco:sd-wan_vedge_cloud:*:*:*:*:*:*:*:*", "lastModified": "2026-02-26T15:40:24.110", "matchCriteriaId": "8383E954-CE22-400C-A2BC-4C5E6F399601", "status": "Active", "versionEndExcluding": "20.7.2", "versionStartIncluding": "20.7"}

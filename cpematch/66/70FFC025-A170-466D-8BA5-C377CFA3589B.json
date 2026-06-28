@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-03-18T13:49:54.283", "created": "2022-03-18T02:20:12.573", "criteria": "cpe:2.3:o:wago:750-8202\\/000-022_firmware:*:*:*:*:*:*:*:*", "lastModified": "2022-03-18T02:20:12.573", "matchCriteriaId": "70FFC025-A170-466D-8BA5-C377CFA3589B", "status": "Active", "versionEndExcluding": "fw22", "versionStartIncluding": "fw16"}

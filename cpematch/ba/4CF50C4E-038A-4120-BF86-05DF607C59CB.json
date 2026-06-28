@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-12-13T13:53:48.523", "created": "2022-12-13T13:53:48.523", "criteria": "cpe:2.3:a:arubanetworks:sd-wan:*:*:*:*:*:*:*:*", "lastModified": "2022-12-13T13:53:48.523", "matchCriteriaId": "4CF50C4E-038A-4120-BF86-05DF607C59CB", "status": "Active", "versionEndExcluding": "8.7.0.0-2.3.0.6", "versionStartIncluding": "8.7.0.0-2.3.0.0"}

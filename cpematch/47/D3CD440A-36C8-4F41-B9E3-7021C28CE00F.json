@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-08-17T13:23:09.157", "created": "2021-08-17T13:23:09.157", "criteria": "cpe:2.3:a:google:tensorflow:*:*:*:*:*:*:*:*", "lastModified": "2021-08-17T13:23:09.157", "matchCriteriaId": "D3CD440A-36C8-4F41-B9E3-7021C28CE00F", "status": "Inactive", "versionEndIncluding": "2.4.3", "versionStartIncluding": "2.4.0"}

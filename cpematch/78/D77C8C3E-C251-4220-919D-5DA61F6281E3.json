@@ -1,0 +1,1 @@
+{"created": "2021-12-14T19:59:11.743", "criteria": "cpe:2.3:a:doctrine_project:doctrine_database_abstraction_layer:*:*:*:*:*:*:*:*", "lastModified": "2021-12-14T19:59:11.743", "matchCriteriaId": "D77C8C3E-C251-4220-919D-5DA61F6281E3", "status": "Inactive", "versionEndExcluding": "3.1.4", "versionStartIncluding": "3.0.0"}

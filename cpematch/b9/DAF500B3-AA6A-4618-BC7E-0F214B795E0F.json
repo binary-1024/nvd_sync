@@ -1,0 +1,1 @@
+{"created": "2025-08-21T13:53:59.867", "criteria": "cpe:2.3:a:checkmk:checkmk:2.4.0:b6:*:*:*:*:*:*", "lastModified": "2025-08-21T19:55:56.197", "matchCriteriaId": "DAF500B3-AA6A-4618-BC7E-0F214B795E0F", "matches": [{"cpeName": "cpe:2.3:a:checkmk:checkmk:2.4.0:b6:*:*:*:*:*:*", "cpeNameId": "2A10811A-DA36-409D-8B36-06E9B2FA74C5"}], "status": "Active"}

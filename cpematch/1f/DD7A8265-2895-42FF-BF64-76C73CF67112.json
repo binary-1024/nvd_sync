@@ -1,0 +1,1 @@
+{"created": "2025-08-01T17:46:58.403", "criteria": "cpe:2.3:h:commscope:ruckus_t710s:-:*:*:*:*:*:*:*", "lastModified": "2025-08-07T12:48:58.223", "matchCriteriaId": "DD7A8265-2895-42FF-BF64-76C73CF67112", "matches": [{"cpeName": "cpe:2.3:h:commscope:ruckus_t710s:-:*:*:*:*:*:*:*", "cpeNameId": "81D8F212-3605-4753-BC7B-26F27D1106F2"}], "status": "Active"}

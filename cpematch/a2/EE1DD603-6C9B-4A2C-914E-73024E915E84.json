@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-07-21T19:54:58.740", "created": "2025-07-21T19:54:58.740", "criteria": "cpe:2.3:o:cisco:ios_xr:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "EE1DD603-6C9B-4A2C-914E-73024E915E84", "status": "Inactive", "versionEndExcluding": "24.2.11", "versionStartIncluding": "24.2.1"}

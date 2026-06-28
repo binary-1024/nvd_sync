@@ -1,0 +1,1 @@
+{"created": "2025-11-10T15:12:15.687", "criteria": "cpe:2.3:a:revive-adserver:revive_adserver:6.0.0:-:*:*:*:*:*:*", "lastModified": "2025-11-10T17:54:50.050", "matchCriteriaId": "9EF49CB0-886F-4AB3-8CBF-B7A8A7276DD9", "matches": [{"cpeName": "cpe:2.3:a:revive-adserver:revive_adserver:6.0.0:-:*:*:*:*:*:*", "cpeNameId": "D2EF1B09-6F3C-4FDE-8483-4106995C6FEF"}], "status": "Active"}

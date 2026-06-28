@@ -1,0 +1,1 @@
+{"created": "2022-01-05T19:03:04.410", "criteria": "cpe:2.3:a:zeroize_derive_project:zeroize_derive:*:*:*:*:*:rust:*:*", "lastModified": "2022-01-05T19:03:04.410", "matchCriteriaId": "F57397D1-A0A1-4475-BD52-926C8CDCA2C1", "status": "Inactive", "versionEndIncluding": "1.1.1"}

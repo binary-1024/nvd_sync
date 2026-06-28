@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-01-27T19:49:17.327", "created": "2022-01-26T19:29:12.200", "criteria": "cpe:2.3:a:mustache_project:mustache:*:*:*:*:*:php:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "8515EA8F-C116-4DC5-8860-815661BE6761", "status": "Inactive", "versionEndIncluding": "2.14.1", "versionStartIncluding": "2.0.0"}

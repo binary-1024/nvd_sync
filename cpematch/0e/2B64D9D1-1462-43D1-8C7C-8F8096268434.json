@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-04-02T16:30:41.773", "created": "2026-04-02T16:30:41.773", "criteria": "cpe:2.3:a:eemeli:yaml:*:*:*:*:*:nodejs:*:*", "lastModified": "2026-04-02T16:30:41.773", "matchCriteriaId": "2B64D9D1-1462-43D1-8C7C-8F8096268434", "status": "Active", "versionEndExcluding": "1.10.3", "versionStartIncluding": "1.0.0"}

@@ -1,0 +1,1 @@
+{"created": "2025-10-10T13:18:15.333", "criteria": "cpe:2.3:a:passjava:passjava:*:*:*:*:*:*:*:*", "lastModified": "2025-10-10T13:18:15.333", "matchCriteriaId": "644EBD11-88A4-4E06-AAEB-2C7A72543239", "matches": [{"cpeName": "cpe:2.3:a:passjava:passjava:3.0.0:*:*:*:*:*:*:*", "cpeNameId": "1B362D5C-D744-4FE5-A5B4-138925F49021"}], "status": "Active", "versionEndIncluding": "3.0.0"}

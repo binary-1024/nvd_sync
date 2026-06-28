@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-07-30T02:35:14.227", "created": "2022-07-30T02:35:14.227", "criteria": "cpe:2.3:a:properties-reader_project:properties-reader:*:*:*:*:*:node.js:*:*", "lastModified": "2022-07-30T02:35:14.227", "matchCriteriaId": "0EAC45CB-5911-4B1E-BE80-0FF86388F09D", "status": "Active", "versionEndExcluding": "2.2.0"}

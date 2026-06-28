@@ -1,0 +1,1 @@
+{"created": "2026-05-05T19:42:03.937", "criteria": "cpe:2.3:a:kubernetes:ingress-nginx:*:*:*:*:*:*:*:*", "lastModified": "2026-05-05T19:42:03.937", "matchCriteriaId": "5CAE6535-78E2-4DD8-AABA-3F49B6B56E46", "status": "Active", "versionEndExcluding": "1.14.4", "versionStartIncluding": "1.14.0"}

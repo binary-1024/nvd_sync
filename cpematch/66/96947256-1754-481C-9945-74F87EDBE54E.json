@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-04-13T23:40:29.773", "created": "2021-12-02T14:50:57.463", "criteria": "cpe:2.3:a:rancher:rancher:*:*:*:*:*:*:*:*", "lastModified": "2021-12-02T14:50:57.463", "matchCriteriaId": "96947256-1754-481C-9945-74F87EDBE54E", "status": "Inactive", "versionEndExcluding": "1.2.4", "versionStartIncluding": "1.2.0"}

@@ -1,0 +1,1 @@
+{"created": "2026-05-28T18:20:32.510", "criteria": "cpe:2.3:a:nitro:nitro:*:*:*:*:*:node.js:*:*", "lastModified": "2026-05-28T18:20:32.510", "matchCriteriaId": "A93AAA84-4EDA-4708-8BEC-01E4D566A7B1", "status": "Active", "versionEndExcluding": "3.0.260429", "versionStartExcluding": "2.13.4"}

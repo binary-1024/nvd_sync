@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-09-26T16:42:42.730", "created": "2025-09-26T16:42:42.730", "criteria": "cpe:2.3:a:linuxfoundation:pytorch:*:*:*:*:*:python:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "A7442EC0-AC24-4A60-924E-38D0E5E5BE34", "status": "Inactive", "versionEndExcluding": "2.7.0"}

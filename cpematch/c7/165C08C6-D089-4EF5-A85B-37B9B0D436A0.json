@@ -1,0 +1,1 @@
+{"created": "2025-08-15T15:34:30.260", "criteria": "cpe:2.3:a:ibm:watsonx.ai_on_cloud_pak_for_data:*:*:*:*:*:*:*:*", "lastModified": "2025-08-15T15:34:30.260", "matchCriteriaId": "165C08C6-D089-4EF5-A85B-37B9B0D436A0", "status": "Active", "versionEndExcluding": "5.1.0", "versionStartIncluding": "4.8"}

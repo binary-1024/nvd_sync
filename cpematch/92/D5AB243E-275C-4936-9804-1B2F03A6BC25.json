@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-09-19T19:54:39.497", "created": "2024-09-19T19:54:39.497", "criteria": "cpe:2.3:a:conduit:client-server_api:*:*:*:*:*:*:*:*", "lastModified": "2024-09-19T20:00:00.737", "matchCriteriaId": "D5AB243E-275C-4936-9804-1B2F03A6BC25", "status": "Inactive", "versionEndExcluding": "0.7.0"}

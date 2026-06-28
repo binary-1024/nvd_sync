@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-10-26T20:11:01.663", "created": "2020-06-22T17:53:10.750", "criteria": "cpe:2.3:a:redhat:openstack-cinder:*:*:*:*:*:*:*:*", "lastModified": "2020-06-22T17:53:10.750", "matchCriteriaId": "070CA064-9543-4CAB-980B-1AD7599535E8", "status": "Active", "versionEndExcluding": "14.1.0"}

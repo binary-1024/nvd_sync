@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-07-26T16:26:04.307", "created": "2021-03-12T02:22:49.937", "criteria": "cpe:2.3:a:bloomreach:experience_manager:*:*:*:*:*:*:*:*", "lastModified": "2021-03-12T02:22:49.937", "matchCriteriaId": "2C8D20D0-3795-45CE-88B3-8273D64496D6", "status": "Inactive", "versionEndExcluding": "14.2.2", "versionStartIncluding": "14.1.0"}

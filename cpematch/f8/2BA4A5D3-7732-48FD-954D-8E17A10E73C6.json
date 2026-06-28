@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-08-26T19:07:21.420", "created": "2021-08-26T16:22:28.263", "criteria": "cpe:2.3:o:netmodule:nb2810_firmware:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "2BA4A5D3-7732-48FD-954D-8E17A10E73C6", "status": "Inactive", "versionEndExcluding": "4.4.0.111", "versionStartIncluding": "4.4.0.0"}

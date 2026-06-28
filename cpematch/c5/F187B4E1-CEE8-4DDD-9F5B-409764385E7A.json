@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-01-30T17:24:25.263", "created": "2026-01-30T17:24:25.263", "criteria": "cpe:2.3:a:linuxcontainers:incus:*:*:*:*:*:*:*:*", "lastModified": "2026-01-30T17:25:32.553", "matchCriteriaId": "F187B4E1-CEE8-4DDD-9F5B-409764385E7A", "status": "Inactive", "versionEndExcluding": "6.21.0"}

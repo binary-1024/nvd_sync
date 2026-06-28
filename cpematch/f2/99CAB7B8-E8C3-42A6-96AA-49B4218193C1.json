@@ -1,0 +1,1 @@
+{"created": "2025-07-30T14:51:05.473", "criteria": "cpe:2.3:a:sequoia-pgp:buffered-reader:*:*:*:*:*:rust:*:*", "lastModified": "2025-07-30T14:51:05.473", "matchCriteriaId": "99CAB7B8-E8C3-42A6-96AA-49B4218193C1", "status": "Active", "versionEndExcluding": "1.0.2"}

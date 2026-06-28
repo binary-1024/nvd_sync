@@ -1,0 +1,1 @@
+{"created": "2025-08-13T17:12:35.133", "criteria": "cpe:2.3:h:cisco:iw3700:-:*:*:*:*:*:*:*", "lastModified": "2025-08-19T19:20:49.290", "matchCriteriaId": "9919E498-C454-4CEA-A393-19118F4B1589", "matches": [{"cpeName": "cpe:2.3:h:cisco:iw3700:-:*:*:*:*:*:*:*", "cpeNameId": "65AFF622-3F84-4B10-8EBA-F13AB551719C"}], "status": "Active"}

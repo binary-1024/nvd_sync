@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-07-07T15:43:53.240", "created": "2025-07-07T15:43:53.240", "criteria": "cpe:2.3:o:dell:smartfabric_os10:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "54BAA024-1F7B-4476-930D-B3333CBD7C8A", "status": "Inactive", "versionEndIncluding": "10.5.5.13", "versionStartIncluding": "10.5.5.0"}

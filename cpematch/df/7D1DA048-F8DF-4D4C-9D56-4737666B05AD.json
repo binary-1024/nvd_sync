@@ -1,0 +1,1 @@
+{"created": "2026-01-05T16:14:07.740", "criteria": "cpe:2.3:o:xen:xapi:*:*:*:*:*:*:*:*", "lastModified": "2026-01-05T16:14:07.740", "matchCriteriaId": "7D1DA048-F8DF-4D4C-9D56-4737666B05AD", "status": "Active", "versionEndIncluding": "1.249.37", "versionStartIncluding": "1.249.0"}

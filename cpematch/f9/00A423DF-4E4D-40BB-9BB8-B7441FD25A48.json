@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-05-29T17:17:39.230", "created": "2026-05-29T17:17:39.230", "criteria": "cpe:2.3:a:portainer:portainer:*:*:*:*:*:*:*:*", "lastModified": "2026-05-29T17:42:13.157", "matchCriteriaId": "00A423DF-4E4D-40BB-9BB8-B7441FD25A48", "status": "Inactive", "versionEndExcluding": "2.39.1", "versionStartIncluding": "2.34.0"}

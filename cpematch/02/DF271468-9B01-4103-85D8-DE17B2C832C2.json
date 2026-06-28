@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-08-27T13:59:14.910", "created": "2021-05-03T16:58:54.990", "criteria": "cpe:2.3:a:dynamic_content_element_project:dynamic_content_element:*:*:*:*:*:typo3:*:*", "lastModified": "2021-05-03T16:58:54.990", "matchCriteriaId": "DF271468-9B01-4103-85D8-DE17B2C832C2", "status": "Inactive", "versionEndExcluding": "2.7.1", "versionStartIncluding": "2.7.0"}

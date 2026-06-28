@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-10-15T18:31:54.947", "created": "2024-10-15T18:31:54.947", "criteria": "cpe:2.3:a:hashicorp:vault:*:*:*:*:*:*:*:*", "lastModified": "2024-10-17T14:59:43.603", "matchCriteriaId": "7D521DC1-2197-49DC-B66F-896C997589E3", "status": "Inactive", "versionEndExcluding": "1.18.0", "versionStartIncluding": "1.7.7"}

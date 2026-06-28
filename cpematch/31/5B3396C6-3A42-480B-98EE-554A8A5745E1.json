@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-07-11T19:07:01.020", "created": "2025-07-11T18:12:16.687", "criteria": "cpe:2.3:a:apache:activemq:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "5B3396C6-3A42-480B-98EE-554A8A5745E1", "status": "Inactive", "versionEndIncluding": "5.17.7", "versionStartIncluding": "5.17.0"}

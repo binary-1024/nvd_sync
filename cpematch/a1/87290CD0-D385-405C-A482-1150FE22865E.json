@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-08-07T19:35:22.807", "created": "2025-08-07T19:35:22.807", "criteria": "cpe:2.3:a:ibm:db2:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "87290CD0-D385-405C-A482-1150FE22865E", "status": "Inactive", "versionEndExcluding": "10.5.11", "versionStartIncluding": "10.5.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-06-24T16:40:31.140", "created": "2021-06-24T16:40:31.140", "criteria": "cpe:2.3:a:qos:logback:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "F066280A-C84F-4160-8AE7-DD4B69E755A7", "status": "Inactive", "versionEndIncluding": "1.1.10"}

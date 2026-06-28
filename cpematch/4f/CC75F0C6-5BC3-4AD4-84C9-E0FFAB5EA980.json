@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-03-31T01:00:48.870", "created": "2026-03-31T01:00:48.870", "criteria": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:*:*:*:*:*:*:*:*", "lastModified": "2026-03-31T01:00:48.870", "matchCriteriaId": "CC75F0C6-5BC3-4AD4-84C9-E0FFAB5EA980", "status": "Active", "versionEndExcluding": "13.0.1.2067", "versionStartIncluding": "13.0.0.496"}

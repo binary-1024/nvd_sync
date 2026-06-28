@@ -1,0 +1,1 @@
+{"created": "2025-12-02T15:36:27.590", "criteria": "cpe:2.3:a:cloudevents:go-sdk:*:*:*:*:*:*:*:*", "lastModified": "2025-12-02T15:36:45.987", "matchCriteriaId": "FF86711C-DD2C-4D2C-AC0C-2DA5C3510C48", "status": "Inactive", "versionEndIncluding": "2.5.1"}

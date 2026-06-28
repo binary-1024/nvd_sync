@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-08-23T17:12:35.857", "created": "2024-08-23T17:12:35.857", "criteria": "cpe:2.3:a:zoneminder:zoneminder:*:*:*:*:*:*:*:*", "lastModified": "2024-08-23T17:27:04.950", "matchCriteriaId": "DE511E4E-78E2-43AC-A8F0-EB347B928DE9", "status": "Inactive", "versionEndExcluding": "1.37.43", "versionStartIncluding": "1.37.00"}

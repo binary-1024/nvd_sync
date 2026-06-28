@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-04-12T18:34:03.870", "created": "2022-03-03T01:43:04.427", "criteria": "cpe:2.3:a:redhat:gluster_storage:*:*:*:*:*:*:*:*", "lastModified": "2022-03-03T01:43:04.427", "matchCriteriaId": "ED827A0A-C6AE-4061-AC2C-6E14DF97F520", "status": "Active", "versionEndIncluding": "4.1.8", "versionStartIncluding": "4.1.0"}

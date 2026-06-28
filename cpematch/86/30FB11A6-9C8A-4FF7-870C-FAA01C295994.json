@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-06-11T14:06:20.767", "created": "2026-06-11T14:06:20.767", "criteria": "cpe:2.3:a:espressif:esp-idf:*:*:*:*:*:*:*:*", "lastModified": "2026-06-11T14:09:12.283", "matchCriteriaId": "30FB11A6-9C8A-4FF7-870C-FAA01C295994", "status": "Inactive", "versionEndExcluding": "5.5.4", "versionStartIncluding": "5.5"}

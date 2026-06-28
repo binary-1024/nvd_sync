@@ -1,0 +1,1 @@
+{"created": "2025-02-26T20:11:32.947", "criteria": "cpe:2.3:a:odoo:odoo:17.0:*:*:*:enterprise:*:*:*", "lastModified": "2025-08-12T20:30:49.270", "matchCriteriaId": "1BD12AD5-9461-4AEC-A06D-0300CE27A0C1", "matches": [{"cpeName": "cpe:2.3:a:odoo:odoo:17.0:*:*:*:enterprise:*:*:*", "cpeNameId": "B626DCD6-6D8C-4A52-A3BB-B53ABB3FB121"}], "status": "Active"}

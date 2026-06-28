@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-07-20T15:50:00.400", "created": "2022-07-20T15:50:00.400", "criteria": "cpe:2.3:a:microsoft:azure_site_recovery:*:*:*:*:vmware_to_azure:*:*:*", "lastModified": "2022-07-20T15:50:00.400", "matchCriteriaId": "7DB19B8E-B07B-4721-AD88-851A89BC88D1", "status": "Active", "versionEndExcluding": "9.49"}

@@ -1,0 +1,1 @@
+{"created": "2026-04-21T15:48:53.417", "criteria": "cpe:2.3:a:fedify:fedify\\/vocab-runtime:*:*:*:*:*:node.js:*:*", "lastModified": "2026-04-21T15:48:53.417", "matchCriteriaId": "B6CC76BF-8504-4630-832A-F5EA09191546", "status": "Active", "versionEndExcluding": "2.1.1", "versionStartIncluding": "2.1.0"}

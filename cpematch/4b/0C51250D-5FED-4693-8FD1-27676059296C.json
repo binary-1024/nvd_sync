@@ -1,0 +1,1 @@
+{"created": "2025-07-29T18:53:29.620", "criteria": "cpe:2.3:a:cisco:prime_infrastructure:3.6_dp1:*:*:*:*:*:*:*", "lastModified": "2025-07-29T19:18:31.340", "matchCriteriaId": "0C51250D-5FED-4693-8FD1-27676059296C", "matches": [{"cpeName": "cpe:2.3:a:cisco:prime_infrastructure:3.6_dp1:*:*:*:*:*:*:*", "cpeNameId": "EDC957F1-3E54-4727-B0DB-14CC5AB4F0D2"}], "status": "Active"}

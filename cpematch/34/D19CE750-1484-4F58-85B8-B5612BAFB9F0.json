@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-05-20T22:02:09.307", "created": "2021-05-20T22:02:09.307", "criteria": "cpe:2.3:a:f5:big-ip_advanced_firewall_manager:*:*:*:*:*:*:*:*", "lastModified": "2021-05-20T22:02:09.307", "matchCriteriaId": "D19CE750-1484-4F58-85B8-B5612BAFB9F0", "status": "Inactive", "versionEndIncluding": "13.1.4", "versionStartIncluding": "13.1.0.8"}

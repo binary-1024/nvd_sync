@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-05-25T17:23:27.667", "created": "2022-05-25T17:23:27.667", "criteria": "cpe:2.3:o:arubanetworks:3810m_firmware:*:*:*:*:*:*:*:*", "lastModified": "2022-05-25T17:23:27.667", "matchCriteriaId": "3FE38A01-532C-40E0-9FE8-E4C4E24BD53F", "status": "Active", "versionEndExcluding": "16.10.0020", "versionStartIncluding": "16.10.0"}

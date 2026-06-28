@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-08-20T14:58:52.787", "created": "2024-01-03T14:21:17.600", "criteria": "cpe:2.3:a:stormshield:network_security:*:*:*:*:*:*:*:*", "lastModified": "2024-08-21T02:00:24.290", "matchCriteriaId": "F45A8EFF-2702-4D2E-98F1-B87434FA0AE2", "status": "Inactive", "versionEndExcluding": "4.7.2", "versionStartIncluding": "4.7.0"}

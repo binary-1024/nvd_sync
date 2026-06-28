@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-05-18T16:23:13.627", "created": "2022-05-18T16:23:13.627", "criteria": "cpe:2.3:a:fortinet:fortiproxy:*:*:*:*:*:*:*:*", "lastModified": "2022-05-18T16:23:13.627", "matchCriteriaId": "DC4F3B81-B8D1-4729-B0E8-AEBD064627A0", "status": "Inactive", "versionEndExcluding": "2.0.7", "versionStartIncluding": "2.0.0"}

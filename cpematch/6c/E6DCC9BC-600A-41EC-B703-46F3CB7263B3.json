@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-04-09T16:27:27.567", "created": "2026-04-09T16:27:27.567", "criteria": "cpe:2.3:a:qnap:quftp_service:*:*:*:*:*:*:*:*", "lastModified": "2026-04-09T16:27:27.567", "matchCriteriaId": "E6DCC9BC-600A-41EC-B703-46F3CB7263B3", "status": "Active", "versionEndExcluding": "1.6.2", "versionStartIncluding": "1.6.0"}

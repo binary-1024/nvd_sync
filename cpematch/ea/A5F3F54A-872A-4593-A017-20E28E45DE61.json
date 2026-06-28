@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-10-13T16:40:42.523", "created": "2023-10-13T16:40:42.523", "criteria": "cpe:2.3:a:microsoft:ole_db_driver_for_sql_server:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "A5F3F54A-872A-4593-A017-20E28E45DE61", "status": "Inactive", "versionEndExcluding": "19.3.0002.0", "versionStartIncluding": "18.0"}

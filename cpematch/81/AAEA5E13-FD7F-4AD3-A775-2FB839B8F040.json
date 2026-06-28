@@ -1,0 +1,1 @@
+{"created": "2025-07-30T21:07:51.360", "criteria": "cpe:2.3:a:cisco:finesse:12.6\\(1\\):es11:*:*:*:*:*:*", "lastModified": "2025-07-31T15:03:24.870", "matchCriteriaId": "AAEA5E13-FD7F-4AD3-A775-2FB839B8F040", "matches": [{"cpeName": "cpe:2.3:a:cisco:finesse:12.6\\(1\\):es11:*:*:*:*:*:*", "cpeNameId": "A7A1955D-0DC9-4400-91AF-0FD76C251259"}], "status": "Active"}

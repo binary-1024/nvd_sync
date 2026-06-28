@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-12-02T05:00:39.903", "created": "2022-12-02T05:00:39.903", "criteria": "cpe:2.3:a:grafana:synthetic_monitoring_agent:*:*:*:*:*:*:*:*", "lastModified": "2022-12-02T05:00:39.903", "matchCriteriaId": "B0243C5D-EDC8-4238-94FF-0A7F6FDAF3C5", "status": "Active", "versionEndExcluding": "0.12.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-06-23T13:27:48.133", "created": "2026-06-23T13:27:48.133", "criteria": "cpe:2.3:a:ibm:storage_protect:*:*:*:*:*:*:*:*", "lastModified": "2026-06-23T13:27:48.133", "matchCriteriaId": "FDE6B669-C258-4558-A947-6B3B1B785383", "status": "Active", "versionEndExcluding": "8.2.1.1", "versionStartIncluding": "8.1.0.0"}

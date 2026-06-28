@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-04-19T18:00:34.280", "created": "2021-04-19T18:00:09.983", "criteria": "cpe:2.3:a:glsl_linting_project:glsl_linting:*:*:*:*:*:visual_studio:*:*", "lastModified": "2021-04-19T18:00:09.983", "matchCriteriaId": "C3A5D731-BB82-4C35-8D22-6E44ADD90E41", "status": "Inactive", "versionEndExcluding": "1.4.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-07-29T12:46:04.583", "created": "2022-04-25T16:55:24.837", "criteria": "cpe:2.3:a:xorux:stor2rrd:*:*:*:*:*:*:*:*", "lastModified": "2022-04-25T16:55:24.837", "matchCriteriaId": "F02B19C0-7243-4034-A064-2BAA032B30EA", "status": "Active", "versionEndExcluding": "7.30", "versionStartIncluding": "7.21"}

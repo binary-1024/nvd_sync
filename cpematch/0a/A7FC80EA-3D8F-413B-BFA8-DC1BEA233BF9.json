@@ -1,0 +1,1 @@
+{"created": "2025-07-10T16:03:50.613", "criteria": "cpe:2.3:a:ivanti:application_control:2024.1:-:*:*:*:*:*:*", "lastModified": "2025-10-20T19:06:42.290", "matchCriteriaId": "A7FC80EA-3D8F-413B-BFA8-DC1BEA233BF9", "matches": [{"cpeName": "cpe:2.3:a:ivanti:application_control:2024.1:-:*:*:*:*:*:*", "cpeNameId": "EF8D8561-D61B-4920-ABF2-21DD6FFA9BC5"}], "status": "Active"}

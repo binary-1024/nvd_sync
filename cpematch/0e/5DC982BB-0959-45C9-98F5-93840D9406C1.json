@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-07-10T15:10:34.487", "created": "2025-07-10T15:10:34.487", "criteria": "cpe:2.3:a:ivanti:endpoint_manager_mobile:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "5DC982BB-0959-45C9-98F5-93840D9406C1", "status": "Inactive", "versionEndExcluding": "12.3.0.3", "versionStartIncluding": "12.3.0.0"}

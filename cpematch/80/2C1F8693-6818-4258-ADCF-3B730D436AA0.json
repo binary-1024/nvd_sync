@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-10-17T14:14:55.803", "created": "2022-10-17T12:54:30.270", "criteria": "cpe:2.3:o:redhat:389_directory_server:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "2C1F8693-6818-4258-ADCF-3B730D436AA0", "status": "Inactive", "versionStartIncluding": "2.0.0"}

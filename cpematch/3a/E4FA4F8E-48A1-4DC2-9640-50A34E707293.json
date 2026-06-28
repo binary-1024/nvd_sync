@@ -1,0 +1,1 @@
+{"created": "2026-05-11T14:46:04.707", "criteria": "cpe:2.3:a:apache:airflow_providers_keycloak:*:*:*:*:*:*:*:*", "lastModified": "2026-05-11T14:46:04.707", "matchCriteriaId": "E4FA4F8E-48A1-4DC2-9640-50A34E707293", "status": "Active", "versionEndExcluding": "0.7.0", "versionStartIncluding": "0.0.1"}

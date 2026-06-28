@@ -1,0 +1,1 @@
+{"cpeLastModified": "2020-07-17T12:36:39.253", "created": "2020-05-21T14:21:46.813", "criteria": "cpe:2.3:a:vmware:vcloud_director:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "79C190B6-4C8C-43A8-B41F-FA017FE89CBD", "status": "Inactive", "versionEndIncluding": "9.1.0.4", "versionStartIncluding": "9.1.0.0"}

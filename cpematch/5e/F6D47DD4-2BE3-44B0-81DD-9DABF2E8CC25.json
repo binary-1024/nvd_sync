@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-06-23T12:49:53.247", "created": "2019-10-29T14:34:26.350", "criteria": "cpe:2.3:a:libvncserver_project:libvncserver:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "F6D47DD4-2BE3-44B0-81DD-9DABF2E8CC25", "status": "Inactive", "versionEndIncluding": "0.9.12"}

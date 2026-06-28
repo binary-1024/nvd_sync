@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-07-08T16:37:53.197", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:a:symantec:advanced_secure_gateway:*:*:*:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "matchCriteriaId": "AB8D2926-A725-49BF-BEE9-48D64E70EACD", "status": "Inactive", "versionEndExcluding": "6.6.5.14", "versionStartIncluding": "6.6"}

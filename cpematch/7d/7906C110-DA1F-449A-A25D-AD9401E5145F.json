@@ -1,0 +1,1 @@
+{"created": "2025-08-01T15:02:32.613", "criteria": "cpe:2.3:o:cisco:ios:15.2sc:*:*:*:*:*:*:*", "lastModified": "2025-08-08T15:23:50.747", "matchCriteriaId": "7906C110-DA1F-449A-A25D-AD9401E5145F", "matches": [{"cpeName": "cpe:2.3:o:cisco:ios:15.2sc:*:*:*:*:*:*:*", "cpeNameId": "BCB21C30-0E02-4316-A20F-7998DA0C99AD"}], "status": "Active"}

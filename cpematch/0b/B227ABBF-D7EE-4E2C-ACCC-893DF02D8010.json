@@ -1,0 +1,1 @@
+{"created": "2025-07-08T13:55:04.817", "criteria": "cpe:2.3:a:broadcom:bitnami:*:*:*:*:*:postgresql:*:*", "lastModified": "2025-07-08T13:55:04.817", "matchCriteriaId": "B227ABBF-D7EE-4E2C-ACCC-893DF02D8010", "status": "Active", "versionEndExcluding": "16.0.0"}

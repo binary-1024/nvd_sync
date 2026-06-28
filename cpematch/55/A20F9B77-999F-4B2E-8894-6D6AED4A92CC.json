@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-03-03T23:02:44.753", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:h:cisco:spa400:-:*:*:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "matchCriteriaId": "A20F9B77-999F-4B2E-8894-6D6AED4A92CC", "matches": [{"cpeName": "cpe:2.3:h:cisco:spa400:-:*:*:*:*:*:*:*", "cpeNameId": "BF7CBB55-037B-4ECD-9339-9504A6E8D12F"}], "status": "Active"}

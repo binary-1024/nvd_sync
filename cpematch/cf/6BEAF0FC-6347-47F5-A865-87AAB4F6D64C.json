@@ -1,0 +1,1 @@
+{"created": "2025-07-23T15:08:43.663", "criteria": "cpe:2.3:a:clamav:clamav:1.3.0:rc2:*:*:*:*:*:*", "lastModified": "2025-08-05T20:18:06.380", "matchCriteriaId": "6BEAF0FC-6347-47F5-A865-87AAB4F6D64C", "matches": [{"cpeName": "cpe:2.3:a:clamav:clamav:1.3.0:rc2:*:*:*:*:*:*", "cpeNameId": "72198657-7508-480C-875C-73A5A8451786"}], "status": "Active"}

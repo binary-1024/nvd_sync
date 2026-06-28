@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-08-20T14:55:45.110", "created": "2025-08-20T14:55:45.110", "criteria": "cpe:2.3:a:open-quantum-safe:liboqs:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "B180444E-4662-43CD-A850-058AD383FB61", "status": "Inactive", "versionEndExcluding": "0.12.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-03-18T20:16:21.977", "created": "2025-03-18T20:16:21.977", "criteria": "cpe:2.3:a:hdfgroup:hdf5:*:*:*:*:*:*:*:*", "lastModified": "2025-03-19T02:00:29.200", "matchCriteriaId": "5281EB90-F092-4C50-8E2B-01401896C6BA", "status": "Inactive", "versionEndIncluding": "1.10.3", "versionStartIncluding": "1.8.0"}

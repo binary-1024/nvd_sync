@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-06-24T13:21:40.423", "created": "2021-06-24T13:21:40.423", "criteria": "cpe:2.3:a:reportportal:service-api:*:*:*:*:*:*:*:*", "lastModified": "2021-06-24T13:21:40.423", "matchCriteriaId": "8048388C-B376-4404-962E-A16153E1E517", "status": "Inactive", "versionEndIncluding": "5.4.0", "versionStartIncluding": "3.1.0"}

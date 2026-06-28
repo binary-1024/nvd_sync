@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-03-16T18:59:27.153", "created": "2026-03-16T18:59:27.153", "criteria": "cpe:2.3:a:intel:graphics_driver:*:*:*:*:*:windows:*:*", "lastModified": "2026-04-20T12:37:27.160", "matchCriteriaId": "57D85E7D-766D-42BF-8E9F-867F2596F8E5", "status": "Active", "versionEndExcluding": "32.0.101.6979"}

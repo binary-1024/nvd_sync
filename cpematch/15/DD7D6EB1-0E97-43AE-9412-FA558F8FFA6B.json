@@ -1,0 +1,1 @@
+{"created": "2026-04-21T15:48:53.417", "criteria": "cpe:2.3:a:fedify:fedify\\/fedify:*:*:*:*:*:node.js:*:*", "lastModified": "2026-04-21T15:48:53.417", "matchCriteriaId": "DD7D6EB1-0E97-43AE-9412-FA558F8FFA6B", "status": "Active", "versionEndExcluding": "2.0.8", "versionStartIncluding": "2.0.0"}

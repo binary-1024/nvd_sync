@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-10-28T00:10:01.530", "created": "2021-10-26T17:46:37.120", "criteria": "cpe:2.3:a:qutebrowser:qutebrowser:*:*:*:*:*:*:*:*", "lastModified": "2021-10-26T17:46:37.120", "matchCriteriaId": "F643B197-DBB9-48A2-AD9B-CF2639EDD35A", "status": "Active", "versionEndExcluding": "2.4.0", "versionStartIncluding": "2.0.0"}

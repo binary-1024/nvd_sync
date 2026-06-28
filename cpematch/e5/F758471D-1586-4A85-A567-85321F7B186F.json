@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-10-13T16:53:31.183", "created": "2022-10-13T16:53:31.183", "criteria": "cpe:2.3:a:google:protobuf-kotlin-lite:*:*:*:*:*:*:*:*", "lastModified": "2022-10-13T16:53:31.183", "matchCriteriaId": "F758471D-1586-4A85-A567-85321F7B186F", "status": "Active", "versionEndExcluding": "3.16.3"}

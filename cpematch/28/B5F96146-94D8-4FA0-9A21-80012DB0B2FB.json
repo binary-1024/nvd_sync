@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-04-23T14:38:48.603", "created": "2024-02-06T16:39:44.340", "criteria": "cpe:2.3:a:tanstack:query:*:*:*:*:*:node.js:*:*", "lastModified": "2024-02-06T16:39:44.340", "matchCriteriaId": "B5F96146-94D8-4FA0-9A21-80012DB0B2FB", "status": "Active", "versionEndExcluding": "5.18.0", "versionStartIncluding": "5.0.0"}

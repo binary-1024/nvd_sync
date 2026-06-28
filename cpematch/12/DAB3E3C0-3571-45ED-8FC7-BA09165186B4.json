@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-08-06T12:52:40.890", "created": "2024-08-05T16:23:26.683", "criteria": "cpe:2.3:a:apache:airflow_providers_fab:1.2.1:*:*:*:*:*:*:*", "lastModified": "2024-08-31T02:00:26.943", "matchCriteriaId": "DAB3E3C0-3571-45ED-8FC7-BA09165186B4", "status": "Inactive"}

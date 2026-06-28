@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-09-02T16:11:48.957", "created": "2025-09-02T16:11:48.957", "criteria": "cpe:2.3:a:esri:portal_for_arcgis:*:*:*:*:*:*:*:*", "lastModified": "2025-09-02T16:12:55.253", "matchCriteriaId": "5C6D460D-04A0-48F7-92C8-0A18C47BB747", "status": "Inactive", "versionEndExcluding": "11.5", "versionStartIncluding": "10.9.1"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-06-01T16:43:15.633", "created": "2026-06-01T16:43:15.633", "criteria": "cpe:2.3:a:ibm:security_directory_integrator:*:*:*:*:*:*:*:*", "lastModified": "2026-06-01T16:43:15.633", "matchCriteriaId": "FD3DA989-EA9D-4C1B-AEA1-7DDEFBBD17AB", "status": "Active", "versionEndExcluding": "10.0.0.3", "versionStartIncluding": "10.0.0"}

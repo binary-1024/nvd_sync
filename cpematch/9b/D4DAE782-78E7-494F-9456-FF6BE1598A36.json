@@ -1,0 +1,1 @@
+{"created": "2025-08-05T14:16:21.717", "criteria": "cpe:2.3:a:openafs:openafs:1.9.0:*:*:*:*:*:*:*", "lastModified": "2025-08-26T13:50:06.067", "matchCriteriaId": "D4DAE782-78E7-494F-9456-FF6BE1598A36", "matches": [{"cpeName": "cpe:2.3:a:openafs:openafs:1.9.0:*:*:*:*:*:*:*", "cpeNameId": "A2FF4C2A-037A-4E85-ABE6-3A70CC0E64DB"}], "status": "Active"}

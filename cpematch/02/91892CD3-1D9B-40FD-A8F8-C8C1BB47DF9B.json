@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-04-25T13:10:24.877", "created": "2025-04-10T19:14:31.317", "criteria": "cpe:2.3:a:wireshark:wireshark:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "91892CD3-1D9B-40FD-A8F8-C8C1BB47DF9B", "status": "Inactive", "versionEndIncluding": "4.4.1", "versionStartIncluding": "4.4.0"}

@@ -1,0 +1,1 @@
+{"created": "2025-03-14T15:07:52.313", "criteria": "cpe:2.3:a:ibm:app_connect_operator:*:*:*:*:lts:*:*:*", "lastModified": "2025-03-14T15:07:52.313", "matchCriteriaId": "4F9C8F00-2039-4E64-9CE1-034271085913", "status": "Active", "versionEndExcluding": "12.9.0 ", "versionStartIncluding": "12.0.0"}

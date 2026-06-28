@@ -1,0 +1,1 @@
+{"created": "2020-09-17T18:06:06.253", "criteria": "cpe:2.3:a:suse:salt-netapi-client:*:*:*:*:*:*:*:*", "lastModified": "2020-09-17T18:06:06.253", "matchCriteriaId": "56EC014D-79DA-4990-841C-901E4CD2D7D0", "status": "Active", "versionEndExcluding": "0.16.0-4.14.1"}

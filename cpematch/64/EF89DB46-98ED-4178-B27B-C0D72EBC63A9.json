@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-06-30T04:57:43.950", "created": "2022-06-30T04:57:43.950", "criteria": "cpe:2.3:a:nestjs-proxy_project:nestjs-proxy:*:*:*:*:*:node.js:*:*", "lastModified": "2022-06-30T04:57:43.950", "matchCriteriaId": "EF89DB46-98ED-4178-B27B-C0D72EBC63A9", "status": "Active", "versionEndIncluding": "0.4.0"}

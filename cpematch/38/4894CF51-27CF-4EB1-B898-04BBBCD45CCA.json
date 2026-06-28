@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-02-11T19:35:32.737", "created": "2022-02-11T19:35:26.163", "criteria": "cpe:2.3:a:eset:security:*:*:*:*:*:sharepoint:*:*", "lastModified": "2022-02-11T19:35:26.163", "matchCriteriaId": "4894CF51-27CF-4EB1-B898-04BBBCD45CCA", "status": "Active", "versionEndIncluding": "8.0.15004.0", "versionStartIncluding": "7.0.15008.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-09-29T12:15:26.627", "created": "2025-09-29T12:15:26.627", "criteria": "cpe:2.3:a:arista:ng_firewall:*:*:*:*:*:*:*:*", "lastModified": "2025-09-29T12:16:23.490", "matchCriteriaId": "2B29F558-89EB-40AA-9D6B-1F9F04389A8F", "status": "Inactive", "versionEndExcluding": "17.2", "versionStartIncluding": "17.1"}

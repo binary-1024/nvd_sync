@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-11-07T14:35:56.760", "created": "2024-11-07T14:35:56.760", "criteria": "cpe:2.3:a:nvidia:nvidia_gpu_operator:*:*:*:*:*:*:*:*", "lastModified": "2024-11-09T03:00:26.707", "matchCriteriaId": "2F638CB1-F8FE-474C-B1CB-73E3C200B5F2", "status": "Inactive", "versionEndIncluding": "24.6.2"}

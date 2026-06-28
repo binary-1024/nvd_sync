@@ -1,0 +1,1 @@
+{"cpeLastModified": "2019-12-04T18:11:33.310", "created": "2019-11-27T04:34:46.373", "criteria": "cpe:2.3:h:cubot:nova:-:*:*:*:*:*:*:*", "lastModified": "2019-11-27T04:34:46.373", "matchCriteriaId": "9B5F6766-49F1-4465-B6A6-09FFF4B47DD8", "matches": [{"cpeName": "cpe:2.3:h:cubot:nova:-:*:*:*:*:*:*:*", "cpeNameId": "400B2276-E638-4C5A-8D5C-FAE4EBB2BB92"}], "status": "Active"}

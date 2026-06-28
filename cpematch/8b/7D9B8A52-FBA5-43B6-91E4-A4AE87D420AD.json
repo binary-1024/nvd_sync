@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-06-08T12:58:40.160", "created": "2022-06-08T12:58:40.160", "criteria": "cpe:2.3:a:arista:terminattr:*:*:*:*:*:*:*:*", "lastModified": "2022-06-08T12:58:40.160", "matchCriteriaId": "7D9B8A52-FBA5-43B6-91E4-A4AE87D420AD", "status": "Inactive", "versionEndExcluding": "1.16.7", "versionStartIncluding": "1.11.0"}

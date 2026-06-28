@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-07-11T16:31:27.633", "created": "2025-07-11T16:31:27.633", "criteria": "cpe:2.3:a:apache:parquet:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "C70F2958-E892-4429-A49F-F08B967523B5", "status": "Inactive", "versionEndExcluding": "1.15.1"}

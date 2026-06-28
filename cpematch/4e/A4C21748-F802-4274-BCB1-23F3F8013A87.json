@@ -1,0 +1,1 @@
+{"created": "2025-07-24T16:56:26.320", "criteria": "cpe:2.3:h:citrix:sd-wan_1100:-:*:*:*:premium:*:*:*", "lastModified": "2025-07-25T15:36:40.450", "matchCriteriaId": "A4C21748-F802-4274-BCB1-23F3F8013A87", "matches": [{"cpeName": "cpe:2.3:h:citrix:sd-wan_1100:-:*:*:*:premium:*:*:*", "cpeNameId": "7CEF8030-AFE6-47E9-A728-71FE80505C8A"}], "status": "Active"}

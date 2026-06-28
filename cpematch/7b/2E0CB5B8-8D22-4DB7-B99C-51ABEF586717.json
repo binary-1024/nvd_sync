@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-06-11T14:08:38.910", "created": "2021-06-10T19:28:34.657", "criteria": "cpe:2.3:a:auto0:lock:*:*:*:*:*:node.js:*:*", "lastModified": "2021-06-10T19:28:34.657", "matchCriteriaId": "2E0CB5B8-8D22-4DB7-B99C-51ABEF586717", "status": "Inactive", "versionEndExcluding": "11.30.1"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-06-12T15:23:58.350", "created": "2025-06-12T15:23:58.350", "criteria": "cpe:2.3:a:pcman_ftp_server_project:pcman_ftp_server:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "E9C53EA9-A413-45EA-A0CB-BB4F14DDC417", "status": "Inactive", "versionEndIncluding": "2.0.7", "versionStartIncluding": "2.0.0"}

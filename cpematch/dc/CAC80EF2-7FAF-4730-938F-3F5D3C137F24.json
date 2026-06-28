@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-04-07T16:24:24.660", "created": "2023-04-07T16:24:24.660", "criteria": "cpe:2.3:a:nextcloud:nextcloud:*:*:*:*:iphone_os:*:*:*", "lastModified": "2023-04-07T16:24:24.660", "matchCriteriaId": "CAC80EF2-7FAF-4730-938F-3F5D3C137F24", "status": "Active", "versionEndExcluding": "4.8.0", "versionStartIncluding": "3.0.5"}

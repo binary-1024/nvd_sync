@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-01-27T16:42:23.343", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:a:google:protobuf:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "834201FD-9B2D-45FA-A8B3-ABD721D55B34", "status": "Inactive", "versionEndExcluding": "3.4.0"}

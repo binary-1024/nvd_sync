@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-05-03T14:30:06.867", "created": "2022-05-03T14:24:14.073", "criteria": "cpe:2.3:a:amazon:log4jhotpatch:*:*:*:*:*:*:*:*", "lastModified": "2022-05-03T14:24:14.073", "matchCriteriaId": "9EA090D5-93EC-4A77-8593-104FAA65F896", "status": "Active", "versionEndExcluding": "1.1-12"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-07-14T17:42:20.910", "created": "2021-07-14T17:41:58.677", "criteria": "cpe:2.3:a:python:pillow:*:*:*:*:*:*:*:*", "lastModified": "2021-07-14T17:41:58.677", "matchCriteriaId": "8FB2388B-16D2-4344-BCFC-EC855A5996A2", "status": "Inactive", "versionEndIncluding": "1.1.7"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-01-24T19:40:44.337", "created": "2022-01-19T18:20:01.270", "criteria": "cpe:2.3:a:linuxfromscratch:make-ca:*:*:*:*:*:*:*:*", "lastModified": "2022-01-19T18:20:01.270", "matchCriteriaId": "9DF45D07-0CDF-49E7-B12B-1A17B3357573", "status": "Active", "versionEndExcluding": "1.10", "versionStartIncluding": "0.9"}

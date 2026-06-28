@@ -1,0 +1,1 @@
+{"created": "2020-06-18T18:19:35.583", "criteria": "cpe:2.3:a:intel:service_manager:*:*:*:*:*:*:*:*", "lastModified": "2020-06-18T18:19:35.583", "matchCriteriaId": "AAEB6ABB-9539-44C2-9177-DFB20AAA4274", "status": "Active", "versionEndExcluding": "14.0.33", "versionStartIncluding": "14.0"}

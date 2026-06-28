@@ -1,0 +1,1 @@
+{"created": "2025-10-01T22:49:44.137", "criteria": "cpe:2.3:o:linksys:e1700_firmware:1.0.0.4.003:*:*:*:*:*:*:*", "lastModified": "2026-01-02T15:09:22.503", "matchCriteriaId": "316A8191-92AC-4FD5-8F45-34BC9442E01E", "matches": [{"cpeName": "cpe:2.3:o:linksys:e1700_firmware:1.0.0.4.003:*:*:*:*:*:*:*", "cpeNameId": "A35E1E78-10AB-42F2-B05E-C085896F4988"}], "status": "Active"}

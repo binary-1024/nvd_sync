@@ -1,0 +1,1 @@
+{"cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:h:fortinet:forticlient_host_security:*:mr5_patch_3:*:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "matchCriteriaId": "E466C571-AE00-42C5-BC6F-8F57CC453748", "status": "Active", "versionEndIncluding": "3.0"}

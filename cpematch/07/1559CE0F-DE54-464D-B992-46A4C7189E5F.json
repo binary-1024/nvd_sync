@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-07-02T01:18:37.657", "created": "2022-07-02T01:18:37.657", "criteria": "cpe:2.3:a:pypi:explore:*:*:*:*:*:pypi:*:*", "lastModified": "2022-07-02T01:18:37.657", "matchCriteriaId": "1559CE0F-DE54-464D-B992-46A4C7189E5F", "status": "Active", "versionEndIncluding": "0.1.2", "versionStartIncluding": "0.1.1"}

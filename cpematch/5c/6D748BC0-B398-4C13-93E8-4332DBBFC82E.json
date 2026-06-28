@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-11-15T15:27:48.713", "created": "2021-11-12T14:54:30.387", "criteria": "cpe:2.3:o:cisco:sf500-48mp_firmware:*:*:*:*:*:*:*:*", "lastModified": "2021-11-12T14:54:30.387", "matchCriteriaId": "6D748BC0-B398-4C13-93E8-4332DBBFC82E", "status": "Active", "versionEndExcluding": "2.5.8.12", "versionStartIncluding": "2.5.5.0"}

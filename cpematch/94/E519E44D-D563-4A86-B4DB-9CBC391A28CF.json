@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-05-07T11:09:42.240", "created": "2026-05-07T11:09:42.240", "criteria": "cpe:2.3:a:neo4j:neo4j:*:*:*:*:enterprise:*:*:*", "lastModified": "2026-05-07T11:09:42.240", "matchCriteriaId": "E519E44D-D563-4A86-B4DB-9CBC391A28CF", "status": "Active", "versionEndExcluding": "2026.02", "versionStartIncluding": "2025.01.0"}

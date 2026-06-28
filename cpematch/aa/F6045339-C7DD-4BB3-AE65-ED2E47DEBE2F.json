@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-02-10T17:58:01.370", "created": "2021-02-09T14:19:58.087", "criteria": "cpe:2.3:a:wago:fdtcontainer_application:*:*:*:*:*:*:*:*", "lastModified": "2021-02-09T14:19:58.087", "matchCriteriaId": "F6045339-C7DD-4BB3-AE65-ED2E47DEBE2F", "status": "Active", "versionEndIncluding": "4.5.20304", "versionStartIncluding": "4.5.0"}

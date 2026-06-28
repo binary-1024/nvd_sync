@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-09-23T18:11:46.177", "created": "2021-09-16T17:17:00.367", "criteria": "cpe:2.3:a:aviatrix:controller:*:*:*:*:*:*:*:*", "lastModified": "2021-09-16T17:17:00.367", "matchCriteriaId": "37B4E9D0-F9E9-4C95-AC23-3C7297958731", "status": "Active", "versionEndExcluding": "6.4.2838", "versionStartIncluding": "6.4"}

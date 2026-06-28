@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-08-22T19:56:56.877", "created": "2024-08-22T19:56:56.877", "criteria": "cpe:2.3:a:intel:aptio_v_uefi_firmware_integrator_tools:*:*:*:*:*:nuc_iflashvwin:*:*", "lastModified": "2024-08-22T19:56:56.877", "matchCriteriaId": "4C62D858-BF21-4651-BB98-291E45F83BAD", "status": "Active", "versionEndExcluding": "5.13.00.2109"}

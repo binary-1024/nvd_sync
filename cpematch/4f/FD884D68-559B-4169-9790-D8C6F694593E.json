@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-10-06T15:20:22.843", "created": "2023-09-29T14:58:38.040", "criteria": "cpe:2.3:a:cisco:sd-wan_manager:*:*:*:*:*:*:*:*", "lastModified": "2023-09-29T14:58:38.040", "matchCriteriaId": "FD884D68-559B-4169-9790-D8C6F694593E", "status": "Active", "versionEndExcluding": "20.11.1.2", "versionStartIncluding": "20.11"}

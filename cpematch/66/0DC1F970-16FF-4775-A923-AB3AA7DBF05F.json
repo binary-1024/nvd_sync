@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-06-25T20:46:01.873", "created": "2025-06-25T20:46:01.873", "criteria": "cpe:2.3:a:clickhouse:clickhouse:*:*:*:*:*:*:*:*", "lastModified": "2025-06-25T20:46:01.873", "matchCriteriaId": "0DC1F970-16FF-4775-A923-AB3AA7DBF05F", "status": "Inactive", "versionEndExcluding": "20.8.18.32"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-07-13T12:46:57.743", "created": "2021-07-09T15:54:55.357", "criteria": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:*:*:*:*:*:*:*:*", "lastModified": "2021-07-09T15:54:55.357", "matchCriteriaId": "1BB9E76A-96A6-41B8-833B-85E170F785A6", "status": "Inactive", "versionEndExcluding": "6.8.9", "versionStartIncluding": "6.0.1"}

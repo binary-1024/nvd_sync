@@ -1,0 +1,1 @@
+{"created": "2026-05-07T14:02:07.980", "criteria": "cpe:2.3:o:paloaltonetworks:pan-os:11.2.10:h2:*:*:*:*:*:*", "lastModified": "2026-05-14T16:38:00.543", "matchCriteriaId": "70B3EB0C-87F1-46C2-B95C-C5808E473BD2", "matches": [{"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:11.2.10:h2:*:*:*:*:*:*", "cpeNameId": "F4E49BD9-67D1-405F-BD40-906B3C73199F"}], "status": "Active"}

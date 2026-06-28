@@ -1,0 +1,1 @@
+{"created": "2025-08-08T22:59:50.297", "criteria": "cpe:2.3:a:apache:seata:2.4.0:*:*:*:*:*:*:*", "lastModified": "2025-08-19T12:46:53.840", "matchCriteriaId": "5C3044E1-411F-43ED-8FFE-B55D6D3F61EF", "matches": [{"cpeName": "cpe:2.3:a:apache:seata:2.4.0:*:*:*:*:*:*:*", "cpeNameId": "85B7FBBB-F030-4E56-BE7F-4DF8515D1871"}], "status": "Active"}

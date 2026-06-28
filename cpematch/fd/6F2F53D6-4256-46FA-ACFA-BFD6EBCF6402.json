@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-02-19T20:17:47.217", "created": "2026-02-19T20:17:47.217", "criteria": "cpe:2.3:a:agentfront:enclave-vm:*:*:*:*:*:node.js:*:*", "lastModified": "2026-02-23T21:30:48.930", "matchCriteriaId": "6F2F53D6-4256-46FA-ACFA-BFD6EBCF6402", "status": "Inactive", "versionEndExcluding": "2.7.0"}

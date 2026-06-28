@@ -1,0 +1,1 @@
+{"created": "2026-01-14T15:56:23.513", "criteria": "cpe:2.3:a:netapp:ontap:9.17.1:p1:*:*:*:*:*:*", "lastModified": "2026-04-30T17:11:12.430", "matchCriteriaId": "B98EBF4C-1A89-488C-B6C7-7306DA6867E4", "matches": [{"cpeName": "cpe:2.3:a:netapp:ontap:9.17.1:p1:*:*:*:*:*:*", "cpeNameId": "5ACC12EC-5F8B-4DA9-A218-6F41E11A989E"}], "status": "Active"}

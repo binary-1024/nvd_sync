@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-03-28T21:03:46.613", "created": "2022-03-28T19:01:57.773", "criteria": "cpe:2.3:a:otrs:otrs_itsm:*:*:*:*:*:*:*:*", "lastModified": "2022-03-28T19:01:57.773", "matchCriteriaId": "9FEE8295-FA8D-4175-9B0D-482CCE3B342A", "status": "Active", "versionEndExcluding": "8.0.28", "versionStartIncluding": "8.0.0"}

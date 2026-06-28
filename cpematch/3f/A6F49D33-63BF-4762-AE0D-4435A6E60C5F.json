@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-02-18T19:48:55.340", "created": "2025-02-18T19:48:55.340", "criteria": "cpe:2.3:a:openstack:yaql:*:*:*:*:*:*:*:*", "lastModified": "2025-02-18T19:48:55.340", "matchCriteriaId": "A6F49D33-63BF-4762-AE0D-4435A6E60C5F", "status": "Active", "versionEndExcluding": "3.0.0"}

@@ -1,0 +1,1 @@
+{"created": "2025-04-21T14:40:43.007", "criteria": "cpe:2.3:a:arrowjs:arrowcms:1.0.0:*:*:*:*:node.js:*:*", "lastModified": "2025-08-20T13:51:38.200", "matchCriteriaId": "22863EC0-AC16-413E-BD61-952012CAA8B3", "matches": [{"cpeName": "cpe:2.3:a:arrowjs:arrowcms:1.0.0:*:*:*:*:node.js:*:*", "cpeNameId": "033E70EA-7E75-4AB3-AE44-4C62C405C3F5"}], "status": "Active"}

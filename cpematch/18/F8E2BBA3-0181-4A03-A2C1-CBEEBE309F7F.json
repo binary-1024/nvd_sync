@@ -1,0 +1,1 @@
+{"created": "2025-12-18T18:36:38.757", "criteria": "cpe:2.3:o:smtav:bx20uhd_firmware:*:*:*:*:*:*:*:*", "lastModified": "2025-12-19T19:24:16.480", "matchCriteriaId": "F8E2BBA3-0181-4A03-A2C1-CBEEBE309F7F", "matches": [{"cpeName": "cpe:2.3:o:smtav:bx20uhd_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "03E64EA2-128F-42D1-82F2-CA105FD194D3"}], "status": "Active"}

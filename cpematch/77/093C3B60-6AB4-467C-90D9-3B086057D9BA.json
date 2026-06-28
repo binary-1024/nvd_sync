@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-07-01T12:23:22.147", "created": "2022-07-01T12:23:22.147", "criteria": "cpe:2.3:a:vmware:rabbitmq:*:*:*:*:*:pivotal_cloud_foundry:*:*", "lastModified": "2022-07-01T12:23:22.147", "matchCriteriaId": "093C3B60-6AB4-467C-90D9-3B086057D9BA", "status": "Active", "versionEndExcluding": "1.17.4", "versionStartIncluding": "1.17.0"}

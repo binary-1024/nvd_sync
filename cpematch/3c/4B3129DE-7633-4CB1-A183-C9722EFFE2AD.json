@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-08-20T18:56:05.673", "created": "2021-08-19T18:18:27.827", "criteria": "cpe:2.3:o:siemens:cpu_1516pro-2_pn_firmware:*:*:*:*:*:*:*:*", "lastModified": "2021-08-19T18:18:27.827", "matchCriteriaId": "4B3129DE-7633-4CB1-A183-C9722EFFE2AD", "status": "Active", "versionEndExcluding": "2.9.2", "versionStartIncluding": "2.5"}

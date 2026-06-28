@@ -1,0 +1,1 @@
+{"created": "2025-05-02T20:03:34.567", "criteria": "cpe:2.3:a:ibm:mq:*:*:*:*:*lts:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "91DAB4EE-B23C-42EB-B46C-C8CD34F20B9E", "status": "Inactive", "versionEndExcluding": "9.0.0.23", "versionStartIncluding": "9.0.0.0"}

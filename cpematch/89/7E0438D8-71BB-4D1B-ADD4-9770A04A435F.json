@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-07-28T17:53:40.737", "created": "2022-07-28T17:53:40.737", "criteria": "cpe:2.3:a:ntesseract_project:ntesseract:*:*:*:*:*:node.js:*:*", "lastModified": "2022-07-28T17:53:40.737", "matchCriteriaId": "7E0438D8-71BB-4D1B-ADD4-9770A04A435F", "status": "Active", "versionEndExcluding": "0.2.9"}

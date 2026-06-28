@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-07-09T12:35:33.457", "created": "2024-10-18T17:27:31.843", "criteria": "cpe:2.3:a:oracle:jre:23:*:*:*:*:*:*:*", "lastModified": "2025-07-09T12:35:33.457", "matchCriteriaId": "5792796D-D244-4382-8DE2-30359F5CD9CD", "matches": [{"cpeName": "cpe:2.3:a:oracle:jre:23:*:*:*:*:*:*:*", "cpeNameId": "BF0D5F53-9BBC-4E42-8AE4-3D9696A4A4D6"}], "status": "Active"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-06-01T15:11:59.113", "created": "2021-06-01T15:11:59.113", "criteria": "cpe:2.3:a:redhat:ceph:*:*:*:*:*:*:*:*", "lastModified": "2021-06-01T15:11:59.113", "matchCriteriaId": "E7C6F9F7-2790-442D-95A8-2D28D25E35B3", "status": "Inactive", "versionEndExcluding": "15.2.9", "versionStartIncluding": "14.2.18"}

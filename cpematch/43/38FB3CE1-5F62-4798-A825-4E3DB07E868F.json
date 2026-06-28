@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-12-16T19:56:48.887", "created": "2021-12-16T18:43:29.847", "criteria": "cpe:2.3:a:cisco:cloudcenter_cost_optimizer:*:*:*:*:*:*:*:*", "lastModified": "2021-12-16T18:43:29.847", "matchCriteriaId": "38FB3CE1-5F62-4798-A825-4E3DB07E868F", "status": "Active", "versionEndExcluding": "5.5.2"}

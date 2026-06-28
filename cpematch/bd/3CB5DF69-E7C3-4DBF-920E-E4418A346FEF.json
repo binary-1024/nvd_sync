@@ -1,0 +1,1 @@
+{"created": "2025-10-08T17:48:10.807", "criteria": "cpe:2.3:a:nestjs:devtools-integration:*:*:*:*:*:node.js:*:*", "lastModified": "2025-10-08T17:48:10.807", "matchCriteriaId": "3CB5DF69-E7C3-4DBF-920E-E4418A346FEF", "status": "Active", "versionEndExcluding": "0.2.1"}

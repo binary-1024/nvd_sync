@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-01-03T20:56:04.407", "created": "2021-12-27T18:57:47.917", "criteria": "cpe:2.3:a:jfrog:artifactory:*:*:*:*:enterprise\\+:*:*:*", "lastModified": "2021-12-27T18:57:47.917", "matchCriteriaId": "73E99B5C-E9BD-4EB2-9D42-A1729E93F32C", "status": "Active", "versionEndExcluding": "7.19.12", "versionStartIncluding": "7.19.0"}

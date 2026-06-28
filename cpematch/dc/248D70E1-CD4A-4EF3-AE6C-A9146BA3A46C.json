@@ -1,0 +1,1 @@
+{"created": "2021-11-09T14:11:29.963", "criteria": "cpe:2.3:a:ibm:mq_appliance:*:*:*:*:continuous_delivery:*:*:*", "lastModified": "2021-11-09T14:11:29.963", "matchCriteriaId": "248D70E1-CD4A-4EF3-AE6C-A9146BA3A46C", "status": "Inactive", "versionEndExcluding": "9.2.0.3", "versionStartIncluding": "9.1.0.0"}

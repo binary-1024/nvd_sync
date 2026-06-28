@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-04-28T18:27:53.173", "created": "2026-04-28T18:27:53.173", "criteria": "cpe:2.3:a:openclaw:openclaw:*:*:*:*:*:node.js:*:*", "lastModified": "2026-04-28T18:28:18.480", "matchCriteriaId": "45C420F8-EC7B-430A-B725-E0AE14456AC6", "status": "Inactive", "versionEndExcluding": "2026.3.24", "versionStartIncluding": "2026.2.6"}

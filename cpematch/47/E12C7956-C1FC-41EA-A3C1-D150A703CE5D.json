@@ -1,0 +1,1 @@
+{"created": "2025-08-18T17:00:13.660", "criteria": "cpe:2.3:a:ibm:storage_virtualize:8.7.1.0:*:*:*:*:*:*:*", "lastModified": "2025-08-22T14:46:39.147", "matchCriteriaId": "E12C7956-C1FC-41EA-A3C1-D150A703CE5D", "matches": [{"cpeName": "cpe:2.3:a:ibm:storage_virtualize:8.7.1.0:*:*:*:*:*:*:*", "cpeNameId": "3523AEBF-90F5-44E8-A72F-1A18ED7A73EF"}], "status": "Active"}

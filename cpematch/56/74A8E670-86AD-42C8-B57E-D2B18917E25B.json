@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-08-26T21:24:36.160", "created": "2025-08-26T21:24:36.160", "criteria": "cpe:2.3:a:zulip:zulip:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "74A8E670-86AD-42C8-B57E-D2B18917E25B", "status": "Inactive", "versionEndExcluding": "10.1", "versionStartIncluding": "1.6.0"}

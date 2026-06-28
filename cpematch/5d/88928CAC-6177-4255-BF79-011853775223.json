@@ -1,0 +1,1 @@
+{"created": "2025-07-24T21:06:43.017", "criteria": "cpe:2.3:a:cisco:confd_premium:7.5.9:*:*:*:*:*:*:*", "lastModified": "2025-07-25T14:41:13.430", "matchCriteriaId": "88928CAC-6177-4255-BF79-011853775223", "matches": [{"cpeName": "cpe:2.3:a:cisco:confd_premium:7.5.9:*:*:*:*:*:*:*", "cpeNameId": "641551A6-0F86-4294-BD2E-7785934267BA"}], "status": "Active"}

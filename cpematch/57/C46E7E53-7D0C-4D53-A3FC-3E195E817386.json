@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-08-19T18:34:22.370", "created": "2024-08-19T18:34:22.370", "criteria": "cpe:2.3:a:nvidia:cv-cuda:*:*:*:*:*:jetpack:*:*", "lastModified": "2024-08-19T18:34:22.370", "matchCriteriaId": "C46E7E53-7D0C-4D53-A3FC-3E195E817386", "status": "Active", "versionEndIncluding": "0.10.0", "versionStartIncluding": "0.1.0"}

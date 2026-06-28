@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-09-02T14:50:05.657", "created": "2025-09-02T14:50:05.657", "criteria": "cpe:2.3:a:misskey:misskey:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "F92FD916-EE6B-4DCE-A130-2B2FC039272D", "status": "Inactive", "versionEndExcluding": "5.2.1", "versionStartIncluding": "3.0.1"}

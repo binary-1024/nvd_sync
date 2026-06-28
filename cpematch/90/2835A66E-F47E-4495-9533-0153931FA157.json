@@ -1,0 +1,1 @@
+{"created": "2021-10-07T13:44:17.647", "criteria": "cpe:2.3:a:canonical:apport:*:*:*:*:*:*:*:*", "lastModified": "2021-10-07T13:44:17.647", "matchCriteriaId": "2835A66E-F47E-4495-9533-0153931FA157", "status": "Inactive", "versionEndExcluding": "2.20.9-0ubuntu7.26", "versionStartIncluding": "2.20.9-0ubuntu1"}

@@ -1,0 +1,1 @@
+{"created": "2020-05-30T16:44:31.400", "criteria": "cpe:2.3:a:mulesoft:mule_runtime:*:*:*:*:enterprise:*:*:*", "lastModified": "2020-05-30T16:44:31.400", "matchCriteriaId": "E77E93A9-0721-48D3-AA7E-7BC449602F46", "status": "Active", "versionEndIncluding": "3.8.7", "versionStartIncluding": "3.8.0"}

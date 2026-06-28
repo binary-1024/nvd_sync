@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-03-22T20:27:09.797", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:a:elastic:elasticsearch:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "B9C2C792-B176-4077-AA92-440057BAEEF0", "status": "Inactive", "versionEndExcluding": "6.4.1", "versionStartIncluding": "5.6.13"}

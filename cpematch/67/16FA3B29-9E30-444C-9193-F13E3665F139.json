@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-06-07T14:17:25.990", "created": "2022-12-28T16:01:32.717", "criteria": "cpe:2.3:a:misp-project:malware_information_sharing_platform:*:*:*:*:*:*:*:*", "lastModified": "2026-06-24T02:00:00.187", "matchCriteriaId": "16FA3B29-9E30-444C-9193-F13E3665F139", "status": "Inactive", "versionEndExcluding": "2.4.167"}

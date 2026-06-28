@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-12-10T18:37:55.223", "created": "2021-12-10T18:15:06.830", "criteria": "cpe:2.3:a:utils.js_project:utils.js:*:*:*:*:*:*:*:*", "lastModified": "2021-12-10T18:15:06.830", "matchCriteriaId": "FE731848-13BF-4B59-89B3-3E0C997D562A", "status": "Active", "versionEndExcluding": "0.17.2"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-07-02T01:00:55.750", "created": "2025-07-02T01:00:55.750", "criteria": "cpe:2.3:a:fastcgi:fcgi:*:*:*:*:*:perl:*:*", "lastModified": "2025-07-02T01:00:55.750", "matchCriteriaId": "1C317242-A340-4C14-BD59-592760BCB0B6", "status": "Active", "versionEndIncluding": "0.82", "versionStartIncluding": "0.44"}

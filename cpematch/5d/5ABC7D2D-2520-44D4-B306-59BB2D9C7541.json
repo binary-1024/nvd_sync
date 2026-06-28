@@ -1,0 +1,1 @@
+{"created": "2021-10-07T00:25:11.553", "criteria": "cpe:2.3:a:ibm:sterling_b2b_integrator:*:*:*:*:standard:aix:*:*", "lastModified": "2021-10-07T00:25:11.553", "matchCriteriaId": "5ABC7D2D-2520-44D4-B306-59BB2D9C7541", "status": "Inactive", "versionEndIncluding": "6.1.1.0", "versionStartIncluding": "6.0.0.0"}

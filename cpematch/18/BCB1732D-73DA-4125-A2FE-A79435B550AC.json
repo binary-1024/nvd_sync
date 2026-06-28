@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-09-30T13:22:21.607", "created": "2021-09-28T14:43:36.733", "criteria": "cpe:2.3:o:cisco:vedge_5000_firmware:*:*:*:*:*:*:*:*", "lastModified": "2021-09-28T14:43:36.733", "matchCriteriaId": "BCB1732D-73DA-4125-A2FE-A79435B550AC", "status": "Active", "versionEndExcluding": "20.6.1", "versionStartIncluding": "20.6"}

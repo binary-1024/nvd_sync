@@ -1,0 +1,1 @@
+{"created": "2025-08-14T15:25:17.000", "criteria": "cpe:2.3:a:ibm:watson_assistant_for_ibm_cloud_pak_for_data:*:*:*:*:*:*:*:*", "lastModified": "2025-08-14T15:25:17.000", "matchCriteriaId": "0C870A05-E106-4A83-892E-04D4D26FD8F1", "status": "Active", "versionEndExcluding": "5.0.3", "versionStartIncluding": "4.0.0"}

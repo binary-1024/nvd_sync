@@ -1,0 +1,1 @@
+{"cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:a:intel:openvino_toolkit:*:*:*:*:*:windows:*:*", "lastModified": "2019-06-17T09:16:33.960", "matchCriteriaId": "C19F9B68-7EE3-4611-8542-3CA5219DC046", "status": "Active", "versionEndExcluding": "2018.1.265"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-06-03T15:46:56.820", "created": "2021-06-03T15:44:30.430", "criteria": "cpe:2.3:a:citrix:sharefile_storage_zones_controller:*:*:*:*:*:*:*:*", "lastModified": "2021-06-03T15:44:30.430", "matchCriteriaId": "CE9C6735-0CD2-44BA-BA46-57E5389DD107", "status": "Active", "versionEndIncluding": "5.8.3", "versionStartIncluding": "5.8"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-12-02T19:55:48.617", "created": "2021-11-30T16:24:18.380", "criteria": "cpe:2.3:a:oracle:communications_diameter_signaling_router:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "00120892-EA10-49BF-8F4E-CF50B236C4E3", "status": "Inactive", "versionEndIncluding": "8.5.0", "versionStartIncluding": "8.0.0.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-03-22T20:02:38.157", "created": "2020-07-21T12:38:54.710", "criteria": "cpe:2.3:a:f5:ssl_orchestrator:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "1E315937-E559-4B8C-931C-5281C1AD92F2", "status": "Inactive", "versionEndIncluding": "14.1.2", "versionStartIncluding": "14.1.0"}

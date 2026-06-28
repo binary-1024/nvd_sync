@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-07-02T03:05:05.587", "created": "2022-07-02T03:05:05.587", "criteria": "cpe:2.3:a:miniorange:firewall\\,_malware_scanner\\,_secure_login_and_backup:*:*:*:*:*:wordpress:*:*", "lastModified": "2022-07-02T03:05:05.587", "matchCriteriaId": "A8D678EE-920E-4A32-A248-5DFA32EDAA10", "status": "Inactive", "versionEndExcluding": "4.2.1"}

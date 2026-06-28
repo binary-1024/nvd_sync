@@ -1,0 +1,1 @@
+{"created": "2025-07-17T22:46:41.747", "criteria": "cpe:2.3:o:qualcomm:qcn5224_firmware:-:*:*:*:*:*:*:*", "lastModified": "2025-08-11T15:06:17.607", "matchCriteriaId": "9242D662-65B5-4EE4-85F7-AB4864962A9E", "matches": [{"cpeName": "cpe:2.3:o:qualcomm:qcn5224_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "E00C47F5-9572-4F8E-A89A-EA108125D5C8"}], "status": "Active"}

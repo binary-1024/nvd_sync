@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-05-31T10:44:29.430", "created": "2022-05-31T10:44:29.430", "criteria": "cpe:2.3:a:apache:maven_shared_utils:*:*:*:*:*:*:*:*", "lastModified": "2022-05-31T10:44:29.430", "matchCriteriaId": "D6301EB5-EDF5-45DF-B9D0-2F0C314470D1", "status": "Active", "versionEndExcluding": "3.3.3"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-10-27T20:27:21.720", "created": "2021-10-27T06:18:03.963", "criteria": "cpe:2.3:a:antsword_redis_project:antsword_redis:*:*:*:*:*:antsword:*:*", "lastModified": "2021-10-27T06:18:03.963", "matchCriteriaId": "BD8189A1-67C4-4BD3-A602-30256D3B5413", "status": "Active", "versionEndExcluding": "0.5"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-12-13T18:28:51.780", "created": "2021-12-13T18:28:29.007", "criteria": "cpe:2.3:a:devise_masquerade_project:devise_masquerade:*:*:*:*:*:ruby:*:*", "lastModified": "2021-12-13T18:28:29.007", "matchCriteriaId": "79CC6B34-9869-474E-8C73-627B70DF22ED", "status": "Active", "versionEndExcluding": "1.3.0"}

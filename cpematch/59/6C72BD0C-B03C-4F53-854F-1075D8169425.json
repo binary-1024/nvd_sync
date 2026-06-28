@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-05-13T17:29:17.453", "created": "2022-04-28T14:48:20.880", "criteria": "cpe:2.3:o:siemens:simatic_reader_rf615r_fcc_firmware:*:*:*:*:*:*:*:*", "lastModified": "2022-04-28T14:48:20.880", "matchCriteriaId": "6C72BD0C-B03C-4F53-854F-1075D8169425", "status": "Active", "versionEndExcluding": "4.0", "versionStartIncluding": "3.0"}

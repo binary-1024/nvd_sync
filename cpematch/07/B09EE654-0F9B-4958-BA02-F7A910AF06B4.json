@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-07-23T15:02:01.647", "created": "2021-04-19T11:52:56.250", "criteria": "cpe:2.3:a:matrix:synapse:*:*:*:*:*:*:*:*", "lastModified": "2021-04-19T11:52:56.250", "matchCriteriaId": "B09EE654-0F9B-4958-BA02-F7A910AF06B4", "status": "Inactive", "versionEndExcluding": "1.28.0", "versionStartIncluding": "0.24.0"}

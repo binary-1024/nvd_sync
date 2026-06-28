@@ -1,0 +1,1 @@
+{"created": "2026-05-07T13:42:41.880", "criteria": "cpe:2.3:a:suse:manager_retail_branch_server:4.0:*:*:*:*:*:*:*", "lastModified": "2026-05-18T12:11:21.543", "matchCriteriaId": "A4F81939-C109-4643-951E-42F8F20F4672", "matches": [{"cpeName": "cpe:2.3:a:suse:manager_retail_branch_server:4.0:*:*:*:*:*:*:*", "cpeNameId": "F81AB854-AB8C-4D77-96FC-25DC03FB50F4"}], "status": "Active"}

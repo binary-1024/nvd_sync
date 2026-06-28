@@ -1,0 +1,1 @@
+{"created": "2025-07-24T16:20:13.410", "criteria": "cpe:2.3:a:ibm:http_server:6.1.0.23:*:*:*:*:*:*:*", "lastModified": "2025-07-28T14:58:57.380", "matchCriteriaId": "1E8ABD10-574D-440D-9CEA-D6E14C24AC43", "matches": [{"cpeName": "cpe:2.3:a:ibm:http_server:6.1.0.23:*:*:*:*:*:*:*", "cpeNameId": "527E8FA2-88BC-4F21-949E-75CC29072889"}], "status": "Active"}

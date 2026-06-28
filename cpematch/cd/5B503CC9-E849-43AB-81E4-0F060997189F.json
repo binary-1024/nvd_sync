@@ -1,0 +1,1 @@
+{"created": "2025-03-17T14:30:42.807", "criteria": "cpe:2.3:o:netapp:a700_firmware:-:*:*:*:*:*:*:*", "lastModified": "2025-08-18T18:45:48.710", "matchCriteriaId": "5B503CC9-E849-43AB-81E4-0F060997189F", "matches": [{"cpeName": "cpe:2.3:o:netapp:a700_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "FD56CBD3-B4D5-496A-B7A2-BB713940FE80"}], "status": "Active"}

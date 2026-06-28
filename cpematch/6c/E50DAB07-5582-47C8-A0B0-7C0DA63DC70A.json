@@ -1,0 +1,1 @@
+{"created": "2025-08-04T18:23:15.850", "criteria": "cpe:2.3:o:cisco:asyncos:13.8.1-108:*:*:*:*:*:*:*", "lastModified": "2025-08-08T18:51:25.227", "matchCriteriaId": "E50DAB07-5582-47C8-A0B0-7C0DA63DC70A", "matches": [{"cpeName": "cpe:2.3:o:cisco:asyncos:13.8.1-108:*:*:*:*:*:*:*", "cpeNameId": "E6079D9E-BE67-4978-8E13-25F8D0DE3AA5"}], "status": "Active"}

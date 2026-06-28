@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-07-02T03:47:01.607", "created": "2022-07-02T03:47:01.607", "criteria": "cpe:2.3:a:watchful:backup\\,_restore_and_migrate_wordpress_sites_with_the_xcloner_plugin:*:*:*:*:*:wordpress:*:*", "lastModified": "2022-07-02T03:47:01.607", "matchCriteriaId": "6F6DD867-406B-493F-8167-E7AA51FA425F", "status": "Inactive", "versionEndExcluding": "4.3.6"}

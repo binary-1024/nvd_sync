@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-11-18T17:19:28.750", "created": "2024-11-18T17:19:28.750", "criteria": "cpe:2.3:a:really-simple-plugins:really_simple_security:*:*:*:*:pro:wordpress:*:*", "lastModified": "2024-11-18T17:19:28.750", "matchCriteriaId": "47BB227E-A208-49DE-8FC8-F62EC99D7818", "status": "Active", "versionEndExcluding": "9.1.2", "versionStartIncluding": "9.0.0"}

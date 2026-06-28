@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-09-10T13:23:33.743", "created": "2024-09-10T13:23:33.743", "criteria": "cpe:2.3:a:symfony:twig:*:*:*:*:*:*:*:*", "lastModified": "2024-09-20T02:00:25.750", "matchCriteriaId": "90FD65FE-D3E4-45A1-AB7E-9AFCF2B76416", "status": "Inactive", "versionEndIncluding": "1.44.7", "versionStartIncluding": "1.0.0"}

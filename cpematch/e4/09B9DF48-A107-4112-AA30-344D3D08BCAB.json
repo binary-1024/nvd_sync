@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-07-19T17:38:19.330", "created": "2022-07-19T17:38:19.330", "criteria": "cpe:2.3:a:grid_elements_project:grid_elements:*:*:*:*:*:typo3:*:*", "lastModified": "2022-07-19T17:38:19.330", "matchCriteriaId": "09B9DF48-A107-4112-AA30-344D3D08BCAB", "status": "Active", "versionEndExcluding": "10.3.0", "versionStartIncluding": "10.0.0"}

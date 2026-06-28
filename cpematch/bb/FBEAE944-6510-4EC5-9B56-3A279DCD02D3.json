@@ -1,0 +1,1 @@
+{"created": "2025-10-28T16:43:49.193", "criteria": "cpe:2.3:a:softcom.wroc:iksoris:*:*:*:*:*:*:*:*", "lastModified": "2025-10-29T17:36:41.190", "matchCriteriaId": "FBEAE944-6510-4EC5-9B56-3A279DCD02D3", "matches": [{"cpeName": "cpe:2.3:a:softcom.wroc:iksoris:-:*:*:*:*:*:*:*", "cpeNameId": "BBA28C4C-9DC5-4C64-B907-7C8F72F67F9E"}], "status": "Active", "versionEndExcluding": "79.0"}

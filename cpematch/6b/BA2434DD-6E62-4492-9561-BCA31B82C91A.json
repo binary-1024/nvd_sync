@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-02-14T17:35:03.683", "created": "2025-02-14T17:35:03.683", "criteria": "cpe:2.3:a:toy-blog_project:toy-blog:*:*:*:*:*:*:*:*", "lastModified": "2025-02-14T17:35:03.683", "matchCriteriaId": "BA2434DD-6E62-4492-9561-BCA31B82C91A", "status": "Active", "versionEndExcluding": "0.5.0", "versionStartIncluding": "0.4.3"}

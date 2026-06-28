@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-10-20T17:18:26.963", "created": "2021-10-15T15:23:51.453", "criteria": "cpe:2.3:a:hitachi:jp1\\/netm\\/remote_control_feature:*:*:*:*:*:*:*:*", "lastModified": "2021-10-15T15:23:51.453", "matchCriteriaId": "EDB7B46E-A3A7-4082-9495-2687608E9F3A", "status": "Active", "versionEndIncluding": "10-10-20", "versionStartIncluding": "10-10"}

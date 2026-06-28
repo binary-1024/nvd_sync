@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-03-24T02:58:08.643", "created": "2022-03-22T16:48:08.350", "criteria": "cpe:2.3:a:bareos:bareos:*:*:*:*:*:*:*:*", "lastModified": "2022-03-22T16:48:08.350", "matchCriteriaId": "D8107656-119B-4C4F-8365-CB1B79CE3233", "status": "Active", "versionEndExcluding": "21.1.0", "versionStartIncluding": "21.0.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-04-12T18:41:57.473", "created": "2022-03-23T17:59:48.280", "criteria": "cpe:2.3:a:netapp:e-series_santricity_storage:*:*:*:*:*:vcenter:*:*", "lastModified": "2022-03-23T17:59:48.280", "matchCriteriaId": "3930F108-9019-4B4A-8918-6CE9F58551D2", "status": "Active", "versionEndExcluding": "1.10"}

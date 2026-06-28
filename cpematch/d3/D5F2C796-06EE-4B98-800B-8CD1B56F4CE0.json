@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-03-09T17:42:23.143", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:a:oracle:oracle_berkeley_db:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "D5F2C796-06EE-4B98-800B-8CD1B56F4CE0", "status": "Inactive", "versionEndIncluding": "12.1.6.2.23"}

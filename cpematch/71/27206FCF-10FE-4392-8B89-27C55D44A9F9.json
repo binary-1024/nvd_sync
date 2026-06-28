@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-08-09T18:04:28.533", "created": "2021-08-09T18:03:09.670", "criteria": "cpe:2.3:a:tar_project:tar:*:*:*:*:*:node.js:*:*", "lastModified": "2021-08-09T18:03:09.670", "matchCriteriaId": "27206FCF-10FE-4392-8B89-27C55D44A9F9", "status": "Inactive", "versionEndExcluding": "6.1.2", "versionStartIncluding": "6.1.0"}

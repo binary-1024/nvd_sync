@@ -1,0 +1,1 @@
+{"created": "2021-10-12T17:43:57.700", "criteria": "cpe:2.3:a:kubernetes:java:*:*:*:*:*:*:*:*", "lastModified": "2021-10-12T17:43:57.700", "matchCriteriaId": "E86DB2A1-FAA5-4A8E-AF5B-0549759CE42F", "status": "Inactive", "versionEndIncluding": "11.0.1", "versionStartIncluding": "11.0.0"}

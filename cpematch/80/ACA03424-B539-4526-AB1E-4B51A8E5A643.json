@@ -1,0 +1,1 @@
+{"created": "2025-12-08T15:21:26.450", "criteria": "cpe:2.3:a:qnap:smb_service:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "ACA03424-B539-4526-AB1E-4B51A8E5A643", "status": "Inactive", "versionEndExcluding": "h4.15.002", "versionStartIncluding": "h4.15.001"}

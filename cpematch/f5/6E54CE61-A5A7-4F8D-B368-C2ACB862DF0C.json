@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-11-11T02:04:57.770", "created": "2025-11-11T02:04:57.770", "criteria": "cpe:2.3:a:veeam:veeam_agent_for_windows:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "6E54CE61-A5A7-4F8D-B368-C2ACB862DF0C", "status": "Inactive", "versionEndExcluding": "6.3.2.1205", "versionStartIncluding": "6.0.0.959"}

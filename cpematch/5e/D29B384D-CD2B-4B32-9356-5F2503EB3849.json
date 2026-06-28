@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-06-12T16:29:31.763", "created": "2025-06-12T16:29:31.763", "criteria": "cpe:2.3:a:netgate:pfsense_ce:*:*:*:*:*:*:*:*", "lastModified": "2025-06-12T16:29:31.763", "matchCriteriaId": "D29B384D-CD2B-4B32-9356-5F2503EB3849", "status": "Active", "versionEndExcluding": "2.8.0"}

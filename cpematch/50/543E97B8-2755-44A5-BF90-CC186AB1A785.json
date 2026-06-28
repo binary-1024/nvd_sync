@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-01-14T19:29:54.087", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:a:synology:diskstation_manager:*:*:*:*:*:*:*:*", "lastModified": "2025-01-15T03:00:29.090", "matchCriteriaId": "543E97B8-2755-44A5-BF90-CC186AB1A785", "status": "Inactive", "versionEndExcluding": "6.2.1-23824-4", "versionStartIncluding": "6.2"}

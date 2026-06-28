@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-02-20T06:22:53.880", "created": "2022-02-14T15:50:34.013", "criteria": "cpe:2.3:a:oracle:healthcare_foundation:*:*:*:*:*:*:*:*", "lastModified": "2022-02-14T15:50:34.013", "matchCriteriaId": "F88FB6C5-D797-4017-A285-D3BB24B55429", "status": "Active", "versionEndIncluding": "7.3.0.2", "versionStartIncluding": "7.3.0.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-08-27T16:30:45.620", "created": "2024-08-27T16:30:45.620", "criteria": "cpe:2.3:a:woocommerce:stripe_payment_gateway:*:*:*:*:*:wordpress:*:*", "lastModified": "2024-08-27T16:39:07.307", "matchCriteriaId": "3C094FF4-26B8-47B8-A040-ACD25DC8FA1E", "status": "Inactive", "versionEndIncluding": "1.9.2"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-06-18T19:08:18.407", "created": "2025-06-18T19:08:18.407", "criteria": "cpe:2.3:a:cisco:network_services_orchestrator:*:*:*:*:*:*:*:*", "lastModified": "2025-07-08T02:00:37.543", "matchCriteriaId": "2A174AC3-7963-4796-9BEE-F6F6DBB4D364", "status": "Inactive", "versionEndExcluding": "5.5.10.1", "versionStartIncluding": "5.1.7"}

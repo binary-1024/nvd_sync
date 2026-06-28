@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-04-30T16:21:27.323", "created": "2021-04-30T16:21:27.323", "criteria": "cpe:2.3:a:ftp-srv_project:ftp-srv:*:*:*:*:*:node.js:*:*", "lastModified": "2021-04-30T16:21:27.323", "matchCriteriaId": "F401D926-9248-4945-8BA3-F4935375B83D", "status": "Inactive", "versionEndExcluding": "2.19.6", "versionStartIncluding": "1.0.0"}

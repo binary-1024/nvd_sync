@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-10-26T02:12:08.333", "created": "2021-10-26T02:11:55.903", "criteria": "cpe:2.3:a:ibm:transformation_extender_advanced:*:*:*:*:*:*:*:*", "lastModified": "2021-10-26T02:11:55.903", "matchCriteriaId": "BD0C1550-62D3-446C-95E2-F70656C967AB", "status": "Active", "versionEndExcluding": "10.0.15", "versionStartIncluding": "10.0.0"}

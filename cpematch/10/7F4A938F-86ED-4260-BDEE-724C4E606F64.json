@@ -1,0 +1,1 @@
+{"created": "2026-01-27T16:16:28.070", "criteria": "cpe:2.3:a:zabbix:frontend:*:*:*:*:*:*:*:*", "lastModified": "2026-01-27T16:16:28.070", "matchCriteriaId": "7F4A938F-86ED-4260-BDEE-724C4E606F64", "status": "Active", "versionEndExcluding": "7.2.13", "versionStartIncluding": "7.2.0"}

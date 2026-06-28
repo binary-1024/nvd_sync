@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-03-14T12:58:54.383", "created": "2022-03-10T17:31:02.457", "criteria": "cpe:2.3:a:icinga:icinga_web_2:*:*:*:*:*:*:*:*", "lastModified": "2022-03-10T17:31:02.457", "matchCriteriaId": "CE7D185F-C8C8-4401-B8F5-580DF83D5D79", "status": "Active", "versionEndExcluding": "2.9.6", "versionStartIncluding": "2.9.0"}

@@ -1,0 +1,1 @@
+{"created": "2025-11-26T21:24:33.877", "criteria": "cpe:2.3:o:dlink:dcs-6010l_firmware:1.15.03:*:*:*:*:*:*:*", "lastModified": "2026-01-02T15:16:20.393", "matchCriteriaId": "B2A374E7-0BCE-4DF7-854A-F779A80442D0", "matches": [{"cpeName": "cpe:2.3:o:dlink:dcs-6010l_firmware:1.15.03:*:*:*:*:*:*:*", "cpeNameId": "ADD20FAD-8C3A-45C4-9CE6-49ED8E464044"}], "status": "Active"}

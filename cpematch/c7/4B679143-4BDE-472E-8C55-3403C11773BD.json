@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-04-21T11:49:21.517", "created": "2021-04-21T11:41:24.373", "criteria": "cpe:2.3:a:eclipse:vert.x:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "4B679143-4BDE-472E-8C55-3403C11773BD", "status": "Inactive", "versionEndExcluding": "3.9.7", "versionStartIncluding": "3.0.0"}

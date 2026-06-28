@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-04-23T17:28:50.147", "created": "2026-04-23T17:28:50.147", "criteria": "cpe:2.3:a:erlang:erlang\\/ssl:*:*:*:*:*:*:*:*", "lastModified": "2026-04-23T17:29:57.533", "matchCriteriaId": "CF6D5116-89A5-47B9-888E-12E690B68279", "status": "Inactive", "versionEndIncluding": "11.5.4", "versionStartExcluding": "11.3"}

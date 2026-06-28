@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-01-17T19:42:39.170", "created": "2024-01-17T19:42:39.170", "criteria": "cpe:2.3:a:mediawiki:campaignevents:*:*:*:*:*:mediawiki:*:*", "lastModified": "2024-01-17T20:12:06.820", "matchCriteriaId": "AA36E348-094F-42CB-9926-6E3D1D632D62", "status": "Inactive", "versionEndExcluding": "1.40.2", "versionStartIncluding": "1.40.0"}

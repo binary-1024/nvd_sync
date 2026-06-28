@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-12-03T20:51:35.967", "created": "2021-12-02T17:05:27.743", "criteria": "cpe:2.3:a:oracle:timesten_in-memory_database:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "E29D6795-C35C-4FF9-A953-D4F01329CC5B", "status": "Inactive", "versionEndExcluding": "11.2.2.8.49"}

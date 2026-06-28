@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-12-02T20:31:11.003", "created": "2024-12-02T20:31:11.003", "criteria": "cpe:2.3:a:microsoft:django_backend:*:*:*:*:*:sql_server:*:*", "lastModified": "2024-12-02T20:31:11.003", "matchCriteriaId": "99DC22EF-0D58-4BC4-BC1E-26D4737104CF", "status": "Active", "versionEndExcluding": "1.4.1"}

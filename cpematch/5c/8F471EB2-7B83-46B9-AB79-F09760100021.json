@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-10-22T18:10:25.623", "created": "2025-10-22T18:10:25.623", "criteria": "cpe:2.3:a:adobe:commerce:*:*:*:*:*:*:*:*", "lastModified": "2025-10-22T18:26:43.313", "matchCriteriaId": "8F471EB2-7B83-46B9-AB79-F09760100021", "status": "Inactive", "versionEndExcluding": "2.3.7", "versionStartIncluding": "2.3.5"}

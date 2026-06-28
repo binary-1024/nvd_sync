@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-04-04T12:09:24.677", "created": "2022-04-04T04:52:39.303", "criteria": "cpe:2.3:a:theforeman:foreman_ansible:*:*:*:*:*:*:*:*", "lastModified": "2022-04-04T04:52:39.303", "matchCriteriaId": "6D0F6794-56E7-4800-ADEE-27AE9D343B61", "status": "Active", "versionEndExcluding": "7.1.0"}

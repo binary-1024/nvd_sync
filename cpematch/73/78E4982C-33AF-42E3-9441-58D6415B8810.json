@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-12-23T17:26:08.693", "created": "2024-12-23T17:26:08.693", "criteria": "cpe:2.3:a:nextcloud:nextcloud_server:*:*:*:*:*:*:*:*", "lastModified": "2025-01-24T03:00:27.233", "matchCriteriaId": "78E4982C-33AF-42E3-9441-58D6415B8810", "status": "Inactive", "versionEndExcluding": "30.0.2", "versionStartIncluding": "30.0.0"}

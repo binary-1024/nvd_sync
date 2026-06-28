@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-12-17T16:14:12.780", "created": "2025-12-17T16:14:12.780", "criteria": "cpe:2.3:a:apache:tika:*:*:*:*:*:*:*:*", "lastModified": "2025-12-17T18:12:21.593", "matchCriteriaId": "67D73E36-C7F3-481E-8ACD-786A1583E744", "status": "Inactive", "versionEndIncluding": "3.2.1", "versionStartIncluding": "1.3"}

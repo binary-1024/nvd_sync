@@ -1,0 +1,1 @@
+{"created": "2021-08-27T17:25:11.223", "criteria": "cpe:2.3:a:puppet:puppet_server:*:*:*:*:*:*:*:*", "lastModified": "2021-08-27T17:25:11.223", "matchCriteriaId": "E6BB9C01-4530-46F8-8CBB-402D64C8EC71", "status": "Inactive", "versionEndExcluding": "6.9.2", "versionStartIncluding": "6.0.0"}

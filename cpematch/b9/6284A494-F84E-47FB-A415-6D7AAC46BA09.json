@@ -1,0 +1,1 @@
+{"created": "2025-05-07T20:52:38.173", "criteria": "cpe:2.3:a:commvault:commvault:11.38.25:-:*:*:*:*:*:*", "lastModified": "2025-08-22T13:09:42.057", "matchCriteriaId": "6284A494-F84E-47FB-A415-6D7AAC46BA09", "matches": [{"cpeName": "cpe:2.3:a:commvault:commvault:11.38.25:-:*:*:*:*:*:*", "cpeNameId": "C9CEE2BB-CEB7-41E9-81ED-CAE934172845"}], "status": "Active"}

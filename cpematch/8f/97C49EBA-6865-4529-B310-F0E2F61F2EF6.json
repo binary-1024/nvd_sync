@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-08-19T18:01:03.907", "created": "2025-08-19T18:01:03.907", "criteria": "cpe:2.3:a:artifex:ghostscript:*:*:*:*:*:*:*:*", "lastModified": "2025-08-27T02:00:00.043", "matchCriteriaId": "97C49EBA-6865-4529-B310-F0E2F61F2EF6", "status": "Inactive", "versionEndExcluding": "10.05.0", "versionStartIncluding": "10.01.1"}

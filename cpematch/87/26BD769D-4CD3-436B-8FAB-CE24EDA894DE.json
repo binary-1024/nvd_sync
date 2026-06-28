@@ -1,0 +1,1 @@
+{"created": "2025-12-18T17:13:20.440", "criteria": "cpe:2.3:a:ubuntu:python-apt:2.4.0:\\+22.10:*:*:*:*:*:*", "lastModified": "2026-06-23T17:47:29.503", "matchCriteriaId": "26BD769D-4CD3-436B-8FAB-CE24EDA894DE", "matches": [{"cpeName": "cpe:2.3:a:ubuntu:python-apt:2.4.0:\\+22.10:*:*:*:*:*:*", "cpeNameId": "BDE22DF3-50E5-4F71-B2DC-DEDCD7D59CF4"}], "status": "Active"}

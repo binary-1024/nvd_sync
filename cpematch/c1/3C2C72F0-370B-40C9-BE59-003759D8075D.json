@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-06-17T18:30:26.510", "created": "2024-06-17T18:30:26.510", "criteria": "cpe:2.3:a:microsoft:authentication_library:*:*:*:*:*:.net:*:*", "lastModified": "2024-06-17T18:30:26.510", "matchCriteriaId": "3C2C72F0-370B-40C9-BE59-003759D8075D", "status": "Active", "versionEndExcluding": "4.61.3"}

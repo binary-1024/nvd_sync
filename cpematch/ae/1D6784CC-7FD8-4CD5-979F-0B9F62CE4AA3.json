@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-02-01T15:16:56.847", "created": "2022-02-01T14:38:58.890", "criteria": "cpe:2.3:o:siemens:simatic_s7-1200_firmware:*:*:*:*:*:*:*:*", "lastModified": "2022-02-01T14:38:58.890", "matchCriteriaId": "1D6784CC-7FD8-4CD5-979F-0B9F62CE4AA3", "status": "Active", "versionEndExcluding": "3.0.2", "versionStartIncluding": "2.0.0"}

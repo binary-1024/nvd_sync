@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-06-05T02:10:20.050", "created": "2021-05-14T22:13:05.753", "criteria": "cpe:2.3:a:vmware:workspace_one_unified_endpoint_management:*:*:*:*:*:*:*:*", "lastModified": "2021-05-14T22:13:05.753", "matchCriteriaId": "7AA68C00-CB7E-4CC2-86E5-C16E7D4F1641", "status": "Active", "versionEndExcluding": "20.3.0.23", "versionStartIncluding": "20.3.0.0"}

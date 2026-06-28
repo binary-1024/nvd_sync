@@ -1,0 +1,1 @@
+{"created": "2021-12-16T11:44:02.917", "criteria": "cpe:2.3:a:ibm:spectrum_protect_backup-archive_client:*:*:*:*:*:*:*:*", "lastModified": "2021-12-16T11:44:02.917", "matchCriteriaId": "202DC2A2-9D5C-45BB-928D-04C85F541861", "status": "Inactive", "versionEndIncluding": "8.1.12", "versionStartIncluding": "8.1.0.0"}

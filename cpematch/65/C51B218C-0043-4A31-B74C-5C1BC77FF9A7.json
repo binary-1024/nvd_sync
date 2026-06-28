@@ -1,0 +1,1 @@
+{"created": "2021-12-01T08:49:00.780", "criteria": "cpe:2.3:a:pivotal_software:spring_advanced_message_queuing_protocol:*:*:*:*:*:*:*:*", "lastModified": "2021-12-01T08:49:00.780", "matchCriteriaId": "C51B218C-0043-4A31-B74C-5C1BC77FF9A7", "status": "Inactive", "versionEndIncluding": "2.2.19", "versionStartIncluding": "2.2.0"}

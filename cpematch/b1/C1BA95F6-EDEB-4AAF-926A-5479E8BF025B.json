@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-08-05T17:45:56.910", "created": "2025-08-05T17:45:56.910", "criteria": "cpe:2.3:o:redhat:enterprise_linux_eus:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "C1BA95F6-EDEB-4AAF-926A-5479E8BF025B", "status": "Inactive", "versionStartIncluding": "0\\:1.13.1-2.el8_9.7"}

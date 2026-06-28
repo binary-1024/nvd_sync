@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-07-20T18:04:39.273", "created": "2021-02-02T14:23:40.120", "criteria": "cpe:2.3:a:htcondor_project:htcondor:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "68FD290A-E373-40A0-A9D4-F623090D1C9B", "status": "Inactive", "versionEndExcluding": "8.9.11", "versionStartIncluding": "8.9.2"}

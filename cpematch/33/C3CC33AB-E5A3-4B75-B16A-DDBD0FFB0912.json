@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-07-06T18:58:40.957", "created": "2022-07-06T18:58:40.957", "criteria": "cpe:2.3:a:texercise_project:texercise:*:*:*:*:*:pypi:*:*", "lastModified": "2022-07-06T18:58:40.957", "matchCriteriaId": "C3CC33AB-E5A3-4B75-B16A-DDBD0FFB0912", "status": "Active", "versionEndIncluding": "0.0.12", "versionStartIncluding": "0.0.1"}

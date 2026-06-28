@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-03-18T23:37:26.347", "created": "2026-03-18T23:37:26.347", "criteria": "cpe:2.3:a:ibm:sterling_file_gateway:*:*:*:*:*:*:*:*", "lastModified": "2026-03-18T23:37:26.347", "matchCriteriaId": "4AD23AED-25F6-45AB-93DD-FC1864431290", "status": "Active", "versionEndExcluding": "6.2.1.1_2", "versionStartIncluding": "6.2.1.0"}

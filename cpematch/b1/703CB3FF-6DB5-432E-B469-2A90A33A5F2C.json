@@ -1,0 +1,1 @@
+{"created": "2025-07-31T22:22:14.257", "criteria": "cpe:2.3:a:ibm:db2:12.1.2:*:*:*:*:linux:*:*", "lastModified": "2025-08-22T14:40:53.770", "matchCriteriaId": "703CB3FF-6DB5-432E-B469-2A90A33A5F2C", "matches": [{"cpeName": "cpe:2.3:a:ibm:db2:12.1.2:*:*:*:*:linux:*:*", "cpeNameId": "FFB1ED37-3FFE-48C4-820A-62265D253697"}], "status": "Active"}

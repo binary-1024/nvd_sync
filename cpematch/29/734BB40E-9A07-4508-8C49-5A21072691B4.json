@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-06-06T12:56:51.363", "created": "2022-06-06T12:56:51.363", "criteria": "cpe:2.3:o:zyxel:nsg50_firmware:*:*:*:*:*:*:*:*", "lastModified": "2022-06-06T12:56:51.363", "matchCriteriaId": "734BB40E-9A07-4508-8C49-5A21072691B4", "status": "Active", "versionEndExcluding": "1.33", "versionStartIncluding": "1.00"}

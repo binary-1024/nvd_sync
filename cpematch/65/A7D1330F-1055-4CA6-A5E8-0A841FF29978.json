@@ -1,0 +1,1 @@
+{"created": "2025-07-29T14:47:27.050", "criteria": "cpe:2.3:a:apache:jackrabbit:2.23.1:beta:*:*:*:*:*:*", "lastModified": "2025-08-19T12:49:38.187", "matchCriteriaId": "A7D1330F-1055-4CA6-A5E8-0A841FF29978", "matches": [{"cpeName": "cpe:2.3:a:apache:jackrabbit:2.23.1:beta:*:*:*:*:*:*", "cpeNameId": "F715CFF0-6020-4824-A60F-95B840EC649E"}], "status": "Active"}

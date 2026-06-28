@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-06-26T20:55:37.547", "created": "2025-06-26T20:55:37.547", "criteria": "cpe:2.3:a:veeam:veeam_service_provider_console:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "8B8DEE3A-0633-4A08-A62D-8E8F03C8A329", "status": "Inactive", "versionEndExcluding": "8.1.0.21377"}

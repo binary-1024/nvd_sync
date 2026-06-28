@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-11-21T21:26:20.490", "created": "2024-11-21T21:26:20.490", "criteria": "cpe:2.3:o:dell:data_domain_operating_system:*:*:*:*:*:*:*:*", "lastModified": "2024-11-27T03:00:26.330", "matchCriteriaId": "1304AE09-A43D-4DD0-8D7B-0C2CFA7F254B", "status": "Inactive", "versionEndExcluding": "7.13.1.10", "versionStartIncluding": "7.11.0.0"}

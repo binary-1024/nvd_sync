@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-12-20T18:46:56.017", "created": "2022-12-20T18:46:56.017", "criteria": "cpe:2.3:a:knexjs:knex:*:*:*:*:*:node.js:*:*", "lastModified": "2022-12-20T18:48:08.017", "matchCriteriaId": "7BE74D79-9AC2-452F-A544-A2ACEB1DA432", "status": "Inactive", "versionEndExcluding": "2.3.0"}

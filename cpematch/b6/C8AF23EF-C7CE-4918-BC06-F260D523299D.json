@@ -1,0 +1,1 @@
+{"created": "2026-05-15T19:05:12.037", "criteria": "cpe:2.3:a:strapi:strapi:*:*:*:*:*:node.js:*:*", "lastModified": "2026-05-15T19:24:31.457", "matchCriteriaId": "C8AF23EF-C7CE-4918-BC06-F260D523299D", "status": "Inactive", "versionEndExcluding": "4.6.21", "versionStartIncluding": "4.0.0"}

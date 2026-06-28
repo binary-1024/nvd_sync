@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-03-18T13:36:37.073", "created": "2020-09-08T13:08:34.660", "criteria": "cpe:2.3:a:pypa:pip:*:*:*:*:*:python:*:*", "lastModified": "2020-09-08T13:08:34.660", "matchCriteriaId": "39241381-D1F7-472E-BA10-14AC60DE37A5", "status": "Inactive", "versionEndExcluding": "19.2"}

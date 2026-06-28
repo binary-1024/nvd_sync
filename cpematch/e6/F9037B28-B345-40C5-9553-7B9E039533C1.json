@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-12-02T18:10:09.697", "created": "2022-12-02T18:10:09.697", "criteria": "cpe:2.3:a:nextcloud:nextcloud_talk:*:*:*:*:*:android:*:*", "lastModified": "2022-12-02T18:10:09.697", "matchCriteriaId": "F9037B28-B345-40C5-9553-7B9E039533C1", "status": "Active", "versionEndExcluding": "13.0.10", "versionStartIncluding": "13.0.0"}

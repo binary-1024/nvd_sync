@@ -1,0 +1,1 @@
+{"created": "2022-04-14T15:49:49.427", "criteria": "cpe:2.3:o:dell:emc_powerscale_onefs:*:*:*:*:*:*:*:*", "lastModified": "2022-04-14T15:49:49.427", "matchCriteriaId": "42FDDCA1-27F7-43C9-95B5-EB870A2FC172", "status": "Inactive", "versionEndIncluding": "9.3.0.0", "versionStartIncluding": "9.0.0.0"}

@@ -1,0 +1,1 @@
+{"created": "2025-12-01T13:51:26.253", "criteria": "cpe:2.3:a:scadabr:scadabr:*:*:*:*:*:*:*:*", "lastModified": "2025-12-01T13:51:26.253", "matchCriteriaId": "DE4BEBE0-2A0C-4B10-8E00-732DA4BDD6BB", "matches": [{"cpeName": "cpe:2.3:a:scadabr:scadabr:0.9.1:*:*:*:*:*:*:*", "cpeNameId": "44065A0C-2BB6-43B1-9CD2-E6B185FAD3ED"}], "status": "Active", "versionEndIncluding": "0.9.1"}

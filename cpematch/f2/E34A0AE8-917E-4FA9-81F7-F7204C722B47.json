@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-10-05T16:30:02.563", "created": "2021-10-05T16:24:13.717", "criteria": "cpe:2.3:a:in-toto:in-toto-golang:*:*:*:*:*:*:*:*", "lastModified": "2021-10-05T16:24:13.717", "matchCriteriaId": "E34A0AE8-917E-4FA9-81F7-F7204C722B47", "status": "Active", "versionEndExcluding": "0.3.0"}

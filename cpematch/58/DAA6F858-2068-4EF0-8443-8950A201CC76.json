@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-03-14T14:09:32.730", "created": "2019-09-19T14:19:15.977", "criteria": "cpe:2.3:a:aiohttp-session_project:aiohttp-session:*:*:*:*:*:*:*:*", "lastModified": "2025-03-15T02:00:28.990", "matchCriteriaId": "DAA6F858-2068-4EF0-8443-8950A201CC76", "status": "Inactive", "versionEndIncluding": "2.6.0"}

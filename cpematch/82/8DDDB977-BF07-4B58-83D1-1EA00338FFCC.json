@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-02-10T19:26:16.700", "created": "2025-02-10T19:26:16.700", "criteria": "cpe:2.3:a:netapp:ontap_select_deploy_administration_utility:*:*:*:*:*:*:*:*", "lastModified": "2025-02-11T03:00:28.177", "matchCriteriaId": "8DDDB977-BF07-4B58-83D1-1EA00338FFCC", "status": "Inactive", "versionEndExcluding": "9.14.1", "versionStartIncluding": "9.12.1"}

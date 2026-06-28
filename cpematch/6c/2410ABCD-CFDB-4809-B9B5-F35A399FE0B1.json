@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-07-03T14:19:56.653", "created": "2023-07-03T14:19:56.653", "criteria": "cpe:2.3:a:open-xchange:open-xchange_appsuite_backend:*:*:*:*:*:*:*:*", "lastModified": "2023-07-04T02:00:15.917", "matchCriteriaId": "2410ABCD-CFDB-4809-B9B5-F35A399FE0B1", "status": "Inactive", "versionEndExcluding": "8.11", "versionStartIncluding": "8.0.0"}

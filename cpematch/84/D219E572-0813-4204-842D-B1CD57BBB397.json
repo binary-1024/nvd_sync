@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-07-17T13:43:23.033", "created": "2023-07-17T13:43:23.033", "criteria": "cpe:2.3:a:functional:sentry:*:*:*:*:*:*:*:*", "lastModified": "2023-07-17T13:43:23.033", "matchCriteriaId": "D219E572-0813-4204-842D-B1CD57BBB397", "status": "Active", "versionEndExcluding": "23.6.2", "versionStartIncluding": "23.6.0"}

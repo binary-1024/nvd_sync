@@ -1,0 +1,1 @@
+{"created": "2025-09-08T22:42:39.587", "criteria": "cpe:2.3:a:nagios:nagios_xi:2024:r2:*:*:*:*:*:*", "lastModified": "2025-09-10T18:40:55.617", "matchCriteriaId": "DB1C8BD9-B45A-42EA-9381-7E1E913BAE77", "matches": [{"cpeName": "cpe:2.3:a:nagios:nagios_xi:2024:r2:*:*:*:*:*:*", "cpeNameId": "C1C27C90-3612-4487-A596-654854CF4408"}], "status": "Active"}

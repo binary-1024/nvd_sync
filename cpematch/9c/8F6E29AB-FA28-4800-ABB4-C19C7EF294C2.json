@@ -1,0 +1,1 @@
+{"created": "2022-02-08T14:35:56.577", "criteria": "cpe:2.3:a:shibboleth:oidc_op:*:*:*:*:identity_provider:*:*:*", "lastModified": "2022-02-08T14:35:56.577", "matchCriteriaId": "8F6E29AB-FA28-4800-ABB4-C19C7EF294C2", "status": "Inactive", "versionEndExcluding": "3.0.4"}

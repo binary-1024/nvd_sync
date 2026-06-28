@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-08-12T16:58:15.530", "created": "2022-08-05T13:29:23.663", "criteria": "cpe:2.3:a:monorepo-build_project:monorepo-build:*:*:*:*:*:node.js:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "8166E2EC-A317-4CEA-A924-B783233D1D5D", "status": "Inactive", "versionEndIncluding": "0.1.9"}

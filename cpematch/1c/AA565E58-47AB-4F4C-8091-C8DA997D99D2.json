@@ -1,0 +1,1 @@
+{"created": "2025-09-04T21:16:50.873", "criteria": "cpe:2.3:a:ibm:qradar_incident_forensics:7.5.0:-:*:*:*:*:*:*", "lastModified": "2025-09-08T12:47:11.033", "matchCriteriaId": "AA565E58-47AB-4F4C-8091-C8DA997D99D2", "matches": [{"cpeName": "cpe:2.3:a:ibm:qradar_incident_forensics:7.5.0:-:*:*:*:*:*:*", "cpeNameId": "A50CA553-9874-4E05-B254-15D9CA917F3A"}], "status": "Active"}

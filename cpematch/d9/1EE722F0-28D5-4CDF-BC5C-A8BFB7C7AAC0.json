@@ -1,0 +1,1 @@
+{"created": "2025-03-17T14:30:42.807", "criteria": "cpe:2.3:o:netapp:a300_firmware:-:*:*:*:*:*:*:*", "lastModified": "2025-08-18T18:45:48.710", "matchCriteriaId": "1EE722F0-28D5-4CDF-BC5C-A8BFB7C7AAC0", "matches": [{"cpeName": "cpe:2.3:o:netapp:a300_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "68A26CB8-4F1B-4E1D-8CBA-11E5C74B8E83"}], "status": "Active"}

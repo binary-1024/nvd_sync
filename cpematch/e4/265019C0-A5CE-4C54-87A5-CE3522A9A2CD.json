@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-06-10T13:35:19.780", "created": "2024-06-10T13:35:19.780", "criteria": "cpe:2.3:o:cisco:sd-wan_firmware:*:*:*:*:*:*:*:*", "lastModified": "2024-06-11T02:00:59.403", "matchCriteriaId": "265019C0-A5CE-4C54-87A5-CE3522A9A2CD", "status": "Inactive", "versionEndExcluding": "20.1.2", "versionStartIncluding": "20.1"}

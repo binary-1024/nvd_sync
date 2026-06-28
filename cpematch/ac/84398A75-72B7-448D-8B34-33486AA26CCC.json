@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-09-24T16:12:47.697", "created": "2025-09-24T16:12:47.697", "criteria": "cpe:2.3:a:pfsense:snort_package:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "84398A75-72B7-448D-8B34-33486AA26CCC", "status": "Inactive", "versionEndIncluding": "4.1.6_25"}

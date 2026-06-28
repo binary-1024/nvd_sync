@@ -1,0 +1,1 @@
+{"created": "2025-08-25T15:04:52.743", "criteria": "cpe:2.3:a:discourse:discourse:3.5.0:beta5:*:*:beta:*:*:*", "lastModified": "2025-09-03T18:14:08.347", "matchCriteriaId": "685B6537-929A-4DC9-8984-E114C5CB6E77", "matches": [{"cpeName": "cpe:2.3:a:discourse:discourse:3.5.0:beta5:*:*:beta:*:*:*", "cpeNameId": "4EAFC8BD-4276-4DF9-9441-EC7F68E60BA1"}], "status": "Active"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-03-29T20:24:29.760", "created": "2021-03-18T23:34:08.300", "criteria": "cpe:2.3:a:konghq:kong_gateway:*:*:*:*:*:*:*:*", "lastModified": "2021-03-18T23:34:08.300", "matchCriteriaId": "4F6F1DD3-00E0-4E62-942A-C94C2A659812", "status": "Inactive", "versionEndExcluding": "2.3.2.0"}

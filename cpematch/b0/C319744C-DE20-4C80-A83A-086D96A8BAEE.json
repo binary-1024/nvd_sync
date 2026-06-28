@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-09-25T15:28:33.697", "created": "2024-09-25T15:28:33.697", "criteria": "cpe:2.3:a:felixmoira:limit_login_attempts_plus:*:*:*:*:*:wordpress:*:*", "lastModified": "2024-09-25T15:28:33.697", "matchCriteriaId": "C319744C-DE20-4C80-A83A-086D96A8BAEE", "status": "Active", "versionEndIncluding": "1.1.0"}

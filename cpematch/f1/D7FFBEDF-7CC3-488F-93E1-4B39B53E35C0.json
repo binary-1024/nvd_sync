@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-11-15T14:21:21.523", "created": "2022-11-15T14:21:21.523", "criteria": "cpe:2.3:a:intel:active_management_technology:*:*:*:*:*:*:*:*", "lastModified": "2022-11-15T14:21:21.523", "matchCriteriaId": "D7FFBEDF-7CC3-488F-93E1-4B39B53E35C0", "status": "Active", "versionEndExcluding": "15.0.42", "versionStartIncluding": "15.0"}

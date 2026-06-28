@@ -1,0 +1,1 @@
+{"created": "2026-05-27T19:21:34.717", "criteria": "cpe:2.3:a:nvidia:gpu_display_driver:*:*:*:*:*:windows:*:*", "lastModified": "2026-05-27T19:21:34.717", "matchCriteriaId": "813855BE-3C8C-4428-A75D-402281EDAAFA", "status": "Active", "versionEndExcluding": "595.36", "versionStartIncluding": "595"}

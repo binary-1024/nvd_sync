@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-05-24T16:45:13.770", "created": "2022-05-24T16:45:13.770", "criteria": "cpe:2.3:a:arm:midguard_gpu_kernel_driver:*:*:*:*:*:*:*:*", "lastModified": "2022-05-24T16:45:13.770", "matchCriteriaId": "7390D700-12C4-45F6-97E1-2A799F8416EA", "status": "Active", "versionEndIncluding": "r29p0", "versionStartIncluding": "r28p0"}

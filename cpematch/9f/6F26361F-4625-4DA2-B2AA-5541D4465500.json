@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-12-30T23:26:50.097", "created": "2022-12-30T23:26:50.097", "criteria": "cpe:2.3:a:videolan:vlc_media_player:*:*:*:*:*:macos\\/iphone_os:*:*", "lastModified": "2023-03-03T03:00:16.473", "matchCriteriaId": "6F26361F-4625-4DA2-B2AA-5541D4465500", "status": "Inactive", "versionEndExcluding": "3.0.11"}

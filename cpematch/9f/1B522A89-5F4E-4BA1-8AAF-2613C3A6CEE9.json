@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-11-10T16:52:27.027", "created": "2022-11-10T16:52:27.027", "criteria": "cpe:2.3:o:sgi:irix:-:*:*:*:*:*:*:*", "lastModified": "2022-11-10T16:52:27.027", "matchCriteriaId": "1B522A89-5F4E-4BA1-8AAF-2613C3A6CEE9", "matches": [{"cpeName": "cpe:2.3:o:sgi:irix:-:*:*:*:*:*:*:*", "cpeNameId": "8AC36170-1EE0-4EB5-AB20-1C78B1630710"}], "status": "Active"}

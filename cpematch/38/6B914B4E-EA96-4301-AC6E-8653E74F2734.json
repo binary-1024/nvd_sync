@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-04-22T18:10:58.100", "created": "2025-04-22T18:10:58.100", "criteria": "cpe:2.3:a:moodle:moodle:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "6B914B4E-EA96-4301-AC6E-8653E74F2734", "status": "Inactive", "versionEndIncluding": "4.3.4", "versionStartExcluding": "4.3.0"}

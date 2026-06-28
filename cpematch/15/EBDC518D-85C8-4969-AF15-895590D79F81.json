@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-09-05T16:52:59.550", "created": "2025-09-05T16:52:59.550", "criteria": "cpe:2.3:a:browser_back_button_project:browser_back_button:*:*:*:*:*:drupal:*:*", "lastModified": "2025-09-05T16:52:59.550", "matchCriteriaId": "EBDC518D-85C8-4969-AF15-895590D79F81", "status": "Inactive", "versionEndExcluding": "2.0.2", "versionStartIncluding": "1.0.0"}

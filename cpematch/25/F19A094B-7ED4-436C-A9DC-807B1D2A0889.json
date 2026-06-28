@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-12-21T01:10:27.357", "created": "2020-06-30T16:08:18.580", "criteria": "cpe:2.3:a:sas:go_rpm_utils:*:*:*:*:*:*:*:*", "lastModified": "2020-06-30T16:08:18.580", "matchCriteriaId": "F19A094B-7ED4-436C-A9DC-807B1D2A0889", "status": "Active", "versionEndExcluding": "0.1.0"}

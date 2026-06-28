@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-04-09T18:26:39.953", "created": "2021-04-09T18:24:26.890", "criteria": "cpe:2.3:a:opencontainers:umoci:*:*:*:*:*:*:*:*", "lastModified": "2021-04-09T18:24:26.890", "matchCriteriaId": "303F953D-AC47-4A7B-92F4-7ACECD9DA58D", "status": "Inactive", "versionEndExcluding": "0.4.7"}

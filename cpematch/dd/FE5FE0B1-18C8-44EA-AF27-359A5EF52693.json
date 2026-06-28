@@ -1,0 +1,1 @@
+{"created": "2025-09-05T17:23:46.823", "criteria": "cpe:2.3:a:jenkins:git_client:6.2.0:*:*:*:*:jenkins:*:*", "lastModified": "2025-09-05T17:26:20.123", "matchCriteriaId": "FE5FE0B1-18C8-44EA-AF27-359A5EF52693", "matches": [{"cpeName": "cpe:2.3:a:jenkins:git_client:6.2.0:*:*:*:*:jenkins:*:*", "cpeNameId": "B21956C3-CA51-45AE-9FB3-3D134C36E448"}], "status": "Active"}

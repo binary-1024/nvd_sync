@@ -1,0 +1,1 @@
+{"created": "2025-08-18T13:50:45.917", "criteria": "cpe:2.3:a:ibm:storage_protect:*:*:*:*:*:*:*:*", "lastModified": "2025-08-18T13:50:45.917", "matchCriteriaId": "CF73F456-99B7-4640-BCB1-318D4E379677", "status": "Active", "versionEndExcluding": "8.1.24.0", "versionStartIncluding": "8.1.0.0"}

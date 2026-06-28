@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-11-29T19:21:03.123", "created": "2024-11-29T19:21:03.123", "criteria": "cpe:2.3:a:microsoft:windows_defender_antimalware_platform:*:*:*:*:*:*:*:*", "lastModified": "2024-11-29T19:21:03.123", "matchCriteriaId": "6B5409A5-A83D-44E8-9718-29CBB095738D", "status": "Active", "versionEndExcluding": "4.18.24010.12"}

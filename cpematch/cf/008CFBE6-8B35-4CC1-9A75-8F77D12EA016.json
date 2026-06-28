@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-03-29T14:17:33.950", "created": "2021-03-29T14:14:32.197", "criteria": "cpe:2.3:a:phpbb:phpbb:-:*:*:*:*:*:*:*", "lastModified": "2021-03-29T14:14:32.197", "matchCriteriaId": "008CFBE6-8B35-4CC1-9A75-8F77D12EA016", "matches": [{"cpeName": "cpe:2.3:a:phpbb:phpbb:-:*:*:*:*:*:*:*", "cpeNameId": "1738BD06-0216-4203-AA24-6AA915634005"}], "status": "Active"}

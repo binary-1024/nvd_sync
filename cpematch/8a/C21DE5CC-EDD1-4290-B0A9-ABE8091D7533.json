@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-05-23T17:20:28.920", "created": "2022-05-23T17:20:28.920", "criteria": "cpe:2.3:a:nvidia:virtual_gpu:*:*:*:*:*:*:*:*", "lastModified": "2022-05-23T17:20:28.920", "matchCriteriaId": "C21DE5CC-EDD1-4290-B0A9-ABE8091D7533", "status": "Inactive", "versionEndExcluding": "14.1", "versionStartIncluding": "14.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2019-09-20T13:16:26.567", "created": "2019-09-20T13:16:26.537", "criteria": "cpe:2.3:a:symantec:data_center_security_server:*:*:*:*:advanced:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "F4BBDF35-2C5E-4CF5-8B35-7B681301F9BB", "status": "Inactive", "versionEndExcluding": "6.5.0", "versionStartIncluding": "6.0.0"}

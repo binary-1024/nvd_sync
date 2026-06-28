@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-11-30T18:50:50.293", "created": "2020-01-22T13:30:57.440", "criteria": "cpe:2.3:a:emc:rsa_bsafe_crypto-c:*:*:*:*:micro:*:*:*", "lastModified": "2020-01-22T13:30:57.440", "matchCriteriaId": "63DDCDAB-BC2D-4B48-80A4-9C4EA280A7B3", "status": "Inactive", "versionEndIncluding": "4.0.5.3", "versionStartIncluding": "4.0"}

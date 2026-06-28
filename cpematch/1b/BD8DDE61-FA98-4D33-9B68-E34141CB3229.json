@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-11-25T14:10:57.610", "created": "2024-11-21T18:23:03.223", "criteria": "cpe:2.3:a:fedoralovespython:lxml_html_clean:*:*:*:*:*:*:*:*", "lastModified": "2024-11-25T14:28:04.333", "matchCriteriaId": "BD8DDE61-FA98-4D33-9B68-E34141CB3229", "status": "Inactive", "versionEndExcluding": "0.4.0"}

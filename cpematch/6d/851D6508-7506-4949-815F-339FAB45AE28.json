@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-06-10T15:17:10.933", "created": "2025-06-09T18:12:33.070", "criteria": "cpe:2.3:a:miniorange_2fa_project:miniorange_2fa:*:*:*:*:*:drupal:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "851D6508-7506-4949-815F-339FAB45AE28", "status": "Inactive", "versionEndExcluding": "5.2.0", "versionStartIncluding": "5.0.0"}

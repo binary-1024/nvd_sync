@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-03-10T14:27:00.517", "created": "2026-03-10T14:27:00.517", "criteria": "cpe:2.3:a:express-rate-limit_project:express-rate-limit:*:*:*:*:*:*:*:*", "lastModified": "2026-03-10T14:27:00.517", "matchCriteriaId": "F501D9EB-DFE4-496D-8471-61DE755B9E05", "status": "Active", "versionEndExcluding": "8.2.2", "versionStartIncluding": "8.2.0"}

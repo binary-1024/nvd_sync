@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-08-19T14:38:59.237", "created": "2022-08-19T14:38:59.237", "criteria": "cpe:2.3:a:jupyter:nbconvert:*:*:*:*:*:*:*:*", "lastModified": "2022-08-19T14:38:59.237", "matchCriteriaId": "929F3542-70BD-4C8F-B81E-EEF0ED302CAC", "status": "Inactive", "versionEndIncluding": "6.2.0"}

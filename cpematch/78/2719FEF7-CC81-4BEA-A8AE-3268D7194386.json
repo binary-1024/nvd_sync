@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-06-04T14:16:04.343", "created": "2020-09-01T12:38:44.550", "criteria": "cpe:2.3:a:schneider_electric:modbus_driver_suite:*:*:*:*:*:*:*:*", "lastModified": "2020-09-01T12:38:44.550", "matchCriteriaId": "2719FEF7-CC81-4BEA-A8AE-3268D7194386", "status": "Inactive", "versionEndExcluding": "14.15.0.0"}

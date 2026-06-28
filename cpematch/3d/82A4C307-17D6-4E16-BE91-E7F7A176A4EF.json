@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-11-18T12:51:45.187", "created": "2022-11-18T12:51:45.187", "criteria": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*", "lastModified": "2022-11-19T03:00:13.250", "matchCriteriaId": "82A4C307-17D6-4E16-BE91-E7F7A176A4EF", "status": "Inactive", "versionEndIncluding": "7.1.2.8", "versionStartIncluding": "7.1.0.0"}

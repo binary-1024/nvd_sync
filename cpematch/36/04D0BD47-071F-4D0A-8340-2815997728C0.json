@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-07-20T18:26:36.847", "created": "2021-07-06T16:58:21.800", "criteria": "cpe:2.3:a:htslib:htslib:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "04D0BD47-071F-4D0A-8340-2815997728C0", "status": "Inactive", "versionEndIncluding": "1.10.2", "versionStartIncluding": "1.10"}

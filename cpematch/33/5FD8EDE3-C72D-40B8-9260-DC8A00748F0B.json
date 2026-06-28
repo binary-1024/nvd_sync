@@ -1,0 +1,1 @@
+{"created": "2026-01-14T14:43:00.800", "criteria": "cpe:2.3:o:dell:idrac9_firmware:*:*:*:*:*:*:*:*", "lastModified": "2026-01-14T14:43:00.800", "matchCriteriaId": "5FD8EDE3-C72D-40B8-9260-DC8A00748F0B", "status": "Active", "versionEndExcluding": "7.20.10.50", "versionStartIncluding": "7.00.00.183"}

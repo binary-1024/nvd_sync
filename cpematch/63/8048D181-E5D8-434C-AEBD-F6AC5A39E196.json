@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-01-31T21:27:15.243", "created": "2022-01-31T17:27:06.840", "criteria": "cpe:2.3:h:dell:vnx5200:-:*:*:*:*:*:*:*", "lastModified": "2022-01-31T17:27:06.840", "matchCriteriaId": "8048D181-E5D8-434C-AEBD-F6AC5A39E196", "matches": [{"cpeName": "cpe:2.3:h:dell:vnx5200:-:*:*:*:*:*:*:*", "cpeNameId": "BEB59238-6CC3-49E9-A208-27AFD1B32CB7"}], "status": "Active"}

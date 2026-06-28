@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-12-16T19:56:48.887", "created": "2021-12-16T18:43:29.847", "criteria": "cpe:2.3:a:cisco:cloudcenter_suite_admin:*:*:*:*:*:*:*:*", "lastModified": "2021-12-16T18:43:29.847", "matchCriteriaId": "29CDB878-B085-448E-AB84-25B1E2D024F8", "status": "Active", "versionEndExcluding": "5.3.1"}

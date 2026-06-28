@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-07-24T19:51:09.903", "created": "2019-12-18T06:24:05.337", "criteria": "cpe:2.3:a:jenkins:build_graph_view:*:*:*:*:*:jenkins:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "3F98FFAC-98FE-4156-8199-2EB00596CDF7", "status": "Inactive", "versionEndIncluding": "1.8"}

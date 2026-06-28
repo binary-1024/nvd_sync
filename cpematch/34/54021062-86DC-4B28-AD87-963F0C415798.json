@@ -1,0 +1,1 @@
+{"cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:a:lxml:lxml:1.2:*:*:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "matchCriteriaId": "54021062-86DC-4B28-AD87-963F0C415798", "matches": [{"cpeName": "cpe:2.3:a:lxml:lxml:1.2:*:*:*:*:*:*:*", "cpeNameId": "AAE9D2DD-7930-4FA8-AC84-CE2541154468"}], "status": "Active"}

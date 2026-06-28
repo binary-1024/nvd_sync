@@ -1,0 +1,1 @@
+{"created": "2020-07-24T16:10:53.163", "criteria": "cpe:2.3:a:parseplatform:parse_server:*:*:*:*:*:*:*:*", "lastModified": "2020-07-24T16:10:53.163", "matchCriteriaId": "58698788-8FFD-4933-9B83-9B675261A24F", "status": "Active", "versionEndExcluding": "4.3.0", "versionStartIncluding": "3.5.0"}

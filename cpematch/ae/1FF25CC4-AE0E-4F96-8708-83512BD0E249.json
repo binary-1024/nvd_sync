@@ -1,0 +1,1 @@
+{"created": "2025-02-26T20:11:32.947", "criteria": "cpe:2.3:a:odoo:odoo:17.0:*:*:*:community:*:*:*", "lastModified": "2025-08-12T20:30:49.270", "matchCriteriaId": "1FF25CC4-AE0E-4F96-8708-83512BD0E249", "matches": [{"cpeName": "cpe:2.3:a:odoo:odoo:17.0:*:*:*:community:*:*:*", "cpeNameId": "83038AE2-E781-45F6-B510-8933D99ABDA3"}], "status": "Active"}

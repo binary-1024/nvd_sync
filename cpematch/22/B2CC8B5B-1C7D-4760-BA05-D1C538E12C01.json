@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-06-06T18:40:14.113", "created": "2022-06-06T18:40:14.113", "criteria": "cpe:2.3:a:dell:idrac9:*:*:*:*:*:*:*:*", "lastModified": "2022-06-06T18:40:14.113", "matchCriteriaId": "B2CC8B5B-1C7D-4760-BA05-D1C538E12C01", "status": "Active", "versionEndExcluding": "5.10.10.00", "versionStartIncluding": "5.00.00.00"}

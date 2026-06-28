@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-06-29T15:39:36.040", "created": "2021-06-29T15:33:45.923", "criteria": "cpe:2.3:a:vaadin:flow-server:*:*:*:*:*:*:*:*", "lastModified": "2021-06-29T15:33:45.923", "matchCriteriaId": "FEF29305-886B-45FA-A98D-B9C2524B4891", "status": "Active", "versionEndIncluding": "5.0.0", "versionStartIncluding": "3.0.0"}

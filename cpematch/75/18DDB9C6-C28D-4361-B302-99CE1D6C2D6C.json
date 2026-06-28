@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-08-19T15:03:00.827", "created": "2025-08-19T15:03:00.827", "criteria": "cpe:2.3:a:ibm:mq_operator:*:*:*:*:sc2:*:*:*", "lastModified": "2025-08-19T15:03:00.827", "matchCriteriaId": "18DDB9C6-C28D-4361-B302-99CE1D6C2D6C", "status": "Active", "versionEndIncluding": "3.2.12", "versionStartIncluding": "3.2.0"}

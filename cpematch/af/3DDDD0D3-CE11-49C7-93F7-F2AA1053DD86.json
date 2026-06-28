@@ -1,0 +1,1 @@
+{"created": "2020-11-16T20:05:38.230", "criteria": "cpe:2.3:a:intel:converged_security_and_manageability_engine:*:*:*:*:*:*:*:*", "lastModified": "2020-11-16T20:05:38.230", "matchCriteriaId": "3DDDD0D3-CE11-49C7-93F7-F2AA1053DD86", "status": "Active", "versionEndExcluding": "11.12.80", "versionStartIncluding": "11.12.0"}

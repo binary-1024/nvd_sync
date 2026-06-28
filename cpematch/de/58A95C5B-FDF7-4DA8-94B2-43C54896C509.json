@@ -1,0 +1,1 @@
+{"created": "2025-08-04T14:20:24.413", "criteria": "cpe:2.3:o:cisco:wap321_firmware:-:*:*:*:*:*:*:*", "lastModified": "2025-08-08T18:51:25.227", "matchCriteriaId": "58A95C5B-FDF7-4DA8-94B2-43C54896C509", "matches": [{"cpeName": "cpe:2.3:o:cisco:wap321_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "7BA7E1E1-C73C-4B16-A073-DE5394121933"}], "status": "Active"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-12-08T18:30:02.980", "created": "2025-12-08T18:30:02.980", "criteria": "cpe:2.3:a:wso2:micro_integrator:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "B8F2FE58-0637-4FD7-B00E-F2076C05F1BB", "status": "Inactive", "versionEndIncluding": "4.0.0.145", "versionStartIncluding": "4.0.0"}

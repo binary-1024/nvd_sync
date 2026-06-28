@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-11-01T19:08:28.970", "created": "2022-11-01T19:08:28.970", "criteria": "cpe:2.3:a:hcltech:hcl_launch_container_image:*:*:*:*:*:*:*:*", "lastModified": "2022-11-01T19:08:28.970", "matchCriteriaId": "368A31E7-06F9-48BD-91F7-DF6E83A0CA2F", "status": "Active", "versionEndExcluding": "7.1.0.1", "versionStartIncluding": "7.1.0.0"}

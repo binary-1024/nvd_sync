@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-04-27T18:35:11.883", "created": "2026-04-27T18:35:11.883", "criteria": "cpe:2.3:a:angular:angular-cli:*:*:*:*:*:*:*:*", "lastModified": "2026-04-27T18:35:11.883", "matchCriteriaId": "30FC163E-DA94-4040-8F11-91D44C1219FB", "status": "Active", "versionEndIncluding": "20.3.18", "versionStartIncluding": "20.0.0"}

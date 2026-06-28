@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-08-13T12:26:37.980", "created": "2021-08-13T12:25:41.167", "criteria": "cpe:2.3:a:citrix:netscaler_sd-wan:*:*:*:*:*:*:*:*", "lastModified": "2021-08-13T12:25:41.167", "matchCriteriaId": "D38B41B1-1358-4641-8986-625C5EFA5F38", "status": "Inactive", "versionEndExcluding": "11.3.2.a", "versionStartIncluding": "11.3"}

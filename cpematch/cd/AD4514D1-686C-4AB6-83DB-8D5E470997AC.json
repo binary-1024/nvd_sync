@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-06-16T19:06:04.853", "created": "2026-06-16T19:06:04.853", "criteria": "cpe:2.3:a:broadcom:spring_cloud_sleuth:*:*:*:*:*:*:*:*", "lastModified": "2026-06-16T19:06:15.113", "matchCriteriaId": "AD4514D1-686C-4AB6-83DB-8D5E470997AC", "status": "Inactive", "versionEndIncluding": "3.1.13", "versionStartIncluding": "3.1.0"}

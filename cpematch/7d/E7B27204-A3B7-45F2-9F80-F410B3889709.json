@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-04-29T04:30:43.110", "created": "2022-04-27T12:56:19.060", "criteria": "cpe:2.3:a:crypt-server_project:crypt-server:*:*:*:*:*:*:*:*", "lastModified": "2022-04-27T12:56:19.060", "matchCriteriaId": "E7B27204-A3B7-45F2-9F80-F410B3889709", "status": "Active", "versionEndExcluding": "3.3.0"}

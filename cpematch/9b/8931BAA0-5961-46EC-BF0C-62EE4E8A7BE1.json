@@ -1,0 +1,1 @@
+{"created": "2025-07-28T11:55:52.603", "criteria": "cpe:2.3:a:gitlab:gitlab:18.2:*:*:*:enterprise:*:*:*", "lastModified": "2025-08-18T13:03:44.550", "matchCriteriaId": "8931BAA0-5961-46EC-BF0C-62EE4E8A7BE1", "matches": [{"cpeName": "cpe:2.3:a:gitlab:gitlab:18.2:*:*:*:enterprise:*:*:*", "cpeNameId": "DF8E8123-43B1-45A8-881A-F8547664364C"}], "status": "Active"}

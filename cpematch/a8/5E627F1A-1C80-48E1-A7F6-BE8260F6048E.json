@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-12-08T18:30:02.980", "created": "2025-12-08T18:30:02.980", "criteria": "cpe:2.3:a:wso2:traffic_manager:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "5E627F1A-1C80-48E1-A7F6-BE8260F6048E", "status": "Inactive", "versionEndIncluding": "4.5.0.27", "versionStartIncluding": "4.5.0"}

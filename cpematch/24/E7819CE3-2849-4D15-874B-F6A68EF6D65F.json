@@ -1,0 +1,1 @@
+{"created": "2025-05-22T20:20:46.433", "criteria": "cpe:2.3:a:ssh:ssh:*:*:*:*:*:*:*:*", "lastModified": "2025-05-22T20:20:46.433", "matchCriteriaId": "E7819CE3-2849-4D15-874B-F6A68EF6D65F", "status": "Active", "versionEndExcluding": "4.13.2.4", "versionStartIncluding": "4.12"}

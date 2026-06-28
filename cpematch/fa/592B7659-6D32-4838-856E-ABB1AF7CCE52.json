@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-12-26T18:38:36.560", "created": "2024-12-26T18:38:36.560", "criteria": "cpe:2.3:o:nvidia:mlnx-os:*:*:*:*:lts:*:*:*", "lastModified": "2024-12-27T03:00:27.833", "matchCriteriaId": "592B7659-6D32-4838-856E-ABB1AF7CCE52", "status": "Inactive", "versionEndExcluding": "8.1.4500"}

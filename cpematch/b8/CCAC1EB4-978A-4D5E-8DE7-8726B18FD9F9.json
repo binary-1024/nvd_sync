@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-11-25T18:12:23.270", "created": "2022-03-08T16:22:14.503", "criteria": "cpe:2.3:a:twistedmatrix:twisted:*:*:*:*:*:*:*:*", "lastModified": "2024-11-26T03:00:32.673", "matchCriteriaId": "CCAC1EB4-978A-4D5E-8DE7-8726B18FD9F9", "status": "Inactive", "versionEndExcluding": "22.2.0", "versionStartIncluding": "21.7.0"}

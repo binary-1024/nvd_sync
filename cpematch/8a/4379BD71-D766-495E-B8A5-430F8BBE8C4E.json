@@ -1,0 +1,1 @@
+{"created": "2021-09-20T17:15:16.817", "criteria": "cpe:2.3:a:f5:big-ip_application_security_manager:*:*:*:*:*:*:*:*", "lastModified": "2021-09-20T17:15:16.817", "matchCriteriaId": "4379BD71-D766-495E-B8A5-430F8BBE8C4E", "status": "Inactive", "versionEndExcluding": "15.0.3", "versionStartIncluding": "15.0.0"}

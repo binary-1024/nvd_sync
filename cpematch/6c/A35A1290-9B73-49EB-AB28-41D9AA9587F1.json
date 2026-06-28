@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-09-24T17:40:08.903", "created": "2021-09-24T17:39:59.010", "criteria": "cpe:2.3:a:matrix:matrix-android-sdk2:*:*:*:*:*:android:*:*", "lastModified": "2021-09-24T17:39:59.010", "matchCriteriaId": "A35A1290-9B73-49EB-AB28-41D9AA9587F1", "status": "Active", "versionEndExcluding": "1.2.2"}

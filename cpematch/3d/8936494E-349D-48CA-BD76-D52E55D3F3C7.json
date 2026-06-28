@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-12-12T18:29:03.783", "created": "2022-12-12T18:29:03.783", "criteria": "cpe:2.3:a:jenkins:spring_config:*:*:*:*:*:jenkins:*:*", "lastModified": "2022-12-12T18:29:03.783", "matchCriteriaId": "8936494E-349D-48CA-BD76-D52E55D3F3C7", "status": "Active", "versionEndExcluding": "2.0.1"}

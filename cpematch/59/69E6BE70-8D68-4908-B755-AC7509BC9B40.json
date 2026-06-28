@@ -1,0 +1,1 @@
+{"cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:a:pacemaker\\/corosync_configuration_system_project:pacemaker\\/corosync_configuration_system:*:*:*:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "matchCriteriaId": "69E6BE70-8D68-4908-B755-AC7509BC9B40", "status": "Active", "versionEndIncluding": "0.9.139"}

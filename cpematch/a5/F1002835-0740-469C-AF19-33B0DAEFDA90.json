@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-03-19T01:57:52.297", "created": "2025-03-19T01:57:52.297", "criteria": "cpe:2.3:a:mudler:localai:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "F1002835-0740-469C-AF19-33B0DAEFDA90", "status": "Inactive", "versionEndExcluding": "2.17.0", "versionStartIncluding": "2.7.0"}

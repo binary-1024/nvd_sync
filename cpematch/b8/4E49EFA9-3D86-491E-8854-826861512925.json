@@ -1,0 +1,1 @@
+{"created": "2025-08-13T17:05:07.067", "criteria": "cpe:2.3:h:cisco:ap802:-:*:*:*:*:*:*:*", "lastModified": "2025-08-19T19:19:57.663", "matchCriteriaId": "4E49EFA9-3D86-491E-8854-826861512925", "matches": [{"cpeName": "cpe:2.3:h:cisco:ap802:-:*:*:*:*:*:*:*", "cpeNameId": "AC91D94B-3700-483B-9338-0553A5FC47F9"}], "status": "Active"}

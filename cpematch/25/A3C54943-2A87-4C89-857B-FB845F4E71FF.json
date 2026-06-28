@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-12-30T12:17:51.863", "created": "2024-12-30T12:17:51.863", "criteria": "cpe:2.3:a:microsoft:azure_arc_extension_microsoft.iotoperations.mq:*:*:*:*:*:*:*:*", "lastModified": "2024-12-30T12:17:51.863", "matchCriteriaId": "A3C54943-2A87-4C89-857B-FB845F4E71FF", "status": "Active", "versionEndExcluding": "0.3.0-preview"}

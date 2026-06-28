@@ -1,0 +1,1 @@
+{"created": "2026-03-09T12:40:53.050", "criteria": "cpe:2.3:a:ec-cube:ec-cube:4.2.3:p1:*:*:*:*:*:*", "lastModified": "2026-05-14T15:32:20.217", "matchCriteriaId": "67D9B2DD-2498-465A-B85A-56EB5A8A13AC", "matches": [{"cpeName": "cpe:2.3:a:ec-cube:ec-cube:4.2.3:p1:*:*:*:*:*:*", "cpeNameId": "43AC381E-F40F-47EE-80E7-343C58598AD3"}], "status": "Active"}

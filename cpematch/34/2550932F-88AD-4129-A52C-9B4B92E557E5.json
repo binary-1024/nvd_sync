@@ -1,0 +1,1 @@
+{"created": "2020-04-29T16:34:48.810", "criteria": "cpe:2.3:a:apache:traffic_control:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "2550932F-88AD-4129-A52C-9B4B92E557E5", "status": "Inactive", "versionEndIncluding": "7.1.9", "versionStartIncluding": "7.0.0"}

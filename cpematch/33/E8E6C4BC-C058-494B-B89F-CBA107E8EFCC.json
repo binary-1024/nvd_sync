@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-03-17T20:57:27.060", "created": "2019-09-17T16:13:02.200", "criteria": "cpe:2.3:a:codesys:simulation_runtime:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "E8E6C4BC-C058-494B-B89F-CBA107E8EFCC", "status": "Inactive", "versionEndIncluding": "3.5.12.30", "versionStartIncluding": "3.5.12.0"}

@@ -1,0 +1,1 @@
+{"created": "2025-07-30T19:10:35.133", "criteria": "cpe:2.3:a:cisco:webex_teams:44.7.0.30141:*:*:*:*:*:*:*", "lastModified": "2025-08-08T18:51:25.227", "matchCriteriaId": "B36E21E9-26E6-4C93-93A9-3FEB913660CA", "matches": [{"cpeName": "cpe:2.3:a:cisco:webex_teams:44.7.0.30141:*:*:*:*:-:*:*", "cpeNameId": "B0636DBF-6ECE-4E1A-B373-7161DC179084"}], "status": "Active"}

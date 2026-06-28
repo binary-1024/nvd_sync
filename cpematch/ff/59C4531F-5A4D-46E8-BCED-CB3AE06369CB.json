@@ -1,0 +1,1 @@
+{"created": "2026-01-29T16:10:02.077", "criteria": "cpe:2.3:a:syntax-tree:mdast-util-to-hast:*:*:*:*:*:*:*:*", "lastModified": "2026-01-29T16:10:02.077", "matchCriteriaId": "59C4531F-5A4D-46E8-BCED-CB3AE06369CB", "status": "Active", "versionEndExcluding": "13.2.1", "versionStartIncluding": "13.0.0"}

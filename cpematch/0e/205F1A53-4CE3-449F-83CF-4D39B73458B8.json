@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-03-17T15:51:47.863", "created": "2021-03-17T15:51:47.863", "criteria": "cpe:2.3:a:debian:shadow:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "205F1A53-4CE3-449F-83CF-4D39B73458B8", "status": "Inactive", "versionEndExcluding": "4.5-1"}

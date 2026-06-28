@@ -1,0 +1,1 @@
+{"created": "2026-05-11T16:46:53.170", "criteria": "cpe:2.3:a:succinct:sp1_recursion_circuit:*:*:*:*:*:rust:*:*", "lastModified": "2026-05-11T16:46:53.170", "matchCriteriaId": "9B27675D-F48C-4EB9-9796-E470EFEA2195", "status": "Active", "versionEndExcluding": "6.0.2", "versionStartIncluding": "6.0.0"}

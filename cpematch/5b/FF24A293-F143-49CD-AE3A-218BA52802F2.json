@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-12-03T19:01:51.930", "created": "2021-12-03T18:00:45.150", "criteria": "cpe:2.3:a:sophos:exploit_prevention:*:*:*:*:*:*:*:*", "lastModified": "2021-12-03T18:00:45.150", "matchCriteriaId": "FF24A293-F143-49CD-AE3A-218BA52802F2", "status": "Active", "versionEndExcluding": "3.8.3"}

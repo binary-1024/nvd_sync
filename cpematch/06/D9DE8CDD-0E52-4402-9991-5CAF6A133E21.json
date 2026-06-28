@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-04-24T18:46:14.323", "created": "2023-04-12T15:32:03.073", "criteria": "cpe:2.3:o:linux:linux_kernel:*:*:*:*:*:*:*:*", "lastModified": "2025-12-09T21:54:56.833", "matchCriteriaId": "D9DE8CDD-0E52-4402-9991-5CAF6A133E21", "status": "Inactive", "versionEndExcluding": "5.10.130", "versionStartIncluding": "4.1"}

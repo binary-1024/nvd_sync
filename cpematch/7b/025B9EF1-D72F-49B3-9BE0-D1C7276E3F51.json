@@ -1,0 +1,1 @@
+{"created": "2025-04-16T13:45:15.003", "criteria": "cpe:2.3:a:contribsys:sidekiq:6.5.8:*:*:*:*:*:*:*", "lastModified": "2025-10-23T21:04:10.880", "matchCriteriaId": "025B9EF1-D72F-49B3-9BE0-D1C7276E3F51", "matches": [{"cpeName": "cpe:2.3:a:contribsys:sidekiq:6.5.8:*:*:*:*:*:*:*", "cpeNameId": "A8AF9218-060C-4B27-B25B-F201513E2E9B"}], "status": "Active"}

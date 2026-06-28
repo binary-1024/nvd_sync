@@ -1,0 +1,1 @@
+{"created": "2025-08-28T21:46:38.867", "criteria": "cpe:2.3:a:bytecodealliance:wasmtime:19.0.0:*:*:*:*:rust:*:*", "lastModified": "2025-08-29T13:36:25.670", "matchCriteriaId": "9C2CCC83-D074-46EA-9164-0B7C1B12FDCA", "matches": [{"cpeName": "cpe:2.3:a:bytecodealliance:wasmtime:19.0.0:*:*:*:*:rust:*:*", "cpeNameId": "DF7EC018-470F-4165-AF13-4503CB7FB264"}], "status": "Active"}

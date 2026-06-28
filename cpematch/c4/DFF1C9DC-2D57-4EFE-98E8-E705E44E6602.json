@@ -1,0 +1,1 @@
+{"created": "2025-08-27T18:48:27.603", "criteria": "cpe:2.3:a:miniorange:oauth_\\&_openid_connect_single_sign-on:*:*:*:*:*:drupal:*:*", "lastModified": "2025-08-27T18:48:27.603", "matchCriteriaId": "DFF1C9DC-2D57-4EFE-98E8-E705E44E6602", "status": "Active", "versionEndExcluding": "3.44.0", "versionStartIncluding": "3.0.0"}

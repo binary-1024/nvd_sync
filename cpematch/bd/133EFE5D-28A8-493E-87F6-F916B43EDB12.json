@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-12-12T14:42:24.950", "created": "2022-12-12T14:39:05.930", "criteria": "cpe:2.3:a:linux:mirage_firewall:*:*:*:*:*:qubesos:*:*", "lastModified": "2022-12-13T03:00:10.760", "matchCriteriaId": "133EFE5D-28A8-493E-87F6-F916B43EDB12", "status": "Inactive", "versionEndExcluding": "0.8.4", "versionStartIncluding": "0.8.0"}

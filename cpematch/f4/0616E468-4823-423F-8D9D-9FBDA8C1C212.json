@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-08-29T16:32:41.500", "created": "2025-08-29T16:32:41.500", "criteria": "cpe:2.3:a:intel:tdx_module_software:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "0616E468-4823-423F-8D9D-9FBDA8C1C212", "status": "Inactive", "versionEndExcluding": "1.5.05.46.698"}

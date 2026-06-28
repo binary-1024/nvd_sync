@@ -1,0 +1,1 @@
+{"created": "2025-07-31T19:14:07.453", "criteria": "cpe:2.3:a:dalek:curve25519-dalek:*:*:*:*:*:rust:*:*", "lastModified": "2025-07-31T19:14:07.453", "matchCriteriaId": "AA4E2DF6-F18D-4CDE-B832-5BC951EBA043", "status": "Active", "versionEndExcluding": "4.1.3"}

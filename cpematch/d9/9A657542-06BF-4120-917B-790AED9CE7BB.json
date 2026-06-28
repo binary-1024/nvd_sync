@@ -1,0 +1,1 @@
+{"created": "2026-06-04T19:35:45.267", "criteria": "cpe:2.3:a:cisco:webex_meetings:44.8.0:*:*:*:*:*:*:*", "lastModified": "2026-06-08T13:36:33.560", "matchCriteriaId": "9A657542-06BF-4120-917B-790AED9CE7BB", "matches": [{"cpeName": "cpe:2.3:a:cisco:webex_meetings:44.8.0:*:*:*:*:*:*:*", "cpeNameId": "47968A2C-BF93-4C84-BCCB-B2550BD7DB8A"}], "status": "Active"}

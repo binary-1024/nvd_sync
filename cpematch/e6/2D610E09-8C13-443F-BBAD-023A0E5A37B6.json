@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-02-25T21:06:45.960", "created": "2019-09-17T16:13:02.137", "criteria": "cpe:2.3:a:codesys:control_rte:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "2D610E09-8C13-443F-BBAD-023A0E5A37B6", "status": "Inactive", "versionEndIncluding": "3.5.12.30", "versionStartIncluding": "3.5.12.0"}

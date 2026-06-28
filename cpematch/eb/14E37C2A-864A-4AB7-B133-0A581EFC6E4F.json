@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-06-26T16:25:40.843", "created": "2026-06-26T16:25:40.843", "criteria": "cpe:2.3:a:chrome:chrome-devtools-mcp:*:*:*:*:*:node.js:*:*", "lastModified": "2026-06-26T16:25:40.843", "matchCriteriaId": "14E37C2A-864A-4AB7-B133-0A581EFC6E4F", "status": "Active", "versionEndExcluding": "1.1.0", "versionStartIncluding": "0.24.0"}

@@ -1,0 +1,1 @@
+{"created": "2022-01-31T16:53:43.497", "criteria": "cpe:2.3:a:f5:big-ip_access_policy_manager:*:*:*:*:*:*:*:*", "lastModified": "2022-01-31T16:53:43.497", "matchCriteriaId": "34F6BC57-37A4-4D69-BE03-AAD0E6247292", "status": "Inactive", "versionEndExcluding": "14.1.3", "versionStartIncluding": "14.0.0"}

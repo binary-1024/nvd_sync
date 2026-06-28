@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-04-21T18:43:13.240", "created": "2026-04-21T18:43:13.240", "criteria": "cpe:2.3:a:apache:doris_mcp_server:*:*:*:*:*:*:*:*", "lastModified": "2026-04-22T02:00:00.147", "matchCriteriaId": "1C5D6276-4D4F-4E9F-B1E5-16A86E98734F", "status": "Inactive", "versionEndExcluding": "0.6.1"}

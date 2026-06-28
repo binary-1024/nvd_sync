@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-07-17T21:18:00.657", "created": "2025-02-25T19:53:31.933", "criteria": "cpe:2.3:a:ibm:websphere_application_server:*:*:*:*:liberty:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "BA3445AF-E73D-40ED-8A21-BE229111E410", "status": "Inactive", "versionEndIncluding": "24.0.0.5", "versionStartIncluding": "17.0.0.3"}

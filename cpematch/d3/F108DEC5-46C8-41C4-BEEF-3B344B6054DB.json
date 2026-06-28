@@ -1,0 +1,1 @@
+{"created": "2020-06-19T14:51:15.913", "criteria": "cpe:2.3:a:mattermost:server:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "F108DEC5-46C8-41C4-BEEF-3B344B6054DB", "status": "Inactive", "versionEndExcluding": "5.17.2", "versionStartIncluding": "5.17.0"}

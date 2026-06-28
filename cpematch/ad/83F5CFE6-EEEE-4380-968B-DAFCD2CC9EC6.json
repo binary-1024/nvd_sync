@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-02-02T22:20:37.337", "created": "2022-03-22T13:40:24.930", "criteria": "cpe:2.3:a:smartbear:swagger_ui:*:*:*:*:*:node.js:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "83F5CFE6-EEEE-4380-968B-DAFCD2CC9EC6", "status": "Inactive", "versionEndExcluding": "4.1.3"}

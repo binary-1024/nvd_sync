@@ -1,0 +1,1 @@
+{"created": "2026-05-06T17:45:10.957", "criteria": "cpe:2.3:o:qualcomm:wsa8855c_firmware:-:*:*:*:*:*:*:*", "lastModified": "2026-06-11T13:47:23.237", "matchCriteriaId": "671E0B82-5D58-4644-8806-7F4CAFFB6641", "matches": [{"cpeName": "cpe:2.3:o:qualcomm:wsa8855c_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "16EEC733-88C4-4C69-AA1E-61DF32774314"}], "status": "Active"}

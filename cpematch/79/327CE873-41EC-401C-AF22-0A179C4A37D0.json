@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-06-13T17:57:46.413", "created": "2024-06-13T17:57:46.413", "criteria": "cpe:2.3:a:opentelemetry:configgrpc:*:*:*:*:*:go:*:*", "lastModified": "2024-06-13T17:57:46.413", "matchCriteriaId": "327CE873-41EC-401C-AF22-0A179C4A37D0", "status": "Active", "versionEndExcluding": "0.102.1"}

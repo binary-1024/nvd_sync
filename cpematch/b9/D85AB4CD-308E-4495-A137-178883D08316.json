@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-12-13T20:00:44.500", "created": "2021-12-13T19:02:25.917", "criteria": "cpe:2.3:o:fortinet:meru_firmware:*:*:*:*:*:*:*:*", "lastModified": "2021-12-13T19:02:25.917", "matchCriteriaId": "D85AB4CD-308E-4495-A137-178883D08316", "status": "Active", "versionEndExcluding": "8.6.2", "versionStartIncluding": "8.6.0"}

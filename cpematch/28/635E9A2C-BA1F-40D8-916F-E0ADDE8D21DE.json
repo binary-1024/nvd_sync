@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-06-30T14:47:21.490", "created": "2025-06-30T14:47:21.490", "criteria": "cpe:2.3:a:mozilla:firefox:*:*:*:*:esr:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "635E9A2C-BA1F-40D8-916F-E0ADDE8D21DE", "status": "Inactive", "versionEndExcluding": "128.12", "versionStartIncluding": "116.0"}

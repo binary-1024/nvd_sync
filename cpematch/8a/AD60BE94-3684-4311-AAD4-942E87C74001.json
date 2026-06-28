@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-03-22T20:02:38.157", "created": "2020-12-18T18:35:38.290", "criteria": "cpe:2.3:a:kong:kong_alpine_docker_image:*:*:*:*:*:*:*:*", "lastModified": "2020-12-18T18:35:38.290", "matchCriteriaId": "AD60BE94-3684-4311-AAD4-942E87C74001", "status": "Active", "versionEndExcluding": "1.0.2"}

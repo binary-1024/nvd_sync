@@ -1,0 +1,1 @@
+{"created": "2025-04-03T13:54:42.180", "criteria": "cpe:2.3:a:nestjs:nest:10.3.2:*:*:*:*:node.js:*:*", "lastModified": "2026-04-23T20:59:18.573", "matchCriteriaId": "658B0B8B-6764-4BC4-B04F-E75BA1996743", "matches": [{"cpeName": "cpe:2.3:a:nestjs:nest:10.3.2:*:*:*:*:node.js:*:*", "cpeNameId": "4447D097-3176-463C-9EA7-643632CDC8C7"}], "status": "Active"}

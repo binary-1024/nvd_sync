@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-04-16T17:20:11.530", "created": "2021-04-16T17:11:55.160", "criteria": "cpe:2.3:a:microsoft:vscode-pull-request-github:*:*:*:*:*:*:*:*", "lastModified": "2021-04-16T17:11:55.160", "matchCriteriaId": "4B503810-167E-427F-8A1A-20249724364E", "status": "Inactive", "versionEndExcluding": "0.25.1"}

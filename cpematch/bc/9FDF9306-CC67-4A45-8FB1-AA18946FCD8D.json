@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-06-22T15:11:59.217", "created": "2022-06-22T15:11:59.217", "criteria": "cpe:2.3:a:microsoft:azure_diagnostics:*:*:*:*:*:*:*:*", "lastModified": "2022-06-22T15:11:59.217", "matchCriteriaId": "9FDF9306-CC67-4A45-8FB1-AA18946FCD8D", "status": "Active", "versionEndExcluding": "3.0.137", "versionStartIncluding": "3.0"}

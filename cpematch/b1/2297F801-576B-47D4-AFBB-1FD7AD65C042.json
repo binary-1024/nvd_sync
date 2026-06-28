@@ -1,0 +1,1 @@
+{"cpeLastModified": "2019-09-19T16:14:09.997", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:a:corosync:corosync:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "2297F801-576B-47D4-AFBB-1FD7AD65C042", "status": "Inactive", "versionEndExcluding": "2.4.4"}

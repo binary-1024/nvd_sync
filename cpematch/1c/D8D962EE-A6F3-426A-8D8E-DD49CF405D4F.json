@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-10-23T14:55:59.033", "created": "2024-10-23T14:55:59.033", "criteria": "cpe:2.3:a:intel:software_guard_extensions_driver_and_data_center_attestation_primitives:*:*:*:*:*:*:*:*", "lastModified": "2024-10-23T14:56:51.940", "matchCriteriaId": "D8D962EE-A6F3-426A-8D8E-DD49CF405D4F", "status": "Inactive", "versionEndExcluding": "1.19.100.3"}

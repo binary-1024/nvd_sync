@@ -1,0 +1,1 @@
+{"created": "2025-08-12T21:17:10.360", "criteria": "cpe:2.3:a:google:protobuf-java:*:*:*:*:*:*:*:*", "lastModified": "2025-08-12T21:17:10.360", "matchCriteriaId": "6BEF83AD-D962-4D8C-9B58-7EE8D0CC01CB", "status": "Active", "versionEndExcluding": "4.28.2", "versionStartIncluding": "4.28.0"}

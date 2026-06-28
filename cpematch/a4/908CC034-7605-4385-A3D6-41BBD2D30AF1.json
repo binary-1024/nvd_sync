@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-02-04T11:41:30.947", "created": "2025-02-04T11:41:30.947", "criteria": "cpe:2.3:a:discourse:microsoft_authentication:*:*:*:*:*:discourse:*:*", "lastModified": "2025-02-04T11:41:30.947", "matchCriteriaId": "908CC034-7605-4385-A3D6-41BBD2D30AF1", "status": "Active", "versionEndExcluding": "2024-02-20"}

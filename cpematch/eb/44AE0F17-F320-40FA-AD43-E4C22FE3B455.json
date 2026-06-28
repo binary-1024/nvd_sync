@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-11-01T16:05:46.430", "created": "2021-11-01T16:02:50.827", "criteria": "cpe:2.3:a:f5:nginx:0.1.2:*:*:*:*:*:*:*", "lastModified": "2021-11-01T16:02:50.827", "matchCriteriaId": "44AE0F17-F320-40FA-AD43-E4C22FE3B455", "matches": [{"cpeName": "cpe:2.3:a:f5:nginx:0.1.2:*:*:*:*:*:*:*", "cpeNameId": "D8300BAC-2EB7-4AD0-9AE6-7C691872EC14"}], "status": "Active"}

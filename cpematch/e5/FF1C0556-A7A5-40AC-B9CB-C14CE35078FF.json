@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-08-30T17:12:06.203", "created": "2023-08-30T17:12:06.203", "criteria": "cpe:2.3:a:alibaba:nacos_spring_project:*:*:*:*:*:*:*:*", "lastModified": "2023-09-01T02:00:32.100", "matchCriteriaId": "FF1C0556-A7A5-40AC-B9CB-C14CE35078FF", "status": "Inactive", "versionEndIncluding": "1.1.1"}

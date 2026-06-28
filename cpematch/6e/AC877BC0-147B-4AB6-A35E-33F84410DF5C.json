@@ -1,0 +1,1 @@
+{"created": "2020-08-01T01:35:26.913", "criteria": "cpe:2.3:a:vmware:tanzu_gemfire_for_virtual_machines:*:*:*:*:*:*:*:*", "lastModified": "2020-08-01T01:35:26.913", "matchCriteriaId": "AC877BC0-147B-4AB6-A35E-33F84410DF5C", "status": "Active", "versionEndExcluding": "1.8.2", "versionStartIncluding": "1.8.0"}

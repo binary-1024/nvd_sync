@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-02-08T18:48:36.587", "created": "2021-12-22T14:49:26.557", "criteria": "cpe:2.3:a:ukg:vault-cli:*:*:*:*:*:python:*:*", "lastModified": "2021-12-22T14:49:26.557", "matchCriteriaId": "E167158E-3547-40D4-A1FE-535F652EBDCB", "status": "Inactive", "versionEndExcluding": "3.0.0", "versionStartIncluding": "0.7.0"}

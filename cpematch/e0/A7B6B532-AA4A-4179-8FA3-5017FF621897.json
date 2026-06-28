@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-04-23T12:49:08.203", "created": "2024-03-26T22:01:22.337", "criteria": "cpe:2.3:a:splunk:universal_forwarder:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "A7B6B532-AA4A-4179-8FA3-5017FF621897", "status": "Inactive", "versionEndExcluding": "9.2.12", "versionStartIncluding": "8.2.0"}

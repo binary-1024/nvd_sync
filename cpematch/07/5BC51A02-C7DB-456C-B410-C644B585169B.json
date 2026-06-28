@@ -1,0 +1,1 @@
+{"created": "2021-09-07T15:32:04.300", "criteria": "cpe:2.3:a:cyrus:imap:*:*:*:*:*:*:*:*", "lastModified": "2021-09-07T15:32:04.300", "matchCriteriaId": "5BC51A02-C7DB-456C-B410-C644B585169B", "status": "Inactive", "versionEndExcluding": "3.4.2", "versionStartIncluding": "3.3.0"}

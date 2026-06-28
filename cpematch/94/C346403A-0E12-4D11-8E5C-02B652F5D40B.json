@@ -1,0 +1,1 @@
+{"created": "2021-04-27T14:12:31.140", "criteria": "cpe:2.3:a:nvidia:nvidia_rtx\\/quadro\\,_nvs:*:*:*:*:*:windows:*:*", "lastModified": "2021-04-27T14:12:31.140", "matchCriteriaId": "C346403A-0E12-4D11-8E5C-02B652F5D40B", "status": "Inactive", "versionEndExcluding": "392.65", "versionStartIncluding": "390"}

@@ -1,0 +1,1 @@
+{"created": "2022-01-31T16:41:19.970", "criteria": "cpe:2.3:a:f5:big-ip_global_traffic_manager:*:*:*:*:*:*:*:*", "lastModified": "2022-01-31T16:41:19.970", "matchCriteriaId": "B5DABB92-F81C-4309-9B8D-84F9BF2458C7", "status": "Inactive", "versionEndExcluding": "15.1.4.1", "versionStartIncluding": "15.0.0"}

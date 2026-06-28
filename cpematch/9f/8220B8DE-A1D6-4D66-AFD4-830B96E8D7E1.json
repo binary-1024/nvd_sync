@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-08-26T13:01:11.680", "created": "2025-08-26T13:01:11.680", "criteria": "cpe:2.3:a:canonical:juju:*:*:*:*:*:go:*:*", "lastModified": "2025-08-26T13:01:11.680", "matchCriteriaId": "8220B8DE-A1D6-4D66-AFD4-830B96E8D7E1", "status": "Active", "versionEndExcluding": "3.6.8", "versionStartIncluding": "3.0.0"}

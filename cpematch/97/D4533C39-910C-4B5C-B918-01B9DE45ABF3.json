@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-08-06T10:07:46.063", "created": "2024-07-26T18:29:07.550", "criteria": "cpe:2.3:a:apache:roller:*:*:*:*:*:*:*:*", "lastModified": "2024-08-16T17:56:31.463", "matchCriteriaId": "D4533C39-910C-4B5C-B918-01B9DE45ABF3", "status": "Inactive", "versionEndIncluding": "6.1.3", "versionStartIncluding": "5.0.0"}

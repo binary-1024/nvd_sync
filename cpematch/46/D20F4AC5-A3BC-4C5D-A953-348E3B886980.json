@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-12-09T15:58:27.350", "created": "2022-12-09T15:58:27.350", "criteria": "cpe:2.3:a:redhat:build_of_quarkus:*:*:*:*:*:*:*:*", "lastModified": "2022-12-10T03:00:12.747", "matchCriteriaId": "D20F4AC5-A3BC-4C5D-A953-348E3B886980", "status": "Inactive", "versionEndExcluding": "2.14.2", "versionStartIncluding": "2.14.0"}

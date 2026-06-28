@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-09-29T02:44:53.887", "created": "2021-09-25T00:06:34.623", "criteria": "cpe:2.3:a:seatd_project:seatd:*:*:*:*:*:*:*:*", "lastModified": "2021-09-25T00:06:34.623", "matchCriteriaId": "26879439-39F6-436D-A892-6B795D2C0FF5", "status": "Active", "versionEndExcluding": "0.6.2", "versionStartIncluding": "0.6.0"}

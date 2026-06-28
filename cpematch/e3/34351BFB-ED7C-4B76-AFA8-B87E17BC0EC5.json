@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-06-21T17:50:19.730", "created": "2020-06-15T14:10:21.870", "criteria": "cpe:2.3:a:jquery:jquery_ui:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "34351BFB-ED7C-4B76-AFA8-B87E17BC0EC5", "status": "Inactive", "versionEndIncluding": "1.11.4", "versionStartIncluding": "1.10.0"}

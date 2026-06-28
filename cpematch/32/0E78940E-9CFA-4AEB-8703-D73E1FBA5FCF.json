@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-11-29T13:46:40.463", "created": "2023-11-09T20:58:20.570", "criteria": "cpe:2.3:a:bootboxjs:bootbox:*:*:*:*:*:node.js:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "0E78940E-9CFA-4AEB-8703-D73E1FBA5FCF", "status": "Inactive", "versionEndIncluding": "6.0", "versionStartIncluding": "3.2"}

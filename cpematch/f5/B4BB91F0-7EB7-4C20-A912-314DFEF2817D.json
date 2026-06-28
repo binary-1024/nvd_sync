@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-10-04T17:52:31.600", "created": "2021-10-04T15:05:34.830", "criteria": "cpe:2.3:a:canonical:multipass:*:*:*:*:*:windows:*:*", "lastModified": "2021-10-04T15:05:34.830", "matchCriteriaId": "B4BB91F0-7EB7-4C20-A912-314DFEF2817D", "status": "Active", "versionEndExcluding": "1.7.0"}

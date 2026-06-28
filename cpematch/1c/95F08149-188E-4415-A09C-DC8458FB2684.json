@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-08-04T17:28:36.327", "created": "2025-08-04T17:28:36.327", "criteria": "cpe:2.3:a:apache:zeppelin:*:-:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "95F08149-188E-4415-A09C-DC8458FB2684", "status": "Inactive", "versionEndExcluding": "0.12.0"}

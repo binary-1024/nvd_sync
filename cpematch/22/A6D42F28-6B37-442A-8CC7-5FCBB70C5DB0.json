@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-10-20T18:57:01.070", "created": "2025-10-20T18:57:01.070", "criteria": "cpe:2.3:a:ibm:sterling_b2b_integrator:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "A6D42F28-6B37-442A-8CC7-5FCBB70C5DB0", "status": "Inactive", "versionEndExcluding": "6.2.0.6", "versionStartIncluding": "6.2.0.0"}

@@ -1,0 +1,1 @@
+{"created": "2025-08-13T17:39:16.950", "criteria": "cpe:2.3:a:libssh:libssh:0.11.1:*:*:*:*:*:*:*", "lastModified": "2025-08-27T21:34:33.073", "matchCriteriaId": "8C4817DC-731C-4EA3-BF8A-FCCE4AB8AF87", "matches": [{"cpeName": "cpe:2.3:a:libssh:libssh:0.11.1:*:*:*:*:*:*:*", "cpeNameId": "AB3297BB-40CB-4D4E-B9B3-7CA6E1F75395"}], "status": "Active"}

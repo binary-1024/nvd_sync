@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-05-21T15:23:23.477", "created": "2025-05-14T20:25:40.513", "criteria": "cpe:2.3:a:citrix:netscaler_console:*:*:*:*:*:*:*:*", "lastModified": "2025-05-14T20:25:40.513", "matchCriteriaId": "2A922EC2-62D0-4877-B82F-9CB49CD97F1D", "status": "Active", "versionEndExcluding": "13.0-92.31", "versionStartIncluding": "13.0-58.30"}

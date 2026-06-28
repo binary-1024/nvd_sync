@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-08-18T13:50:45.917", "created": "2025-08-18T13:50:45.917", "criteria": "cpe:2.3:a:ibm:storage_protect_for_virtual_environments:*:*:*:*:*:*:*:*", "lastModified": "2025-08-18T13:50:45.917", "matchCriteriaId": "F7A1683C-78C7-4102-BB69-C58D2E3B7BCF", "status": "Active", "versionEndExcluding": "8.1.24.0", "versionStartIncluding": "8.1.0.0"}

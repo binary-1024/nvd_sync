@@ -1,0 +1,1 @@
+{"cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:o:ibm:aix:4.0:*:*:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "matchCriteriaId": "44C6203A-D05B-47B1-8BC2-BA021EBAFDEB", "matches": [{"cpeName": "cpe:2.3:o:ibm:aix:4.0:*:*:*:*:*:*:*", "cpeNameId": "99BD6176-7F40-43E5-872D-EEECAE56592A"}], "status": "Active"}

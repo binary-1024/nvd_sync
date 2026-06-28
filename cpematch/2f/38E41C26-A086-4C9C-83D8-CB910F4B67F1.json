@@ -1,0 +1,1 @@
+{"cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:o:hp:hp-ux:10.16:*:*:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "matchCriteriaId": "38E41C26-A086-4C9C-83D8-CB910F4B67F1", "matches": [{"cpeName": "cpe:2.3:o:hp:hp-ux:10.16:*:*:*:*:*:*:*", "cpeNameId": "DCE912D8-FB28-456A-A9D9-6003A7DFAC1C"}], "status": "Active"}

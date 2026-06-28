@@ -1,0 +1,1 @@
+{"created": "2026-03-03T19:56:36.880", "criteria": "cpe:2.3:a:bva:concierge\\:\\:sessions:*:*:*:*:*:perl:*:*", "lastModified": "2026-03-11T12:03:43.347", "matchCriteriaId": "CDB9F71D-07E7-4EF3-8C7A-BF35F9175DB9", "status": "Active", "versionEndExcluding": "0.8.5", "versionStartIncluding": "0.8.1"}

@@ -1,0 +1,1 @@
+{"created": "2025-08-15T19:15:49.043", "criteria": "cpe:2.3:a:grafana:grafana:*:*:*:*:*:*:*:*", "lastModified": "2025-08-15T19:35:49.667", "matchCriteriaId": "95F85D9F-C2F7-4850-BC8C-2AF9500E4D14", "status": "Inactive", "versionEndExcluding": "12.0.0\\+security-01", "versionStartIncluding": "12.0.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-08-06T16:12:55.327", "created": "2024-08-06T16:12:55.327", "criteria": "cpe:2.3:a:elastic:apm_server:*:*:*:*:*:*:*:*", "lastModified": "2024-08-06T16:24:42.647", "matchCriteriaId": "547B7884-EFB2-4A61-A51B-B146464B1978", "status": "Inactive", "versionEndIncluding": "8.14.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-06-25T17:05:42.970", "created": "2024-06-25T17:05:42.970", "criteria": "cpe:2.3:a:apache:rocketmq:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "4DBCE249-91D7-442A-BD1B-4C20F848EB35", "status": "Inactive", "versionEndExcluding": "4.9.7"}

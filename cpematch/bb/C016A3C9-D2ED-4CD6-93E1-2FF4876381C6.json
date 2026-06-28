@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-08-05T19:32:04.090", "created": "2020-06-04T14:44:05.797", "criteria": "cpe:2.3:a:projectcalico:calico:*:*:*:*:enterprise:*:*:*", "lastModified": "2020-06-04T14:44:05.797", "matchCriteriaId": "C016A3C9-D2ED-4CD6-93E1-2FF4876381C6", "status": "Active", "versionEndIncluding": "2.7.4", "versionStartIncluding": "2.7.0"}

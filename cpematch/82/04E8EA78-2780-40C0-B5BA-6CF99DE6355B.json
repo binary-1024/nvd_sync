@@ -1,0 +1,1 @@
+{"created": "2026-01-22T19:37:15.983", "criteria": "cpe:2.3:a:sick:enterprise_analytics:*:*:*:*:*:*:*:*", "lastModified": "2026-02-20T16:10:14.000", "matchCriteriaId": "04E8EA78-2780-40C0-B5BA-6CF99DE6355B", "matches": [{"cpeName": "cpe:2.3:a:sick:enterprise_analytics:-:*:*:*:*:*:*:*", "cpeNameId": "FD8816BA-3C5D-464E-8428-6388910D1C43"}], "status": "Active"}

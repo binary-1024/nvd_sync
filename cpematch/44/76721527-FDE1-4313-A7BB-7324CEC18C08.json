@@ -1,0 +1,1 @@
+{"created": "2025-07-10T14:52:39.213", "criteria": "cpe:2.3:a:apache:hive:4.0.0:alpha1:*:*:*:*:*:*", "lastModified": "2025-09-09T14:45:41.550", "matchCriteriaId": "76721527-FDE1-4313-A7BB-7324CEC18C08", "matches": [{"cpeName": "cpe:2.3:a:apache:hive:4.0.0:alpha1:*:*:*:*:*:*", "cpeNameId": "3CD915F1-EF54-4E23-8D46-EB89C8DCB27C"}], "status": "Active"}

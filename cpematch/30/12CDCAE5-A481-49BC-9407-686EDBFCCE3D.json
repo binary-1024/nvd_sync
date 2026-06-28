@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-08-22T15:22:14.670", "created": "2022-08-22T15:22:14.670", "criteria": "cpe:2.3:a:apache:flume:*:*:*:*:*:*:*:*", "lastModified": "2022-08-22T15:22:14.670", "matchCriteriaId": "12CDCAE5-A481-49BC-9407-686EDBFCCE3D", "status": "Inactive", "versionEndIncluding": "1.10.0", "versionStartIncluding": "1.4.0"}

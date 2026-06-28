@@ -1,0 +1,1 @@
+{"created": "2026-05-14T13:58:25.330", "criteria": "cpe:2.3:a:opentelemetry:opentelemetry-ebpf-instrumentation:*:*:*:*:*:go:*:*", "lastModified": "2026-05-14T13:58:25.330", "matchCriteriaId": "393359D8-DA8D-4329-BD65-1E4D022BC866", "status": "Active", "versionEndExcluding": "0.8.0", "versionStartIncluding": "0.4.0"}

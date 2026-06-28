@@ -1,0 +1,1 @@
+{"created": "2026-05-12T17:50:21.033", "criteria": "cpe:2.3:a:inngest:inngest-js:*:*:*:*:*:node.js:*:*", "lastModified": "2026-05-12T18:02:48.820", "matchCriteriaId": "A102F45E-EB0D-473A-B75D-25C4D8102018", "status": "Inactive", "versionEndExcluding": "3.54.0", "versionStartIncluding": "3.22.0"}

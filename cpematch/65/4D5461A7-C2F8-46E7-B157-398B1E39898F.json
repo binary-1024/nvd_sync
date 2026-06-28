@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-01-11T19:14:48.313", "created": "2024-01-11T19:14:48.313", "criteria": "cpe:2.3:a:wpengine:advanced_custom_fields:*:*:*:*:*:wordpress:*:*", "lastModified": "2024-01-12T03:00:24.187", "matchCriteriaId": "4D5461A7-C2F8-46E7-B157-398B1E39898F", "status": "Inactive", "versionEndIncluding": "6.0.2", "versionStartIncluding": "3.1.1"}

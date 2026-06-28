@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-04-06T13:18:22.030", "created": "2021-04-06T13:12:24.740", "criteria": "cpe:2.3:a:snowsoftware:snow_inventory_agent:*:*:*:*:*:*:*:*", "lastModified": "2021-04-06T13:12:24.740", "matchCriteriaId": "29722009-6730-4617-A010-56C98CC45BAB", "status": "Inactive", "versionEndIncluding": "6.7.0", "versionStartIncluding": "5.3.1"}

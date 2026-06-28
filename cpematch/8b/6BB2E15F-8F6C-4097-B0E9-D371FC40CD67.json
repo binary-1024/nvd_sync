@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-11-15T15:47:57.973", "created": "2022-11-14T14:09:07.283", "criteria": "cpe:2.3:a:hashicorp:nomad:*:*:*:*:enterprise:*:*:*", "lastModified": "2022-11-16T03:00:13.270", "matchCriteriaId": "6BB2E15F-8F6C-4097-B0E9-D371FC40CD67", "status": "Inactive", "versionEndExcluding": "1.4.2", "versionStartIncluding": "1.4.0"}

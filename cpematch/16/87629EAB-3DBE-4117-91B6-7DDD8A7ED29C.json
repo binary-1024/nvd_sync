@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-08-29T20:24:20.297", "created": "2024-08-29T20:24:20.297", "criteria": "cpe:2.3:a:couchbase:couchbase_server:*:*:*:*:*:*:*:*", "lastModified": "2024-09-20T02:00:25.750", "matchCriteriaId": "87629EAB-3DBE-4117-91B6-7DDD8A7ED29C", "status": "Inactive", "versionEndIncluding": "7.2.5", "versionStartIncluding": "6.0.0"}

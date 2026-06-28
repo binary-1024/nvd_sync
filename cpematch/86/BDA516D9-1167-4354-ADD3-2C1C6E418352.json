@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-07-22T17:19:39.040", "created": "2020-04-03T14:26:17.157", "criteria": "cpe:2.3:a:apache:solr:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "BDA516D9-1167-4354-ADD3-2C1C6E418352", "status": "Inactive", "versionEndExcluding": "7.7.0"}

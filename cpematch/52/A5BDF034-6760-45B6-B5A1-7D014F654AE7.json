@@ -1,0 +1,1 @@
+{"created": "2025-12-03T19:34:52.580", "criteria": "cpe:2.3:a:simple_oauth_\\(oauth2\\)_\\&_openid_connect_project:simple_oauth_\\(oauth2\\)_\\&_openid_connect:*:*:*:*:*:drupal:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "A5BDF034-6760-45B6-B5A1-7D014F654AE7", "status": "Inactive", "versionEndExcluding": "6.0.7", "versionStartIncluding": "6.0.0"}

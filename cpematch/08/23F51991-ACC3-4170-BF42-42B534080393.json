@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-11-09T18:44:20.327", "created": "2022-11-09T18:44:20.327", "criteria": "cpe:2.3:o:citrix:application_delivery_controller_firmware:*:*:*:*:*:*:*:*", "lastModified": "2022-11-10T03:00:51.317", "matchCriteriaId": "23F51991-ACC3-4170-BF42-42B534080393", "status": "Inactive", "versionEndExcluding": "12.1-65.21", "versionStartIncluding": "12.1"}

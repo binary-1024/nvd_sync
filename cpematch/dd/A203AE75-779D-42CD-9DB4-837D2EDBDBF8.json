@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-04-25T17:26:49.320", "created": "2022-04-25T12:53:11.183", "criteria": "cpe:2.3:a:cisco:aironet_access_point_software:*:*:*:*:*:*:*:*", "lastModified": "2022-04-25T12:53:11.183", "matchCriteriaId": "A203AE75-779D-42CD-9DB4-837D2EDBDBF8", "status": "Active", "versionEndExcluding": "17.3.4", "versionStartIncluding": "17.3"}

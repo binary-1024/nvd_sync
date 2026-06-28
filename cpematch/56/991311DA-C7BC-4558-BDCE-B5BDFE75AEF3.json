@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-02-26T03:47:08.163", "created": "2022-02-26T02:47:23.613", "criteria": "cpe:2.3:a:redhat:vscode-xml:*:*:*:*:*:*:*:*", "lastModified": "2022-02-26T02:47:23.613", "matchCriteriaId": "991311DA-C7BC-4558-BDCE-B5BDFE75AEF3", "status": "Active", "versionEndExcluding": "0.19.0"}

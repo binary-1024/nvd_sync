@@ -1,0 +1,1 @@
+{"cpeLastModified": "2019-11-06T21:47:05.393", "created": "2019-11-06T20:49:49.117", "criteria": "cpe:2.3:a:redhat:ovirt-engine:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "88C5E16C-A943-4A3E-A085-34BAD86703C8", "status": "Inactive", "versionEndIncluding": "4.1.9", "versionStartIncluding": "4.1.0"}

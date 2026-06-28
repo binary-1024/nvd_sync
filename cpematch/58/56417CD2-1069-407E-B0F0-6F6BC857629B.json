@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-03-30T13:15:54.190", "created": "2020-07-06T15:33:35.367", "criteria": "cpe:2.3:a:atlassian:jira_software_data_center:*:*:*:*:*:*:*:*", "lastModified": "2020-07-06T15:33:35.367", "matchCriteriaId": "56417CD2-1069-407E-B0F0-6F6BC857629B", "status": "Inactive", "versionEndExcluding": "8.4.2", "versionStartIncluding": "8.0.0"}

@@ -1,0 +1,1 @@
+{"created": "2025-08-06T15:10:44.147", "criteria": "cpe:2.3:a:debian:matplotlib:*:*:*:*:*:*:*:*", "lastModified": "2025-08-06T15:10:44.147", "matchCriteriaId": "C5BE67F1-DCCC-4FA3-BEBD-9FF0C479F4A0", "status": "Active", "versionEndExcluding": "1.4.2-3.1", "versionStartIncluding": "0.99.3-1"}

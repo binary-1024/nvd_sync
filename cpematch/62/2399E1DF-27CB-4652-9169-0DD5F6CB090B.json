@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-01-26T15:05:18.430", "created": "2024-01-26T15:05:18.430", "criteria": "cpe:2.3:a:owasp:dependency-check:*:*:*:*:*:ant:*:*", "lastModified": "2024-01-27T03:00:48.357", "matchCriteriaId": "2399E1DF-27CB-4652-9169-0DD5F6CB090B", "status": "Inactive", "versionEndExcluding": "9.0.5", "versionStartIncluding": "9.0.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-08-01T19:45:00.433", "created": "2024-08-01T19:45:00.433", "criteria": "cpe:2.3:a:ibm:openbmc:*:*:*:*:*:*:*:*", "lastModified": "2024-08-06T18:09:27.340", "matchCriteriaId": "04CE2AE6-6B76-46AC-A9D2-51FE92F63958", "status": "Inactive", "versionEndIncluding": "fw1050.10", "versionStartIncluding": "fw1050.00"}

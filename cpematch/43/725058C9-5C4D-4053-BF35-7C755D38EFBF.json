@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-04-19T13:26:35.143", "created": "2021-04-19T13:14:00.980", "criteria": "cpe:2.3:a:mongodb:mongodb_database_tools:*:*:*:*:*:*:*:*", "lastModified": "2021-04-19T13:14:00.980", "matchCriteriaId": "725058C9-5C4D-4053-BF35-7C755D38EFBF", "status": "Inactive", "versionEndExcluding": "100.2.0", "versionStartIncluding": "100"}

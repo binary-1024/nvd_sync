@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-04-08T13:26:51.590", "created": "2022-04-08T10:04:03.107", "criteria": "cpe:2.3:a:vmware:identity_manager:*:*:*:*:*:*:*:*", "lastModified": "2022-04-08T10:04:03.107", "matchCriteriaId": "3E3B9494-7DE3-4934-A615-E66305058C41", "status": "Active", "versionEndExcluding": "2.7", "versionStartIncluding": "2.0"}

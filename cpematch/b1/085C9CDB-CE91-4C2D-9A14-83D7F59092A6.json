@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-12-12T02:23:37.960", "created": "2022-12-12T02:23:37.960", "criteria": "cpe:2.3:a:symantec:messaging_gateway:*:*:*:*:*:*:*:*", "lastModified": "2022-12-12T03:00:11.487", "matchCriteriaId": "085C9CDB-CE91-4C2D-9A14-83D7F59092A6", "status": "Inactive", "versionEndIncluding": "10.7.13", "versionStartIncluding": "10.7.4"}

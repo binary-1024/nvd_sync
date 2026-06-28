@@ -1,0 +1,1 @@
+{"created": "2026-03-16T18:59:27.153", "criteria": "cpe:2.3:h:intel:core_ultra_9_275hx:-:*:*:*:*:*:*:*", "lastModified": "2026-03-17T13:44:40.553", "matchCriteriaId": "201705D5-543B-4D43-BD3C-440375957B2F", "matches": [{"cpeName": "cpe:2.3:h:intel:core_ultra_9_275hx:-:*:*:*:*:*:*:*", "cpeNameId": "39066074-5BB1-49B6-AB2B-9EDFB3E97D30"}], "status": "Active"}

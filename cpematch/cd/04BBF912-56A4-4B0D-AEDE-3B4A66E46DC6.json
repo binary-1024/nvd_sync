@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-08-27T12:56:23.363", "created": "2021-05-18T17:16:12.707", "criteria": "cpe:2.3:o:cisco:vedge_100wm_firmware:*:*:*:*:*:*:*:*", "lastModified": "2021-05-18T17:16:12.707", "matchCriteriaId": "04BBF912-56A4-4B0D-AEDE-3B4A66E46DC6", "status": "Active", "versionEndExcluding": "20.3.1", "versionStartIncluding": "20.3"}

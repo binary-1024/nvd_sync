@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-08-02T16:35:23.960", "created": "2022-11-02T20:18:03.657", "criteria": "cpe:2.3:a:sudo_project:sudo:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "67208E7C-3D2B-4062-9017-4C11CD60CB4D", "status": "Inactive", "versionEndIncluding": "1.9.12", "versionStartIncluding": "1.8.0"}

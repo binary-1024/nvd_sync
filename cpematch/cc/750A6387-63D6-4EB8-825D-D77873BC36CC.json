@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-01-22T18:38:01.037", "created": "2024-01-22T18:38:01.037", "criteria": "cpe:2.3:a:clerk:javascript:*:*:*:*:*:node.js:*:*", "lastModified": "2024-01-22T18:38:01.037", "matchCriteriaId": "750A6387-63D6-4EB8-825D-D77873BC36CC", "status": "Active", "versionEndExcluding": "4.29.3", "versionStartIncluding": "4.7.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-09-22T16:26:15.523", "created": "2023-09-22T16:26:15.523", "criteria": "cpe:2.3:a:ibm:robotic_process_automation:*:*:*:*:*:cloud_pak:*:*", "lastModified": "2023-09-22T16:26:15.523", "matchCriteriaId": "8FA1BB25-0D07-4870-B141-8AA1AB449A99", "status": "Active", "versionEndIncluding": "21.0.7.8", "versionStartIncluding": "21.0.0"}

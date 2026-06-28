@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-11-19T18:47:03.600", "created": "2025-11-19T18:47:03.600", "criteria": "cpe:2.3:a:desktopalert:pingalert_application_server:*:*:*:*:*:*:*:*", "lastModified": "2025-11-19T18:47:03.600", "matchCriteriaId": "35DFA98A-F509-4F93-99A3-807C4B6548A2", "status": "Active", "versionEndExcluding": "6.1.1.5", "versionStartIncluding": "6.1.0.11"}

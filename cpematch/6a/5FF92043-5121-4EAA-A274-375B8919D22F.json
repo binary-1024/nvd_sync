@@ -1,0 +1,1 @@
+{"created": "2025-11-24T20:56:08.130", "criteria": "cpe:2.3:a:astro:astro:*:*:*:*:*:node.js:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "5FF92043-5121-4EAA-A274-375B8919D22F", "status": "Inactive", "versionEndExcluding": "12.6.6", "versionStartIncluding": "11.0.3"}

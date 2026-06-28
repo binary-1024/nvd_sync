@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-09-11T19:26:20.370", "created": "2024-09-11T19:26:20.370", "criteria": "cpe:2.3:a:hitachi:business_analytics_server:*:*:*:*:*:*:*:*", "lastModified": "2024-09-11T19:26:20.370", "matchCriteriaId": "7648F088-BF64-4A98-9CE5-9D5AD2B740CE", "status": "Active", "versionEndExcluding": "10.1.0.0", "versionStartIncluding": "9.3.1.0"}

@@ -1,0 +1,1 @@
+{"created": "2025-12-02T21:15:05.000", "criteria": "cpe:2.3:a:ibm:jazz_foundation:7.0.2:ifix011:*:*:*:*:*:*", "lastModified": "2025-12-03T17:42:58.417", "matchCriteriaId": "D5CAE940-F815-472B-AFA7-9E25D04BC519", "matches": [{"cpeName": "cpe:2.3:a:ibm:jazz_foundation:7.0.2:ifix011:*:*:*:*:*:*", "cpeNameId": "6414B045-A0E3-4AAD-B4A1-5DC76D85B314"}], "status": "Active"}

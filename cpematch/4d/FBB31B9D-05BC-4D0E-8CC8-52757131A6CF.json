@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-06-28T12:28:48.520", "created": "2021-06-28T12:20:26.497", "criteria": "cpe:2.3:h:intel:c626:-:*:*:*:*:*:*:*", "lastModified": "2022-06-09T16:00:24.203", "matchCriteriaId": "FBB31B9D-05BC-4D0E-8CC8-52757131A6CF", "matches": [{"cpeName": "cpe:2.3:h:intel:c626:-:*:*:*:*:*:*:*", "cpeNameId": "3BF7BE7C-EF54-4CCD-A215-6249DEFE86C6"}], "status": "Active"}

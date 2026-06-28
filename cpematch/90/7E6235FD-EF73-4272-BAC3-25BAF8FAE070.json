@@ -1,0 +1,1 @@
+{"created": "2026-01-05T18:53:38.983", "criteria": "cpe:2.3:a:golang:go:*:*:*:*:*:visual_studio:*:*", "lastModified": "2026-01-05T18:53:38.983", "matchCriteriaId": "7E6235FD-EF73-4272-BAC3-25BAF8FAE070", "status": "Active", "versionEndExcluding": "0.52.1"}

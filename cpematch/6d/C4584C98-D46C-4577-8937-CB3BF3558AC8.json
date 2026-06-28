@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-11-14T13:38:17.043", "created": "2024-11-14T13:38:17.043", "criteria": "cpe:2.3:a:microsoft:sql_server_2017:*:*:*:*:*:*:*:*", "lastModified": "2024-11-15T03:01:05.753", "matchCriteriaId": "C4584C98-D46C-4577-8937-CB3BF3558AC8", "status": "Inactive", "versionEndExcluding": "14.0.2070.1", "versionStartIncluding": "14.0.1000.169"}

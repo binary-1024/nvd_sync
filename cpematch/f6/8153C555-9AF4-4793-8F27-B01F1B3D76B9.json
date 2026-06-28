@@ -1,0 +1,1 @@
+{"created": "2025-08-01T18:49:08.210", "criteria": "cpe:2.3:h:cisco:8101-32h-o:-:*:*:*:*:*:*:*", "lastModified": "2025-08-08T18:51:25.227", "matchCriteriaId": "8153C555-9AF4-4793-8F27-B01F1B3D76B9", "matches": [{"cpeName": "cpe:2.3:h:cisco:8101-32h-o:-:*:*:*:*:*:*:*", "cpeNameId": "FF30601B-78EF-4442-A376-A9B7981FA00E"}], "status": "Active"}

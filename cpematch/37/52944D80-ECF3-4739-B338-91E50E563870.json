@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-05-13T23:03:23.760", "created": "2022-05-13T23:03:23.760", "criteria": "cpe:2.3:a:mozilla:hawk:*:*:*:*:*:node.js:*:*", "lastModified": "2022-05-13T23:03:23.760", "matchCriteriaId": "52944D80-ECF3-4739-B338-91E50E563870", "status": "Active", "versionEndExcluding": "9.0.1"}

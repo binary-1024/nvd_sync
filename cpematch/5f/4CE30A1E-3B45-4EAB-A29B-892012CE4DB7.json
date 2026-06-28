@@ -1,0 +1,1 @@
+{"created": "2025-06-25T11:58:05.210", "criteria": "cpe:2.3:a:egoist:tsup:8.3.4:*:*:*:*:node.js:*:*", "lastModified": "2025-08-22T13:55:01.750", "matchCriteriaId": "4CE30A1E-3B45-4EAB-A29B-892012CE4DB7", "matches": [{"cpeName": "cpe:2.3:a:egoist:tsup:8.3.4:*:*:*:*:node.js:*:*", "cpeNameId": "A45C934E-6810-4ACC-9112-B64FC8316379"}], "status": "Active"}

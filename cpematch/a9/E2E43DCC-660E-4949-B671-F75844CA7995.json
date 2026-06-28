@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-06-24T14:03:10.453", "created": "2022-06-24T14:03:10.453", "criteria": "cpe:2.3:a:1password:1password:*:*:*:*:*:android:*:*", "lastModified": "2022-06-24T14:03:10.453", "matchCriteriaId": "E2E43DCC-660E-4949-B671-F75844CA7995", "status": "Active", "versionEndExcluding": "8.8.0-104", "versionStartIncluding": "8.0"}

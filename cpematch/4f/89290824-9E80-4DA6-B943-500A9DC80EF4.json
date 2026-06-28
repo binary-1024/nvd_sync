@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-08-27T12:56:23.363", "created": "2021-05-18T17:09:03.133", "criteria": "cpe:2.3:o:cisco:vsmart_controller_firmware:*:*:*:*:*:*:*:*", "lastModified": "2021-05-18T17:09:03.133", "matchCriteriaId": "89290824-9E80-4DA6-B943-500A9DC80EF4", "status": "Active", "versionEndExcluding": "20.3.1", "versionStartIncluding": "20.3"}

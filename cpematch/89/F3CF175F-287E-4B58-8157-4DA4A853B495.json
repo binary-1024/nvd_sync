@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-06-10T13:24:06.173", "created": "2025-06-05T15:00:47.153", "criteria": "cpe:2.3:a:vmware:spring_framework:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "F3CF175F-287E-4B58-8157-4DA4A853B495", "status": "Inactive", "versionEndExcluding": "5.3.39"}

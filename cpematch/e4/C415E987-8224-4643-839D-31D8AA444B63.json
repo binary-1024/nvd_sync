@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-10-01T22:15:59.300", "created": "2025-10-01T22:15:59.300", "criteria": "cpe:2.3:o:ami:aptio_v:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "C415E987-8224-4643-839D-31D8AA444B63", "status": "Inactive", "versionEndExcluding": "5.38", "versionStartIncluding": "5.0"}

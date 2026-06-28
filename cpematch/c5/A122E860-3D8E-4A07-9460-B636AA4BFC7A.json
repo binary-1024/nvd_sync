@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-04-07T20:30:54.500", "created": "2026-04-07T20:30:54.500", "criteria": "cpe:2.3:a:freedesktop:libinput:*:*:*:*:*:*:*:*", "lastModified": "2026-04-07T20:30:54.500", "matchCriteriaId": "A122E860-3D8E-4A07-9460-B636AA4BFC7A", "status": "Active", "versionEndExcluding": "1.31.1", "versionStartIncluding": "1.30.4"}

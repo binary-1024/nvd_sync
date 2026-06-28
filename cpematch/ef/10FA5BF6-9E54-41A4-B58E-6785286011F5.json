@@ -1,0 +1,1 @@
+{"cpeLastModified": "2020-12-07T13:45:39.697", "created": "2019-12-02T19:48:26.250", "criteria": "cpe:2.3:a:infinispan:infinispan:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "10FA5BF6-9E54-41A4-B58E-6785286011F5", "status": "Inactive", "versionEndExcluding": "9.4.17"}

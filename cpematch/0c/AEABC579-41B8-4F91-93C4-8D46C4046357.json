@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-07-26T16:23:36.577", "created": "2022-07-26T16:23:36.577", "criteria": "cpe:2.3:o:ibm:powervm_hypervisor:*:*:*:*:*:*:*:*", "lastModified": "2022-07-26T16:23:36.577", "matchCriteriaId": "AEABC579-41B8-4F91-93C4-8D46C4046357", "status": "Inactive", "versionEndIncluding": "fw1010.32", "versionStartIncluding": "fw1010"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-12-08T16:34:06.773", "created": "2021-12-08T03:29:08.123", "criteria": "cpe:2.3:a:nomachine:enterprise_desktop:*:*:*:*:*:*:*:*", "lastModified": "2021-12-08T03:29:08.123", "matchCriteriaId": "D9ABAFE6-1C7A-4FD9-9BAD-49189463AD91", "status": "Active", "versionEndExcluding": "7.7.4", "versionStartExcluding": "4.0.346"}

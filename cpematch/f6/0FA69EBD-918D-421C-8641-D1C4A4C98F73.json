@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-05-28T18:18:12.253", "created": "2026-05-28T18:18:12.253", "criteria": "cpe:2.3:a:clerk:clerk\\/nuxt:*:*:*:*:*:node.js:*:*", "lastModified": "2026-05-28T18:21:29.680", "matchCriteriaId": "0FA69EBD-918D-421C-8641-D1C4A4C98F73", "status": "Inactive", "versionEndIncluding": "2.2.5", "versionStartIncluding": "2.0.0"}

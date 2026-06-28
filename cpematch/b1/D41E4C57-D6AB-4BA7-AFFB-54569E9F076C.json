@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-12-12T16:19:16.697", "created": "2022-12-12T15:12:47.030", "criteria": "cpe:2.3:a:podman_project:podman:*:*:*:*:*:*:*:*", "lastModified": "2022-12-12T16:19:16.697", "matchCriteriaId": "D41E4C57-D6AB-4BA7-AFFB-54569E9F076C", "status": "Inactive", "versionEndIncluding": "4.3.0", "versionStartExcluding": "4.1.1"}

@@ -1,0 +1,1 @@
+{"created": "2025-08-01T15:43:30.210", "criteria": "cpe:2.3:o:tenda:ac20_firmware:16.03.08.05:*:*:*:*:*:*:*", "lastModified": "2025-08-28T19:04:21.097", "matchCriteriaId": "20252F65-03D8-483A-965E-AFBB52A141D9", "matches": [{"cpeName": "cpe:2.3:o:tenda:ac20_firmware:16.03.08.05:*:*:*:*:*:*:*", "cpeNameId": "32C1A75D-3327-47B3-97DC-3FD53049498F"}], "status": "Active"}

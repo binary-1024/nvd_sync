@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-11-15T15:27:48.713", "created": "2021-11-12T14:54:37.707", "criteria": "cpe:2.3:o:cisco:sg500x-24mpp_firmware:*:*:*:*:*:*:*:*", "lastModified": "2021-11-12T14:54:37.707", "matchCriteriaId": "F46BA126-9008-41B3-9486-E9DFF572C1B6", "status": "Active", "versionEndExcluding": "2.5.8.12", "versionStartIncluding": "2.5.5.0"}

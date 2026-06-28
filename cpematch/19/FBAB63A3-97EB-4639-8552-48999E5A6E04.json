@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-11-27T15:33:42.403", "created": "2023-11-17T20:45:19.917", "criteria": "cpe:2.3:a:siemens:medix:*:*:*:*:*:*:*:*", "lastModified": "2023-11-17T20:45:19.917", "matchCriteriaId": "FBAB63A3-97EB-4639-8552-48999E5A6E04", "status": "Active", "versionEndExcluding": "9.24.10", "versionStartIncluding": "9.0.0"}

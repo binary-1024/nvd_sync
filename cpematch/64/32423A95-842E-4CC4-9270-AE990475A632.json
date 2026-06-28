@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-10-11T18:17:55.093", "created": "2024-10-11T18:17:55.093", "criteria": "cpe:2.3:a:dell:emc_appsync:*:*:*:*:*:*:*:*", "lastModified": "2024-10-18T02:00:28.370", "matchCriteriaId": "32423A95-842E-4CC4-9270-AE990475A632", "status": "Inactive", "versionEndIncluding": "4.6.0.0", "versionStartIncluding": "4.3.0.0"}

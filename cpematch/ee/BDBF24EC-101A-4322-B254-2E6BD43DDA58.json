@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-08-25T14:47:50.140", "created": "2025-08-25T14:47:50.140", "criteria": "cpe:2.3:a:discourse:discourse:*:-:*:*:tests-passed:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "BDBF24EC-101A-4322-B254-2E6BD43DDA58", "status": "Inactive", "versionEndExcluding": "3.5.0"}

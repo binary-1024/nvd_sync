@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-11-22T18:35:24.113", "created": "2022-11-22T18:35:24.113", "criteria": "cpe:2.3:a:python:python:*:*:*:*:*:*:*:*", "lastModified": "2022-11-29T03:00:11.273", "matchCriteriaId": "6C306EC3-C791-4010-A638-F0A820EEB41B", "status": "Inactive", "versionEndExcluding": "3.7.15", "versionStartIncluding": "3.7.0"}

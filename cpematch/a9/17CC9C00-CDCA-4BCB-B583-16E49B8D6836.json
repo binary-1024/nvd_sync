@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-06-27T13:41:36.617", "created": "2022-06-27T13:41:36.617", "criteria": "cpe:2.3:o:realtek:rtl8153_firmware:*:*:*:*:*:*:*:*", "lastModified": "2022-06-27T13:41:36.617", "matchCriteriaId": "17CC9C00-CDCA-4BCB-B583-16E49B8D6836", "status": "Inactive", "versionEndExcluding": "10.50", "versionStartIncluding": "7.42"}

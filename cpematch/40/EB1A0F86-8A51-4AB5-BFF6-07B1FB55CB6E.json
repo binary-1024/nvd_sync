@@ -1,0 +1,1 @@
+{"cpeLastModified": "2020-10-28T18:33:58.177", "created": "2020-10-26T19:24:23.337", "criteria": "cpe:2.3:a:mozilla:network_security_services:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "EB1A0F86-8A51-4AB5-BFF6-07B1FB55CB6E", "status": "Inactive", "versionEndExcluding": "3.41.1", "versionStartIncluding": "3.40.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-01-11T20:26:27.240", "created": "2022-01-11T20:09:59.180", "criteria": "cpe:2.3:a:qt:qtsvg:*:*:*:*:*:*:*:*", "lastModified": "2022-01-11T20:09:59.180", "matchCriteriaId": "23718B27-5A94-439F-88A2-65A53C21C995", "status": "Active", "versionEndIncluding": "5.15.2", "versionStartIncluding": "5.0.0"}

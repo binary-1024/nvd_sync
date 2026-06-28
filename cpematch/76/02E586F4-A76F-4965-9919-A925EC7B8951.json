@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-09-20T16:47:38.410", "created": "2022-09-20T16:47:38.410", "criteria": "cpe:2.3:a:forgerock:ldap_connector:*:*:*:*:*:*:*:*", "lastModified": "2022-09-20T16:47:38.410", "matchCriteriaId": "02E586F4-A76F-4965-9919-A925EC7B8951", "status": "Active", "versionEndExcluding": "1.5.20.9"}

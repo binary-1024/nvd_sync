@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-03-16T15:17:36.687", "created": "2021-03-16T15:17:36.687", "criteria": "cpe:2.3:a:vestacp:vesta_control_panel:*:*:*:*:*:*:*:*", "lastModified": "2021-03-16T15:17:36.687", "matchCriteriaId": "EACE6D8C-A529-46DB-82BB-511260FB4DA0", "status": "Inactive", "versionEndIncluding": "0.9.8-26-39", "versionStartIncluding": "0.9.8-1"}

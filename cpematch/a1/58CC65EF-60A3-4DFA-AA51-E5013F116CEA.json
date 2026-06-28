@@ -1,0 +1,1 @@
+{"created": "2025-09-12T18:27:22.837", "criteria": "cpe:2.3:a:adobe:coldfusion:2023:update15:*:*:*:*:*:*", "lastModified": "2025-09-12T18:54:20.227", "matchCriteriaId": "58CC65EF-60A3-4DFA-AA51-E5013F116CEA", "matches": [{"cpeName": "cpe:2.3:a:adobe:coldfusion:2023:update15:*:*:*:*:*:*", "cpeNameId": "99EC7E65-896D-457C-8CF0-CF4F76491995"}], "status": "Active"}

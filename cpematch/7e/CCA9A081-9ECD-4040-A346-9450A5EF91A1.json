@@ -1,0 +1,1 @@
+{"created": "2025-11-24T16:01:12.707", "criteria": "cpe:2.3:a:admerc:file_management_system:1.0.0:*:*:*:*:*:*:*", "lastModified": "2026-06-24T18:07:56.387", "matchCriteriaId": "CCA9A081-9ECD-4040-A346-9450A5EF91A1", "matches": [{"cpeName": "cpe:2.3:a:admerc:file_management_system:1.0.0:*:*:*:*:*:*:*", "cpeNameId": "8AE62B22-3547-4DF6-8F0D-6847601FA40D"}], "status": "Active"}

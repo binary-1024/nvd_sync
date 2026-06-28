@@ -1,0 +1,1 @@
+{"cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:a:gnu:wget:1.11:*:*:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "matchCriteriaId": "C40562DA-2B50-4B30-B0D8-B62913FCC680", "matches": [{"cpeName": "cpe:2.3:a:gnu:wget:1.11:*:*:*:*:*:*:*", "cpeNameId": "807B59B7-725D-433D-A938-3C233BC57415"}], "status": "Active"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-02-04T15:07:21.013", "created": "2025-02-04T14:22:27.987", "criteria": "cpe:2.3:a:kurrent:eventstoredb:*:*:*:*:*:*:*:*", "lastModified": "2025-02-05T03:00:26.307", "matchCriteriaId": "59FC6323-F5B4-4BF0-A788-E5155965AE60", "status": "Inactive", "versionEndExcluding": "22.10.5", "versionStartIncluding": "22.10.0"}

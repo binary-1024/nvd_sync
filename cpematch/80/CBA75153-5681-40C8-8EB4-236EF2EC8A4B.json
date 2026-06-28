@@ -1,0 +1,1 @@
+{"created": "2026-04-27T08:05:08.780", "criteria": "cpe:2.3:a:ibm:guardium_data_protection:12.2:*:*:*:*:*:*:*", "lastModified": "2026-06-18T14:52:10.650", "matchCriteriaId": "CBA75153-5681-40C8-8EB4-236EF2EC8A4B", "matches": [{"cpeName": "cpe:2.3:a:ibm:guardium_data_protection:12.2:*:*:*:*:*:*:*", "cpeNameId": "EBBF07C8-E10D-4B03-9C1B-2E1528B9B394"}], "status": "Active"}

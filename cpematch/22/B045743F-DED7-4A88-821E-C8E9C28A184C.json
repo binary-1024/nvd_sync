@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-08-14T14:31:41.670", "created": "2025-08-14T14:31:41.670", "criteria": "cpe:2.3:a:zihanggao:php-jwt:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "B045743F-DED7-4A88-821E-C8E9C28A184C", "status": "Inactive", "versionEndIncluding": "6.11.0"}

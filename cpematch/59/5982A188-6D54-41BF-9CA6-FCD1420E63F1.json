@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-06-16T13:40:20.140", "created": "2026-06-16T13:40:20.140", "criteria": "cpe:2.3:a:dalibo:anonymizer:*:*:*:*:*:postgresql:*:*", "lastModified": "2026-06-16T13:40:20.140", "matchCriteriaId": "5982A188-6D54-41BF-9CA6-FCD1420E63F1", "status": "Active", "versionEndExcluding": "3.1.1"}

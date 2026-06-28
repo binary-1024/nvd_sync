@@ -1,0 +1,1 @@
+{"created": "2025-08-12T19:19:47.363", "criteria": "cpe:2.3:a:ibm:tivoli_monitoring:6.3.0.7:sp18:*:*:*:*:*:*", "lastModified": "2025-08-28T21:28:15.737", "matchCriteriaId": "6993220C-C737-4876-8E52-1C0CB9F109A5", "matches": [{"cpeName": "cpe:2.3:a:ibm:tivoli_monitoring:6.3.0.7:sp18:*:*:*:*:*:*", "cpeNameId": "E41D0134-8933-4D0C-936C-88DCFE3A1EE2"}], "status": "Active"}

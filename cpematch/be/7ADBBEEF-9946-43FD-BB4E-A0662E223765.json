@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-08-17T14:31:09.157", "created": "2023-08-17T14:31:09.157", "criteria": "cpe:2.3:a:intel:ispc_software_installer:*:*:*:*:*:windows:*:*", "lastModified": "2023-08-17T14:31:09.157", "matchCriteriaId": "7ADBBEEF-9946-43FD-BB4E-A0662E223765", "status": "Active", "versionEndExcluding": "1.19.0"}

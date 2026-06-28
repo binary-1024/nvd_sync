@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-06-16T14:44:49.973", "created": "2026-06-16T14:44:49.973", "criteria": "cpe:2.3:a:f5:nginx:*:*:*:*:plus:*:*:*", "lastModified": "2026-06-16T14:44:49.973", "matchCriteriaId": "EA51EBD8-9075-4BC5-AD77-310D7575EE69", "status": "Active", "versionEndExcluding": "37.0.1.1", "versionStartIncluding": "37.0.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-01-26T10:21:45.263", "created": "2026-01-26T10:21:45.263", "criteria": "cpe:2.3:a:ruckus:vriot_iot_controller_firmware:*:*:*:*:*:*:*:*", "lastModified": "2026-01-26T10:21:45.263", "matchCriteriaId": "C13025E3-5387-442B-A370-00C5D51C6A9A", "status": "Active", "versionEndExcluding": "3.0.0_GA"}

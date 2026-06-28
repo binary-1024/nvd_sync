@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-08-26T19:07:21.437", "created": "2021-08-26T16:22:31.297", "criteria": "cpe:2.3:o:netmodule:nb3711_firmware:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "C8DD0B35-A9ED-40EE-99A7-D1E521715B15", "status": "Inactive", "versionEndExcluding": "4.4.0.111", "versionStartIncluding": "4.4.0.0"}

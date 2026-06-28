@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-01-08T20:04:32.800", "created": "2026-01-08T20:04:32.800", "criteria": "cpe:2.3:a:openjsf:express:*:*:*:*:*:node.js:*:*", "lastModified": "2026-01-08T20:05:29.163", "matchCriteriaId": "F55FF0EE-448F-4D97-9A1C-7D749B95C1CB", "status": "Inactive", "versionEndExcluding": "3.21.5"}

@@ -1,0 +1,1 @@
+{"created": "2025-07-23T11:03:39.057", "criteria": "cpe:2.3:a:google:protobuf-javalite:3.25.5:*:*:*:*:*:*:*", "lastModified": "2025-08-21T20:54:01.890", "matchCriteriaId": "3682481F-3362-43C5-A4C1-2E109DB40142", "matches": [{"cpeName": "cpe:2.3:a:google:protobuf-javalite:3.25.5:*:*:*:*:*:*:*", "cpeNameId": "1001FF69-1969-4E4B-A74E-31ACD1EA0801"}], "status": "Active"}

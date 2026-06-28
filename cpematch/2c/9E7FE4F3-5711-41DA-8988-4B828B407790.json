@@ -1,0 +1,1 @@
+{"created": "2020-10-19T15:03:47.097", "criteria": "cpe:2.3:a:zeit:next.js:*:*:*:*:*:node.js:*:*", "lastModified": "2020-10-19T15:03:47.097", "matchCriteriaId": "9E7FE4F3-5711-41DA-8988-4B828B407790", "status": "Active", "versionEndExcluding": "9.5.4", "versionStartIncluding": "9.5.0"}

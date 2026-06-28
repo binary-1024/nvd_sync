@@ -1,0 +1,1 @@
+{"cpeLastModified": "2020-03-04T22:01:34.240", "created": "2020-03-04T13:38:40.980", "criteria": "cpe:2.3:a:gnupg:gpgme:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "D8221AC4-7082-440F-A90E-953CE952C1C9", "status": "Inactive", "versionEndExcluding": "0.1.1"}

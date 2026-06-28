@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-09-20T12:24:01.763", "created": "2024-09-20T12:24:01.763", "criteria": "cpe:2.3:a:fortinet:forticlient_enterprise_management_server:*:*:*:*:*:*:*:*", "lastModified": "2024-09-21T02:00:30.480", "matchCriteriaId": "E466E9BD-AEDB-4F48-8B18-973B8B91598F", "status": "Inactive", "versionEndIncluding": "7.0.13", "versionStartIncluding": "7.0.0"}

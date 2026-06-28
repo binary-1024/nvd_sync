@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-04-03T12:49:18.470", "created": "2025-04-02T17:52:24.333", "criteria": "cpe:2.3:a:zimbra:collaboration:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "B7A59D9D-6B4E-4A2B-B3F7-9386C3972A53", "status": "Inactive", "versionEndExcluding": "10.1.5", "versionStartIncluding": "10.1.0"}

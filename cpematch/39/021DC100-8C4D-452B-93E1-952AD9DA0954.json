@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-02-01T15:16:56.847", "created": "2022-02-01T14:39:03.233", "criteria": "cpe:2.3:o:siemens:simatic_s7-1200_cpu_1214c_firmware:*:*:*:*:*:*:*:*", "lastModified": "2022-02-01T14:39:03.233", "matchCriteriaId": "021DC100-8C4D-452B-93E1-952AD9DA0954", "status": "Active", "versionEndExcluding": "3.0.2", "versionStartIncluding": "2.0.0"}

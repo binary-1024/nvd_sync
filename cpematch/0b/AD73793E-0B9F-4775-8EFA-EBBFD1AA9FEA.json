@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-09-24T03:03:24.640", "created": "2022-09-24T03:03:24.640", "criteria": "cpe:2.3:a:backup_scheduler_project:backup_scheduler:*:*:*:*:*:wordpress:*:*", "lastModified": "2022-09-24T03:03:24.640", "matchCriteriaId": "AD73793E-0B9F-4775-8EFA-EBBFD1AA9FEA", "status": "Active", "versionEndIncluding": "1.5.13"}

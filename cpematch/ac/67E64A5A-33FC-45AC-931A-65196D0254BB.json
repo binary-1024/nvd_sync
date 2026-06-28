@@ -1,0 +1,1 @@
+{"created": "2025-07-18T18:09:35.367", "criteria": "cpe:2.3:a:jenkins:dead_man\\'s_snitch:0.1:*:*:*:*:jenkins:*:*", "lastModified": "2025-09-08T15:09:20.960", "matchCriteriaId": "67E64A5A-33FC-45AC-931A-65196D0254BB", "matches": [{"cpeName": "cpe:2.3:a:jenkins:dead_man\\'s_snitch:0.1:*:*:*:*:jenkins:*:*", "cpeNameId": "652C7681-2929-4132-8DD1-DBB81BD7FE7C"}], "status": "Active"}

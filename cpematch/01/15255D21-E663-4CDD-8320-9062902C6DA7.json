@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-04-05T13:36:26.613", "created": "2022-04-05T13:34:52.163", "criteria": "cpe:2.3:a:rockwellautomation:isagraf_runtime:*:*:*:*:*:windows:*:*", "lastModified": "2022-04-05T13:34:52.163", "matchCriteriaId": "15255D21-E663-4CDD-8320-9062902C6DA7", "status": "Active", "versionEndExcluding": "6.0", "versionStartIncluding": "5.0"}

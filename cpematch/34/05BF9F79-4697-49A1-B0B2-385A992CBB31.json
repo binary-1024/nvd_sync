@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-07-02T01:16:41.857", "created": "2022-07-02T01:16:41.857", "criteria": "cpe:2.3:a:pypi:ml-scanner:*:*:*:*:*:*:*:*", "lastModified": "2022-07-02T01:16:41.857", "matchCriteriaId": "05BF9F79-4697-49A1-B0B2-385A992CBB31", "status": "Inactive", "versionEndIncluding": "0.1.5", "versionStartIncluding": "0.1.0"}

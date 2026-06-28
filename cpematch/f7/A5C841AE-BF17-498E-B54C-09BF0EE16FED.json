@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-06-26T20:25:07.750", "created": "2026-06-26T20:25:07.750", "criteria": "cpe:2.3:a:wolfssl:wolfssl:*:*:*:*:*:*:*:*", "lastModified": "2026-06-26T20:25:07.750", "matchCriteriaId": "A5C841AE-BF17-498E-B54C-09BF0EE16FED", "status": "Active", "versionEndExcluding": "5.9.2", "versionStartIncluding": "5.9.0"}

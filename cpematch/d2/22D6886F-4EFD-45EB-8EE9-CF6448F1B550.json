@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-06-08T13:43:04.617", "created": "2021-06-08T13:27:46.560", "criteria": "cpe:2.3:a:redhat:xnio:*:*:*:*:*:*:*:*", "lastModified": "2021-06-08T13:27:46.560", "matchCriteriaId": "22D6886F-4EFD-45EB-8EE9-CF6448F1B550", "status": "Inactive", "versionEndExcluding": "3.7.9"}

@@ -1,0 +1,1 @@
+{"created": "2026-05-07T02:05:11.987", "criteria": "cpe:2.3:o:mediatek:mt8367_firmware:-:*:*:*:*:*:*:*", "lastModified": "2026-05-22T16:01:14.177", "matchCriteriaId": "32C24935-B6E6-4923-B81C-D29BBEED2B3C", "matches": [{"cpeName": "cpe:2.3:o:mediatek:mt8367_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "40FABC55-AE23-4327-A0D8-6F1E465C2AFD"}], "status": "Active"}

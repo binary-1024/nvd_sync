@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-12-03T14:55:33.980", "created": "2025-12-03T14:55:33.980", "criteria": "cpe:2.3:a:apache:skywalking:*:*:*:*:*:*:*:*", "lastModified": "2025-12-10T12:53:31.930", "matchCriteriaId": "EF7E206D-D2C0-4A08-982B-82E324C029B7", "status": "Inactive", "versionEndIncluding": "10.2.0"}

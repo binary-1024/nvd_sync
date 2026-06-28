@@ -1,0 +1,1 @@
+{"created": "2025-09-03T15:22:26.717", "criteria": "cpe:2.3:a:checkpoint:smartconsole:r81.10:build418:*:*:*:*:*:*", "lastModified": "2025-09-03T18:03:41.593", "matchCriteriaId": "B4A9E7A3-C2D4-423E-9868-FC24348B03FF", "matches": [{"cpeName": "cpe:2.3:a:checkpoint:smartconsole:r81.10:build418:*:*:*:*:*:*", "cpeNameId": "72FA94EC-EF85-46AA-9E14-4C0988BAF9F7"}], "status": "Active"}

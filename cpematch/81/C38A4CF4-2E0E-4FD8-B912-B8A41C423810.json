@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-07-27T16:58:50.837", "created": "2022-06-01T11:17:30.813", "criteria": "cpe:2.3:a:octopus:octopus_deploy:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "C38A4CF4-2E0E-4FD8-B912-B8A41C423810", "status": "Inactive", "versionEndExcluding": "2021.3.12533", "versionStartIncluding": "0.9"}

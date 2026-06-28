@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-07-02T16:29:53.500", "created": "2024-10-11T22:01:41.480", "criteria": "cpe:2.3:a:microsoft:azure_cli:*:*:*:*:*:*:*:*", "lastModified": "2025-07-03T02:00:36.990", "matchCriteriaId": "2BA89373-7E25-4632-89A1-7B1D54AB051A", "status": "Inactive", "versionEndExcluding": "2.65.0"}

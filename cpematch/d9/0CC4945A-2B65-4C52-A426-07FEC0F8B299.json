@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-03-20T12:38:48.107", "created": "2023-03-20T12:38:48.107", "criteria": "cpe:2.3:a:hasura:graphql_engine:*:*:*:*:*:*:*:*", "lastModified": "2023-03-21T02:00:15.307", "matchCriteriaId": "0CC4945A-2B65-4C52-A426-07FEC0F8B299", "status": "Inactive", "versionEndExcluding": "2.11.5"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-06-06T16:47:51.450", "created": "2022-06-06T16:47:51.450", "criteria": "cpe:2.3:a:rubyonrails:active_storage:*:*:*:*:*:*:*:*", "lastModified": "2022-06-06T16:47:51.450", "matchCriteriaId": "6BFB0243-E81B-4759-9863-CE094C32DFA6", "status": "Inactive", "versionEndExcluding": "6.1.4.7", "versionStartIncluding": "6.1.0"}

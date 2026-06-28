@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-05-28T18:06:57.010", "created": "2021-05-28T18:06:57.010", "criteria": "cpe:2.3:a:apache:wicket:*:*:*:*:*:*:*:*", "lastModified": "2021-05-28T18:06:57.010", "matchCriteriaId": "78BEA8AE-6F63-44AF-949D-556CEB65E803", "status": "Inactive", "versionEndExcluding": "7.18.0", "versionStartIncluding": "7.0.0"}

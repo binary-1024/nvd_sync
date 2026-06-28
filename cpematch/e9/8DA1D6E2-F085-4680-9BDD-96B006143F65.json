@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-08-20T21:18:20.737", "created": "2021-08-19T18:38:07.050", "criteria": "cpe:2.3:a:miniorange:saml:*:*:*:*:*:typo3:*:*", "lastModified": "2021-08-19T18:38:07.050", "matchCriteriaId": "8DA1D6E2-F085-4680-9BDD-96B006143F65", "status": "Active", "versionEndExcluding": "1.4.3"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-09-26T12:57:45.617", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:a:gnu:nano:1.0.3:*:*:*:*:*:*:*", "lastModified": "2024-09-26T12:57:45.617", "matchCriteriaId": "68AA6BD3-0B9F-44BA-B475-06E3AB6405A0", "matches": [{"cpeName": "cpe:2.3:a:gnu:nano:1.0.3:*:*:*:*:*:*:*", "cpeNameId": "82C5AF9A-E52F-44F5-B46D-78BCDD6E08CD"}], "status": "Active"}

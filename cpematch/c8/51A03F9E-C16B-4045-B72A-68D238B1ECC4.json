@@ -1,0 +1,1 @@
+{"created": "2025-03-14T13:06:55.800", "criteria": "cpe:2.3:a:ruby-lang:javascript_object_notation:*:*:*:*:*:ruby:*:*", "lastModified": "2025-03-14T13:06:55.800", "matchCriteriaId": "51A03F9E-C16B-4045-B72A-68D238B1ECC4", "status": "Active", "versionEndExcluding": "2.10.2", "versionStartIncluding": "2.10.0 "}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-02-03T17:49:52.017", "created": "2025-02-03T17:49:52.017", "criteria": "cpe:2.3:a:linuxfoundation:yocto_project:*:*:*:*:*:*:*:*", "lastModified": "2025-02-04T03:00:26.353", "matchCriteriaId": "D04A9D07-FB5D-4C7E-AE8A-475E08E2C6E5", "status": "Inactive", "versionEndExcluding": "4.0.16", "versionStartIncluding": "3.2"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-10-20T17:44:10.437", "created": "2021-10-19T12:59:53.840", "criteria": "cpe:2.3:a:ansi-regex_project:ansi-regex:*:*:*:*:*:node.js:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "7F8190C7-FB18-4A08-A683-292D1B2BB75A", "status": "Inactive", "versionEndExcluding": "5.0.1", "versionStartIncluding": "3.0.0"}

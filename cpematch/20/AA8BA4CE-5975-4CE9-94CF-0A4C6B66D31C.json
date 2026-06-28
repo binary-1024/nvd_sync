@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-01-26T18:22:48.123", "created": "2024-01-26T18:22:48.123", "criteria": "cpe:2.3:a:dremio:dremio:*:*:*:*:*:*:*:*", "lastModified": "2024-01-27T03:00:48.357", "matchCriteriaId": "AA8BA4CE-5975-4CE9-94CF-0A4C6B66D31C", "status": "Inactive", "versionEndIncluding": "22.2.2", "versionStartIncluding": "22.0.0"}

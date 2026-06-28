@@ -1,0 +1,1 @@
+{"created": "2021-03-26T15:36:31.453", "criteria": "cpe:2.3:a:cisco:jabber:*:*:*:*:*:android:*:*", "lastModified": "2021-03-26T15:36:31.453", "matchCriteriaId": "2D15654E-1E9B-4375-894E-A43521CB866F", "status": "Inactive", "versionEndExcluding": "12.6.5", "versionStartIncluding": "12.6.0"}

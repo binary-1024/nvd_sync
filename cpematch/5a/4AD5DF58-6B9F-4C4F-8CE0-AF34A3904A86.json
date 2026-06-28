@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-06-30T03:45:52.140", "created": "2023-03-17T17:43:52.300", "criteria": "cpe:2.3:a:netiq:advanced_authentication:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "4AD5DF58-6B9F-4C4F-8CE0-AF34A3904A86", "status": "Inactive", "versionEndExcluding": "6.3.7.2", "versionStartIncluding": "6.3.0.0"}

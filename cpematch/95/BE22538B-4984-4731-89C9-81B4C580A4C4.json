@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-06-07T15:16:55.723", "created": "2024-06-07T15:08:11.047", "criteria": "cpe:2.3:a:born05:two-factor_authentication:*:*:*:*:*:craft_4:*:*", "lastModified": "2024-06-08T02:01:01.957", "matchCriteriaId": "BE22538B-4984-4731-89C9-81B4C580A4C4", "status": "Inactive", "versionEndExcluding": "3.3.4", "versionStartIncluding": "3.3.1"}

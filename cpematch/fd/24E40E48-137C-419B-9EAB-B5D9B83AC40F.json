@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-10-10T21:13:37.530", "created": "2024-10-10T21:13:37.530", "criteria": "cpe:2.3:a:scikit-learn:scikit-learn:*:*:*:*:*:python:*:*", "lastModified": "2024-10-10T21:14:02.063", "matchCriteriaId": "24E40E48-137C-419B-9EAB-B5D9B83AC40F", "status": "Inactive", "versionEndIncluding": "1.5.0"}

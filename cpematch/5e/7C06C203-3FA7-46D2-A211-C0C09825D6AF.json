@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-05-27T18:29:52.603", "created": "2021-05-27T18:29:28.790", "criteria": "cpe:2.3:o:st:stm32l412_firmware:*:*:*:*:*:*:*:*", "lastModified": "2021-05-27T18:29:28.790", "matchCriteriaId": "7C06C203-3FA7-46D2-A211-C0C09825D6AF", "status": "Inactive", "versionEndIncluding": "2020-10-19"}

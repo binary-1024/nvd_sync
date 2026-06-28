@@ -1,0 +1,1 @@
+{"created": "2025-06-13T16:01:45.040", "criteria": "cpe:2.3:a:linkerd:buoyant:*:*:*:*:enterprise:linkerd:*:*", "lastModified": "2025-06-13T16:01:45.040", "matchCriteriaId": "4958DFE3-9F0F-4B67-9BBC-F94D3A006DFD", "status": "Active", "versionEndExcluding": "2.16.5", "versionStartIncluding": "2.16.0"}

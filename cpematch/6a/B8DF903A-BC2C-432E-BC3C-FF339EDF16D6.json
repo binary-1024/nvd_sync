@@ -1,0 +1,1 @@
+{"created": "2026-05-05T16:30:17.573", "criteria": "cpe:2.3:a:cisco:intersight_device_connector:*:*:*:*:*:*:*:*", "lastModified": "2026-05-05T16:30:17.573", "matchCriteriaId": "B8DF903A-BC2C-432E-BC3C-FF339EDF16D6", "status": "Active", "versionEndIncluding": "7.5.0", "versionStartIncluding": "4.3.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-11-24T15:50:10.650", "created": "2021-11-24T06:37:06.190", "criteria": "cpe:2.3:a:greenplum:greenplum:*:*:*:*:*:*:*:*", "lastModified": "2021-11-24T06:37:06.190", "matchCriteriaId": "11CE6177-E800-4AB6-92BF-71FA4E6EA8C1", "status": "Active", "versionEndExcluding": "5.28.14"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-03-05T16:11:02.703", "created": "2026-03-05T16:11:02.703", "criteria": "cpe:2.3:a:apache:activemq_artemis:*:*:*:*:*:*:*:*", "lastModified": "2026-06-15T13:03:40.357", "matchCriteriaId": "6BC62090-71FA-45A2-A519-B2C3B47D4262", "status": "Inactive", "versionEndIncluding": "2.44.0", "versionStartIncluding": "2.11.0"}

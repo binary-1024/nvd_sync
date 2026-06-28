@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-02-20T17:30:22.087", "created": "2026-02-20T17:30:22.087", "criteria": "cpe:2.3:a:stalwart:stalwart:*:*:*:*:*:*:*:*", "lastModified": "2026-02-20T17:30:32.190", "matchCriteriaId": "38A0D818-9D3A-402B-9EB5-FA666DF12D63", "status": "Inactive", "versionEndIncluding": "0.15.5", "versionStartIncluding": "0.13.0"}

@@ -1,0 +1,1 @@
+{"created": "2022-03-08T17:43:35.230", "criteria": "cpe:2.3:a:hashicorp:nomad:*:*:*:*:*:*:*:*", "lastModified": "2022-03-08T17:43:35.230", "matchCriteriaId": "A52F00CB-B4BF-4E1F-90F5-760E002B3284", "status": "Inactive", "versionEndExcluding": "1.1.12", "versionStartIncluding": "1.1.0"}

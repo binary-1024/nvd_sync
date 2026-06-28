@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-10-26T02:03:51.073", "created": "2021-10-22T17:35:36.993", "criteria": "cpe:2.3:a:ibm:storwize_v5000_software:*:*:*:*:*:*:*:*", "lastModified": "2021-10-22T17:35:36.993", "matchCriteriaId": "A20A81B0-6D67-4C8B-AA41-6D8A31D56E2F", "status": "Active", "versionEndExcluding": "8.4.0.0", "versionStartIncluding": "7.8.0.0"}

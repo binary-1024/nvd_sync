@@ -1,0 +1,1 @@
+{"created": "2025-05-01T18:26:14.187", "criteria": "cpe:2.3:a:yaidier:countdown_timer:1.0:*:*:*:*:wordpress:*:*", "lastModified": "2025-08-26T13:20:20.720", "matchCriteriaId": "BDB83A79-F527-469D-92CE-496D5695310E", "matches": [{"cpeName": "cpe:2.3:a:yaidier:countdown_timer:1.0:*:*:*:*:wordpress:*:*", "cpeNameId": "022FBAF6-2498-4B4D-B60B-42DEFFE91CF8"}], "status": "Active"}

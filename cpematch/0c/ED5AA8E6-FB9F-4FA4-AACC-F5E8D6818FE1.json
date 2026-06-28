@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-06-16T14:50:10.083", "created": "2026-06-16T14:50:10.083", "criteria": "cpe:2.3:a:nlnetlabs:ldns:*:*:*:*:*:*:*:*", "lastModified": "2026-06-16T14:51:29.407", "matchCriteriaId": "ED5AA8E6-FB9F-4FA4-AACC-F5E8D6818FE1", "status": "Inactive", "versionEndExcluding": "1.9.2", "versionStartIncluding": "1.2.0"}

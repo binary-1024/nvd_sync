@@ -1,0 +1,1 @@
+{"created": "2025-10-20T16:15:45.620", "criteria": "cpe:2.3:a:wso2:api_control_plane:4.5.0:-:*:*:*:*:*:*", "lastModified": "2026-05-20T14:30:41.810", "matchCriteriaId": "DEEA7DB5-BBF7-44A4-9FB6-0D235A44C680", "matches": [{"cpeName": "cpe:2.3:a:wso2:api_control_plane:4.5.0:-:*:*:*:*:*:*", "cpeNameId": "20B0FDC4-2442-40D3-88F9-7A7E6D678A97"}], "status": "Active"}

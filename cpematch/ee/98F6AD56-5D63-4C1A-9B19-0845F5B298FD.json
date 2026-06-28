@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-10-20T17:18:26.963", "created": "2021-10-15T15:23:51.453", "criteria": "cpe:2.3:a:hitachi:jp1\\/netm\\/dm_client:*:*:*:*:*:*:*:*", "lastModified": "2021-10-15T15:23:51.453", "matchCriteriaId": "98F6AD56-5D63-4C1A-9B19-0845F5B298FD", "status": "Active", "versionEndIncluding": "08-50-08", "versionStartIncluding": "08-50"}

@@ -1,0 +1,1 @@
+{"created": "2025-05-21T16:16:33.313", "criteria": "cpe:2.3:a:easyvirt:dcscope:*:*:*:*:*:*:*:*", "lastModified": "2025-05-21T16:16:33.313", "matchCriteriaId": "D5C71DCB-18BF-47D3-868B-3DA72020A06D", "matches": [{"cpeName": "cpe:2.3:a:easyvirt:dcscope:8.6.0:*:*:*:*:*:*:*", "cpeNameId": "2584FCD5-3C26-42D4-90D6-30FDE53B74E7"}], "status": "Active", "versionEndIncluding": "8.6.0"}

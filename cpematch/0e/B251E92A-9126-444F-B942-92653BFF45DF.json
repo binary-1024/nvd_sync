@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-03-20T12:25:31.857", "created": "2025-03-07T16:25:13.633", "criteria": "cpe:2.3:a:cozyvision:sms_alert_order_notifications:*:*:*:*:*:wordpress:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "B251E92A-9126-444F-B942-92653BFF45DF", "status": "Inactive", "versionEndIncluding": "3.7.8"}

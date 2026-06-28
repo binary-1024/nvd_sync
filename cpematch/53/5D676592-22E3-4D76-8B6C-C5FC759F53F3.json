@@ -1,0 +1,1 @@
+{"created": "2025-08-01T15:02:32.613", "criteria": "cpe:2.3:o:cisco:ios:15.5sy:*:*:*:*:*:*:*", "lastModified": "2025-08-08T15:23:50.747", "matchCriteriaId": "5D676592-22E3-4D76-8B6C-C5FC759F53F3", "matches": [{"cpeName": "cpe:2.3:o:cisco:ios:15.5sy:*:*:*:*:*:*:*", "cpeNameId": "7FAA0C39-85E3-4DCD-BC52-39F5DA51CC16"}], "status": "Active"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-07-08T16:37:16.930", "created": "2021-07-08T16:37:16.930", "criteria": "cpe:2.3:a:broadcom:advanced_secure_gateway:*:*:*:*:*:*:*:*", "lastModified": "2021-07-08T16:37:16.930", "matchCriteriaId": "A53CD265-5D64-4D08-9002-0D5BAC56362F", "status": "Inactive", "versionEndExcluding": "6.7.5.12", "versionStartIncluding": "6.6"}

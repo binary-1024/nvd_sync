@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-04-07T21:10:46.940", "created": "2023-01-23T16:12:03.457", "criteria": "cpe:2.3:a:arm:midgard:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "3810F654-D958-48A0-956E-054B23488785", "status": "Inactive", "versionEndIncluding": "r32p0", "versionStartIncluding": "r13p0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-03-01T00:47:19.723", "created": "2022-02-28T17:28:41.267", "criteria": "cpe:2.3:a:konveyor:mig-controller:*:*:*:*:*:*:*:*", "lastModified": "2022-02-28T17:28:41.267", "matchCriteriaId": "0AC4AD97-DD8E-4849-856D-B9264FC21F47", "status": "Active", "versionEndExcluding": "1.6.3", "versionStartIncluding": "1.6.0"}

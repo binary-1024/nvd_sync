@@ -1,0 +1,1 @@
+{"created": "2025-12-05T18:17:36.800", "criteria": "cpe:2.3:a:espressif:esp-idf:5.0.6:*:*:*:*:*:*:*", "lastModified": "2025-12-08T16:35:07.573", "matchCriteriaId": "AED5D74A-568F-47D0-8022-8034FC7934C9", "matches": [{"cpeName": "cpe:2.3:a:espressif:esp-idf:5.0.6:*:*:*:*:*:*:*", "cpeNameId": "4F2F37E1-DBC6-4C26-AA26-98A0FD3E992E"}], "status": "Active"}

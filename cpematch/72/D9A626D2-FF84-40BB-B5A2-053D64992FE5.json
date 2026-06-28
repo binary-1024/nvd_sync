@@ -1,0 +1,1 @@
+{"created": "2026-05-07T14:57:24.900", "criteria": "cpe:2.3:a:suse:enterprise_storage:7.1:*:*:*:*:*:*:*", "lastModified": "2026-05-18T12:11:21.543", "matchCriteriaId": "D9A626D2-FF84-40BB-B5A2-053D64992FE5", "matches": [{"cpeName": "cpe:2.3:a:suse:enterprise_storage:7.1:*:*:*:*:*:*:*", "cpeNameId": "7E5A98CC-7D2D-487E-854A-7F19ADDB3790"}], "status": "Active"}

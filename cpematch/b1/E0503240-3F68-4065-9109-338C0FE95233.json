@@ -1,0 +1,1 @@
+{"created": "2025-03-06T14:53:06.530", "criteria": "cpe:2.3:h:qualcomm:snapdragon_x72_5g-rf:*:*:*:*:*:*:*:*", "lastModified": "2025-08-07T13:00:11.150", "matchCriteriaId": "E0503240-3F68-4065-9109-338C0FE95233", "matches": [{"cpeName": "cpe:2.3:h:qualcomm:snapdragon_x72_5g-rf:-:*:*:*:*:*:*:*", "cpeNameId": "DD35C800-8EAA-4ED6-81C1-E9FCF2969F25"}], "status": "Active"}

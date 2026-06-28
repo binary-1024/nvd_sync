@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-07-21T15:54:38.260", "created": "2022-07-21T14:56:04.700", "criteria": "cpe:2.3:a:apache:skywalking:*:*:*:*:*:node.js:*:*", "lastModified": "2025-12-10T12:53:31.930", "matchCriteriaId": "524781B4-CCF8-4ABE-8FB5-B2D79C490C99", "status": "Inactive", "versionEndExcluding": "0.5.1"}

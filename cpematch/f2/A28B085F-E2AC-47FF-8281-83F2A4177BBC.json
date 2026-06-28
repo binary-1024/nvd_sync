@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-04-16T14:17:15.833", "created": "2024-04-16T14:17:15.833", "criteria": "cpe:2.3:a:apache:derby:*:*:*:*:*:*:*:*", "lastModified": "2024-04-16T14:31:54.850", "matchCriteriaId": "A28B085F-E2AC-47FF-8281-83F2A4177BBC", "status": "Inactive", "versionEndIncluding": "10.6.2.1", "versionStartIncluding": "10.6.1.0"}

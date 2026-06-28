@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-10-02T17:18:21.323", "created": "2024-09-30T16:01:27.630", "criteria": "cpe:2.3:a:apache:maven_archetype:*:*:*:*:*:*:*:*", "lastModified": "2024-10-02T17:19:43.547", "matchCriteriaId": "CA2B17E6-606B-4C0A-92DD-E0679E71B470", "status": "Inactive", "versionEndExcluding": "3.3.0", "versionStartIncluding": "3.2.1"}

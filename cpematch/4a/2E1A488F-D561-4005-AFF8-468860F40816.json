@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-07-19T14:43:00.960", "created": "2022-07-19T14:43:00.960", "criteria": "cpe:2.3:a:microsoft:azure_storage_blobs:*:*:*:*:*:python:*:*", "lastModified": "2022-07-19T14:43:00.960", "matchCriteriaId": "2E1A488F-D561-4005-AFF8-468860F40816", "status": "Active", "versionEndExcluding": "12.13.0"}

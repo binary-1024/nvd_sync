@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-09-13T15:37:46.440", "created": "2021-03-20T02:05:23.907", "criteria": "cpe:2.3:a:tenable:nessus_agent:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "C130B0EC-04CB-42B3-99B7-694888AB417F", "status": "Inactive", "versionEndIncluding": "8.2.2", "versionStartIncluding": "7.2.0"}

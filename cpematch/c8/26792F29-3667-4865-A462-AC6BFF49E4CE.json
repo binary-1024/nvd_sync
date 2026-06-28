@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-06-10T13:42:30.740", "created": "2021-05-13T17:01:57.253", "criteria": "cpe:2.3:o:cisco:vedge-cloud_firmware:*:*:*:*:*:*:*:*", "lastModified": "2021-05-13T17:01:57.253", "matchCriteriaId": "26792F29-3667-4865-A462-AC6BFF49E4CE", "status": "Active", "versionEndExcluding": "20.5.1", "versionStartIncluding": "20.5"}

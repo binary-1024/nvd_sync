@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-07-08T14:08:43.787", "created": "2025-07-08T14:08:43.787", "criteria": "cpe:2.3:a:synacor:zimbra_collaboration_suite:*:*:*:*:*:*:*:*", "lastModified": "2025-07-09T02:00:38.903", "matchCriteriaId": "79828FF2-C44C-4272-970F-4162C09B7617", "status": "Inactive", "versionEndExcluding": "8.8.10", "versionStartIncluding": "8.8.0"}

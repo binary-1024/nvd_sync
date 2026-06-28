@@ -1,0 +1,1 @@
+{"created": "2025-12-10T19:20:14.050", "criteria": "cpe:2.3:a:gofiber:utils:2.0.0:beta12:*:*:*:go:*:*", "lastModified": "2025-12-11T13:14:43.907", "matchCriteriaId": "830BFD1F-2352-4118-B757-1DC00DCAED64", "matches": [{"cpeName": "cpe:2.3:a:gofiber:utils:2.0.0:beta12:*:*:*:go:*:*", "cpeNameId": "C77250AC-796D-49BB-BB71-A790818D07DF"}], "status": "Active"}

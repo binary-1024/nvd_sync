@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-08-07T15:43:47.567", "created": "2020-04-14T16:07:11.070", "criteria": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:*:*:*:*:*:kubernetes:*:*", "lastModified": "2024-08-08T02:00:41.497", "matchCriteriaId": "3D2CD249-FE04-4C57-9580-9E2DB14EB393", "status": "Inactive", "versionEndIncluding": "1.5.0"}

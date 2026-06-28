@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-06-16T15:50:51.060", "created": "2026-06-16T15:50:51.060", "criteria": "cpe:2.3:a:f5:nginx_app_protect_waf:*:*:*:*:*:*:*:*", "lastModified": "2026-06-16T15:50:51.060", "matchCriteriaId": "08C0A4CA-22BB-4292-BFF8-1EDEFD1DD11D", "status": "Active", "versionEndIncluding": "5.8.0", "versionStartIncluding": "5.1.0"}

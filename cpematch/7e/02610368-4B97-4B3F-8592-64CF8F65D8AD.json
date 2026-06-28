@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-02-09T16:15:09.593", "created": "2020-09-29T11:50:42.760", "criteria": "cpe:2.3:o:siemens:simatic_cp_1243-1_irc_firmware:*:*:*:*:*:*:*:*", "lastModified": "2020-09-29T11:50:42.760", "matchCriteriaId": "02610368-4B97-4B3F-8592-64CF8F65D8AD", "status": "Active", "versionEndExcluding": "2.1.82"}

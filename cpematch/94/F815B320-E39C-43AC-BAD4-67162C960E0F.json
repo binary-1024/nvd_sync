@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-05-13T16:13:57.337", "created": "2022-06-30T12:00:00.303", "criteria": "cpe:2.3:a:imagemagick:imagemagick:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "F815B320-E39C-43AC-BAD4-67162C960E0F", "status": "Inactive", "versionEndExcluding": "7.1.0-30", "versionStartIncluding": "7.1.0"}

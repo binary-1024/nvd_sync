@@ -1,0 +1,1 @@
+{"created": "2021-04-09T13:49:22.930", "criteria": "cpe:2.3:a:proofpoint:insider_threat_management:*:*:*:*:*:macos:*:*", "lastModified": "2021-04-09T13:49:22.930", "matchCriteriaId": "BC1EC9C0-B91B-423D-82CA-3F70C5C39736", "status": "Active", "versionEndExcluding": "7.9.3", "versionStartIncluding": "7.9.0"}

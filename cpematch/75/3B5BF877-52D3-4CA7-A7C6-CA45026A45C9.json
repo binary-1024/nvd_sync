@@ -1,0 +1,1 @@
+{"created": "2025-05-29T18:33:41.050", "criteria": "cpe:2.3:a:drupal:node_access_rebuild_progressive:*:*:*:*:*:drupal:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "3B5BF877-52D3-4CA7-A7C6-CA45026A45C9", "status": "Inactive", "versionEndExcluding": "7.x-1.2", "versionStartIncluding": "7.x-1.0"}

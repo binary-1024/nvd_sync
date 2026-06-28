@@ -1,0 +1,1 @@
+{"created": "2025-03-06T14:53:06.530", "criteria": "cpe:2.3:h:qualcomm:sm8650q:*:*:*:*:*:*:*:*", "lastModified": "2025-08-07T13:00:11.150", "matchCriteriaId": "1458A539-FA35-4E1A-B02C-9391F7262176", "matches": [{"cpeName": "cpe:2.3:h:qualcomm:sm8650q:-:*:*:*:*:*:*:*", "cpeNameId": "F7C6F5FA-8F9B-4834-9BDC-86271EA205E9"}], "status": "Active"}

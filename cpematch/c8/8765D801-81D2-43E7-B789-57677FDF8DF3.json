@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-10-17T19:25:37.213", "created": "2022-01-04T20:36:37.720", "criteria": "cpe:2.3:a:ash_project:ash:*:*:*:*:*:rust:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "8765D801-81D2-43E7-B789-57677FDF8DF3", "status": "Inactive", "versionEndExcluding": "0.33.1"}

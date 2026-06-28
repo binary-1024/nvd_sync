@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-02-13T13:43:38.667", "created": "2024-02-13T13:43:38.667", "criteria": "cpe:2.3:a:ibm:devops_deploy:*:*:*:*:*:*:*:*", "lastModified": "2024-02-13T20:26:23.990", "matchCriteriaId": "0BAA8BD5-3AA5-40D2-B840-2FDF5C24BB84", "status": "Inactive", "versionEndExcluding": "8.0.0.1"}

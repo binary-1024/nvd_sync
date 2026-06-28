@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-09-29T17:33:11.177", "created": "2025-09-29T17:33:11.177", "criteria": "cpe:2.3:a:libtpms_project:libtpms:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "93C3E284-932C-4C3C-B5C4-F3005B92E61C", "status": "Inactive", "versionEndExcluding": "0.7.12"}

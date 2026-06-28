@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-10-07T15:50:04.653", "created": "2022-10-07T15:50:04.653", "criteria": "cpe:2.3:a:pjsip:pjsip:*:*:*:*:*:*:*:*", "lastModified": "2026-05-06T13:28:44.787", "matchCriteriaId": "EDE35BC2-087A-4BF0-BF4A-E28BABC69F40", "status": "Inactive", "versionEndExcluding": "2.13", "versionStartIncluding": "2.11"}

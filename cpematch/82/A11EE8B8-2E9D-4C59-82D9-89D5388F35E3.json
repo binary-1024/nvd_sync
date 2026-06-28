@@ -1,0 +1,1 @@
+{"created": "2025-07-28T13:38:17.170", "criteria": "cpe:2.3:a:2fauth:2fauth:5.4.3:*:*:*:*:*:*:*", "lastModified": "2025-07-28T14:08:41.723", "matchCriteriaId": "A11EE8B8-2E9D-4C59-82D9-89D5388F35E3", "matches": [{"cpeName": "cpe:2.3:a:2fauth:2fauth:5.4.3:*:*:*:*:*:*:*", "cpeNameId": "3D298FAB-BFFC-462E-9E6F-E94B242C6004"}], "status": "Active"}

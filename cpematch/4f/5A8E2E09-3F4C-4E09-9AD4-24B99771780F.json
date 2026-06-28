@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-11-07T14:39:59.600", "created": "2024-11-07T14:39:59.600", "criteria": "cpe:2.3:a:hashicorp:consul:*:*:*:*:community:*:*:*", "lastModified": "2024-11-09T03:00:26.707", "matchCriteriaId": "5A8E2E09-3F4C-4E09-9AD4-24B99771780F", "status": "Inactive", "versionEndIncluding": "1.19.2", "versionStartIncluding": "1.4.1"}

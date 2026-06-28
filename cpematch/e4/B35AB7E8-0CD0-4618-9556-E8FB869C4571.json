@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-10-20T11:15:43.263", "created": "2020-12-23T14:39:47.810", "criteria": "cpe:2.3:a:netapp:storage_replication_adapter:*:*:*:*:*:clustered_data_ontap:*:*", "lastModified": "2020-12-23T14:39:47.810", "matchCriteriaId": "B35AB7E8-0CD0-4618-9556-E8FB869C4571", "status": "Active", "versionStartIncluding": "7.2"}

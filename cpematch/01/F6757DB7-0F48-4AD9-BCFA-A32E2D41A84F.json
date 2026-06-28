@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-05-15T18:34:41.177", "created": "2024-05-15T18:34:41.177", "criteria": "cpe:2.3:a:fortinet:fortivoice:*:*:*:*:*:*:*:*", "lastModified": "2024-05-24T02:00:25.910", "matchCriteriaId": "F6757DB7-0F48-4AD9-BCFA-A32E2D41A84F", "status": "Inactive", "versionEndExcluding": "7.0.2", "versionStartExcluding": "7.0.0"}

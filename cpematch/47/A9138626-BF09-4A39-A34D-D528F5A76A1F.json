@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-03-29T18:07:21.600", "created": "2022-03-29T17:42:08.487", "criteria": "cpe:2.3:a:vmware:carbon_black_app_control:*:*:*:*:*:*:*:*", "lastModified": "2022-03-29T17:42:08.487", "matchCriteriaId": "A9138626-BF09-4A39-A34D-D528F5A76A1F", "status": "Active", "versionEndExcluding": "8.8.2", "versionStartIncluding": "8.8.0"}

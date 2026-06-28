@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-08-20T18:56:05.673", "created": "2021-08-19T18:09:14.567", "criteria": "cpe:2.3:o:siemens:cpu1510sp_f-1_firmware:*:*:*:*:*:*:*:*", "lastModified": "2021-08-19T18:09:14.567", "matchCriteriaId": "A0F759CF-4B0E-44E2-9FED-62EACD40FA7C", "status": "Active", "versionEndExcluding": "2.9.2", "versionStartIncluding": "2.5"}

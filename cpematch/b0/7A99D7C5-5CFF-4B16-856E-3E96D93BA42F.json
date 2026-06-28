@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-08-18T16:15:24.627", "created": "2025-08-18T16:15:24.627", "criteria": "cpe:2.3:a:zoom:virtual_desktop_infrastructure:*:*:*:*:*:windows:*:*", "lastModified": "2025-08-18T16:15:24.627", "matchCriteriaId": "7A99D7C5-5CFF-4B16-856E-3E96D93BA42F", "status": "Active", "versionEndExcluding": "5.17.5", "versionStartIncluding": "5.16.16"}

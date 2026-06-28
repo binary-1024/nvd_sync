@@ -1,0 +1,1 @@
+{"created": "2021-12-23T15:56:01.227", "criteria": "cpe:2.3:a:nebulab:solidus_frontend:*:*:*:*:*:ruby:*:*", "lastModified": "2021-12-23T15:56:01.227", "matchCriteriaId": "E2284A89-A7BF-454C-84F9-C309CD25A697", "status": "Inactive", "versionEndExcluding": "3.1.5", "versionStartIncluding": "3.1.0"}

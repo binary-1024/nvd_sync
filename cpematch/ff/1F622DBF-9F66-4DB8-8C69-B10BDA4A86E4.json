@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-07-21T20:31:37.740", "created": "2025-07-21T20:31:37.740", "criteria": "cpe:2.3:a:cisco:secure_endpoint:*:*:*:*:*:windows:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "1F622DBF-9F66-4DB8-8C69-B10BDA4A86E4", "status": "Inactive", "versionEndExcluding": "8.4.3"}

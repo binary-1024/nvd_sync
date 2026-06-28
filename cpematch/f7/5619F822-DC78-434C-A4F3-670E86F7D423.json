@@ -1,0 +1,1 @@
+{"created": "2021-03-04T15:30:09.750", "criteria": "cpe:2.3:a:azure-iot-cli-extension:-:*:*:*:*:*:*:*:*", "lastModified": "2021-03-04T15:30:09.750", "matchCriteriaId": "5619F822-DC78-434C-A4F3-670E86F7D423", "status": "Active", "versionEndIncluding": "0.10.6", "versionStartIncluding": "0.10.2"}

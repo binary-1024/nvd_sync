@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-08-02T15:13:49.337", "created": "2024-08-02T15:13:49.337", "criteria": "cpe:2.3:a:splunk:cloud:*:*:*:*:*:*:*:*", "lastModified": "2024-08-02T15:27:15.760", "matchCriteriaId": "360AF6C4-1263-47C9-BD2A-65F553802A4C", "status": "Inactive", "versionEndExcluding": "9.1.2312.200", "versionStartIncluding": "9.1.2312.0"}

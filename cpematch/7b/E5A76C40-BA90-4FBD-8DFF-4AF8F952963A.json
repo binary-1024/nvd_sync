@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-07-19T15:22:53.990", "created": "2024-07-19T15:22:53.990", "criteria": "cpe:2.3:o:ibm:stn7800_firmware:*:*:*:*:*:*:*:*", "lastModified": "2024-07-19T15:22:53.990", "matchCriteriaId": "E5A76C40-BA90-4FBD-8DFF-4AF8F952963A", "status": "Active", "versionEndExcluding": "3.9.1.08", "versionStartIncluding": "3.9.1.0"}

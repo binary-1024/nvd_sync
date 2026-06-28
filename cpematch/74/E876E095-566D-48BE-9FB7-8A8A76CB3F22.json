@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-12-21T17:21:40.870", "created": "2022-12-21T17:21:40.870", "criteria": "cpe:2.3:a:phpredisadmin_project:phpredisadmin:*:*:*:*:*:*:*:*", "lastModified": "2022-12-28T03:00:11.260", "matchCriteriaId": "E876E095-566D-48BE-9FB7-8A8A76CB3F22", "status": "Inactive", "versionEndExcluding": "1.18.0", "versionStartIncluding": "1.17.0"}

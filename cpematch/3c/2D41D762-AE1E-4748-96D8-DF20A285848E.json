@@ -1,0 +1,1 @@
+{"created": "2026-05-11T16:46:53.170", "criteria": "cpe:2.3:a:succinct:sp1_prover:*:*:*:*:*:rust:*:*", "lastModified": "2026-05-11T16:46:53.170", "matchCriteriaId": "2D41D762-AE1E-4748-96D8-DF20A285848E", "status": "Active", "versionEndExcluding": "6.0.2", "versionStartIncluding": "6.0.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-07-16T12:56:37.693", "created": "2025-07-11T15:59:08.427", "criteria": "cpe:2.3:a:apache:eventmesh:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "380CFDB4-62CA-45C0-BB2A-755F88B47600", "status": "Inactive", "versionEndExcluding": "1.11.0"}

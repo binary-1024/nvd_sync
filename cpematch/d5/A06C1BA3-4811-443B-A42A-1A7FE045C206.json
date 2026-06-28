@@ -1,0 +1,1 @@
+{"created": "2025-07-07T17:21:55.070", "criteria": "cpe:2.3:a:apache:guacamole:*:*:*:*:*:*:*:*", "lastModified": "2025-07-07T17:26:25.470", "matchCriteriaId": "A06C1BA3-4811-443B-A42A-1A7FE045C206", "status": "Inactive", "versionEndExcluding": "1.6.0", "versionStartIncluding": "1.5.5"}

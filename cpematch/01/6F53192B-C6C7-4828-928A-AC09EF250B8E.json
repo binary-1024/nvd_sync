@@ -1,0 +1,1 @@
+{"created": "2025-09-25T19:11:31.540", "criteria": "cpe:2.3:h:intel:xeon_e-2436:-:*:*:*:*:*:*:*", "lastModified": "2025-09-29T17:01:11.307", "matchCriteriaId": "6F53192B-C6C7-4828-928A-AC09EF250B8E", "matches": [{"cpeName": "cpe:2.3:h:intel:xeon_e-2436:-:*:*:*:*:*:*:*", "cpeNameId": "10CEE261-0A84-4412-BB45-1A46BF15EE77"}], "status": "Active"}

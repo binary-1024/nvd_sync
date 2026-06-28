@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-10-17T13:47:57.523", "created": "2024-10-11T15:19:44.123", "criteria": "cpe:2.3:a:satori:uuid:-:*:*:*:*:go:*:*", "lastModified": "2024-10-17T13:47:57.523", "matchCriteriaId": "AB02B571-6BC5-4D0E-AC19-46AEB20E5B0A", "matches": [{"cpeName": "cpe:2.3:a:satori:uuid:-:*:*:*:*:go:*:*", "cpeNameId": "196D3114-519B-49A8-B5D0-0411AB176C91"}], "status": "Active"}

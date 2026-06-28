@@ -1,0 +1,1 @@
+{"created": "2025-08-21T11:25:44.080", "criteria": "cpe:2.3:a:beyondtrust:remote_support:25.1.1:*:*:*:*:*:*:*", "lastModified": "2025-08-22T14:04:04.570", "matchCriteriaId": "8ED4A1D8-D719-46E5-AF0D-15EA7D6D8AA1", "matches": [{"cpeName": "cpe:2.3:a:beyondtrust:remote_support:25.1.1:*:*:*:*:*:*:*", "cpeNameId": "44D6F42C-C1AC-4091-B2A1-66AF85FDE1AE"}], "status": "Active"}

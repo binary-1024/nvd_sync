@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-01-17T16:30:26.540", "created": "2025-01-17T16:30:26.540", "criteria": "cpe:2.3:o:zyxel:usg_flex_100ax_firmware:*:*:*:*:*:*:*:*", "lastModified": "2025-01-17T16:30:26.540", "matchCriteriaId": "DF23ACF5-9961-4BA9-84D2-C09EF39790D2", "status": "Active", "versionEndExcluding": "5.37", "versionStartIncluding": "5.10"}

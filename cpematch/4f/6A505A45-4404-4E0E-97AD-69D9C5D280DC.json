@@ -1,0 +1,1 @@
+{"cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:a:znc:znc:0.068:*:*:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "matchCriteriaId": "6A505A45-4404-4E0E-97AD-69D9C5D280DC", "matches": [{"cpeName": "cpe:2.3:a:znc:znc:0.068:*:*:*:*:*:*:*", "cpeNameId": "2BBF8F8D-D62C-4BB8-A083-1F21ED54CB29"}], "status": "Active"}

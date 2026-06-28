@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-01-13T17:33:49.630", "created": "2024-01-13T17:33:49.630", "criteria": "cpe:2.3:a:microsoft:system.data.sqlclient:*:*:*:*:*:*:*:*", "lastModified": "2024-01-13T17:33:49.630", "matchCriteriaId": "E89B2EC1-FF2E-49F5-8CB2-E6E69C6171FE", "status": "Active", "versionEndExcluding": "4.8.6"}

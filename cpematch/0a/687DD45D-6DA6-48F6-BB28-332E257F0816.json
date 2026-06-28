@@ -1,0 +1,1 @@
+{"created": "2021-08-04T12:03:32.210", "criteria": "cpe:2.3:a:jumpserver:jumpserver:*:*:*:*:*:*:*:*", "lastModified": "2021-08-04T12:03:32.210", "matchCriteriaId": "687DD45D-6DA6-48F6-BB28-332E257F0816", "status": "Active", "versionEndExcluding": "2.4.5", "versionStartIncluding": "2.4.0"}

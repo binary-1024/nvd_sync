@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-04-25T16:52:58.577", "created": "2025-03-17T18:41:47.190", "criteria": "cpe:2.3:a:c-blosc2_project:c-blosc2:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "79C89081-F868-40E8-975C-C5C61DD796B4", "status": "Inactive", "versionEndIncluding": "2.13.2"}

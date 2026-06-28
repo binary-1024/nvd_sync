@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-12-08T19:33:09.390", "created": "2021-12-08T16:51:17.433", "criteria": "cpe:2.3:a:eltima:usb_network_gate:*:*:*:*:*:*:*:*", "lastModified": "2021-12-08T16:51:17.433", "matchCriteriaId": "784A3A3A-39FC-447D-890B-F0374E56827F", "status": "Active", "versionEndExcluding": "9.2.2420", "versionStartExcluding": "7.0.1370"}

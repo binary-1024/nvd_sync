@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-02-01T16:53:45.100", "created": "2022-02-01T16:17:29.820", "criteria": "cpe:2.3:o:siemens:ruggedcom_rugged_operating_system:*:*:*:*:*:*:*:*", "lastModified": "2022-02-01T16:17:29.820", "matchCriteriaId": "3A69238A-A5B6-4475-AB71-A94096313503", "status": "Active", "versionEndExcluding": "4.1.0", "versionStartExcluding": "4.0"}

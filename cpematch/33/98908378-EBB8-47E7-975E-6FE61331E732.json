@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-07-24T15:14:48.853", "created": "2025-07-24T15:14:48.853", "criteria": "cpe:2.3:a:ibm:sterling_secure_proxy:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "98908378-EBB8-47E7-975E-6FE61331E732", "status": "Inactive", "versionEndExcluding": "6.1.0.1", "versionStartIncluding": "6.1.0.0"}

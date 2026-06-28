@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-09-13T13:34:19.657", "created": "2021-09-13T13:12:01.060", "criteria": "cpe:2.3:a:sonatype:nexus_repository_manager_3:*:*:*:*:*:*:*:*", "lastModified": "2021-09-13T13:12:01.060", "matchCriteriaId": "A1636D39-C2F2-40F2-A9C9-D67B980FDF13", "status": "Inactive", "versionEndIncluding": "3.33.1-01", "versionStartIncluding": "3.0.0"}

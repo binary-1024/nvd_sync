@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-05-17T15:27:07.017", "created": "2022-05-17T15:27:07.017", "criteria": "cpe:2.3:a:insightsoftware:magnitude_simba_amazon_redshift_odbc_driver:*:*:*:*:*:*:*:*", "lastModified": "2022-05-17T15:27:07.017", "matchCriteriaId": "D5AF1665-848B-49AA-A6E4-6FCC6B696720", "status": "Active", "versionEndExcluding": "1.4.52", "versionStartIncluding": "1.4.22"}

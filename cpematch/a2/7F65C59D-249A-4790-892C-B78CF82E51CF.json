@@ -1,0 +1,1 @@
+{"created": "2025-03-17T14:30:42.807", "criteria": "cpe:2.3:o:netapp:a1k_firmware:-:*:*:*:*:*:*:*", "lastModified": "2025-08-18T18:45:48.710", "matchCriteriaId": "7F65C59D-249A-4790-892C-B78CF82E51CF", "matches": [{"cpeName": "cpe:2.3:o:netapp:a1k_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "D32ED98D-E0E3-4E29-843E-54B76F954DA9"}], "status": "Active"}

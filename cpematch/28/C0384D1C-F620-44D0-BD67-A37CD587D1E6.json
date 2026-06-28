@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-07-06T14:48:06.347", "created": "2023-07-06T14:48:06.347", "criteria": "cpe:2.3:a:ruby-lang:uri:*:*:*:*:*:ruby:*:*", "lastModified": "2023-07-06T14:50:52.330", "matchCriteriaId": "C0384D1C-F620-44D0-BD67-A37CD587D1E6", "status": "Inactive", "versionEndExcluding": "0.12.1"}

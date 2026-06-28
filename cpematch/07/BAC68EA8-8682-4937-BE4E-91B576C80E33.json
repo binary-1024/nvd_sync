@@ -1,0 +1,1 @@
+{"created": "2021-06-07T17:13:49.100", "criteria": "cpe:2.3:a:theforeman:foreman_ansible:*:*:*:*:*:ruby:*:*", "lastModified": "2021-06-07T17:13:49.100", "matchCriteriaId": "BAC68EA8-8682-4937-BE4E-91B576C80E33", "status": "Active", "versionEndExcluding": "4.0.3.4"}

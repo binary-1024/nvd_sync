@@ -1,0 +1,1 @@
+{"created": "2026-05-07T11:42:25.390", "criteria": "cpe:2.3:a:forcepoint:next_generation_firewall:*:*:*:*:*:*:*:*", "lastModified": "2026-05-07T11:42:25.390", "matchCriteriaId": "288B59E0-96C4-4311-B0C0-E5B6753A061F", "status": "Active", "versionEndExcluding": "7.1.11", "versionStartIncluding": "7.1.0"}

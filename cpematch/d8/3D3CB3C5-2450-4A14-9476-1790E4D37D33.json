@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-09-14T13:31:38.290", "created": "2019-08-16T15:29:42.133", "criteria": "cpe:2.3:o:windriver:vxworks:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "3D3CB3C5-2450-4A14-9476-1790E4D37D33", "status": "Inactive", "versionEndExcluding": "6.9.4.12", "versionStartIncluding": "6.6"}

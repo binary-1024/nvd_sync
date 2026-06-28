@@ -1,0 +1,1 @@
+{"created": "2025-12-18T18:36:38.757", "criteria": "cpe:2.3:h:valuehd:vx90:*:*:*:*:*:*:*:*", "lastModified": "2025-12-19T19:24:54.553", "matchCriteriaId": "4DDFF0D5-31E8-4FC1-82C5-BEB717D989F3", "matches": [{"cpeName": "cpe:2.3:h:valuehd:vx90:-:*:*:*:*:*:*:*", "cpeNameId": "F2D5E875-3740-45AC-8E75-1DFA533CF15A"}], "status": "Active"}

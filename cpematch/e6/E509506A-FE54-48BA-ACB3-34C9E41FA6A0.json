@@ -1,0 +1,1 @@
+{"created": "2025-08-26T20:24:31.930", "criteria": "cpe:2.3:a:mail_login_project:mail_login:*:*:*:*:*:drupal:*:*", "lastModified": "2025-08-26T20:26:01.117", "matchCriteriaId": "E509506A-FE54-48BA-ACB3-34C9E41FA6A0", "status": "Inactive", "versionEndExcluding": "4.2.0", "versionStartIncluding": "4.0.0"}

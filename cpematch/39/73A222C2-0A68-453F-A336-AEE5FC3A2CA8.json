@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-08-02T17:13:28.440", "created": "2022-08-02T17:13:28.440", "criteria": "cpe:2.3:a:skyhighsecurity:secure_web_gateway:*:*:*:*:*:*:*:*", "lastModified": "2022-08-02T17:13:28.440", "matchCriteriaId": "73A222C2-0A68-453F-A336-AEE5FC3A2CA8", "status": "Active", "versionEndExcluding": "8.2.28", "versionStartIncluding": "8.0.0"}

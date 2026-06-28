@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-12-16T19:56:48.887", "created": "2021-12-16T18:51:20.790", "criteria": "cpe:2.3:a:cisco:workload_optimization_manager:*:*:*:*:*:*:*:*", "lastModified": "2021-12-16T18:51:20.790", "matchCriteriaId": "B468EDA1-CDEF-44D4-9D62-C433CF27F631", "status": "Active", "versionEndExcluding": "3.2.1"}

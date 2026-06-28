@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-09-08T13:39:50.457", "created": "2021-09-08T13:32:02.430", "criteria": "cpe:2.3:a:nextcloud:circles:*:*:*:*:*:*:*:*", "lastModified": "2021-09-08T13:32:02.430", "matchCriteriaId": "33DEA475-8487-4912-94C5-BB612D36577F", "status": "Inactive", "versionEndIncluding": "0.21.3", "versionStartIncluding": "0.21.0"}

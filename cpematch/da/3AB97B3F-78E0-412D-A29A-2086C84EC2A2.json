@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-10-16T18:28:19.710", "created": "2024-10-16T18:28:19.710", "criteria": "cpe:2.3:a:php-fpm:php-fpm:*:*:*:*:*:*:*:*", "lastModified": "2024-10-16T18:35:57.983", "matchCriteriaId": "3AB97B3F-78E0-412D-A29A-2086C84EC2A2", "status": "Active", "versionEndExcluding": "8.1.30", "versionStartIncluding": "8.1.0"}

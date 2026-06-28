@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-04-14T23:32:01.523", "created": "2021-04-14T23:27:40.413", "criteria": "cpe:2.3:a:fortinet:fortiweb:*:*:*:*:*:*:*:*", "lastModified": "2021-04-14T23:27:40.413", "matchCriteriaId": "7920BC35-524C-480E-A5AD-5B72004AF39B", "status": "Inactive", "versionEndExcluding": "6.3.4", "versionStartIncluding": "6.3.0"}

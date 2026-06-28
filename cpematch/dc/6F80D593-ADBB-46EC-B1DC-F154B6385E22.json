@@ -1,0 +1,1 @@
+{"created": "2025-08-25T21:03:13.517", "criteria": "cpe:2.3:a:osgeo:geoserver:2.27.0:*:*:*:*:*:*:*", "lastModified": "2025-08-27T19:16:15.807", "matchCriteriaId": "6F80D593-ADBB-46EC-B1DC-F154B6385E22", "matches": [{"cpeName": "cpe:2.3:a:osgeo:geoserver:2.27.0:*:*:*:*:*:*:*", "cpeNameId": "FACF4D99-B2E3-47EA-8E70-244F54FCA957"}], "status": "Active"}

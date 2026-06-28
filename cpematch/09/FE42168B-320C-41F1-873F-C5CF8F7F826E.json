@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-06-10T13:16:22.530", "created": "2025-04-28T19:10:08.873", "criteria": "cpe:2.3:a:craftcms:craft_cms:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "FE42168B-320C-41F1-873F-C5CF8F7F826E", "status": "Inactive", "versionEndExcluding": "4.14.15", "versionStartExcluding": "4.0.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-04-16T16:56:34.663", "created": "2026-04-16T16:56:34.663", "criteria": "cpe:2.3:a:linuxfoundation:\\@backstage\\/plugin-scaffolder-backend:*:*:*:*:*:*:*:*", "lastModified": "2026-04-16T16:56:34.663", "matchCriteriaId": "C4E5B7FC-7640-4AB4-80D5-AA7F7F75FBEF", "status": "Active", "versionEndExcluding": "3.1.4"}

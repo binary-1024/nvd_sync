@@ -1,0 +1,1 @@
+{"created": "2025-08-18T18:34:24.330", "criteria": "cpe:2.3:a:ibm:db2:12.1.0:*:*:*:-:*:*:*", "lastModified": "2025-08-22T14:40:53.770", "matchCriteriaId": "548CA0C3-17A4-40E4-8097-2062DA369C24", "matches": [{"cpeName": "cpe:2.3:a:ibm:db2:12.1.0:*:*:*:-:*:*:*", "cpeNameId": "D58FC910-946A-454F-8484-FA02561B0D6D"}], "status": "Active"}

@@ -1,0 +1,1 @@
+{"created": "2025-08-18T18:25:06.620", "criteria": "cpe:2.3:a:ibm:mq_operator:3.5.1:*:*:*:cd:*:*:*", "lastModified": "2025-08-22T17:52:41.283", "matchCriteriaId": "2B7E5396-E067-449F-8CE7-AC3B6432DA16", "matches": [{"cpeName": "cpe:2.3:a:ibm:mq_operator:3.5.1:*:*:*:cd:*:*:*", "cpeNameId": "0D22EC28-C72A-4995-9F9F-9B59762D5670"}], "status": "Active"}

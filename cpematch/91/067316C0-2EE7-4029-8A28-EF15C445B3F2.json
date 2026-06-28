@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-03-30T13:28:26.583", "created": "2021-02-26T20:26:14.847", "criteria": "cpe:2.3:a:atlassian:data_center:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "067316C0-2EE7-4029-8A28-EF15C445B3F2", "status": "Inactive", "versionEndExcluding": "7.8.3", "versionStartIncluding": "7.5.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-07-30T02:33:59.850", "created": "2022-07-30T02:33:59.850", "criteria": "cpe:2.3:a:snyk:broker:*:*:*:*:*:node.js:*:*", "lastModified": "2022-07-30T02:33:59.850", "matchCriteriaId": "F3B0CD54-FA93-4705-874C-A8641616F661", "status": "Active", "versionEndExcluding": "4.73.0"}

@@ -1,0 +1,1 @@
+{"created": "2025-10-23T18:19:28.187", "criteria": "cpe:2.3:a:oracle:jdk:25:*:*:*:*:*:*:*", "lastModified": "2025-11-21T18:36:03.133", "matchCriteriaId": "9007EF86-9404-4D14-BE09-5859DD63D41F", "matches": [{"cpeName": "cpe:2.3:a:oracle:jdk:25:*:*:*:*:*:*:*", "cpeNameId": "927FC32E-B06A-45B4-89B6-8F70048BE565"}], "status": "Active"}

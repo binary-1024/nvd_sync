@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-08-29T15:40:02.280", "created": "2023-05-16T11:59:57.250", "criteria": "cpe:2.3:a:f5:big-ip_application_visibility_and_reporting:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "308B0070-6716-4754-A5E4-C3D70CAB376B", "status": "Inactive", "versionEndIncluding": "17.1.0", "versionStartIncluding": "13.1.0"}

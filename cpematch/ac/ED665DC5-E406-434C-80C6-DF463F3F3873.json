@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-06-04T16:27:18.597", "created": "2025-06-02T20:54:15.777", "criteria": "cpe:2.3:a:zengenuity:drupal_symfony_mailer:*:*:*:*:lite:drupal:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "ED665DC5-E406-434C-80C6-DF463F3F3873", "status": "Inactive", "versionEndExcluding": "1.0.6"}

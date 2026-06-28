@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-07-24T13:40:36.383", "created": "2024-07-24T13:40:36.383", "criteria": "cpe:2.3:a:argo:argo_cd:*:*:*:*:*:*:*:*", "lastModified": "2024-07-24T13:40:36.383", "matchCriteriaId": "B6F80110-AB28-4688-A382-7E9F26510956", "status": "Inactive", "versionEndExcluding": "2.11.3", "versionStartIncluding": "2.11.0"}

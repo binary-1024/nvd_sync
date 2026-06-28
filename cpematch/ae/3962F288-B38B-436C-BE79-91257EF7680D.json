@@ -1,0 +1,1 @@
+{"created": "2025-08-28T18:38:59.617", "criteria": "cpe:2.3:a:macrozheng:mall:*:*:*:*:*:*:*:*", "lastModified": "2025-08-28T18:38:59.617", "matchCriteriaId": "3962F288-B38B-436C-BE79-91257EF7680D", "matches": [{"cpeName": "cpe:2.3:a:macrozheng:mall:1.0.3:*:*:*:*:*:*:*", "cpeNameId": "5D8A6DC8-F056-4EC7-8839-F10C8537DB43"}], "status": "Active", "versionEndIncluding": "1.0.3"}

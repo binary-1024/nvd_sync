@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-11-11T03:24:08.807", "created": "2021-11-11T01:30:56.720", "criteria": "cpe:2.3:a:fullworks:redirect_404_error_page_to_homepage_or_custom_page_with_logs:*:*:*:*:*:wordpress:*:*", "lastModified": "2026-01-23T19:31:38.080", "matchCriteriaId": "3F44DD19-2C1B-4CC6-9185-595D90402099", "status": "Inactive", "versionEndExcluding": "1.7.9"}

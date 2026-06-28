@@ -1,0 +1,1 @@
+{"created": "2025-08-14T16:46:47.367", "criteria": "cpe:2.3:a:google:protobuf:*:*:*:*:*:python:*:*", "lastModified": "2025-08-15T02:00:00.107", "matchCriteriaId": "9B89AF4B-10F3-45FC-A01D-701ACF5F22CF", "status": "Inactive", "versionEndExcluding": "6.31.1", "versionStartIncluding": "6.30.0"}

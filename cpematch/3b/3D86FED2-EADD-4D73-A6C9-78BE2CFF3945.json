@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-07-30T17:16:05.580", "created": "2025-07-30T17:16:05.580", "criteria": "cpe:2.3:a:psu:haxcms-php:*:*:*:*:*:php:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "3D86FED2-EADD-4D73-A6C9-78BE2CFF3945", "status": "Inactive", "versionEndExcluding": "10.0.3", "versionStartIncluding": "9.0.0"}

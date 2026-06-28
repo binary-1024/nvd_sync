@@ -1,0 +1,1 @@
+{"cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:h:lexmark:c510:*:*:*:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "matchCriteriaId": "0373AE34-F0A9-469C-A33B-F1E338C982D9", "matches": [{"cpeName": "cpe:2.3:h:lexmark:c510:-:*:*:*:*:*:*:*", "cpeNameId": "22F0B32C-20AE-4406-990C-51FED5C58169"}], "status": "Active"}

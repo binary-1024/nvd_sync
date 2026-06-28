@@ -1,0 +1,1 @@
+{"cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:a:exim:exim:4.64:*:*:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "matchCriteriaId": "30190EAB-7140-4E0A-B7A5-8FA8BD0749C9", "matches": [{"cpeName": "cpe:2.3:a:exim:exim:4.64:*:*:*:*:*:*:*", "cpeNameId": "2C491410-FEDF-40DE-96FB-C3E379C929CF"}], "status": "Active"}

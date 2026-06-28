@@ -1,0 +1,1 @@
+{"created": "2025-12-28T23:28:11.613", "criteria": "cpe:2.3:a:openfga:helm-charts:*:*:*:*:*:*:*:*", "lastModified": "2025-12-28T23:28:11.613", "matchCriteriaId": "C423146E-768B-451C-99E3-3707620F25CF", "status": "Active", "versionEndExcluding": "0.2.49", "versionStartIncluding": "0.1.34"}

@@ -1,0 +1,1 @@
+{"created": "2025-08-06T13:52:37.217", "criteria": "cpe:2.3:o:dlink:dcs-p703_firmware:*:*:*:*:*:*:*:*", "lastModified": "2025-08-13T13:37:55.153", "matchCriteriaId": "1ADE8472-8AFA-431A-9E14-5FCB878025F3", "matches": [{"cpeName": "cpe:2.3:o:dlink:dcs-p703_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "0B02F57A-D10D-41BA-A099-65B4E0BC2119"}], "status": "Active"}

@@ -1,0 +1,1 @@
+{"created": "2025-08-01T15:02:32.613", "criteria": "cpe:2.3:o:cisco:ios:15.3jh:*:*:*:*:*:*:*", "lastModified": "2025-08-08T15:23:50.747", "matchCriteriaId": "CDC815FA-3321-4681-B6BC-2051F40FFA61", "matches": [{"cpeName": "cpe:2.3:o:cisco:ios:15.3jh:*:*:*:*:*:*:*", "cpeNameId": "83A6F5D5-8963-4550-97A2-BFA533E89D20"}], "status": "Active"}

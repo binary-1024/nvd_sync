@@ -1,0 +1,1 @@
+{"created": "2020-06-22T16:56:06.440", "criteria": "cpe:2.3:o:intel:trusted_execution_engine:*:*:*:*:*:*:*:*", "lastModified": "2020-06-22T16:56:06.440", "matchCriteriaId": "DDB76164-AB77-4D87-87BA-63472E1CAFA8", "status": "Active", "versionEndExcluding": "4.0.25", "versionStartIncluding": "4.0"}

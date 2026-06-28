@@ -1,0 +1,1 @@
+{"created": "2025-07-23T11:03:39.057", "criteria": "cpe:2.3:a:google:protobuf-java:3.25.5:*:*:*:*:*:*:*", "lastModified": "2025-08-12T21:28:39.080", "matchCriteriaId": "F6035ADF-5D44-481C-ABCC-CE821339A4C4", "matches": [{"cpeName": "cpe:2.3:a:google:protobuf-java:3.25.5:*:*:*:*:*:*:*", "cpeNameId": "E024BED9-349C-47E1-9A74-22730088F7F9"}], "status": "Active"}

@@ -1,0 +1,1 @@
+{"created": "2025-08-01T18:15:37.487", "criteria": "cpe:2.3:h:cisco:ncs_540-fh-csr-sys:-:*:*:*:*:*:*:*", "lastModified": "2025-08-04T12:02:05.823", "matchCriteriaId": "1645EAA7-0847-4418-BA9B-FA8E36B59626", "matches": [{"cpeName": "cpe:2.3:h:cisco:ncs_540-fh-csr-sys:-:*:*:*:*:*:*:*", "cpeNameId": "705F4FD5-F640-4883-BC89-96049FCF53F7"}], "status": "Active"}

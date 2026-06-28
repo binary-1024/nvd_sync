@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-12-11T16:18:43.080", "created": "2024-09-25T19:41:52.927", "criteria": "cpe:2.3:a:fortinet:fortianalyzer-bigdata:*:*:*:*:*:*:*:*", "lastModified": "2025-02-04T16:58:28.267", "matchCriteriaId": "FE0C2EF7-B4C2-4B1F-8CE1-AD50C319A172", "status": "Active", "versionEndIncluding": "7.2.5", "versionStartIncluding": "7.2.0"}

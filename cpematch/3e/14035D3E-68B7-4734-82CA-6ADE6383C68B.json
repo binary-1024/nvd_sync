@@ -1,0 +1,1 @@
+{"created": "2025-08-15T15:50:40.033", "criteria": "cpe:2.3:a:ibm:voice_gateway:1.0.4:*:*:*:*:*:*:*", "lastModified": "2025-08-20T12:41:17.260", "matchCriteriaId": "14035D3E-68B7-4734-82CA-6ADE6383C68B", "matches": [{"cpeName": "cpe:2.3:a:ibm:voice_gateway:1.0.4:*:*:*:*:*:*:*", "cpeNameId": "7768A3F6-55F5-4345-8582-51AA1E53C885"}], "status": "Active"}

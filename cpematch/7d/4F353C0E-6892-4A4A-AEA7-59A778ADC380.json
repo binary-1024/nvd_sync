@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-09-12T18:21:33.207", "created": "2024-09-12T18:21:33.207", "criteria": "cpe:2.3:a:microsoft:power_automate:*:*:*:*:*:windows:*:*", "lastModified": "2024-09-12T18:21:33.207", "matchCriteriaId": "4F353C0E-6892-4A4A-AEA7-59A778ADC380", "status": "Active", "versionEndExcluding": "2.47.119.24249", "versionStartIncluding": "2.47"}

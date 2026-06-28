@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-03-07T18:03:28.393", "created": "2022-03-05T01:16:36.573", "criteria": "cpe:2.3:a:wpscan:wp_cloudy:*:*:*:*:*:wordpress:*:*", "lastModified": "2022-03-05T01:16:36.573", "matchCriteriaId": "5B61DAF8-4D60-4FA1-BA4D-A47D269F1153", "status": "Active", "versionEndExcluding": "4.4.9"}

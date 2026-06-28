@@ -1,0 +1,1 @@
+{"created": "2026-04-03T18:42:02.610", "criteria": "cpe:2.3:a:zscaler:client_connector:*:*:*:*:*:windows:*:*", "lastModified": "2026-04-03T18:42:02.610", "matchCriteriaId": "B8E631B3-6CBF-4BED-A2AB-2F92B5DF0736", "status": "Active", "versionEndExcluding": "4.8.0.63", "versionStartIncluding": "4.8"}

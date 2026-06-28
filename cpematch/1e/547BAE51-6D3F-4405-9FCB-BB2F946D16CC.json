@@ -1,0 +1,1 @@
+{"created": "2025-11-25T21:48:40.557", "criteria": "cpe:2.3:o:ibm:power10_system_firmware:*:*:*:*:*:*:*:*", "lastModified": "2025-11-28T15:56:02.443", "matchCriteriaId": "547BAE51-6D3F-4405-9FCB-BB2F946D16CC", "status": "Inactive", "versionEndIncluding": "FW1050.21", "versionStartIncluding": "FW1050.00"}

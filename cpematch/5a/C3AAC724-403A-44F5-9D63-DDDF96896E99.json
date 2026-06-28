@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-12-22T03:16:52.480", "created": "2021-12-21T14:51:00.423", "criteria": "cpe:2.3:a:vmware:workspace_one_uem_console:*:*:*:*:*:*:*:*", "lastModified": "2021-12-21T14:51:00.423", "matchCriteriaId": "C3AAC724-403A-44F5-9D63-DDDF96896E99", "status": "Active", "versionEndExcluding": "20.0.8.36", "versionStartIncluding": "20.0.8.0"}

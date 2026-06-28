@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-05-20T22:02:09.307", "created": "2021-05-20T22:02:09.307", "criteria": "cpe:2.3:a:f5:big-ip_application_acceleration_manager:*:*:*:*:*:*:*:*", "lastModified": "2021-05-20T22:02:09.307", "matchCriteriaId": "113A888B-0697-4710-8866-877041E56ABE", "status": "Inactive", "versionEndIncluding": "14.1.4.2", "versionStartIncluding": "14.1.0"}

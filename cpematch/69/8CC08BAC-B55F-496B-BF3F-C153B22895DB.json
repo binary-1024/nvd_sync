@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-01-07T16:22:03.430", "created": "2022-01-07T14:37:25.060", "criteria": "cpe:2.3:a:vmware:fusion:*:*:*:*:*:macos:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "8CC08BAC-B55F-496B-BF3F-C153B22895DB", "status": "Inactive", "versionEndIncluding": "12.2.0", "versionStartIncluding": "12.0.0"}

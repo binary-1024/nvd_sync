@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-02-14T15:23:31.563", "created": "2022-02-11T14:45:05.320", "criteria": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_cpu_1513pro-2_firmware:*:*:*:*:*:*:*:*", "lastModified": "2022-02-11T14:45:05.320", "matchCriteriaId": "D414FDF2-8988-4DAD-AA26-2E6263DE55FB", "status": "Active", "versionEndExcluding": "2.9.4", "versionStartIncluding": "2.9.2"}

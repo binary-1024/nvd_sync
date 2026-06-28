@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-03-09T15:12:56.407", "created": "2026-03-09T15:12:56.407", "criteria": "cpe:2.3:a:mediawiki:mediawiki:*:*:*:*:*:*:*:*", "lastModified": "2026-03-09T15:13:46.943", "matchCriteriaId": "D7C48125-C821-4BA1-8E16-AB767351945A", "status": "Inactive", "versionEndIncluding": "1.43.4", "versionStartIncluding": "1.39.16"}

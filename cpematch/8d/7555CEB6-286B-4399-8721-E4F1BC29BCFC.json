@@ -1,0 +1,1 @@
+{"created": "2026-03-16T18:59:27.153", "criteria": "cpe:2.3:h:intel:arc_a370m:-:*:*:*:*:*:*:*", "lastModified": "2026-03-17T13:44:40.553", "matchCriteriaId": "7555CEB6-286B-4399-8721-E4F1BC29BCFC", "matches": [{"cpeName": "cpe:2.3:h:intel:arc_a370m:-:*:*:*:*:*:*:*", "cpeNameId": "6AF2B1BF-BB35-40B8-A1DF-EC5382F96FEB"}], "status": "Active"}

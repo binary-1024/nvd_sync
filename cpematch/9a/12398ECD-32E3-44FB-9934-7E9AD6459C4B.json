@@ -1,0 +1,1 @@
+{"created": "2022-03-03T19:39:05.760", "criteria": "cpe:2.3:a:zulip:zulip_server:*:*:*:*:*:*:*:*", "lastModified": "2022-03-03T19:39:05.760", "matchCriteriaId": "12398ECD-32E3-44FB-9934-7E9AD6459C4B", "status": "Inactive", "versionEndIncluding": "4.10.0", "versionStartIncluding": "2.0.0"}

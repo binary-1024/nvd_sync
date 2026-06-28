@@ -1,0 +1,1 @@
+{"created": "2026-04-30T17:24:40.037", "criteria": "cpe:2.3:o:freebsd:freebsd:15.0:p6:*:*:*:*:*:*", "lastModified": "2026-05-05T18:04:38.590", "matchCriteriaId": "047E7EE9-FB51-4CF2-A8BE-484BFD819565", "matches": [{"cpeName": "cpe:2.3:o:freebsd:freebsd:15.0:p6:*:*:*:*:*:*", "cpeNameId": "724F7852-1F4F-43EE-89A5-6B57B5D38F61"}], "status": "Active"}

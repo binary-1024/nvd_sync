@@ -1,0 +1,1 @@
+{"cpeLastModified": "2019-09-11T13:32:11.330", "created": "2019-08-26T13:49:32.683", "criteria": "cpe:2.3:a:apache:commons_beanutils:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "C40E5083-D553-4B9F-B78B-E4F4F885199D", "status": "Inactive", "versionEndIncluding": "1.9.3"}

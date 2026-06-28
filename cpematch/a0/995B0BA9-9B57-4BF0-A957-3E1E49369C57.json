@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-08-11T18:09:54.353", "created": "2025-08-11T18:09:54.353", "criteria": "cpe:2.3:a:ibm:hardware_management_console:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "995B0BA9-9B57-4BF0-A957-3E1E49369C57", "status": "Inactive", "versionEndIncluding": "10.3.1050.0", "versionStartIncluding": "10.2.1030.0"}

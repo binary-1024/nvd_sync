@@ -1,0 +1,1 @@
+{"created": "2026-04-16T15:36:35.240", "criteria": "cpe:2.3:a:canonical:ubuntu_subiquity:24.04.4:*:*:*:*:*:*:*", "lastModified": "2026-04-20T11:42:32.397", "matchCriteriaId": "CFFCFD89-EF20-4207-A3B1-0F3F368F0C69", "matches": [{"cpeName": "cpe:2.3:a:canonical:ubuntu_subiquity:24.04.4:*:*:*:*:*:*:*", "cpeNameId": "4530B75B-704A-404E-AE5C-2F2BF8EE4AFE"}], "status": "Active"}

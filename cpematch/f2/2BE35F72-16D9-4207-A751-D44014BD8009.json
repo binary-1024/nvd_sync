@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-08-20T19:13:00.843", "created": "2021-08-20T19:09:00.160", "criteria": "cpe:2.3:a:cpanel:cpanel:*:*:*:*:*:*:*:*", "lastModified": "2021-08-20T19:09:00.160", "matchCriteriaId": "2BE35F72-16D9-4207-A751-D44014BD8009", "status": "Active", "versionEndExcluding": "11.94.0.13", "versionStartIncluding": "11.94.0.0"}

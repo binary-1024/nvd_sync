@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-05-13T18:31:44.260", "created": "2025-04-16T18:12:11.920", "criteria": "cpe:2.3:a:apache:traffic_server:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "6FB7681B-DE21-493A-8FBD-3FCF9080EA90", "status": "Inactive", "versionEndIncluding": "10.0.4", "versionStartIncluding": "10.0.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-04-02T14:13:38.760", "created": "2021-05-24T13:57:38.557", "criteria": "cpe:2.3:a:vmware:rabbitmq:*:*:*:*:*:*:*:*", "lastModified": "2025-04-03T02:00:38.503", "matchCriteriaId": "E25E475F-4AD4-4976-98DE-8F740AAF37A7", "status": "Inactive", "versionEndExcluding": "3.8.16", "versionStartIncluding": "3.8.0"}

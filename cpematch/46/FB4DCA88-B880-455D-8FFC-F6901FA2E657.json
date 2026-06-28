@@ -1,0 +1,1 @@
+{"created": "2025-08-01T15:02:32.613", "criteria": "cpe:2.3:o:cisco:ios:15.3jpi:*:*:*:*:*:*:*", "lastModified": "2025-08-08T15:23:50.747", "matchCriteriaId": "FB4DCA88-B880-455D-8FFC-F6901FA2E657", "matches": [{"cpeName": "cpe:2.3:o:cisco:ios:15.3jpi:*:*:*:*:*:*:*", "cpeNameId": "36DAAD15-06F0-4DA1-BFF8-42963211379D"}], "status": "Active"}

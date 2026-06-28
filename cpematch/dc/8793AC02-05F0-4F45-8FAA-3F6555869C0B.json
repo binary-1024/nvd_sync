@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-07-24T17:08:46.597", "created": "2025-07-24T17:08:46.597", "criteria": "cpe:2.3:a:adobe:commerce_b2b:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "8793AC02-05F0-4F45-8FAA-3F6555869C0B", "status": "Inactive", "versionEndExcluding": "1.5.2", "versionStartIncluding": "1.5.0"}

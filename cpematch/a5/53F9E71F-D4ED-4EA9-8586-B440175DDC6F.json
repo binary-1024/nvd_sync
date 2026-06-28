@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-07-07T15:33:03.957", "created": "2025-06-03T14:13:08.300", "criteria": "cpe:2.3:a:ckeditor_4_project:ckeditor_4:*:*:*:*:lts:drupal:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "53F9E71F-D4ED-4EA9-8586-B440175DDC6F", "status": "Inactive", "versionEndExcluding": "1.0.1", "versionStartIncluding": "1.0.0"}

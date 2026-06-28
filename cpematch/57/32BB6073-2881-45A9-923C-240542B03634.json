@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-07-27T17:20:09.540", "created": "2022-07-27T17:20:09.540", "criteria": "cpe:2.3:a:octopus:octopus_server:*:*:*:*:*:*:*:*", "lastModified": "2022-07-27T17:20:09.540", "matchCriteriaId": "32BB6073-2881-45A9-923C-240542B03634", "status": "Inactive", "versionEndIncluding": "2019.7.6", "versionStartIncluding": "2018.8.4"}

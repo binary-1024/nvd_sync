@@ -1,0 +1,1 @@
+{"created": "2021-06-15T14:44:12.410", "criteria": "cpe:2.3:a:kubernetes-nmstate_container:kubernetes-nmstate:*:*:*:*:*:*:*:*", "lastModified": "2021-06-15T14:44:12.410", "matchCriteriaId": "78146537-91DF-4BDA-A6DA-D4741D66FB34", "status": "Inactive", "versionEndExcluding": "2.3.0"}

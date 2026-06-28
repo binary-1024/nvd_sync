@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-05-22T15:50:46.650", "created": "2025-05-01T14:56:22.643", "criteria": "cpe:2.3:a:arm:mbed_tls:*:*:*:*:*:*:*:*", "lastModified": "2026-06-05T19:38:32.047", "matchCriteriaId": "8C51BDD9-D312-48A3-B083-F129C60D6B6B", "status": "Inactive", "versionEndExcluding": "3.6.2", "versionStartIncluding": "3.5.0"}

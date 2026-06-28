@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-08-17T15:30:31.520", "created": "2020-02-28T23:18:21.263", "criteria": "cpe:2.3:a:cloudfoundry:cloud_controller:*:*:*:*:*:*:*:*", "lastModified": "2020-02-28T23:18:21.263", "matchCriteriaId": "DD8BCCE7-286A-482A-8A2F-6C152E69A491", "status": "Inactive", "versionEndExcluding": "1.91.0"}

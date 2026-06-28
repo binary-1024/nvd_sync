@@ -1,0 +1,1 @@
+{"created": "2025-07-09T17:04:13.690", "criteria": "cpe:2.3:h:realtek:rtl8762ekf-evb:-:*:*:*:*:*:*:*", "lastModified": "2025-08-13T14:28:51.900", "matchCriteriaId": "039D81D2-27FF-4C45-B876-ACA44766524A", "matches": [{"cpeName": "cpe:2.3:h:realtek:rtl8762ekf-evb:-:*:*:*:*:*:*:*", "cpeNameId": "BA43CD6D-9039-4C9A-932C-ADB54FD56FD0"}], "status": "Active"}

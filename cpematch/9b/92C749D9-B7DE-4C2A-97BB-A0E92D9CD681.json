@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-04-02T15:50:14.200", "created": "2026-04-02T15:50:14.200", "criteria": "cpe:2.3:a:juliangruber:brace-expansion:*:*:*:*:*:nodejs:*:*", "lastModified": "2026-04-02T15:50:14.200", "matchCriteriaId": "92C749D9-B7DE-4C2A-97BB-A0E92D9CD681", "status": "Active", "versionEndExcluding": "2.0.3", "versionStartIncluding": "2.0.0"}

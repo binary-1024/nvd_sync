@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-12-12T16:23:24.480", "created": "2024-09-04T19:28:39.567", "criteria": "cpe:2.3:o:zyxel:zld_firmware:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "C96951B7-DDC3-4DF2-B349-C9AB1BEF9045", "status": "Inactive", "versionEndExcluding": "5.39", "versionStartIncluding": "4.50"}

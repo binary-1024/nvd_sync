@@ -1,0 +1,1 @@
+{"created": "2025-12-02T19:47:04.340", "criteria": "cpe:2.3:a:acryl_data:datahub-helm:*:*:*:*:*:*:*:*", "lastModified": "2025-12-02T19:47:31.350", "matchCriteriaId": "9D67FFF6-5B7F-4099-AA64-390AFAAF67B5", "status": "Inactive", "versionEndExcluding": "0.2.182", "versionStartIncluding": "0.1.143"}

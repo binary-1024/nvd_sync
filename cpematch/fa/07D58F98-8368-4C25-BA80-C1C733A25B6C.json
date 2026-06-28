@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-03-11T13:40:52.873", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:o:vmware:esxi:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "07D58F98-8368-4C25-BA80-C1C733A25B6C", "status": "Inactive", "versionEndExcluding": "esxi600-201806401-bg", "versionStartIncluding": "6.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-01-28T16:14:19.583", "created": "2021-01-28T16:14:19.567", "criteria": "cpe:2.3:a:redhat:ansible_engine:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "3C505A70-AA9F-49D5-A9B7-98EEC7051C21", "status": "Inactive", "versionEndExcluding": "2.6.20", "versionStartIncluding": "2.0"}

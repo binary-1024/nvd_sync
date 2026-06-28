@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-09-07T16:50:32.203", "created": "2021-09-03T17:26:56.607", "criteria": "cpe:2.3:a:umbraco:forms:*:*:*:*:*:*:*:*", "lastModified": "2021-09-03T17:26:56.607", "matchCriteriaId": "CA322ABD-2D97-4428-9116-E52D318D07CF", "status": "Active", "versionEndExcluding": "8.7.6", "versionStartIncluding": "8.7.0"}

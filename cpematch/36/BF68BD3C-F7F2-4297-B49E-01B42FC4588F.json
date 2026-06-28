@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-03-03T22:21:48.897", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:a:mit:kerberos:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "BF68BD3C-F7F2-4297-B49E-01B42FC4588F", "status": "Inactive", "versionEndIncluding": "5-1.8.1"}

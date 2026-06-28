@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-06-28T17:51:54.763", "created": "2023-02-06T19:23:22.467", "criteria": "cpe:2.3:a:lemonldap-ng:apache\\:\\:session\\:\\:ldap:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "E4CDE4B9-DDC0-4E92-9403-E89BFC3285F6", "status": "Inactive", "versionEndExcluding": "0.5"}

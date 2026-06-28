@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-07-07T15:53:17.150", "created": "2022-07-07T15:53:17.150", "criteria": "cpe:2.3:a:mermaid_project:mermaid:*:*:*:*:*:node.js:*:*", "lastModified": "2022-07-07T15:53:17.150", "matchCriteriaId": "32DDE6C8-E0D6-4AE0-AEA6-C8EFC96F2285", "status": "Inactive", "versionEndExcluding": "9.1.2", "versionStartIncluding": "8.0.0"}

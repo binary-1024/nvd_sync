@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-06-17T14:50:15.847", "created": "2022-06-17T14:50:15.847", "criteria": "cpe:2.3:a:biscuitsec:biscuit-auth:*:*:*:*:*:rust:*:*", "lastModified": "2022-06-17T14:50:15.847", "matchCriteriaId": "9EBE032D-E420-43D7-ADBB-F310E6C0BE22", "status": "Inactive", "versionEndExcluding": "2.0.0", "versionStartIncluding": "1.0.0"}

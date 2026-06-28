@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-03-26T15:36:31.453", "created": "2021-03-26T15:36:31.453", "criteria": "cpe:2.3:a:cisco:jabber:*:*:*:*:*:iphone_os:*:*", "lastModified": "2021-03-26T15:36:31.453", "matchCriteriaId": "91922115-F325-464D-82B9-6C895568FFE2", "status": "Inactive", "versionEndExcluding": "12.5.4", "versionStartIncluding": "12.5.0"}

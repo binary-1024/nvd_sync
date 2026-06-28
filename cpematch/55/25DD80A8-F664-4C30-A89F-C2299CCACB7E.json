@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-03-03T23:02:44.753", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:h:cisco:7606-s:-:*:*:*:*:*:*:*", "lastModified": "2022-05-31T12:14:33.723", "matchCriteriaId": "25DD80A8-F664-4C30-A89F-C2299CCACB7E", "matches": [{"cpeName": "cpe:2.3:h:cisco:7606-s:-:*:*:*:*:*:*:*", "cpeNameId": "78664B43-067C-4268-A16D-EDAA3B619EBF"}], "status": "Active"}

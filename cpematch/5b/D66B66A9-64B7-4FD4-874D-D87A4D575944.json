@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-03-25T18:14:15.620", "created": "2021-02-25T12:19:14.277", "criteria": "cpe:2.3:a:atlassian:atlassian-gadgets:*:*:*:*:*:atlassian:*:*", "lastModified": "2021-02-25T12:19:14.277", "matchCriteriaId": "D66B66A9-64B7-4FD4-874D-D87A4D575944", "status": "Active", "versionEndExcluding": "4.3.14", "versionStartIncluding": "4.3.0"}

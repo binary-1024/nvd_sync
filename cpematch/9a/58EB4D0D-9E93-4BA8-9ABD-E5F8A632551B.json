@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-04-18T15:21:45.427", "created": "2022-04-18T15:18:01.587", "criteria": "cpe:2.3:a:apache:zookeeper:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "58EB4D0D-9E93-4BA8-9ABD-E5F8A632551B", "status": "Inactive", "versionEndExcluding": "3.5.9"}

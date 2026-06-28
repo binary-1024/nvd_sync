@@ -1,0 +1,1 @@
+{"created": "2026-04-30T18:24:24.197", "criteria": "cpe:2.3:a:linuxfoundation:backstage\\/plugin-scaffolder-backend:*:*:*:*:*:node.js:*:*", "lastModified": "2026-04-30T18:24:24.197", "matchCriteriaId": "39A36240-5656-4C93-8F48-8A0A8B3362C6", "status": "Active", "versionEndExcluding": "3.1.5", "versionStartIncluding": "3.1.0"}

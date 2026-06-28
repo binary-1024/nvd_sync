@@ -1,0 +1,1 @@
+{"created": "2025-10-02T20:45:59.690", "criteria": "cpe:2.3:a:jenkins:anchorchain:1.0:*:*:*:*:jenkins:*:*", "lastModified": "2025-11-04T19:39:56.600", "matchCriteriaId": "3851CAFF-7FAA-43A9-99CF-136154491F3C", "matches": [{"cpeName": "cpe:2.3:a:jenkins:anchorchain:1.0:*:*:*:*:jenkins:*:*", "cpeNameId": "3849657D-6F69-48E1-9BA6-A23F0F6A2250"}], "status": "Active"}

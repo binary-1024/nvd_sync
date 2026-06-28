@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-08-25T22:16:39.733", "created": "2025-08-25T22:16:39.733", "criteria": "cpe:2.3:a:rangerstudio:directus:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "54E62B67-BB22-4115-8AC6-233D214BBB3B", "status": "Inactive", "versionEndExcluding": "11.5.0", "versionStartIncluding": "9.12.0"}

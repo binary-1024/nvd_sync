@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-01-26T13:29:06.230", "created": "2026-01-26T13:29:06.230", "criteria": "cpe:2.3:a:react:react-router:*:*:*:*:*:*:*:*", "lastModified": "2026-01-26T13:29:06.230", "matchCriteriaId": "C7192712-5065-4F81-A14B-B177CDC78822", "status": "Active", "versionEndIncluding": "7.11.0", "versionStartIncluding": "7.0.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-06-04T16:34:23.270", "created": "2021-06-04T16:30:49.340", "criteria": "cpe:2.3:a:tenancy:multi-tenant:*:*:*:*:*:*:*:*", "lastModified": "2021-06-04T16:30:49.340", "matchCriteriaId": "35D17AA1-63FA-40B8-BA1D-7746FCD8C3EE", "status": "Inactive", "versionEndExcluding": "5.7.2", "versionStartIncluding": "5.7.0"}

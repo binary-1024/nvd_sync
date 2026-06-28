@@ -1,0 +1,1 @@
+{"created": "2026-01-16T18:23:57.470", "criteria": "cpe:2.3:a:eclipse:jersey:3.0.16:*:*:*:*:*:*:*", "lastModified": "2026-01-20T13:55:46.490", "matchCriteriaId": "5CFA26EB-7ABF-4EB7-9A1B-80D1655138E6", "matches": [{"cpeName": "cpe:2.3:a:eclipse:jersey:3.0.16:*:*:*:*:*:*:*", "cpeNameId": "C2BB48D3-A1C7-4BCB-96A1-D7E881BCA9FA"}], "status": "Active"}

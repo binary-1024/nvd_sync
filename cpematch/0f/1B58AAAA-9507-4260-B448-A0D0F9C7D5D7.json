@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-11-28T09:58:42.043", "created": "2022-11-28T09:58:42.043", "criteria": "cpe:2.3:a:linuxfoundation:opendaylight:*:*:*:*:*:*:*:*", "lastModified": "2022-11-28T10:04:41.800", "matchCriteriaId": "1B58AAAA-9507-4260-B448-A0D0F9C7D5D7", "status": "Inactive", "versionEndExcluding": "0.16.5"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-03-16T16:23:13.520", "created": "2022-03-15T18:42:49.237", "criteria": "cpe:2.3:a:redhat:clair:*:*:*:*:*:*:*:*", "lastModified": "2022-03-15T18:42:49.237", "matchCriteriaId": "DC3746AC-E2FF-414F-8707-CE382C70441B", "status": "Active", "versionEndExcluding": "0.4.8", "versionStartIncluding": "0.4.6"}

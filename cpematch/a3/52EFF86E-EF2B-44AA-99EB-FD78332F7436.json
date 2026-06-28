@@ -1,0 +1,1 @@
+{"created": "2025-07-14T17:00:17.910", "criteria": "cpe:2.3:a:linuxfoundation:onos-lib-go:0.10.25:*:*:*:*:*:*:*", "lastModified": "2025-11-25T15:06:13.977", "matchCriteriaId": "52EFF86E-EF2B-44AA-99EB-FD78332F7436", "matches": [{"cpeName": "cpe:2.3:a:linuxfoundation:onos-lib-go:0.10.25:*:*:*:*:*:*:*", "cpeNameId": "E6A58546-4431-4308-847F-2BD6FF757C67"}], "status": "Active"}

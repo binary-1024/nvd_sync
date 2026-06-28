@@ -1,0 +1,1 @@
+{"created": "2025-12-18T18:36:38.757", "criteria": "cpe:2.3:o:valuehd:v71uvs_firmware:*:*:*:*:*:*:*:*", "lastModified": "2025-12-19T19:24:54.553", "matchCriteriaId": "10818FEF-34EA-49EF-A838-DDD47E8E5A07", "matches": [{"cpeName": "cpe:2.3:o:valuehd:v71uvs_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "9F5DA6B0-03FC-4A4C-B22F-C4BB0042F8F6"}], "status": "Active"}

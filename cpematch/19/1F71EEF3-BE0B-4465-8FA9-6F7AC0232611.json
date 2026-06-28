@@ -1,0 +1,1 @@
+{"created": "2026-03-26T21:02:34.390", "criteria": "cpe:2.3:a:aquasec:setup-trivy:*:*:*:*:*:*:*:*", "lastModified": "2026-03-26T21:02:34.390", "matchCriteriaId": "1F71EEF3-BE0B-4465-8FA9-6F7AC0232611", "status": "Active", "versionEndExcluding": "0.2.6"}

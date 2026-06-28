@@ -1,0 +1,1 @@
+{"created": "2025-06-18T13:40:24.840", "criteria": "cpe:2.3:a:ibm:security_verify_gateway_for_windows_login:*:*:*:*:*:*:*:*", "lastModified": "2025-06-18T13:40:24.840", "matchCriteriaId": "901B7BA0-7493-403D-B0F2-57B1D1E340DE", "status": "Active", "versionEndIncluding": "1.0.10", "versionStartIncluding": "1.0.1"}

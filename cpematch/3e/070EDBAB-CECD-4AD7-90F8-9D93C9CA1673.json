@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-05-19T19:27:35.507", "created": "2022-05-19T19:27:35.507", "criteria": "cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:*:*:*:*:-:*:*:*", "lastModified": "2022-05-19T19:27:35.507", "matchCriteriaId": "070EDBAB-CECD-4AD7-90F8-9D93C9CA1673", "status": "Inactive", "versionEndExcluding": "7.8", "versionStartIncluding": "7.4"}

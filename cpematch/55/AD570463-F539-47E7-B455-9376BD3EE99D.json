@@ -1,0 +1,1 @@
+{"created": "2019-08-27T15:25:58.803", "criteria": "cpe:2.3:a:cisco:integrated_management_controller_supervisor:*:*:*:*:*:*:*:*", "lastModified": "2019-08-27T15:25:58.803", "matchCriteriaId": "AD570463-F539-47E7-B455-9376BD3EE99D", "status": "Active", "versionEndExcluding": "1.5\\(9g\\)", "versionStartIncluding": "1.5.0.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-05-14T13:54:53.307", "created": "2026-05-14T13:54:53.307", "criteria": "cpe:2.3:a:opentelemetry:opentelemetry:*:*:*:*:*:go:*:*", "lastModified": "2026-05-14T13:58:25.330", "matchCriteriaId": "44ACE74B-B988-45F5-B71D-F05443AEE46E", "status": "Inactive", "versionEndExcluding": "0.8.0", "versionStartIncluding": "0.4.0"}

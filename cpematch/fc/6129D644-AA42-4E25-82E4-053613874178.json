@@ -1,0 +1,1 @@
+{"created": "2025-07-22T18:34:45.163", "criteria": "cpe:2.3:a:redhat:openshift_service_mesh:2.6.3:*:*:*:*:*:*:*", "lastModified": "2025-11-03T15:50:37.713", "matchCriteriaId": "6129D644-AA42-4E25-82E4-053613874178", "matches": [{"cpeName": "cpe:2.3:a:redhat:openshift_service_mesh:2.6.3:*:*:*:*:*:*:*", "cpeNameId": "ED470125-F35F-4BCC-9D58-60FCDFF137D0"}], "status": "Active"}

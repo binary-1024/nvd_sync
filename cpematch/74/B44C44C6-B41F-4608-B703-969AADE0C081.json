@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-05-05T01:11:44.147", "created": "2022-06-07T19:24:26.637", "criteria": "cpe:2.3:a:hashicorp:go-getter:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "B44C44C6-B41F-4608-B703-969AADE0C081", "status": "Inactive", "versionEndIncluding": "2.0.2", "versionStartIncluding": "2.0.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-12-30T12:17:51.863", "created": "2024-12-30T12:17:51.863", "criteria": "cpe:2.3:a:microsoft:azure_arc_extension_microsoft.azure.hybridnetwork:*:*:*:*:*:*:*:*", "lastModified": "2024-12-30T12:17:51.863", "matchCriteriaId": "786524BD-84BC-4538-B6D3-E070B84A00EB", "status": "Active", "versionEndExcluding": "1.0.2620-162", "versionStartIncluding": "1.0.0"}

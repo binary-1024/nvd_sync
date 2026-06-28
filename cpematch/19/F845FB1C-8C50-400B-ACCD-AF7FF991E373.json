@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-11-04T17:11:17.270", "created": "2024-11-04T17:11:17.270", "criteria": "cpe:2.3:a:palletsprojects:werkzeug:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "F845FB1C-8C50-400B-ACCD-AF7FF991E373", "status": "Inactive", "versionEndExcluding": "3.0.5"}

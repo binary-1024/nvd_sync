@@ -1,0 +1,1 @@
+{"created": "2020-04-03T21:01:08.227", "criteria": "cpe:2.3:a:redhat:openshift:*:*:*:*:*:*:*:*", "lastModified": "2020-04-03T21:01:08.227", "matchCriteriaId": "E3A6C41B-575B-486E-AC21-429F507E1447", "status": "Active", "versionEndExcluding": "4.2.21", "versionStartIncluding": "4.2.0"}

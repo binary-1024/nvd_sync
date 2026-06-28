@@ -1,0 +1,1 @@
+{"created": "2025-10-14T14:48:13.587", "criteria": "cpe:2.3:a:arcserve:udp:8.1:*:*:*:*:*:*:*", "lastModified": "2025-10-17T14:12:26.797", "matchCriteriaId": "0055EE48-DFE6-4AD9-AD04-6FFC118D262C", "matches": [{"cpeName": "cpe:2.3:a:arcserve:udp:8.1:*:*:*:*:*:*:*", "cpeNameId": "B0482A37-474D-4CA2-AC1D-EFB32FF32157"}], "status": "Active"}

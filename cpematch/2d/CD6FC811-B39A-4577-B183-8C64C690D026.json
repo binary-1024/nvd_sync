@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-01-14T18:45:37.580", "created": "2025-01-14T18:45:37.580", "criteria": "cpe:2.3:a:fortra:filecatalyst_workflow:*:*:*:*:*:*:*:*", "lastModified": "2025-01-14T18:47:04.783", "matchCriteriaId": "CD6FC811-B39A-4577-B183-8C64C690D026", "status": "Inactive", "versionEndExcluding": "5.1.6", "versionStartIncluding": "5.0.0"}

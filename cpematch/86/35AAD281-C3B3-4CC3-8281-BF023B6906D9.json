@@ -1,0 +1,1 @@
+{"created": "2025-06-20T12:32:39.393", "criteria": "cpe:2.3:a:amazon:amplify_cli:*:*:*:*:*:aws:*:*", "lastModified": "2025-06-20T12:32:39.393", "matchCriteriaId": "35AAD281-C3B3-4CC3-8281-BF023B6906D9", "status": "Active", "versionEndExcluding": "12.10.1"}

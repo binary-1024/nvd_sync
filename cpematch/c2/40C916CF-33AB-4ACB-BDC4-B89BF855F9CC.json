@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-02-19T15:04:14.393", "created": "2025-02-19T15:04:14.393", "criteria": "cpe:2.3:o:sonicwall:tz270_firmware:*:*:*:*:*:*:*:*", "lastModified": "2025-02-20T03:00:31.433", "matchCriteriaId": "40C916CF-33AB-4ACB-BDC4-B89BF855F9CC", "status": "Inactive", "versionEndIncluding": "7.1.1-7058", "versionStartIncluding": "7.1.1-7040"}

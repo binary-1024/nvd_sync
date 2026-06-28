@@ -1,0 +1,1 @@
+{"cpeLastModified": "2025-02-10T15:08:01.180", "created": "2025-02-10T15:08:01.180", "criteria": "cpe:2.3:a:apache:nifi:*:*:*:*:*:*:*:*", "lastModified": "2025-02-11T03:00:28.177", "matchCriteriaId": "5D47EC00-8D92-44E0-AC1E-3AC1D12F9178", "status": "Inactive", "versionEndIncluding": "1.28.0", "versionStartIncluding": "1.16.0"}

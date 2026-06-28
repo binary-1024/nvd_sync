@@ -1,0 +1,1 @@
+{"cpeLastModified": "2023-04-03T12:44:04.453", "created": "2023-03-30T17:01:29.000", "criteria": "cpe:2.3:a:redis:redis-py:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "69637424-9476-4061-AE94-3850C9B74C17", "status": "Inactive", "versionEndExcluding": "4.3.6"}

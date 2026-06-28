@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-09-05T20:23:09.213", "created": "2024-09-05T20:23:09.213", "criteria": "cpe:2.3:a:tcpdump:libpcap:*:*:*:*:*:*:*:*", "lastModified": "2024-09-20T02:00:25.750", "matchCriteriaId": "624040D9-3A81-4C37-8AC5-16B4C7E4E04E", "status": "Inactive", "versionEndExcluding": "1.10.0"}

@@ -1,0 +1,1 @@
+{"created": "2021-11-23T12:28:55.810", "criteria": "cpe:2.3:o:amazon:freertos:*:*:*:*:*:*:*:*", "lastModified": "2021-11-23T12:28:55.810", "matchCriteriaId": "43E0EE61-0097-4AC9-9F7F-1CFEFFA0F922", "status": "Inactive", "versionEndExcluding": "10.4.6", "versionStartIncluding": "10.2.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2019-07-31T12:36:40.510", "created": "2019-07-31T12:36:40.480", "criteria": "cpe:2.3:a:sun:jdk:1.6.0:-:*:*:*:*:*:*", "lastModified": "2019-07-31T12:36:40.480", "matchCriteriaId": "C94CEFBC-250D-472E-9A5B-E9E054C967C4", "matches": [{"cpeName": "cpe:2.3:a:sun:jdk:1.6.0:-:*:*:*:*:*:*", "cpeNameId": "BB046AFC-A3FD-4C5A-8FA5-86E6CEFDE1EF"}], "status": "Active"}

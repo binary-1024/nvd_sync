@@ -1,0 +1,1 @@
+{"created": "2022-03-13T02:13:42.370", "criteria": "cpe:2.3:a:redhat:ansible:*:*:*:*:*:*:*:*", "lastModified": "2022-03-13T02:13:42.370", "matchCriteriaId": "8C8E28BB-6B3D-4842-9C70-08F1C55AAB5E", "status": "Inactive", "versionEndExcluding": "2.9.27"}

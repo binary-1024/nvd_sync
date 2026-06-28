@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-11-23T18:45:06.663", "created": "2021-11-23T14:39:43.700", "criteria": "cpe:2.3:o:dell:networking_os10:*:*:*:*:*:*:*:*", "lastModified": "2021-11-23T14:39:43.700", "matchCriteriaId": "B651D680-C00D-4974-AB90-3036A4F50826", "status": "Active", "versionEndExcluding": "10.5.0.10", "versionStartIncluding": "10.5.0.0"}

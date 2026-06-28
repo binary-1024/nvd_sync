@@ -1,0 +1,1 @@
+{"created": "2026-04-09T13:01:46.490", "criteria": "cpe:2.3:a:rustfs:rustfs:1.0.0:alpha85:*:*:*:rust:*:*", "lastModified": "2026-04-24T13:12:21.760", "matchCriteriaId": "2178E577-606B-4ABA-B747-4584F444B235", "matches": [{"cpeName": "cpe:2.3:a:rustfs:rustfs:1.0.0:alpha85:*:*:*:rust:*:*", "cpeNameId": "CCCD8487-0F05-4FFC-AB19-CC93D43F15A5"}], "status": "Active"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-11-30T18:42:32.907", "created": "2022-07-08T16:54:56.630", "criteria": "cpe:2.3:a:lua:lua:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "76830514-E848-4FD7-9FBD-2C29C5336981", "status": "Inactive", "versionEndIncluding": "5.4.4", "versionStartIncluding": "5.4.0"}

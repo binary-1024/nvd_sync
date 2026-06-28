@@ -1,0 +1,1 @@
+{"cpeLastModified": "2020-01-08T14:07:34.757", "created": "2020-01-08T14:07:34.740", "criteria": "cpe:2.3:a:angularjs:angular.js:*:*:*:*:*:*:*:*", "lastModified": "2025-11-20T18:00:14.787", "matchCriteriaId": "678EFFF5-1380-4CB3-806F-E886838ED5D3", "status": "Inactive", "versionEndIncluding": "1.4.14", "versionStartIncluding": "1.0.0"}

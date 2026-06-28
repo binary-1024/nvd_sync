@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-07-27T13:36:52.980", "created": "2022-07-22T13:59:37.350", "criteria": "cpe:2.3:a:dovecot:dovecot:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "23962064-4385-496A-9651-128C6A5898F0", "status": "Inactive", "versionEndExcluding": "2.3.20", "versionStartIncluding": "2.3"}

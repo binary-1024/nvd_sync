@@ -1,0 +1,1 @@
+{"created": "2020-11-12T18:39:40.490", "criteria": "cpe:2.3:a:hazelcast:jet:*:*:*:*:enterprise:*:*:*", "lastModified": "2020-11-12T18:39:40.490", "matchCriteriaId": "F829E074-7D1E-4A91-9741-B776F6404202", "status": "Active", "versionEndIncluding": "4.2", "versionStartIncluding": "4.0"}

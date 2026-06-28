@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-10-11T22:24:44.490", "created": "2024-10-11T22:24:44.490", "criteria": "cpe:2.3:a:wikimedia:apex:*:*:*:*:*:*:*:*", "lastModified": "2024-10-11T22:24:44.490", "matchCriteriaId": "8A0E8617-B37D-4911-A22A-7E89655CF26F", "status": "Active", "versionEndExcluding": "1.42.2", "versionStartIncluding": "1.42.0"}

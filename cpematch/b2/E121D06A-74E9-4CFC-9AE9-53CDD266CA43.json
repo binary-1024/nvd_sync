@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-03-10T16:51:08.603", "created": "2022-03-07T09:38:36.597", "criteria": "cpe:2.3:a:pagerduty:rundeck:*:*:*:*:-:*:*:*", "lastModified": "2022-03-07T09:38:36.597", "matchCriteriaId": "E121D06A-74E9-4CFC-9AE9-53CDD266CA43", "status": "Active", "versionEndExcluding": "3.4.5", "versionStartIncluding": "3.4.0"}

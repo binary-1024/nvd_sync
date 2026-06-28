@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-07-14T15:41:15.280", "created": "2021-07-14T15:41:15.280", "criteria": "cpe:2.3:a:gnome:pango:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "8D02C584-D44D-4CE9-ABB0-EDF8145BD9FC", "status": "Inactive", "versionEndIncluding": "1.43.0", "versionStartIncluding": "1.42.0"}

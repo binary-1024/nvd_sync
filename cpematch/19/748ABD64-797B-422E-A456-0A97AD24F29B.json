@@ -1,0 +1,1 @@
+{"cpeLastModified": "2021-03-03T23:02:44.753", "created": "2019-06-17T09:16:33.960", "criteria": "cpe:2.3:a:ibm:sdk:*:*:*:*:*:nodejs:*:*", "lastModified": "2019-06-17T09:16:33.960", "matchCriteriaId": "748ABD64-797B-422E-A456-0A97AD24F29B", "status": "Active", "versionEndIncluding": "1.2.0.10"}

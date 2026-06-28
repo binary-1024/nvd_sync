@@ -1,0 +1,1 @@
+{"created": "2026-03-03T15:26:22.933", "criteria": "cpe:2.3:a:toeverything:affine:*:*:*:*:*:*:*:*", "lastModified": "2026-03-03T15:26:22.933", "matchCriteriaId": "0A64A7EA-1618-4AB3-8A89-7CAF03073FB1", "status": "Active", "versionEndExcluding": "0.26.0", "versionStartIncluding": "0.25.8"}

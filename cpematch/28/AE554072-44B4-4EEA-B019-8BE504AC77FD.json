@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-03-18T20:43:56.053", "created": "2024-03-18T20:43:56.053", "criteria": "cpe:2.3:a:ibm:host_access_transformation_services:*:*:*:*:*:*:*:*", "lastModified": "2024-03-18T20:43:56.053", "matchCriteriaId": "AE554072-44B4-4EEA-B019-8BE504AC77FD", "status": "Active", "versionEndIncluding": "9.7.0.3", "versionStartIncluding": "9.7"}

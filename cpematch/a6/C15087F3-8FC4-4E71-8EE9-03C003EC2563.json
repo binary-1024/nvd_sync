@@ -1,0 +1,1 @@
+{"created": "2020-04-06T14:57:44.533", "criteria": "cpe:2.3:a:gnutls:gnutls:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "matchCriteriaId": "C15087F3-8FC4-4E71-8EE9-03C003EC2563", "status": "Inactive", "versionEndExcluding": "3.6.13", "versionStartIncluding": "3.6.3"}

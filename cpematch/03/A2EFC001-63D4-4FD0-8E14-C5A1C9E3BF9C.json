@@ -1,0 +1,1 @@
+{"created": "2025-07-10T12:52:10.530", "criteria": "cpe:2.3:a:ivanti:connect_secure:22.7:r2.7:*:*:*:*:*:*", "lastModified": "2025-09-05T13:58:19.260", "matchCriteriaId": "A2EFC001-63D4-4FD0-8E14-C5A1C9E3BF9C", "matches": [{"cpeName": "cpe:2.3:a:ivanti:connect_secure:22.7:r2.7:*:*:*:*:*:*", "cpeNameId": "3B6CEECF-82FE-49E9-91F7-351A1891E5AD"}], "status": "Active"}

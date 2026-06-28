@@ -1,0 +1,1 @@
+{"cpeLastModified": "2024-09-06T16:40:10.427", "created": "2024-09-06T16:40:10.427", "criteria": "cpe:2.3:o:kemptechnologies:multi-tenant_hypervisor_firmware:*:*:*:*:*:*:*:*", "lastModified": "2024-09-06T16:40:10.427", "matchCriteriaId": "A696FEC5-08C0-4297-9684-03CC7C1BE9B6", "status": "Active", "versionEndExcluding": "7.1.35.11", "versionStartIncluding": "7.1.35.4"}

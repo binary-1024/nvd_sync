@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-06-16T19:16:31.800", "created": "2026-06-16T19:16:31.800", "criteria": "cpe:2.3:a:broadcom:spring_authorization_server:*:*:*:*:*:*:*:*", "lastModified": "2026-06-16T19:16:31.800", "matchCriteriaId": "AC899F94-DFCA-4A87-B1F6-8CC55DE8FE16", "status": "Active", "versionEndExcluding": "1.5.8", "versionStartIncluding": "1.5.0"}

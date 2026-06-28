@@ -1,0 +1,1 @@
+{"cpeLastModified": "2022-05-04T16:27:48.583", "created": "2022-04-29T19:05:28.140", "criteria": "cpe:2.3:a:git-interface_project:git-interface:*:*:*:*:*:node.js:*:*", "lastModified": "2022-04-29T19:05:28.140", "matchCriteriaId": "93E7C8D7-20AB-4765-A009-84DFF68FE96E", "status": "Active", "versionEndExcluding": "2.1.2"}

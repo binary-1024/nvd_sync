@@ -1,0 +1,1 @@
+{"created": "2025-08-01T18:15:37.487", "criteria": "cpe:2.3:h:cisco:ncs_540-6z18g-sys-a:-:*:*:*:*:*:*:*", "lastModified": "2025-08-04T12:02:05.823", "matchCriteriaId": "E2E585D1-F2E7-4CBE-ACA2-6552ACDF492A", "matches": [{"cpeName": "cpe:2.3:h:cisco:ncs_540-6z18g-sys-a:-:*:*:*:*:*:*:*", "cpeNameId": "80F018BB-14DD-45B7-87A9-EF0F9F08C00E"}], "status": "Active"}
