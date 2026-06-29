@@ -1,0 +1,1 @@
+{"created": "2026-06-29T18:17:51.710", "criteria": "cpe:2.3:a:openstack:swift:*:*:*:*:*:*:*:*", "lastModified": "2026-06-29T18:17:51.710", "matchCriteriaId": "581FC644-8499-4750-B70D-C726C5D15E11", "status": "Active", "versionEndExcluding": "2.37.2", "versionStartIncluding": "2.37.0"}

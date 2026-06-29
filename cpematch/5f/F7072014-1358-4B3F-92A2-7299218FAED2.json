@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-06-29T18:18:41.490", "created": "2026-06-29T18:18:41.490", "criteria": "cpe:2.3:a:grafana:grafana-operator:*:*:*:*:*:*:*:*", "lastModified": "2026-06-29T18:18:41.490", "matchCriteriaId": "F7072014-1358-4B3F-92A2-7299218FAED2", "status": "Active", "versionEndExcluding": "5.24.0"}
