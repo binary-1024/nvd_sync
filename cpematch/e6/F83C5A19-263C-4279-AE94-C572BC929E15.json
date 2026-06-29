@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-06-29T19:50:04.260", "created": "2026-06-29T19:50:04.260", "criteria": "cpe:2.3:a:cisco:secure_workload:*:*:*:*:*:*:*:*", "lastModified": "2026-06-29T19:50:04.260", "matchCriteriaId": "F83C5A19-263C-4279-AE94-C572BC929E15", "status": "Active", "versionEndExcluding": "4.0.3.17", "versionStartIncluding": "4.0"}
