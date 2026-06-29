@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-06-29T12:58:30.500", "created": "2026-06-29T12:58:30.500", "criteria": "cpe:2.3:a:cisco:iot_field_network_director:*:*:*:*:*:*:*:*", "lastModified": "2026-06-29T12:58:30.500", "matchCriteriaId": "FE4338F8-44D3-4B52-A096-F6E3E46EF1E5", "status": "Active", "versionEndExcluding": "5.0.0-117", "versionStartIncluding": "5.0.0"}
