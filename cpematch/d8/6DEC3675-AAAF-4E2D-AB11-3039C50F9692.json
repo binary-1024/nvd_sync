@@ -1,1 +1,1 @@
-{"created": "2025-06-11T17:00:54.223", "criteria": "cpe:2.3:a:seaweedfs:seaweedfs:3.68:*:*:*:*:*:*:*", "lastModified": "2025-06-11T17:00:54.223", "matchCriteriaId": "6DEC3675-AAAF-4E2D-AB11-3039C50F9692", "status": "Active"}
+{"created": "2025-06-11T17:00:54.223", "criteria": "cpe:2.3:a:seaweedfs:seaweedfs:3.68:*:*:*:*:*:*:*", "lastModified": "2026-06-29T19:27:19.610", "matchCriteriaId": "6DEC3675-AAAF-4E2D-AB11-3039C50F9692", "matches": [{"cpeName": "cpe:2.3:a:seaweedfs:seaweedfs:3.68:*:*:*:*:*:*:*", "cpeNameId": "DD15322C-6ADC-4DAB-90F9-29BAB5F16C75"}], "status": "Active"}
