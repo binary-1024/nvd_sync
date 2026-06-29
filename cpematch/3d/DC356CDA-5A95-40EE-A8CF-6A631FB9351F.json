@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-06-29T21:12:37.233", "created": "2026-06-29T21:12:37.233", "criteria": "cpe:2.3:a:snowflake:snowflake_cli:*:*:*:*:*:*:*:*", "lastModified": "2026-06-29T21:13:16.937", "matchCriteriaId": "DC356CDA-5A95-40EE-A8CF-6A631FB9351F", "status": "Inactive", "versionEndExcluding": "3.19.0"}
