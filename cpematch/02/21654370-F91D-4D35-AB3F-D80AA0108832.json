@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-06-30T20:31:37.857", "created": "2026-06-30T20:31:37.857", "criteria": "cpe:2.3:a:redhat:build_of_keycloak:*:*:*:*:*:*:*:*", "lastModified": "2026-06-30T20:31:37.857", "matchCriteriaId": "21654370-F91D-4D35-AB3F-D80AA0108832", "status": "Active", "versionEndIncluding": "26.4.13", "versionStartIncluding": "26.4"}
