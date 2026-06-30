@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-06-30T13:50:45.230", "created": "2026-06-30T13:50:45.230", "criteria": "cpe:2.3:o:ibm:aix:*:*:*:*:*:*:*:*", "lastModified": "2026-06-30T13:54:34.360", "matchCriteriaId": "0227FD02-A666-4C3B-BEB0-8DC1A2AD1902", "status": "Inactive", "versionEndExcluding": "7.3.3.3", "versionStartIncluding": "7.3.2.0"}
