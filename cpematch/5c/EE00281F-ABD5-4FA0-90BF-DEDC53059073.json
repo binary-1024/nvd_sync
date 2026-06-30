@@ -1,1 +1,1 @@
-{"created": "2025-03-12T17:44:56.980", "criteria": "cpe:2.3:a:sainwp:onestore_sites:*:*:*:*:*:wordpress:*:*", "lastModified": "2025-03-12T17:44:56.980", "matchCriteriaId": "EE00281F-ABD5-4FA0-90BF-DEDC53059073", "status": "Active", "versionEndIncluding": "0.1.1"}
+{"cpeLastModified": "2026-06-30T21:24:17.923", "created": "2025-03-12T17:44:56.980", "criteria": "cpe:2.3:a:sainwp:onestore_sites:*:*:*:*:*:wordpress:*:*", "lastModified": "2025-03-12T17:44:56.980", "matchCriteriaId": "EE00281F-ABD5-4FA0-90BF-DEDC53059073", "status": "Active", "versionEndIncluding": "0.1.1"}

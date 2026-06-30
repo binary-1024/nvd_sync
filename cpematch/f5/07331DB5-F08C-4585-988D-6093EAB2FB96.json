@@ -1,1 +1,1 @@
-{"created": "2026-02-02T17:44:03.517", "criteria": "cpe:2.3:a:chipsalliance:rocket-chip:*:*:*:*:*:*:*:*", "lastModified": "2026-02-11T19:40:53.507", "matchCriteriaId": "07331DB5-F08C-4585-988D-6093EAB2FB96", "status": "Inactive", "versionEndIncluding": "1.6"}
+{"created": "2026-02-02T17:44:03.517", "criteria": "cpe:2.3:a:chipsalliance:rocket-chip:*:*:*:*:*:*:*:*", "lastModified": "2026-06-30T21:24:17.923", "matchCriteriaId": "07331DB5-F08C-4585-988D-6093EAB2FB96", "status": "Active", "versionEndIncluding": "1.6"}

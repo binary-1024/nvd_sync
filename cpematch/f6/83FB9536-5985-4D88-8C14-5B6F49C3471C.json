@@ -1,1 +1,1 @@
-{"created": "2026-01-30T15:58:21.177", "criteria": "cpe:2.3:o:calix:calix_gigacenter_ont_854ge_firmware:*:*:*:*:*:*:*:*", "lastModified": "2026-03-16T15:58:04.390", "matchCriteriaId": "83FB9536-5985-4D88-8C14-5B6F49C3471C", "status": "Inactive", "versionEndExcluding": "r12.2.13.4"}
+{"created": "2026-01-30T15:58:21.177", "criteria": "cpe:2.3:o:calix:calix_gigacenter_ont_854ge_firmware:*:*:*:*:*:*:*:*", "lastModified": "2026-06-30T21:24:17.923", "matchCriteriaId": "83FB9536-5985-4D88-8C14-5B6F49C3471C", "status": "Active", "versionEndExcluding": "r12.2.13.4"}

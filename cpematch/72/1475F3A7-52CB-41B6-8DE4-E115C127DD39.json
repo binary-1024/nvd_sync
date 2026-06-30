@@ -1,1 +1,1 @@
-{"created": "2026-01-28T21:01:03.957", "criteria": "cpe:2.3:a:argus_technology:bilger:*:*:*:*:*:*:*:*", "lastModified": "2026-03-04T18:06:50.143", "matchCriteriaId": "1475F3A7-52CB-41B6-8DE4-E115C127DD39", "status": "Inactive", "versionEndExcluding": "2.4.9"}
+{"created": "2026-01-28T21:01:03.957", "criteria": "cpe:2.3:a:argus_technology:bilger:*:*:*:*:*:*:*:*", "lastModified": "2026-06-30T21:24:17.923", "matchCriteriaId": "1475F3A7-52CB-41B6-8DE4-E115C127DD39", "status": "Active", "versionEndExcluding": "2.4.9"}
