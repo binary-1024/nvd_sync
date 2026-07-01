@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-07-01T18:47:19.250", "created": "2026-07-01T18:47:19.250", "criteria": "cpe:2.3:a:nvidia:megatron-bridge:*:*:*:*:*:*:*:*", "lastModified": "2026-07-01T18:47:19.250", "matchCriteriaId": "86717965-BA28-4348-BD1E-AE746359F64C", "status": "Active", "versionEndIncluding": "0.4.0"}
