@@ -1,1 +1,1 @@
-{"created": "2026-06-26T16:58:50.840", "criteria": "cpe:2.3:o:freebsd:freebsd:15.0:p9:*:*:*:*:*:*", "lastModified": "2026-06-26T16:58:50.840", "matchCriteriaId": "EE3C4F40-A117-4B37-8CDD-096A1A763630", "status": "Active"}
+{"created": "2026-06-26T16:58:50.840", "criteria": "cpe:2.3:o:freebsd:freebsd:15.0:p9:*:*:*:*:*:*", "lastModified": "2026-07-02T12:44:51.563", "matchCriteriaId": "EE3C4F40-A117-4B37-8CDD-096A1A763630", "matches": [{"cpeName": "cpe:2.3:o:freebsd:freebsd:15.0:p9:*:*:*:*:*:*", "cpeNameId": "A4625944-1B05-4952-B4AA-BC33762B586D"}], "status": "Active"}
