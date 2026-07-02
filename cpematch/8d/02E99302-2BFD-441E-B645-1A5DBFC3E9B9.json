@@ -1,0 +1,1 @@
+{"created": "2026-07-02T15:28:41.417", "criteria": "cpe:2.3:a:openjsf:fast-uri:*:*:*:*:*:node.js:*:*", "lastModified": "2026-07-02T15:28:41.417", "matchCriteriaId": "02E99302-2BFD-441E-B645-1A5DBFC3E9B9", "status": "Active", "versionEndExcluding": "4.0.1", "versionStartIncluding": "4.0.0"}
