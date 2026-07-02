@@ -1,0 +1,1 @@
+{"created": "2026-07-02T16:17:55.883", "criteria": "cpe:2.3:a:apache:airflow-providers-amazon:*:*:*:*:*:*:*:*", "lastModified": "2026-07-02T16:17:55.883", "matchCriteriaId": "49C34B8E-5160-4AA2-8C98-660D391BB8F9", "status": "Active", "versionEndExcluding": "9.22.0", "versionStartIncluding": "8.0.0"}

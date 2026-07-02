@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-07-02T15:49:56.557", "created": "2026-07-02T15:49:56.557", "criteria": "cpe:2.3:a:torchbox:wagtail:*:*:*:*:*:*:*:*", "lastModified": "2026-07-02T15:49:56.557", "matchCriteriaId": "FD242BAD-6905-401E-9AD5-A39E992DB9E1", "status": "Active", "versionEndExcluding": "7.4.2", "versionStartIncluding": "7.4"}

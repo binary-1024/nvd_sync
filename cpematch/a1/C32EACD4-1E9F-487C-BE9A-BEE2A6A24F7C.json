@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-07-02T15:53:13.627", "created": "2026-07-02T15:53:13.627", "criteria": "cpe:2.3:a:apache:tomcat:*:*:*:*:*:*:*:*", "lastModified": "2026-07-02T15:56:53.880", "matchCriteriaId": "C32EACD4-1E9F-487C-BE9A-BEE2A6A24F7C", "status": "Inactive", "versionEndIncluding": "10.1.55", "versionStartIncluding": "10.1.1"}
