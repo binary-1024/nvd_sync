@@ -1,0 +1,1 @@
+{"created": "2026-07-06T19:56:39.300", "criteria": "cpe:2.3:a:mediawiki:cargo:*:*:*:*:*:mediawiki:*:*", "lastModified": "2026-07-06T19:56:39.300", "matchCriteriaId": "1AC52645-95BC-456D-852D-F5492831905A", "status": "Active", "versionEndExcluding": "1.45.4", "versionStartIncluding": "1.45.0"}
