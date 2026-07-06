@@ -1,0 +1,1 @@
+{"created": "2026-07-06T13:38:18.110", "criteria": "cpe:2.3:a:redhat:openshift_service_mesh:*:*:*:*:*:*:*:*", "lastModified": "2026-07-06T13:38:18.110", "matchCriteriaId": "B8A5586D-5F6B-48E9-B0E7-66A2C53272DF", "status": "Active", "versionEndExcluding": "3.1.9", "versionStartIncluding": "3.1"}
