@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-07-06T18:11:54.350", "created": "2026-07-06T18:11:54.350", "criteria": "cpe:2.3:a:redhat:build_of_apicurio_registry:*:*:*:*:*:*:*:*", "lastModified": "2026-07-06T18:11:54.350", "matchCriteriaId": "B80ACBA3-FFCF-44E6-A77E-0BD398F0C4D7", "status": "Active", "versionEndIncluding": "3.2", "versionStartIncluding": "3.0"}

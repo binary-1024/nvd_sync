@@ -1,0 +1,1 @@
+{"created": "2026-07-06T18:06:31.293", "criteria": "cpe:2.3:a:elastic:fleet_server:*:*:*:*:*:*:*:*", "lastModified": "2026-07-06T18:06:31.293", "matchCriteriaId": "F1EDFFCE-61D3-48C5-9B63-4D676FA0A4BA", "status": "Active", "versionEndExcluding": "9.2.5", "versionStartIncluding": "9.0.0"}
