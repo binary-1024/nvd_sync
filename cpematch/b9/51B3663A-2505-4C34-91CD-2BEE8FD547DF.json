@@ -1,0 +1,1 @@
+{"created": "2026-07-06T17:42:45.137", "criteria": "cpe:2.3:a:elastic:endpoint_security:*:*:*:*:*:*:*:*", "lastModified": "2026-07-06T17:42:45.137", "matchCriteriaId": "51B3663A-2505-4C34-91CD-2BEE8FD547DF", "status": "Active", "versionEndExcluding": "9.2.7", "versionStartIncluding": "9.0.0"}

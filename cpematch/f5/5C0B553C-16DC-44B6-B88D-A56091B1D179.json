@@ -1,0 +1,1 @@
+{"created": "2026-07-06T17:38:27.573", "criteria": "cpe:2.3:a:elastic:defend:*:*:*:*:*:*:*:*", "lastModified": "2026-07-06T17:42:45.137", "matchCriteriaId": "5C0B553C-16DC-44B6-B88D-A56091B1D179", "status": "Inactive", "versionEndExcluding": "8.19.13", "versionStartIncluding": "8.6.0"}
