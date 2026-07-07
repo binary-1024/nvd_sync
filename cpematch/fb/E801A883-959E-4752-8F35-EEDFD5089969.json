@@ -1,0 +1,1 @@
+{"created": "2026-07-07T15:36:02.990", "criteria": "cpe:2.3:a:paloaltonetworks:cortex_xsiam:*:*:*:*:*:*:*:*", "lastModified": "2026-07-07T15:36:02.990", "matchCriteriaId": "E801A883-959E-4752-8F35-EEDFD5089969", "status": "Active", "versionEndExcluding": "1.5.52", "versionStartIncluding": "1.5.0"}
