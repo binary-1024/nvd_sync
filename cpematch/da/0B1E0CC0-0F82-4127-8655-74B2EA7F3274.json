@@ -1,0 +1,1 @@
+{"created": "2026-07-07T11:21:14.137", "criteria": "cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:*:*:*:*:critical_environment:*:*:*", "lastModified": "2026-07-07T11:21:14.137", "matchCriteriaId": "0B1E0CC0-0F82-4127-8655-74B2EA7F3274", "status": "Active", "versionEndExcluding": "8.7.101", "versionStartIncluding": "8.7.0"}

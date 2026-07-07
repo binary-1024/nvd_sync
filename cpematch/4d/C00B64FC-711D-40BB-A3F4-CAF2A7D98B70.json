@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-07-07T11:16:23.530", "created": "2026-07-07T11:16:23.530", "criteria": "cpe:2.3:a:paloaltonetworks:idira_privileged_access_manager:*:*:*:*:*:*:*:*", "lastModified": "2026-07-07T11:16:23.530", "matchCriteriaId": "C00B64FC-711D-40BB-A3F4-CAF2A7D98B70", "status": "Active", "versionEndExcluding": "14.6.5", "versionStartIncluding": "14.6"}
