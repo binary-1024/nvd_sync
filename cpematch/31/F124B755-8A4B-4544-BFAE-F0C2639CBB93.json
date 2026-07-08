@@ -1,0 +1,1 @@
+{"created": "2026-07-08T00:26:56.820", "criteria": "cpe:2.3:a:netapp:storagegrid:*:*:*:*:*:*:*:*", "lastModified": "2026-07-08T00:26:56.820", "matchCriteriaId": "F124B755-8A4B-4544-BFAE-F0C2639CBB93", "status": "Active", "versionEndExcluding": "12.0.0.6", "versionStartIncluding": "12.0"}
