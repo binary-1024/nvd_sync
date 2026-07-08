@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-07-08T15:42:35.930", "created": "2026-07-08T15:42:35.930", "criteria": "cpe:2.3:a:theforeman:foreman:*:*:*:*:*:*:*:*", "lastModified": "2026-07-08T15:42:35.930", "matchCriteriaId": "A63B3B6B-B05A-49CC-8694-1D357171773F", "status": "Active", "versionEndExcluding": "3.19.1", "versionStartIncluding": "3.19.0"}

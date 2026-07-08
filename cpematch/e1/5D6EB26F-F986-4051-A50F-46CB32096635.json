@@ -1,1 +1,1 @@
-{"created": "2026-07-08T11:53:29.620", "criteria": "cpe:2.3:h:zyxel:nebula_fwa70:-:*:*:*:*:*:*:*", "lastModified": "2026-07-08T11:53:29.620", "matchCriteriaId": "5D6EB26F-F986-4051-A50F-46CB32096635", "status": "Active"}
+{"created": "2026-07-08T11:53:29.620", "criteria": "cpe:2.3:h:zyxel:nebula_fwa70:-:*:*:*:*:*:*:*", "lastModified": "2026-07-08T15:14:47.670", "matchCriteriaId": "5D6EB26F-F986-4051-A50F-46CB32096635", "matches": [{"cpeName": "cpe:2.3:h:zyxel:nebula_fwa70:-:*:*:*:*:*:*:*", "cpeNameId": "4758D591-F6F2-43D4-87CE-6762E854A4B3"}], "status": "Active"}
