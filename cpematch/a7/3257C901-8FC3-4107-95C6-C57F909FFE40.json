@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-07-08T17:30:36.257", "created": "2026-07-08T17:30:36.257", "criteria": "cpe:2.3:a:phoenixframework:phoenix:*:*:*:*:*:*:*:*", "lastModified": "2026-07-08T17:30:36.257", "matchCriteriaId": "3257C901-8FC3-4107-95C6-C57F909FFE40", "status": "Active", "versionEndExcluding": "1.7.24", "versionStartIncluding": "1.7.0"}
