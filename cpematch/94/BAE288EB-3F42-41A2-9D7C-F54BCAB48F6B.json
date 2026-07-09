@@ -1,0 +1,1 @@
+{"created": "2026-07-09T15:08:51.313", "criteria": "cpe:2.3:a:forta:core_privileged_access_manager:*:*:*:*:*:*:*:*", "lastModified": "2026-07-09T15:08:51.313", "matchCriteriaId": "BAE288EB-3F42-41A2-9D7C-F54BCAB48F6B", "status": "Active", "versionEndIncluding": "9.0.0.4", "versionStartIncluding": "9.0.0.0"}
