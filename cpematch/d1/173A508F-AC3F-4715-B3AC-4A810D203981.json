@@ -1,1 +1,1 @@
-{"created": "2025-05-19T16:55:50.700", "criteria": "cpe:2.3:a:modernwms:modernwms:1.0:*:*:*:*:*:*:*", "lastModified": "2025-05-19T16:55:50.700", "matchCriteriaId": "173A508F-AC3F-4715-B3AC-4A810D203981", "status": "Active"}
+{"created": "2025-05-19T16:55:50.700", "criteria": "cpe:2.3:a:modernwms:modernwms:1.0:*:*:*:*:*:*:*", "lastModified": "2026-07-10T18:36:12.677", "matchCriteriaId": "173A508F-AC3F-4715-B3AC-4A810D203981", "matches": [{"cpeName": "cpe:2.3:a:modernwms:modernwms:1.0:*:*:*:*:*:*:*", "cpeNameId": "3120E0EF-E866-486D-8269-64A71908328A"}], "status": "Active"}
