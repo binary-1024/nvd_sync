@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-07-10T16:41:29.827", "created": "2026-07-10T16:41:29.827", "criteria": "cpe:2.3:a:ibm:api_connect:*:*:*:*:*:*:*:*", "lastModified": "2026-07-10T16:41:29.827", "matchCriteriaId": "5F7752F5-8A00-4C79-9B5B-B674AD2F1E25", "status": "Active", "versionEndExcluding": "10.0.8.10", "versionStartIncluding": "10.0.8.0"}
