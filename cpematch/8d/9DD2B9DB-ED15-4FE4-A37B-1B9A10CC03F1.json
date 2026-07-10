@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-07-10T15:53:18.473", "created": "2026-07-10T15:53:18.473", "criteria": "cpe:2.3:a:cloudfoundry:bosh_cli:*:*:*:*:*:*:*:*", "lastModified": "2026-07-10T15:53:18.473", "matchCriteriaId": "9DD2B9DB-ED15-4FE4-A37B-1B9A10CC03F1", "status": "Active", "versionEndExcluding": "7.10.5"}
