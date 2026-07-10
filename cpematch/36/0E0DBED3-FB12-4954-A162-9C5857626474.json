@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-07-10T15:34:52.140", "created": "2026-07-10T15:34:52.140", "criteria": "cpe:2.3:a:hcltechsw:hcl_devops_deploy:*:*:*:*:*:*:*:*", "lastModified": "2026-07-10T15:34:52.140", "matchCriteriaId": "0E0DBED3-FB12-4954-A162-9C5857626474", "status": "Active", "versionEndExcluding": "8.2.1.0", "versionStartIncluding": "8.2.0.0"}
