@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-07-13T18:35:18.110", "created": "2026-07-13T18:35:18.110", "criteria": "cpe:2.3:a:apache:apache-airflow-providers-git:*:*:*:*:*:*:*:*", "lastModified": "2026-07-13T18:35:18.110", "matchCriteriaId": "25DB8B13-B0BE-4AA4-B47A-D30A6507E6A0", "status": "Active", "versionEndExcluding": "0.4.1"}
