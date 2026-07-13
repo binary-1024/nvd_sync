@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-07-13T14:26:25.390", "created": "2026-07-13T14:26:25.390", "criteria": "cpe:2.3:a:nlp.stanford:stanza:*:*:*:*:*:python:*:*", "lastModified": "2026-07-13T14:26:25.390", "matchCriteriaId": "AB22BC2E-EF36-41E9-A766-11845AA42EAA", "status": "Active", "versionEndExcluding": "1.12.2"}
