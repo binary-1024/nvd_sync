@@ -1,1 +1,1 @@
-{"created": "2026-07-14T20:53:05.013", "criteria": "cpe:2.3:a:adobe:events:*:*:*:*:*:commerce:*:*", "lastModified": "2026-07-14T20:53:05.013", "matchCriteriaId": "237BD0A3-D8E3-40A5-BA48-69AA78018964", "status": "Active", "versionEndExcluding": "1.21.0", "versionStartIncluding": "1.6.0"}
+{"created": "2026-07-14T20:53:05.013", "criteria": "cpe:2.3:a:adobe:events:*:*:*:*:*:commerce:*:*", "lastModified": "2026-07-15T13:18:45.297", "matchCriteriaId": "237BD0A3-D8E3-40A5-BA48-69AA78018964", "status": "Inactive", "versionEndExcluding": "1.21.0", "versionStartIncluding": "1.6.0"}

@@ -1,0 +1,1 @@
+{"created": "2026-07-15T13:18:45.297", "criteria": "cpe:2.3:a:adobe:i\\/o_events:*:*:*:*:*:commerce:*:*", "lastModified": "2026-07-15T13:18:45.297", "matchCriteriaId": "A651E64A-A7AC-4F26-A453-9493D256BD8D", "status": "Active", "versionEndExcluding": "1.21.0", "versionStartIncluding": "1.6.0"}
