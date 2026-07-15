@@ -1,1 +1,1 @@
-{"created": "2025-08-15T13:44:59.340", "criteria": "cpe:2.3:a:adobe:commerce:2.4.9:-:*:*:*:*:*:*", "lastModified": "2026-07-14T20:53:05.013", "matchCriteriaId": "565B7A64-30C3-408D-9AE5-86C4627E8565", "status": "Active"}
+{"created": "2025-08-15T13:44:59.340", "criteria": "cpe:2.3:a:adobe:commerce:2.4.9:-:*:*:*:*:*:*", "lastModified": "2026-07-15T18:58:47.150", "matchCriteriaId": "565B7A64-30C3-408D-9AE5-86C4627E8565", "matches": [{"cpeName": "cpe:2.3:a:adobe:commerce:2.4.9:-:*:*:*:*:*:*", "cpeNameId": "194A231F-418E-495B-B401-F72BB7BB1E1B"}], "status": "Active"}

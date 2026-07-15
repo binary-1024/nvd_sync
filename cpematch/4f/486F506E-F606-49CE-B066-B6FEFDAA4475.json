@@ -1,0 +1,1 @@
+{"created": "2026-07-15T18:27:39.627", "criteria": "cpe:2.3:a:sensiolabs:symfony:*:*:*:*:*:*:*:*", "lastModified": "2026-07-15T18:27:39.627", "matchCriteriaId": "486F506E-F606-49CE-B066-B6FEFDAA4475", "status": "Active", "versionEndExcluding": "9.4.40", "versionStartIncluding": "9.4.24"}
