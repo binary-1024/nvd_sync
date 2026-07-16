@@ -1,1 +1,1 @@
-{"created": "2025-12-10T14:31:14.380", "criteria": "cpe:2.3:h:sonicwall:nsa_3800:-:*:*:*:*:*:*:*", "lastModified": "2025-12-10T14:31:14.380", "matchCriteriaId": "3ED8014A-C7A4-4624-8D50-A9844871C1B6", "status": "Active"}
+{"created": "2025-12-10T14:31:14.380", "criteria": "cpe:2.3:h:sonicwall:nsa_3800:-:*:*:*:*:*:*:*", "lastModified": "2026-07-16T18:35:31.147", "matchCriteriaId": "3ED8014A-C7A4-4624-8D50-A9844871C1B6", "matches": [{"cpeName": "cpe:2.3:h:sonicwall:nsa_3800:-:*:*:*:*:*:*:*", "cpeNameId": "265E8D1B-93B8-4D74-AC22-C945F185DA4F"}], "status": "Active"}
