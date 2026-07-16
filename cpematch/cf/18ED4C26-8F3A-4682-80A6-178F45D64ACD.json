@@ -1,1 +1,1 @@
-{"created": "2026-07-14T17:13:50.443", "criteria": "cpe:2.3:o:fortinet:fortipam:1.8.0:*:*:*:*:*:*:*", "lastModified": "2026-07-14T17:13:50.443", "matchCriteriaId": "18ED4C26-8F3A-4682-80A6-178F45D64ACD", "status": "Active"}
+{"created": "2026-07-14T17:13:50.443", "criteria": "cpe:2.3:o:fortinet:fortipam:1.8.0:*:*:*:*:*:*:*", "lastModified": "2026-07-16T12:57:03.387", "matchCriteriaId": "18ED4C26-8F3A-4682-80A6-178F45D64ACD", "matches": [{"cpeName": "cpe:2.3:o:fortinet:fortipam:1.8.0:*:*:*:*:*:*:*", "cpeNameId": "238467DD-D798-4B2C-AA19-A22A44C6736E"}], "status": "Active"}
