@@ -1,1 +1,1 @@
-{"created": "2026-05-06T17:45:10.957", "criteria": "cpe:2.3:h:qualcomm:sm7435p:-:*:*:*:*:*:*:*", "lastModified": "2026-05-06T17:45:10.957", "matchCriteriaId": "B322FB35-2415-45EA-A350-746AFF734ACD", "status": "Active"}
+{"created": "2026-05-06T17:45:10.957", "criteria": "cpe:2.3:h:qualcomm:sm7435p:-:*:*:*:*:*:*:*", "lastModified": "2026-07-17T15:04:14.890", "matchCriteriaId": "B322FB35-2415-45EA-A350-746AFF734ACD", "matches": [{"cpeName": "cpe:2.3:h:qualcomm:sm7435p:-:*:*:*:*:*:*:*", "cpeNameId": "6FC10CE3-C501-46C7-8724-1AAD30E744D4"}], "status": "Active"}

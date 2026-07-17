@@ -1,1 +1,1 @@
-{"created": "2026-06-02T14:35:56.817", "criteria": "cpe:2.3:h:qualcomm:sm4850:-:*:*:*:*:*:*:*", "lastModified": "2026-06-02T14:35:56.817", "matchCriteriaId": "BD6059A3-2B16-4EE7-B4C5-4376F875A5CC", "status": "Active"}
+{"created": "2026-06-02T14:35:56.817", "criteria": "cpe:2.3:h:qualcomm:sm4850:-:*:*:*:*:*:*:*", "lastModified": "2026-07-17T15:04:14.890", "matchCriteriaId": "BD6059A3-2B16-4EE7-B4C5-4376F875A5CC", "matches": [{"cpeName": "cpe:2.3:h:qualcomm:sm4850:-:*:*:*:*:*:*:*", "cpeNameId": "044DCB25-4117-4226-8A48-A7E3F953429C"}], "status": "Active"}

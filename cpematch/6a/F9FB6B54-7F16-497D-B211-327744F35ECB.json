@@ -1,1 +1,1 @@
-{"created": "2026-02-04T17:45:27.160", "criteria": "cpe:2.3:h:qualcomm:monaco_iot:-:*:*:*:*:*:*:*", "lastModified": "2026-02-04T17:45:27.160", "matchCriteriaId": "F9FB6B54-7F16-497D-B211-327744F35ECB", "status": "Active"}
+{"created": "2026-02-04T17:45:27.160", "criteria": "cpe:2.3:h:qualcomm:monaco_iot:-:*:*:*:*:*:*:*", "lastModified": "2026-07-17T15:04:14.890", "matchCriteriaId": "F9FB6B54-7F16-497D-B211-327744F35ECB", "matches": [{"cpeName": "cpe:2.3:h:qualcomm:monaco_iot:-:*:*:*:*:*:*:*", "cpeNameId": "A0F3CD81-3DBE-4819-B47F-4F63EF8D03F9"}], "status": "Active"}
