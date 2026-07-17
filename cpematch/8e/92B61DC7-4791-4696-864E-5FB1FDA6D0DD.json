@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-07-17T19:06:02.890", "created": "2026-07-17T19:06:02.890", "criteria": "cpe:2.3:a:broadcom:spring_data_redis:*:*:*:*:*:*:*:*", "lastModified": "2026-07-17T19:06:02.890", "matchCriteriaId": "92B61DC7-4791-4696-864E-5FB1FDA6D0DD", "status": "Active", "versionEndExcluding": "3.5.11.1", "versionStartIncluding": "3.5.0"}
