@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-07-17T16:31:16.010", "created": "2026-07-17T16:31:16.010", "criteria": "cpe:2.3:a:modelcontextprotocol:mcp_python_sdk:*:*:*:*:*:*:*:*", "lastModified": "2026-07-17T16:31:16.010", "matchCriteriaId": "B72E71C2-C3A1-49EF-BA51-0F4073A2CE9E", "status": "Active", "versionEndExcluding": "1.27.2", "versionStartIncluding": "1.23.0"}
