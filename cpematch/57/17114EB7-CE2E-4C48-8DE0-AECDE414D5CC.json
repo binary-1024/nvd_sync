@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-07-20T20:01:44.050", "created": "2026-07-20T20:01:44.050", "criteria": "cpe:2.3:a:spinnaker:orca:*:*:*:*:*:*:*:*", "lastModified": "2026-07-20T20:01:44.050", "matchCriteriaId": "17114EB7-CE2E-4C48-8DE0-AECDE414D5CC", "status": "Active", "versionEndExcluding": "2025.4.4", "versionStartIncluding": "2025.4.0"}
