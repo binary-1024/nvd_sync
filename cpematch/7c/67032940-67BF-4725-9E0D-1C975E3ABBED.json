@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-07-21T15:53:44.980", "created": "2026-07-21T15:53:44.980", "criteria": "cpe:2.3:a:better-auth:better-auth\\/oauth-provider:*:*:*:*:*:node.js:*:*", "lastModified": "2026-07-21T15:59:11.060", "matchCriteriaId": "67032940-67BF-4725-9E0D-1C975E3ABBED", "status": "Inactive", "versionEndExcluding": "1.6.11"}

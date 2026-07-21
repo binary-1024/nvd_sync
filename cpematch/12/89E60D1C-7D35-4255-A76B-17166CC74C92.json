@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-07-21T15:40:23.250", "created": "2026-07-21T15:40:23.250", "criteria": "cpe:2.3:a:drupal_canvas_project:drupal_canvas:*:*:*:*:*:drupal:*:*", "lastModified": "2026-07-21T15:40:23.250", "matchCriteriaId": "89E60D1C-7D35-4255-A76B-17166CC74C92", "status": "Active", "versionEndExcluding": "1.6.1", "versionStartIncluding": "1.6.0"}
