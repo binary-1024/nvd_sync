@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-07-22T18:40:15.593", "created": "2026-07-22T18:40:15.593", "criteria": "cpe:2.3:a:pydantic:pydantic-settings:*:*:*:*:*:*:*:*", "lastModified": "2026-07-22T18:40:15.593", "matchCriteriaId": "931D9026-D16A-4D64-AF95-ADB223F74EFA", "status": "Active", "versionEndExcluding": "2.14.2", "versionStartIncluding": "2.12.0"}
