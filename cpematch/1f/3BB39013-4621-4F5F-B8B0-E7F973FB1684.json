@@ -1,1 +1,1 @@
-{"created": "2026-06-30T15:51:46.440", "criteria": "cpe:2.3:a:gnome:glib:2.89.0:*:*:*:*:*:*:*", "lastModified": "2026-06-30T15:51:46.440", "matchCriteriaId": "3BB39013-4621-4F5F-B8B0-E7F973FB1684", "status": "Active"}
+{"created": "2026-06-30T15:51:46.440", "criteria": "cpe:2.3:a:gnome:glib:2.89.0:*:*:*:*:*:*:*", "lastModified": "2026-07-23T14:12:05.063", "matchCriteriaId": "3BB39013-4621-4F5F-B8B0-E7F973FB1684", "matches": [{"cpeName": "cpe:2.3:a:gnome:glib:2.89.0:*:*:*:*:*:*:*", "cpeNameId": "5FFA6A13-F1FE-452D-B996-CB321F7D3D75"}], "status": "Active"}

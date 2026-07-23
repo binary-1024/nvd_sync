@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-07-23T14:23:20.710", "created": "2026-07-23T14:23:20.710", "criteria": "cpe:2.3:a:apache:syncope:*:*:*:*:*:*:*:*", "lastModified": "2026-07-23T14:25:50.127", "matchCriteriaId": "971188EF-0BF2-4148-8680-02632EF5D386", "status": "Inactive", "versionEndIncluding": "4.0.6", "versionStartIncluding": "4.0.1"}
