@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-07-24T13:30:17.853", "created": "2026-07-24T13:30:17.853", "criteria": "cpe:2.3:a:oracle:flow_manufacturing:*:*:*:*:*:*:*:*", "lastModified": "2026-07-24T13:30:17.853", "matchCriteriaId": "C074359F-B32D-4C44-A87B-0CA0277C39ED", "status": "Active", "versionEndIncluding": "12.2.15", "versionStartIncluding": "12.2.7"}
