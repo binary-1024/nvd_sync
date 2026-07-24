@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-07-24T12:05:47.500", "created": "2026-07-24T12:05:47.500", "criteria": "cpe:2.3:a:oracle:work_in_process:*:*:*:*:*:*:*:*", "lastModified": "2026-07-24T12:05:47.500", "matchCriteriaId": "EFE9C36D-9D04-43F0-897A-361D19A6DD55", "status": "Active", "versionEndIncluding": "12.2.15", "versionStartIncluding": "12.2.14"}
