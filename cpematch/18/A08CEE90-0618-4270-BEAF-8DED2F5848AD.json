@@ -1,0 +1,1 @@
+{"created": "2026-07-24T14:38:25.657", "criteria": "cpe:2.3:a:mattermost:mattermost_desktop:*:*:*:*:*:*:*:*", "lastModified": "2026-07-24T14:38:25.657", "matchCriteriaId": "A08CEE90-0618-4270-BEAF-8DED2F5848AD", "status": "Active", "versionEndExcluding": "6.3", "versionStartExcluding": "6.2.1"}
