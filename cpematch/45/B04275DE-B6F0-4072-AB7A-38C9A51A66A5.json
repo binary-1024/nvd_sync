@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-07-27T14:48:04.043", "created": "2026-07-27T14:48:04.043", "criteria": "cpe:2.3:a:oracle:receivables:*:*:*:*:*:*:*:*", "lastModified": "2026-07-27T14:48:04.043", "matchCriteriaId": "B04275DE-B6F0-4072-AB7A-38C9A51A66A5", "status": "Active", "versionEndExcluding": "12.2.15", "versionStartIncluding": "12.2.3"}
