@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-07-27T11:21:19.830", "created": "2026-07-27T11:21:19.830", "criteria": "cpe:2.3:a:oracle:project_contracts:*:*:*:*:*:*:*:*", "lastModified": "2026-07-27T11:21:19.830", "matchCriteriaId": "A072851C-70F2-43D0-BCD4-0A53CCFFDEBE", "status": "Active", "versionEndIncluding": "12.2.15", "versionStartIncluding": "12.2.3"}
