@@ -1,0 +1,1 @@
+{"created": "2026-07-27T06:26:12.800", "criteria": "cpe:2.3:a:isc:bind:*:s1:*:*:supported_preview:*:*:*", "lastModified": "2026-07-27T06:26:12.800", "matchCriteriaId": "9FB50DBA-4E75-4472-82B0-CE099BF2BBCA", "status": "Active", "versionEndIncluding": "9.20.24", "versionStartIncluding": "9.20.9"}
