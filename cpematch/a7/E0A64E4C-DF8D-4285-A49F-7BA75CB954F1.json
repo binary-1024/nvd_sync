@@ -1,1 +1,1 @@
-{"created": "2025-12-19T14:51:00.407", "criteria": "cpe:2.3:h:teltonika:trb143:-:*:*:*:*:*:*:*", "lastModified": "2025-12-19T14:51:00.407", "matchCriteriaId": "E0A64E4C-DF8D-4285-A49F-7BA75CB954F1", "status": "Active"}
+{"created": "2025-12-19T14:51:00.407", "criteria": "cpe:2.3:h:teltonika:trb143:-:*:*:*:*:*:*:*", "lastModified": "2026-07-28T19:19:36.993", "matchCriteriaId": "E0A64E4C-DF8D-4285-A49F-7BA75CB954F1", "matches": [{"cpeName": "cpe:2.3:h:teltonika:trb143:-:*:*:*:*:*:*:*", "cpeNameId": "FBA5CA2E-D092-4D8C-A912-67ED93C7F464"}], "status": "Active"}
