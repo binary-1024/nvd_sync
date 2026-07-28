@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-07-28T13:03:49.427", "created": "2026-07-28T13:03:49.427", "criteria": "cpe:2.3:a:fortra:core_privileged_access_manager:*:*:*:*:*:*:*:*", "lastModified": "2026-07-28T13:03:49.427", "matchCriteriaId": "D19A879E-30AC-40C0-946F-B680C6DCA937", "status": "Active", "versionEndExcluding": "9.0.0.5", "versionStartIncluding": "9.0.0.0"}

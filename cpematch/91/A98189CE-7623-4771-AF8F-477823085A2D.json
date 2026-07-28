@@ -1,0 +1,1 @@
+{"created": "2026-07-28T12:33:15.723", "criteria": "cpe:2.3:a:vmware:velocloud_orchestrator:*:*:*:*:*:*:*:*", "lastModified": "2026-07-28T12:33:15.723", "matchCriteriaId": "A98189CE-7623-4771-AF8F-477823085A2D", "status": "Active", "versionEndExcluding": "5.2.3.14", "versionStartIncluding": "5.2.0"}
