@@ -1,0 +1,1 @@
+{"created": "2026-07-28T13:47:03.800", "criteria": "cpe:2.3:a:arista:velocloud_orchestrator:*:*:*:*:*:*:*:*", "lastModified": "2026-07-28T13:47:03.800", "matchCriteriaId": "F93AF860-FDF1-4061-813C-364DA582B642", "status": "Active", "versionEndExcluding": "5.2.3.14", "versionStartIncluding": "5.2.0"}
