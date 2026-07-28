@@ -1,1 +1,1 @@
-{"created": "2026-04-10T02:56:11.873", "criteria": "cpe:2.3:h:dlink:di-8004w:-:*:*:*:*:*:*:*", "lastModified": "2026-04-10T02:56:11.873", "matchCriteriaId": "FE1CEDFF-4310-444D-85F9-B93B77D0C73B", "status": "Active"}
+{"created": "2026-04-10T02:56:11.873", "criteria": "cpe:2.3:h:dlink:di-8004w:-:*:*:*:*:*:*:*", "lastModified": "2026-07-28T12:31:58.543", "matchCriteriaId": "FE1CEDFF-4310-444D-85F9-B93B77D0C73B", "matches": [{"cpeName": "cpe:2.3:h:dlink:di-8004w:-:*:*:*:*:*:*:*", "cpeNameId": "4B786EA0-3A4C-44FC-A8DE-A6DAE5C32C38"}], "status": "Active"}
