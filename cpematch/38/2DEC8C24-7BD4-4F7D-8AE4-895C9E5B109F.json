@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-07-29T10:57:04.043", "created": "2026-07-29T10:57:04.043", "criteria": "cpe:2.3:a:oracle:communications_billing_and_revenue_management:*:*:*:*:*:*:*:*", "lastModified": "2026-07-29T10:57:04.043", "matchCriteriaId": "2DEC8C24-7BD4-4F7D-8AE4-895C9E5B109F", "status": "Active", "versionEndIncluding": "15.2.0.0.0", "versionStartIncluding": "15.1.0.0.0"}
