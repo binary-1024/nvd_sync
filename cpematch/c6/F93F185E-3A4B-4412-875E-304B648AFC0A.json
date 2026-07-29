@@ -1,0 +1,1 @@
+{"created": "2026-07-29T18:34:21.580", "criteria": "cpe:2.3:a:symfony:twig-bridge:*:*:*:*:*:*:*:*", "lastModified": "2026-07-29T18:34:21.580", "matchCriteriaId": "F93F185E-3A4B-4412-875E-304B648AFC0A", "status": "Active", "versionEndExcluding": "5.4.31", "versionStartIncluding": "5.0.0"}
