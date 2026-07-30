@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-07-30T14:52:56.040", "created": "2026-07-30T14:52:56.040", "criteria": "cpe:2.3:a:progress:moveit_transfer:*:*:*:*:*:*:*:*", "lastModified": "2026-07-30T14:52:56.040", "matchCriteriaId": "81DDADC5-EABB-4073-8FEB-588016BA5852", "status": "Active", "versionEndExcluding": "2026.0.3", "versionStartIncluding": "2026.0.0"}
