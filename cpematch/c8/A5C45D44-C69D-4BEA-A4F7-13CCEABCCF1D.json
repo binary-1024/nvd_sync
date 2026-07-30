@@ -1,1 +1,1 @@
-{"created": "2025-08-07T16:27:52.983", "criteria": "cpe:2.3:a:bentley:view:10.16.02.22:*:*:*:*:*:*:*", "lastModified": "2025-08-07T16:27:52.983", "matchCriteriaId": "A5C45D44-C69D-4BEA-A4F7-13CCEABCCF1D", "status": "Active"}
+{"created": "2025-08-07T16:27:52.983", "criteria": "cpe:2.3:a:bentley:view:10.16.02.22:*:*:*:*:*:*:*", "lastModified": "2026-07-30T19:18:10.600", "matchCriteriaId": "A5C45D44-C69D-4BEA-A4F7-13CCEABCCF1D", "matches": [{"cpeName": "cpe:2.3:a:bentley:view:10.16.02.22:*:*:*:*:*:*:*", "cpeNameId": "90660235-EC67-4F0D-A21C-F3EA014EC377"}], "status": "Active"}
