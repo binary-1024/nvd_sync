@@ -1,0 +1,1 @@
+{"created": "2026-07-30T16:11:15.300", "criteria": "cpe:2.3:a:oracle:production_scheduling:*:*:*:*:*:*:*:*", "lastModified": "2026-07-30T16:11:15.300", "matchCriteriaId": "485A70C3-F1A5-4BF0-B5E7-60D1CFB4B48F", "status": "Active", "versionEndIncluding": "12.2.15", "versionStartIncluding": "12.2.3"}
