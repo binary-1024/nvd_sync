@@ -1,1 +1,1 @@
-{"created": "2026-04-09T15:26:28.090", "criteria": "cpe:2.3:a:ni:labview:2024:q3_patch5:*:*:*:*:*:*", "lastModified": "2026-04-09T15:26:28.090", "matchCriteriaId": "68F532A2-A27F-4B45-9F87-271C3F485D4F", "status": "Active"}
+{"created": "2026-04-09T15:26:28.090", "criteria": "cpe:2.3:a:ni:labview:2024:q3_patch5:*:*:*:*:*:*", "lastModified": "2026-07-30T18:20:50.847", "matchCriteriaId": "68F532A2-A27F-4B45-9F87-271C3F485D4F", "matches": [{"cpeName": "cpe:2.3:a:ni:labview:2024:q3_patch5:*:*:*:*:*:*", "cpeNameId": "11850F58-B70B-401D-9B7A-AF7C7786E2AF"}], "status": "Active"}
