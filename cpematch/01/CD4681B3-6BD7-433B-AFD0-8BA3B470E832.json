@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-07-31T14:15:27.553", "created": "2026-07-31T14:15:27.553", "criteria": "cpe:2.3:a:trellix:endpoint_security_agent:*:*:*:*:*:*:*:*", "lastModified": "2026-07-31T14:15:27.553", "matchCriteriaId": "CD4681B3-6BD7-433B-AFD0-8BA3B470E832", "status": "Active", "versionEndIncluding": "34.0.0", "versionStartIncluding": "30.0.0"}
