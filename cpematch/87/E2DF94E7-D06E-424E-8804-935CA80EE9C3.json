@@ -1,1 +1,1 @@
-{"created": "2025-12-18T16:24:45.750", "criteria": "cpe:2.3:a:ateme:titan_file:3.9.9.2:*:*:*:*:*:*:*", "lastModified": "2025-12-18T16:24:45.750", "matchCriteriaId": "E2DF94E7-D06E-424E-8804-935CA80EE9C3", "status": "Active"}
+{"created": "2025-12-18T16:24:45.750", "criteria": "cpe:2.3:a:ateme:titan_file:3.9.9.2:*:*:*:*:*:*:*", "lastModified": "2026-07-31T19:28:26.130", "matchCriteriaId": "E2DF94E7-D06E-424E-8804-935CA80EE9C3", "matches": [{"cpeName": "cpe:2.3:a:ateme:titan_file:3.9.9.2:*:*:*:*:*:*:*", "cpeNameId": "CDAD2DEE-7D49-40E8-BD1E-EC37E14D885A"}], "status": "Active"}
