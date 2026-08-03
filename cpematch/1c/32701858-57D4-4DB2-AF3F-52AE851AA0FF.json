@@ -1,0 +1,1 @@
+{"created": "2026-08-03T14:08:23.983", "criteria": "cpe:2.3:a:shopify:react-router-dom:*:*:*:*:*:node.js:*:*", "lastModified": "2026-08-03T14:08:23.983", "matchCriteriaId": "32701858-57D4-4DB2-AF3F-52AE851AA0FF", "status": "Active", "versionEndIncluding": "6.30.4", "versionStartIncluding": "6.30.2"}
