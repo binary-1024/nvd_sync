@@ -1,1 +1,1 @@
-{"created": "2025-12-31T17:29:22.327", "criteria": "cpe:2.3:a:jsish:jsish:2.0:*:*:*:*:*:*:*", "lastModified": "2025-12-31T17:29:22.327", "matchCriteriaId": "D2EBBCFD-094B-4ABF-B39E-A3EBD0D2CC83", "status": "Active"}
+{"created": "2025-12-31T17:29:22.327", "criteria": "cpe:2.3:a:jsish:jsish:2.0:*:*:*:*:*:*:*", "lastModified": "2026-08-04T18:29:24.650", "matchCriteriaId": "D2EBBCFD-094B-4ABF-B39E-A3EBD0D2CC83", "matches": [{"cpeName": "cpe:2.3:a:jsish:jsish:2.0:*:*:*:*:*:*:*", "cpeNameId": "D5B16D4A-2AF5-4716-9A90-B41E9991BB96"}], "status": "Active"}
