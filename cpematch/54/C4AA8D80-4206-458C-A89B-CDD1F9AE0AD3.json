@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-08-04T19:34:56.393", "created": "2026-08-04T19:34:56.393", "criteria": "cpe:2.3:a:bouncycastle:bouncy_castle_for_java_fips:*:*:*:*:*:*:*:*", "lastModified": "2026-08-04T19:34:56.393", "matchCriteriaId": "C4AA8D80-4206-458C-A89B-CDD1F9AE0AD3", "status": "Active", "versionEndExcluding": "2.1.13", "versionStartIncluding": "2.1.0"}
