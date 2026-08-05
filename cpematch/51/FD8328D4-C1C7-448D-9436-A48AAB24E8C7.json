@@ -1,0 +1,1 @@
+{"created": "2026-08-05T18:04:30.907", "criteria": "cpe:2.3:a:pypi:datamodel-code-generator:*:*:*:*:*:*:*:*", "lastModified": "2026-08-05T18:04:30.907", "matchCriteriaId": "FD8328D4-C1C7-448D-9436-A48AAB24E8C7", "status": "Active", "versionEndExcluding": "0.60.2", "versionStartIncluding": "0.17.0"}

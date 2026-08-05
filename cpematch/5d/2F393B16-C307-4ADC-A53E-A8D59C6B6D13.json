@@ -1,0 +1,1 @@
+{"created": "2026-08-05T17:47:46.217", "criteria": "cpe:2.3:a:apache:activemq_all:*:*:*:*:*:*:*:*", "lastModified": "2026-08-05T17:47:46.217", "matchCriteriaId": "2F393B16-C307-4ADC-A53E-A8D59C6B6D13", "status": "Active", "versionEndExcluding": "6.2.8", "versionStartIncluding": "6.0.0"}
