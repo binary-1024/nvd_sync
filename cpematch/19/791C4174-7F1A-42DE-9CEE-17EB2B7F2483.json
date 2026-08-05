@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-08-05T18:33:44.107", "created": "2026-08-05T18:33:44.107", "criteria": "cpe:2.3:a:pypi:datamodel-code-generator:*:*:*:*:*:*:*:*", "lastModified": "2026-08-05T18:33:44.107", "matchCriteriaId": "791C4174-7F1A-42DE-9CEE-17EB2B7F2483", "status": "Active", "versionEndExcluding": "0.62.0"}
