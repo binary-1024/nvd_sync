@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-08-05T14:22:44.567", "created": "2026-08-05T14:22:44.567", "criteria": "cpe:2.3:a:msgpack:messagepack:*:*:*:*:*:python:*:*", "lastModified": "2026-08-05T14:22:44.567", "matchCriteriaId": "A097F45C-8DB1-45AD-88DB-EA7AA3F7F994", "status": "Active", "versionEndExcluding": "1.2.1"}

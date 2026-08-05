@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-08-05T14:10:55.790", "created": "2026-08-05T14:10:55.790", "criteria": "cpe:2.3:a:oracle:utilities_network_management_system:*:*:*:*:*:*:*:*", "lastModified": "2026-08-05T14:10:55.790", "matchCriteriaId": "D11E7EF6-F799-4BDC-9B18-69076A7639B6", "status": "Active", "versionEndIncluding": "2.6.0.2.7", "versionStartIncluding": "2.6.0.2.0"}

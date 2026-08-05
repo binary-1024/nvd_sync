@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-08-05T14:17:59.530", "created": "2026-08-05T14:17:59.530", "criteria": "cpe:2.3:a:msgpack:messagepack:*:*:*:*:*:ruby:*:*", "lastModified": "2026-08-05T14:17:59.530", "matchCriteriaId": "65ABC93D-5241-43F9-B467-758E2FF0C008", "status": "Active", "versionEndExcluding": "1.8.2"}
