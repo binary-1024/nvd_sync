@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-08-06T00:16:32.290", "created": "2026-08-06T00:16:32.290", "criteria": "cpe:2.3:a:ueberauth:guardian:*:*:*:*:*:*:*:*", "lastModified": "2026-08-06T00:16:32.290", "matchCriteriaId": "D61141EA-5786-4D7B-8780-55707F97E793", "status": "Active", "versionEndExcluding": "2.4.1", "versionStartIncluding": "1.0.0"}
