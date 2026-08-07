@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-08-07T15:58:49.227", "created": "2026-08-07T15:58:49.227", "criteria": "cpe:2.3:a:eclipse:theia:*:*:*:*:*:*:*:*", "lastModified": "2026-08-07T15:58:49.227", "matchCriteriaId": "80478E2F-D9E2-4668-86CF-67913770E0AC", "status": "Active", "versionEndExcluding": "1.74.0", "versionStartIncluding": "1.66.0"}
