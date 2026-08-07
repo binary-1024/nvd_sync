@@ -1,0 +1,1 @@
+{"created": "2026-08-07T20:26:34.647", "criteria": "cpe:2.3:a:proxysql:proxysql:*:*:*:*:*:*:*:*", "lastModified": "2026-08-07T20:26:34.647", "matchCriteriaId": "B4CAF149-E318-46D2-AFFB-E9D9A57B081E", "status": "Active", "versionEndExcluding": "3.0.9", "versionStartIncluding": "2.0.0"}
