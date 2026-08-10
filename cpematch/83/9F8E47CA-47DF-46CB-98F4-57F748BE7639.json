@@ -1,1 +1,1 @@
-{"created": "2026-08-07T13:08:41.287", "criteria": "cpe:2.3:h:tp-link:omada_ds106gpp:-:*:*:*:*:*:*:*", "lastModified": "2026-08-07T13:08:41.287", "matchCriteriaId": "9F8E47CA-47DF-46CB-98F4-57F748BE7639", "status": "Active"}
+{"created": "2026-08-07T13:08:41.287", "criteria": "cpe:2.3:h:tp-link:omada_ds106gpp:-:*:*:*:*:*:*:*", "lastModified": "2026-08-10T13:10:11.740", "matchCriteriaId": "9F8E47CA-47DF-46CB-98F4-57F748BE7639", "matches": [{"cpeName": "cpe:2.3:h:tp-link:omada_ds106gpp:-:*:*:*:*:*:*:*", "cpeNameId": "487D4224-EE92-4227-8DFA-E2825EA395E8"}], "status": "Active"}

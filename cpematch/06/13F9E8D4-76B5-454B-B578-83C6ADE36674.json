@@ -1,1 +1,1 @@
-{"created": "2026-06-01T12:12:46.323", "criteria": "cpe:2.3:h:tp-link:archer_be450:1.0:*:*:*:*:*:*:*", "lastModified": "2026-06-01T12:12:46.323", "matchCriteriaId": "13F9E8D4-76B5-454B-B578-83C6ADE36674", "status": "Active"}
+{"created": "2026-06-01T12:12:46.323", "criteria": "cpe:2.3:h:tp-link:archer_be450:1.0:*:*:*:*:*:*:*", "lastModified": "2026-08-10T13:10:11.740", "matchCriteriaId": "13F9E8D4-76B5-454B-B578-83C6ADE36674", "matches": [{"cpeName": "cpe:2.3:h:tp-link:archer_be450:1.0:*:*:*:*:*:*:*", "cpeNameId": "7A9529A5-0895-41F7-9552-B8651E0B388A"}], "status": "Active"}

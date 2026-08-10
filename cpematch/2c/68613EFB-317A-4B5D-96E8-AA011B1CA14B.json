@@ -1,0 +1,1 @@
+{"created": "2026-08-10T13:24:58.830", "criteria": "cpe:2.3:a:amazon:documentdb_mcp_server:*:*:*:*:*:python:*:*", "lastModified": "2026-08-10T13:24:58.830", "matchCriteriaId": "68613EFB-317A-4B5D-96E8-AA011B1CA14B", "status": "Active", "versionEndExcluding": "1.0.12"}
