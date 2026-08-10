@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-08-10T15:08:34.847", "created": "2026-08-10T15:08:34.847", "criteria": "cpe:2.3:a:f5:nginx_ingress_controller:*:*:*:*:continuous_releases:*:*:*", "lastModified": "2026-08-10T15:08:34.847", "matchCriteriaId": "E54B5C35-49D7-43F6-B57C-4606F75192CE", "status": "Active", "versionEndIncluding": "3.7.2", "versionStartIncluding": "3.5.0"}

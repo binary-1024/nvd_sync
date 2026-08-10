@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-08-10T14:57:07.420", "created": "2026-08-10T14:57:07.420", "criteria": "cpe:2.3:a:livebook:livebook:*:*:*:*:*:*:*:*", "lastModified": "2026-08-10T14:57:07.420", "matchCriteriaId": "DBA92C3C-AA59-45BF-B266-428314C2A32A", "status": "Active", "versionEndExcluding": "0.18.7", "versionStartIncluding": "0.11.0"}
