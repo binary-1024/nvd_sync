@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-08-10T18:30:28.220", "created": "2026-08-10T18:30:28.220", "criteria": "cpe:2.3:a:cisco:snort:*:*:*:*:*:*:*:*", "lastModified": "2026-08-10T18:31:31.670", "matchCriteriaId": "E1CE9C68-3465-4B8E-9551-1974D7F2943B", "status": "Inactive", "versionEndExcluding": "3.9.2.0"}
