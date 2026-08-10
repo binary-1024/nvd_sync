@@ -1,0 +1,1 @@
+{"created": "2026-08-10T17:38:26.940", "criteria": "cpe:2.3:a:amazon:aws-smithy-json:*:*:*:*:*:rust:*:*", "lastModified": "2026-08-10T17:38:38.080", "matchCriteriaId": "ECB5AD9A-49B7-4632-9279-60130FF4D35F", "status": "Inactive", "versionEndIncluding": "0.62.7"}
