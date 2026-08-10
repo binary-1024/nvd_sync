@@ -1,1 +1,1 @@
-{"created": "2026-08-07T14:57:57.857", "criteria": "cpe:2.3:h:dell:se2726hs:-:*:*:*:*:*:*:*", "lastModified": "2026-08-07T14:57:57.857", "matchCriteriaId": "F5D0258A-4607-426C-8812-4F3FC9569960", "status": "Active"}
+{"created": "2026-08-07T14:57:57.857", "criteria": "cpe:2.3:h:dell:se2726hs:-:*:*:*:*:*:*:*", "lastModified": "2026-08-10T20:14:23.497", "matchCriteriaId": "F5D0258A-4607-426C-8812-4F3FC9569960", "matches": [{"cpeName": "cpe:2.3:h:dell:se2726hs:-:*:*:*:*:*:*:*", "cpeNameId": "955725C6-39D1-4604-98C4-71EB86F9930F"}], "status": "Active"}

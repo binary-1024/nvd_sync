@@ -1,1 +1,1 @@
-{"created": "2026-08-07T14:57:57.857", "criteria": "cpe:2.3:h:dell:aw2725dm:-:*:*:*:*:*:*:*", "lastModified": "2026-08-07T14:57:57.857", "matchCriteriaId": "FCDE86A3-843A-45F1-B858-A099233067AD", "status": "Active"}
+{"created": "2026-08-07T14:57:57.857", "criteria": "cpe:2.3:h:dell:aw2725dm:-:*:*:*:*:*:*:*", "lastModified": "2026-08-10T20:14:23.497", "matchCriteriaId": "FCDE86A3-843A-45F1-B858-A099233067AD", "matches": [{"cpeName": "cpe:2.3:h:dell:aw2725dm:-:*:*:*:*:*:*:*", "cpeNameId": "ED7A7CC0-0121-4250-BF8E-9343046DD2ED"}], "status": "Active"}

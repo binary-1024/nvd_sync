@@ -1,1 +1,1 @@
-{"created": "2026-08-07T14:57:57.857", "criteria": "cpe:2.3:h:dell:s3225qc:-:*:*:*:*:*:*:*", "lastModified": "2026-08-07T14:57:57.857", "matchCriteriaId": "5F2871A8-752A-45BA-905F-6854C13A866B", "status": "Active"}
+{"created": "2026-08-07T14:57:57.857", "criteria": "cpe:2.3:h:dell:s3225qc:-:*:*:*:*:*:*:*", "lastModified": "2026-08-10T20:14:23.497", "matchCriteriaId": "5F2871A8-752A-45BA-905F-6854C13A866B", "matches": [{"cpeName": "cpe:2.3:h:dell:s3225qc:-:*:*:*:*:*:*:*", "cpeNameId": "7BDFF83E-7A0C-45A8-9621-AA1EC93AE944"}], "status": "Active"}

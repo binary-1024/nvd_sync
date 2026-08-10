@@ -1,1 +1,1 @@
-{"created": "2026-08-07T14:57:57.857", "criteria": "cpe:2.3:h:dell:p2425de:-:*:*:*:*:*:*:*", "lastModified": "2026-08-07T14:57:57.857", "matchCriteriaId": "27862DA9-A421-4421-A705-57064E4220D0", "status": "Active"}
+{"created": "2026-08-07T14:57:57.857", "criteria": "cpe:2.3:h:dell:p2425de:-:*:*:*:*:*:*:*", "lastModified": "2026-08-10T20:14:23.497", "matchCriteriaId": "27862DA9-A421-4421-A705-57064E4220D0", "matches": [{"cpeName": "cpe:2.3:h:dell:p2425de:-:*:*:*:*:*:*:*", "cpeNameId": "777AA39D-803E-4BA8-8AF3-234550A1EF2E"}], "status": "Active"}
