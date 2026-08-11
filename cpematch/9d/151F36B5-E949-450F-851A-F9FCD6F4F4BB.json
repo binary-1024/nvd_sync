@@ -1,1 +1,1 @@
-{"created": "2026-08-10T16:19:26.727", "criteria": "cpe:2.3:o:cisco:ios_xe:16.12.15:*:*:*:*:*:*:*", "lastModified": "2026-08-10T16:19:26.727", "matchCriteriaId": "151F36B5-E949-450F-851A-F9FCD6F4F4BB", "status": "Active"}
+{"created": "2026-08-10T16:19:26.727", "criteria": "cpe:2.3:o:cisco:ios_xe:16.12.15:*:*:*:*:*:*:*", "lastModified": "2026-08-11T14:05:18.570", "matchCriteriaId": "151F36B5-E949-450F-851A-F9FCD6F4F4BB", "matches": [{"cpeName": "cpe:2.3:o:cisco:ios_xe:16.12.15:*:*:*:*:*:*:*", "cpeNameId": "5FFC0F9D-0126-4B4A-A300-5D8E744D2A2E"}], "status": "Active"}
