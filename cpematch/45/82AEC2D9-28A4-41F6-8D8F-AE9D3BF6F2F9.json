@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-08-11T17:26:53.650", "created": "2026-08-11T17:26:53.650", "criteria": "cpe:2.3:a:eclipse:omr:*:*:*:*:*:*:*:*", "lastModified": "2026-08-11T17:27:44.753", "matchCriteriaId": "82AEC2D9-28A4-41F6-8D8F-AE9D3BF6F2F9", "status": "Inactive", "versionEndExcluding": "0.11.0", "versionStartIncluding": "0.1.0"}
