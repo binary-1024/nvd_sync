@@ -1,1 +1,1 @@
-{"created": "2026-08-11T18:48:57.783", "criteria": "cpe:2.3:a:ibm:agentics:1.0:*:*:*:*:*:*:*", "lastModified": "2026-08-11T18:48:57.783", "matchCriteriaId": "37123C5E-D6EC-4392-8951-6D7C756A9637", "status": "Active"}
+{"created": "2026-08-11T18:48:57.783", "criteria": "cpe:2.3:a:ibm:agentics:1.0:*:*:*:*:*:*:*", "lastModified": "2026-08-12T15:22:01.980", "matchCriteriaId": "37123C5E-D6EC-4392-8951-6D7C756A9637", "matches": [{"cpeName": "cpe:2.3:a:ibm:agentics:1.0:*:*:*:*:*:*:*", "cpeNameId": "FACD4B77-660A-4CC5-BB1D-8408058ABF5D"}], "status": "Active"}
