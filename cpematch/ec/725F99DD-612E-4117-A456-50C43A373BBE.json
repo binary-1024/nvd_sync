@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-08-12T13:57:16.197", "created": "2026-08-12T13:57:16.197", "criteria": "cpe:2.3:a:microsoft:azure_monitor_agent:*:*:*:*:*:linux:*:*", "lastModified": "2026-08-12T13:58:18.317", "matchCriteriaId": "725F99DD-612E-4117-A456-50C43A373BBE", "status": "Inactive", "versionEndExcluding": "1.43.0", "versionStartIncluding": "1.0.0"}
