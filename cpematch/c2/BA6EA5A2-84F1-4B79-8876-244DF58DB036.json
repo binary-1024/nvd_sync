@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-08-12T18:21:39.377", "created": "2026-08-12T18:21:39.377", "criteria": "cpe:2.3:a:ibm:verify_identity_access:*:*:*:*:*:*:*:*", "lastModified": "2026-08-12T18:21:39.377", "matchCriteriaId": "BA6EA5A2-84F1-4B79-8876-244DF58DB036", "status": "Active", "versionEndIncluding": "11.0.2", "versionStartIncluding": "11.0"}
