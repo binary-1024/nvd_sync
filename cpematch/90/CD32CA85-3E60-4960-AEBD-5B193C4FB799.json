@@ -1,0 +1,1 @@
+{"created": "2026-08-13T13:48:28.287", "criteria": "cpe:2.3:a:intel:tdx_guest:*:*:*:*:*:*:*:*", "lastModified": "2026-08-13T13:54:15.767", "matchCriteriaId": "CD32CA85-3E60-4960-AEBD-5B193C4FB799", "status": "Inactive", "versionEndIncluding": "0.3.1"}
