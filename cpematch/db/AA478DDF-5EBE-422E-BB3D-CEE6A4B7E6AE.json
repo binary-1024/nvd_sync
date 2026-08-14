@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-08-14T20:36:40.997", "created": "2026-08-14T20:36:40.997", "criteria": "cpe:2.3:a:apache:apache-airflow-providers-apache-yandex:*:*:*:*:*:*:*:*", "lastModified": "2026-08-14T20:36:40.997", "matchCriteriaId": "AA478DDF-5EBE-422E-BB3D-CEE6A4B7E6AE", "status": "Active", "versionEndExcluding": "4.5.1"}
