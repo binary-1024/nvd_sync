@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-08-14T15:10:33.733", "created": "2026-08-14T15:10:33.733", "criteria": "cpe:2.3:a:jline:jline:*:*:*:*:*:*:*:*", "lastModified": "2026-08-14T15:10:33.733", "matchCriteriaId": "6431F876-039C-4BE1-ABE0-4BFCC22B6F49", "status": "Active", "versionEndExcluding": "4.2.1", "versionStartIncluding": "4.1.0"}
