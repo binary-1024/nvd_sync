@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-08-17T17:40:44.140", "created": "2026-08-17T17:40:44.140", "criteria": "cpe:2.3:a:nanoid_project:nanoid:*:*:*:*:*:node.js:*:*", "lastModified": "2026-08-17T17:40:44.140", "matchCriteriaId": "12EE44CB-5253-4362-959D-7B0A4EC57592", "status": "Active", "versionEndExcluding": "5.1.6", "versionStartIncluding": "5.0.0"}
