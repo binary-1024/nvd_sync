@@ -1,0 +1,1 @@
+{"created": "2026-08-18T19:25:47.770", "criteria": "cpe:2.3:a:vmware:vcenter_server:*:*:*:*:*:*:*:*", "lastModified": "2026-08-18T19:25:47.770", "matchCriteriaId": "45C693CF-0995-4332-9B1E-018EBCDAF83A", "status": "Active", "versionEndExcluding": "9.0.2.0100", "versionStartIncluding": "9.0"}
