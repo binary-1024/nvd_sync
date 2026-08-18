@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-08-18T18:37:12.890", "created": "2026-08-18T18:37:12.890", "criteria": "cpe:2.3:a:ibm:informix_dynamic_server:*:*:*:*:*:*:*:*", "lastModified": "2026-08-18T18:37:12.890", "matchCriteriaId": "AFF16E47-BAEB-422B-85F4-6EB1C3EC71A2", "status": "Active", "versionEndExcluding": "15.0.1.14", "versionStartIncluding": "15.0"}
