@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-08-19T17:05:50.383", "created": "2026-08-19T17:05:50.383", "criteria": "cpe:2.3:a:pgvector_project:pgvector:*:*:*:*:*:postgresql:*:*", "lastModified": "2026-08-19T17:05:50.383", "matchCriteriaId": "17810A1F-9FFA-4719-BDB5-8C5D377AF598", "status": "Active", "versionEndExcluding": "0.8.6"}
