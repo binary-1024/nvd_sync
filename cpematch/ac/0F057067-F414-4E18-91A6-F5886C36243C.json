@@ -1,1 +1,1 @@
-{"created": "2026-08-19T16:13:29.770", "criteria": "cpe:2.3:a:blacklanternsecurity:bbot:*:*:*:*:*:*:*:*", "lastModified": "2026-08-19T16:13:29.770", "matchCriteriaId": "0F057067-F414-4E18-91A6-F5886C36243C", "status": "Active", "versionEndIncluding": "2.8.6"}
+{"created": "2026-08-19T16:13:29.770", "criteria": "cpe:2.3:a:blacklanternsecurity:bbot:*:*:*:*:*:*:*:*", "lastModified": "2026-08-19T17:18:17.313", "matchCriteriaId": "0F057067-F414-4E18-91A6-F5886C36243C", "status": "Inactive", "versionEndIncluding": "2.8.6"}

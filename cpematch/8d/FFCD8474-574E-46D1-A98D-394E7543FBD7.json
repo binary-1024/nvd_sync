@@ -1,1 +1,1 @@
-{"created": "2025-04-15T20:30:37.117", "criteria": "cpe:2.3:a:pcman:ftp_server:2.0.7:*:*:*:*:*:*:*", "lastModified": "2025-04-15T20:30:37.117", "matchCriteriaId": "FFCD8474-574E-46D1-A98D-394E7543FBD7", "status": "Active"}
+{"created": "2025-04-15T20:30:37.117", "criteria": "cpe:2.3:a:pcman:ftp_server:2.0.7:*:*:*:*:*:*:*", "lastModified": "2026-08-19T17:19:07.717", "matchCriteriaId": "FFCD8474-574E-46D1-A98D-394E7543FBD7", "matches": [{"cpeName": "cpe:2.3:a:pcman:ftp_server:2.0.7:*:*:*:*:*:*:*", "cpeNameId": "39D4C360-BF14-4D34-9503-C41A15CB408D"}], "status": "Active"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-08-19T17:17:37.153", "created": "2026-08-19T17:17:37.153", "criteria": "cpe:2.3:a:enterprisedb:pglogical:*:*:*:*:*:postgresql:*:*", "lastModified": "2026-08-19T17:17:37.153", "matchCriteriaId": "DC0E75E2-2571-4AB8-892A-DA7B88B722EF", "status": "Active", "versionEndExcluding": "2.4.8", "versionStartIncluding": "2.0.0"}
