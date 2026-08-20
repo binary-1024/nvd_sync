@@ -1,0 +1,1 @@
+{"created": "2026-08-20T13:58:59.850", "criteria": "cpe:2.3:a:splunk:on-call:*:*:*:*:*:*:*:*", "lastModified": "2026-08-20T13:58:59.850", "matchCriteriaId": "221DB951-9378-4AF2-A601-DEC32D96B63E", "status": "Active", "versionEndExcluding": "1.0.43", "versionStartIncluding": "1.0.0"}

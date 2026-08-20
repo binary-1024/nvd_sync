@@ -1,0 +1,1 @@
+{"created": "2026-08-20T13:58:59.850", "criteria": "cpe:2.3:a:splunk:mcp_server:*:*:*:*:*:*:*:*", "lastModified": "2026-08-20T13:58:59.850", "matchCriteriaId": "0A403D1D-FD65-4407-9FD4-9D166DECBB80", "status": "Active", "versionEndExcluding": "1.2.1", "versionStartIncluding": "1.2.0"}

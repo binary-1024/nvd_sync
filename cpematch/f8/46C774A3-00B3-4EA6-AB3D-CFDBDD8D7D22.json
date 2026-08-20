@@ -1,0 +1,1 @@
+{"created": "2026-08-20T13:58:59.850", "criteria": "cpe:2.3:a:splunk:connect_for_kafka:*:*:*:*:*:*:*:*", "lastModified": "2026-08-20T13:58:59.850", "matchCriteriaId": "46C774A3-00B3-4EA6-AB3D-CFDBDD8D7D22", "status": "Active", "versionEndExcluding": "2.2.7", "versionStartIncluding": "2.2.0"}

@@ -1,1 +1,1 @@
-{"created": "2026-03-04T19:37:37.567", "criteria": "cpe:2.3:a:chia:blockchain:2.1.0:*:*:*:*:*:*:*", "lastModified": "2026-03-04T19:37:37.567", "matchCriteriaId": "6FF3B0E2-5398-4EEF-8EF1-EF9BF237FC95", "status": "Active"}
+{"created": "2026-03-04T19:37:37.567", "criteria": "cpe:2.3:a:chia:blockchain:2.1.0:*:*:*:*:*:*:*", "lastModified": "2026-08-20T13:33:22.280", "matchCriteriaId": "6FF3B0E2-5398-4EEF-8EF1-EF9BF237FC95", "matches": [{"cpeName": "cpe:2.3:a:chia:blockchain:2.1.0:*:*:*:*:*:*:*", "cpeNameId": "9A4B1449-724E-42ED-A4FB-985284240179"}], "status": "Active"}
