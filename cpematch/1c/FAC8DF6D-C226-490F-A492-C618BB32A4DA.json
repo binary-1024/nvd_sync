@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-08-20T14:55:01.687", "created": "2026-08-20T14:55:01.687", "criteria": "cpe:2.3:a:oracle:siebel_crm:*:*:*:*:*:*:*:*", "lastModified": "2026-08-20T14:55:01.687", "matchCriteriaId": "FAC8DF6D-C226-490F-A492-C618BB32A4DA", "status": "Active", "versionEndIncluding": "26.6", "versionStartIncluding": "25.12"}
