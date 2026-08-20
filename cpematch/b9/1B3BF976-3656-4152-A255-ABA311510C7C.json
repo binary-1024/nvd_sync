@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-08-20T19:04:18.900", "created": "2026-08-20T19:04:18.900", "criteria": "cpe:2.3:a:trueconf:trueconf_server:*:*:*:*:*:linux_kernel:*:*", "lastModified": "2026-08-20T19:04:18.900", "matchCriteriaId": "1B3BF976-3656-4152-A255-ABA311510C7C", "status": "Active", "versionEndExcluding": "5.5.5.10009", "versionStartIncluding": "5.5.0.13828"}

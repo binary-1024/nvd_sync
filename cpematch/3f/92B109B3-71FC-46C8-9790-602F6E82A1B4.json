@@ -1,0 +1,1 @@
+{"created": "2026-08-20T18:21:49.967", "criteria": "cpe:2.3:a:trueconf:trueconf_server:*:*:*:*:*:windows:*:*", "lastModified": "2026-08-20T18:21:49.967", "matchCriteriaId": "92B109B3-71FC-46C8-9790-602F6E82A1B4", "status": "Active", "versionEndExcluding": "5.4.9.10072", "versionStartIncluding": "5.4.0.12689"}
