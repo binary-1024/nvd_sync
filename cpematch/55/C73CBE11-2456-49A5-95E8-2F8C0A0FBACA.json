@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-08-20T20:36:27.807", "created": "2026-08-20T20:36:27.807", "criteria": "cpe:2.3:a:mozilla:thunderbird:*:*:*:*:esr:*:*:*", "lastModified": "2026-08-20T20:36:27.807", "matchCriteriaId": "C73CBE11-2456-49A5-95E8-2F8C0A0FBACA", "status": "Active", "versionEndExcluding": "153.1.0", "versionStartIncluding": "141.0"}
