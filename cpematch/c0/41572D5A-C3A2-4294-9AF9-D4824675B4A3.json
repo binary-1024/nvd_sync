@@ -1,0 +1,1 @@
+{"created": "2026-08-21T19:49:36.763", "criteria": "cpe:2.3:o:ibm:power_system_s1014_\\(9105-41b\\)_firmware:*:*:*:*:*:*:*:*", "lastModified": "2026-08-21T19:49:36.763", "matchCriteriaId": "41572D5A-C3A2-4294-9AF9-D4824675B4A3", "status": "Active", "versionEndExcluding": "fw1060.81", "versionStartIncluding": "fw1060.00"}
