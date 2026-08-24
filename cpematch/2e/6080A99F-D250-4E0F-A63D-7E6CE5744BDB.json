@@ -1,1 +1,1 @@
-{"created": "2026-08-24T13:20:21.767", "criteria": "cpe:2.3:a:cisco:enterprise_nfv_infrastructure_software:4.6.4:*:*:*:*:*:*:*", "lastModified": "2026-08-24T16:34:07.920", "matchCriteriaId": "6080A99F-D250-4E0F-A63D-7E6CE5744BDB", "status": "Inactive"}
+{"created": "2026-08-24T13:20:21.767", "criteria": "cpe:2.3:a:cisco:enterprise_nfv_infrastructure_software:4.6.4:*:*:*:*:*:*:*", "lastModified": "2026-08-24T18:22:14.930", "matchCriteriaId": "6080A99F-D250-4E0F-A63D-7E6CE5744BDB", "status": "Active"}

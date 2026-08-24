@@ -1,1 +1,1 @@
-{"created": "2026-08-24T16:34:07.920", "criteria": "cpe:2.3:a:cisco:network_function_virtualization_infrastructure_software:4.15.1:*:*:*:*:*:*:*", "lastModified": "2026-08-24T16:34:07.920", "matchCriteriaId": "002F084B-9D6B-438D-8AE2-7B61007E3EE6", "status": "Active"}
+{"created": "2026-08-24T16:34:07.920", "criteria": "cpe:2.3:a:cisco:network_function_virtualization_infrastructure_software:4.15.1:*:*:*:*:*:*:*", "lastModified": "2026-08-24T18:22:14.930", "matchCriteriaId": "002F084B-9D6B-438D-8AE2-7B61007E3EE6", "status": "Inactive"}
