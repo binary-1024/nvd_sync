@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-08-25T14:02:17.190", "created": "2026-08-25T14:02:17.190", "criteria": "cpe:2.3:o:ibm:power_system_e1150_\\(9043-mru\\)_firmware:*:*:*:*:*:*:*:*", "lastModified": "2026-08-25T14:02:17.190", "matchCriteriaId": "181DFBD2-63D1-481C-909F-226E448DBE34", "status": "Active", "versionEndExcluding": "fw1110.30", "versionStartIncluding": "fw1110.00"}

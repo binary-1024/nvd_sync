@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-08-25T14:02:17.190", "created": "2026-08-25T14:02:17.190", "criteria": "cpe:2.3:o:ibm:power_system_s1114_\\(9824-41b\\)_firmware:*:*:*:*:*:*:*:*", "lastModified": "2026-08-25T14:02:17.190", "matchCriteriaId": "9B3F6D87-A1A2-482E-A977-2C282AD78586", "status": "Active", "versionEndExcluding": "fw1110.30", "versionStartIncluding": "fw1110.00"}

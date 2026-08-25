@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-08-25T14:02:17.190", "created": "2026-08-25T14:02:17.190", "criteria": "cpe:2.3:o:ibm:power_system_e1050_\\(9043-mrx\\)_firmware:*:*:*:*:*:*:*:*", "lastModified": "2026-08-25T14:02:17.190", "matchCriteriaId": "CDBE6EC6-7BD4-424D-B895-3D87B22C01A6", "status": "Active", "versionEndExcluding": "fw1060.72", "versionStartIncluding": "fw1060.00"}

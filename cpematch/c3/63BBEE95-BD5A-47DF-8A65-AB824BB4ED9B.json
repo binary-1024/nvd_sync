@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-08-25T14:02:17.190", "created": "2026-08-25T14:02:17.190", "criteria": "cpe:2.3:o:ibm:power_system_s1024_\\(9105-42a\\)_firmware:*:*:*:*:*:*:*:*", "lastModified": "2026-08-25T14:02:17.190", "matchCriteriaId": "63BBEE95-BD5A-47DF-8A65-AB824BB4ED9B", "status": "Active", "versionEndExcluding": "fw1060.72", "versionStartIncluding": "fw1060.00"}
