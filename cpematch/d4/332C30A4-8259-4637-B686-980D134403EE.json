@@ -1,0 +1,1 @@
+{"created": "2026-08-25T18:38:35.403", "criteria": "cpe:2.3:o:ibm:power_system_s1112_\\(9242-21t\\)_firmware:*:*:*:*:*:*:*:*", "lastModified": "2026-08-25T18:38:35.403", "matchCriteriaId": "332C30A4-8259-4637-B686-980D134403EE", "status": "Active", "versionEndExcluding": "fw1110.31", "versionStartIncluding": "FW1110.00"}
