@@ -1,0 +1,1 @@
+{"created": "2026-08-26T20:38:01.060", "criteria": "cpe:2.3:a:opentelemetry:opentelemetry\\/auto-instrumentations-node:*:*:*:*:*:node.js:*:*", "lastModified": "2026-08-26T20:38:01.060", "matchCriteriaId": "1B4BB76E-A709-46B7-A59F-C08DF82C6FB2", "status": "Active", "versionEndExcluding": "0.75.0"}

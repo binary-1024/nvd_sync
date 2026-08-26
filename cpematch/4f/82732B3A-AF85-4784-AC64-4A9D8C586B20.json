@@ -1,0 +1,1 @@
+{"created": "2026-08-26T20:38:30.993", "criteria": "cpe:2.3:a:opentelemetry:opentelemetry\\/sdk-node:*:*:*:*:*:node.js:*:*", "lastModified": "2026-08-26T20:38:30.993", "matchCriteriaId": "82732B3A-AF85-4784-AC64-4A9D8C586B20", "status": "Active", "versionEndExcluding": "0.217.0"}
