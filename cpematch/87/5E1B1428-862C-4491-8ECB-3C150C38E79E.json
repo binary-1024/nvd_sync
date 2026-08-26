@@ -1,1 +1,1 @@
-{"created": "2026-04-14T22:59:08.277", "criteria": "cpe:2.3:a:dynalon:mdwiki:0.6.2:*:*:*:*:*:*:*", "lastModified": "2026-04-14T22:59:08.277", "matchCriteriaId": "5E1B1428-862C-4491-8ECB-3C150C38E79E", "status": "Active"}
+{"created": "2026-04-14T22:59:08.277", "criteria": "cpe:2.3:a:dynalon:mdwiki:0.6.2:*:*:*:*:*:*:*", "lastModified": "2026-08-26T15:34:32.227", "matchCriteriaId": "5E1B1428-862C-4491-8ECB-3C150C38E79E", "matches": [{"cpeName": "cpe:2.3:a:dynalon:mdwiki:0.6.2:*:*:*:*:*:*:*", "cpeNameId": "13B4D4C1-3327-4DB0-B878-D20D949D344D"}], "status": "Active"}

@@ -1,1 +1,1 @@
-{"created": "2026-01-08T18:53:21.960", "criteria": "cpe:2.3:h:rvr:tex702lcd:-:*:*:*:*:*:*:*", "lastModified": "2026-01-08T18:53:21.960", "matchCriteriaId": "3BC81BA3-7998-40BB-BE4C-3B356B6E24AF", "status": "Active"}
+{"created": "2026-01-08T18:53:21.960", "criteria": "cpe:2.3:h:rvr:tex702lcd:-:*:*:*:*:*:*:*", "lastModified": "2026-08-26T15:15:20.503", "matchCriteriaId": "3BC81BA3-7998-40BB-BE4C-3B356B6E24AF", "matches": [{"cpeName": "cpe:2.3:h:rvr:tex702lcd:-:*:*:*:*:*:*:*", "cpeNameId": "9C90AA45-9BA8-43C3-9E85-A859F07F76D9"}], "status": "Active"}

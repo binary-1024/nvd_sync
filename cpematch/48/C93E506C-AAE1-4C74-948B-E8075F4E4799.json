@@ -1,1 +1,1 @@
-{"created": "2026-01-20T19:09:44.987", "criteria": "cpe:2.3:h:redragon:m602-ks:-:*:*:*:*:*:*:*", "lastModified": "2026-01-20T19:09:44.987", "matchCriteriaId": "C93E506C-AAE1-4C74-948B-E8075F4E4799", "status": "Active"}
+{"created": "2026-01-20T19:09:44.987", "criteria": "cpe:2.3:h:redragon:m602-ks:-:*:*:*:*:*:*:*", "lastModified": "2026-08-26T15:11:45.880", "matchCriteriaId": "C93E506C-AAE1-4C74-948B-E8075F4E4799", "matches": [{"cpeName": "cpe:2.3:h:redragon:m602-ks:-:*:*:*:*:*:*:*", "cpeNameId": "C9CFF9F7-B5BE-4F59-BC30-8674E66AA74D"}], "status": "Active"}

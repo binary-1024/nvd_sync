@@ -1,1 +1,1 @@
-{"created": "2025-12-31T17:21:40.810", "criteria": "cpe:2.3:h:sound4:pulse:-:*:*:*:*:*:*:*", "lastModified": "2025-12-31T17:21:40.810", "matchCriteriaId": "8EF56652-B226-4487-9757-F3114DAD358E", "status": "Active"}
+{"created": "2025-12-31T17:21:40.810", "criteria": "cpe:2.3:h:sound4:pulse:-:*:*:*:*:*:*:*", "lastModified": "2026-08-26T16:14:02.663", "matchCriteriaId": "8EF56652-B226-4487-9757-F3114DAD358E", "matches": [{"cpeName": "cpe:2.3:h:sound4:pulse:-:*:*:*:*:*:*:*", "cpeNameId": "1100CE9A-E6A8-45DC-86FC-A5BCE186C764"}], "status": "Active"}

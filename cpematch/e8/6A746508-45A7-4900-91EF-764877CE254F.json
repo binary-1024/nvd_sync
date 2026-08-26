@@ -1,1 +1,1 @@
-{"created": "2026-01-20T19:09:44.987", "criteria": "cpe:2.3:h:redragon:m816-pro:-:*:*:*:*:*:*:*", "lastModified": "2026-01-20T19:09:44.987", "matchCriteriaId": "6A746508-45A7-4900-91EF-764877CE254F", "status": "Active"}
+{"created": "2026-01-20T19:09:44.987", "criteria": "cpe:2.3:h:redragon:m816-pro:-:*:*:*:*:*:*:*", "lastModified": "2026-08-26T15:11:45.880", "matchCriteriaId": "6A746508-45A7-4900-91EF-764877CE254F", "matches": [{"cpeName": "cpe:2.3:h:redragon:m816-pro:-:*:*:*:*:*:*:*", "cpeNameId": "4141BFC2-9BA2-4574-A279-6175DEB4B766"}], "status": "Active"}
