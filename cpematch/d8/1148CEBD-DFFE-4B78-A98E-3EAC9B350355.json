@@ -1,1 +1,1 @@
-{"created": "2026-08-26T17:00:03.730", "criteria": "cpe:2.3:h:intel:wi-fi_7_be213:-:*:*:*:*:*:*:*", "lastModified": "2026-08-26T17:00:03.730", "matchCriteriaId": "1148CEBD-DFFE-4B78-A98E-3EAC9B350355", "status": "Active"}
+{"created": "2026-08-26T17:00:03.730", "criteria": "cpe:2.3:h:intel:wi-fi_7_be213:-:*:*:*:*:*:*:*", "lastModified": "2026-08-26T19:12:07.867", "matchCriteriaId": "1148CEBD-DFFE-4B78-A98E-3EAC9B350355", "matches": [{"cpeName": "cpe:2.3:h:intel:wi-fi_7_be213:-:*:*:*:*:*:*:*", "cpeNameId": "7A8492F7-AFD7-4F52-9697-6C5C61C1CD06"}], "status": "Active"}

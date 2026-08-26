@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-08-26T18:49:43.290", "created": "2026-08-26T18:49:43.290", "criteria": "cpe:2.3:a:oracle:autonomous_health_framework:*:*:*:*:*:*:*:*", "lastModified": "2026-08-26T18:49:43.290", "matchCriteriaId": "D7D081AC-A127-4564-8C9B-1C0BD844E7F7", "status": "Active", "versionEndIncluding": "26.1.0", "versionStartIncluding": "26.0.0"}
