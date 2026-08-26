@@ -1,1 +1,1 @@
-{"created": "2025-05-21T16:28:25.573", "criteria": "cpe:2.3:o:h3c:n12_firmware:100r005:*:*:*:*:*:*:*", "lastModified": "2025-05-21T16:28:25.573", "matchCriteriaId": "F1C866E0-A636-473B-8B85-3EF6FF2B1458", "status": "Active"}
+{"created": "2025-05-21T16:28:25.573", "criteria": "cpe:2.3:o:h3c:n12_firmware:100r005:*:*:*:*:*:*:*", "lastModified": "2026-08-26T17:42:12.987", "matchCriteriaId": "F1C866E0-A636-473B-8B85-3EF6FF2B1458", "matches": [{"cpeName": "cpe:2.3:o:h3c:n12_firmware:100r005:*:*:*:*:*:*:*", "cpeNameId": "240FD6D8-A3DC-438F-8F3F-686E2FEA84FA"}], "status": "Active"}
