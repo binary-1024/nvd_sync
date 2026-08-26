@@ -1,0 +1,1 @@
+{"created": "2026-08-26T22:54:59.127", "criteria": "cpe:2.3:o:riscv-software-src:opensbi:*:*:*:*:*:*:*:*", "lastModified": "2026-08-26T22:54:59.127", "matchCriteriaId": "6BA53D0B-7A5B-4EB5-A1FB-053746F29F7D", "status": "Active", "versionEndIncluding": "1.6", "versionStartIncluding": "1.3"}
