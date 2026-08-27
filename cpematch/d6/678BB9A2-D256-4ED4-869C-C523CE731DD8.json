@@ -1,0 +1,1 @@
+{"created": "2026-08-27T17:51:46.130", "criteria": "cpe:2.3:a:gitlab:ai_gateway:*:*:*:*:*:*:*:*", "lastModified": "2026-08-27T17:51:46.130", "matchCriteriaId": "678BB9A2-D256-4ED4-869C-C523CE731DD8", "status": "Active", "versionEndExcluding": "19.0.13", "versionStartIncluding": "18.9.0"}

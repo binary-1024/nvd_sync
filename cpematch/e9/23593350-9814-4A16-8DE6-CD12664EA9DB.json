@@ -1,0 +1,1 @@
+{"created": "2026-08-27T17:51:47.970", "criteria": "cpe:2.3:a:grafana:clickhouse_datasource:*:*:*:*:*:*:*:*", "lastModified": "2026-08-27T17:51:47.970", "matchCriteriaId": "23593350-9814-4A16-8DE6-CD12664EA9DB", "status": "Active", "versionEndIncluding": "4.20.0", "versionStartIncluding": "3.1.0"}
