@@ -1,0 +1,1 @@
+{"created": "2026-08-27T23:03:17.487", "criteria": "cpe:2.3:a:linuxfoundation:opentelemetry-go:*:*:*:*:*:*:*:*", "lastModified": "2026-08-27T23:03:17.487", "matchCriteriaId": "E1983DD1-272E-49B5-8344-008023B111B3", "status": "Active", "versionEndExcluding": "1.45.0", "versionStartIncluding": "0.11.0"}
