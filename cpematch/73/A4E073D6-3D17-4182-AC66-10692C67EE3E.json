@@ -1,0 +1,1 @@
+{"created": "2026-08-27T01:47:50.703", "criteria": "cpe:2.3:a:systemd_project:systemd:*:*:*:*:*:*:*:*", "lastModified": "2026-08-27T01:47:50.703", "matchCriteriaId": "A4E073D6-3D17-4182-AC66-10692C67EE3E", "status": "Active", "versionEndExcluding": "261.2", "versionStartIncluding": "260.4"}

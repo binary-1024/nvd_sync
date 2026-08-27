@@ -1,0 +1,1 @@
+{"created": "2026-08-27T02:10:39.203", "criteria": "cpe:2.3:a:huggingface:pytorch_image_models:*:*:*:*:*:*:*:*", "lastModified": "2026-08-27T02:10:39.203", "matchCriteriaId": "141D61BF-445C-4BA5-85EF-84DE06397D0D", "status": "Active", "versionEndExcluding": "1.0.26"}
