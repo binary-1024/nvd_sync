@@ -1,0 +1,1 @@
+{"created": "2026-08-27T09:17:34.767", "criteria": "cpe:2.3:a:mongodb:bi_connector_odbc_driver:*:*:*:*:*:*:*:*", "lastModified": "2026-08-27T09:17:34.767", "matchCriteriaId": "D3A9AD1E-C6E1-4143-B62E-0E490521AB19", "status": "Active", "versionEndExcluding": "1.4.9", "versionStartIncluding": "1.0.0"}

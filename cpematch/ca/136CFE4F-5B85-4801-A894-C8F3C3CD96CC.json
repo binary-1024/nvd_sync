@@ -1,0 +1,1 @@
+{"created": "2026-08-27T09:46:08.643", "criteria": "cpe:2.3:a:wpmudev:smush_image_compression_and_optimization:*:*:*:*:*:wordpress:*:*", "lastModified": "2026-08-27T09:46:08.643", "matchCriteriaId": "136CFE4F-5B85-4801-A894-C8F3C3CD96CC", "status": "Active", "versionEndExcluding": "4.3.2", "versionStartIncluding": "3.22.1"}
