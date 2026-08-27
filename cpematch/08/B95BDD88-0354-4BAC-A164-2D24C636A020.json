@@ -1,0 +1,1 @@
+{"created": "2026-08-27T06:30:59.000", "criteria": "cpe:2.3:o:rapid7:velociraptor:*:*:*:*:*:*:*:*", "lastModified": "2026-08-27T06:30:59.000", "matchCriteriaId": "B95BDD88-0354-4BAC-A164-2D24C636A020", "status": "Active", "versionEndExcluding": "0.77.2", "versionStartIncluding": "0"}
