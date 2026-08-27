@@ -1,0 +1,1 @@
+{"created": "2026-08-26T23:25:03.660", "criteria": "cpe:2.3:a:better-auth:better_auth:*:*:*:*:*:*:*:*", "lastModified": "2026-08-26T23:25:03.660", "matchCriteriaId": "E9F542DD-A5CD-48EC-9211-8DD2FA1D1893", "status": "Active", "versionEndExcluding": "1.4.0", "versionStartExcluding": "1.3.34"}
