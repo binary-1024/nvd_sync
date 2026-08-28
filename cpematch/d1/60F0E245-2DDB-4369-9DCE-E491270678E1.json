@@ -1,0 +1,1 @@
+{"created": "2026-08-28T04:45:56.037", "criteria": "cpe:2.3:a:libfuse:sshfs:*:*:*:*:*:*:*:*", "lastModified": "2026-08-28T04:45:56.037", "matchCriteriaId": "60F0E245-2DDB-4369-9DCE-E491270678E1", "status": "Active", "versionEndExcluding": "3.7.6", "versionStartIncluding": "1.4"}
