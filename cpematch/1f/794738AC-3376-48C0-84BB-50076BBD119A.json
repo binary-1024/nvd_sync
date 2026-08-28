@@ -1,1 +1,1 @@
-{"created": "2026-08-27T18:52:34.863", "criteria": "cpe:2.3:h:intel:xeon_silver_4510:-:*:*:*:*:*:*:*", "lastModified": "2026-08-27T18:52:34.863", "matchCriteriaId": "794738AC-3376-48C0-84BB-50076BBD119A", "status": "Active"}
+{"created": "2026-08-27T18:52:34.863", "criteria": "cpe:2.3:h:intel:xeon_silver_4510:-:*:*:*:*:*:*:*", "lastModified": "2026-08-28T12:45:02.300", "matchCriteriaId": "794738AC-3376-48C0-84BB-50076BBD119A", "matches": [{"cpeName": "cpe:2.3:h:intel:xeon_silver_4510:-:*:*:*:*:*:*:*", "cpeNameId": "59AB87C0-7C9A-46E8-A4AB-44BBFAEC5B17"}], "status": "Active"}
