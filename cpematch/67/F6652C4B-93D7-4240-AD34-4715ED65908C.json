@@ -1,0 +1,1 @@
+{"created": "2026-08-28T16:06:12.760", "criteria": "cpe:2.3:a:intel:neural_processing_unit_driver:*:*:*:*:*:linux:*:*", "lastModified": "2026-08-28T16:06:12.760", "matchCriteriaId": "F6652C4B-93D7-4240-AD34-4715ED65908C", "status": "Active", "versionEndExcluding": "1.32.0"}
