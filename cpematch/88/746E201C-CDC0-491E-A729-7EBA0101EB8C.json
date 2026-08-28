@@ -1,0 +1,1 @@
+{"created": "2026-08-28T00:43:00.207", "criteria": "cpe:2.3:a:ceph:ceph:*:*:*:*:*:*:*:*", "lastModified": "2026-08-28T00:43:00.207", "matchCriteriaId": "746E201C-CDC0-491E-A729-7EBA0101EB8C", "status": "Active", "versionEndExcluding": "20.2.4", "versionStartIncluding": "20.0.0"}
