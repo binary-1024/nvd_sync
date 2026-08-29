@@ -1,0 +1,1 @@
+{"created": "2026-08-29T06:22:56.083", "criteria": "cpe:2.3:a:nodejs:nodejs:*:*:*:*:*:*:*:*", "lastModified": "2026-08-29T06:22:56.083", "matchCriteriaId": "A492352D-1C96-4C78-AC14-9357851B4B91", "status": "Active", "versionEndIncluding": "22.23.1", "versionStartIncluding": "22.0.0"}
