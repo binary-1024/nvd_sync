@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-08-29T22:55:53.103", "created": "2026-08-29T22:55:53.103", "criteria": "cpe:2.3:a:wazuh:wazuh:-:*:*:*:*:*:*:*", "lastModified": "2026-08-29T22:55:53.103", "matchCriteriaId": "DF1D747D-CDA5-43B4-83CF-C3A35B7D4CBF", "matches": [{"cpeName": "cpe:2.3:a:wazuh:wazuh:-:*:*:*:*:*:*:*", "cpeNameId": "F635FACC-595D-4DA1-8396-47107F7C4154"}], "status": "Active"}

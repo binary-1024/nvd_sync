@@ -1,0 +1,1 @@
+{"created": "2026-08-29T22:02:50.850", "criteria": "cpe:2.3:a:alembic:ash_authentication:*:*:*:*:*:*:*:*", "lastModified": "2026-08-29T22:02:50.850", "matchCriteriaId": "330516FF-7B4D-4303-9DEF-D0EC5F5DCCDB", "status": "Active", "versionEndExcluding": "4.14.2", "versionStartIncluding": "4.8.0"}
