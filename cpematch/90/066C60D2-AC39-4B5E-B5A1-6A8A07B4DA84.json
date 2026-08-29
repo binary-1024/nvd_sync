@@ -1,0 +1,1 @@
+{"created": "2026-08-29T03:11:01.600", "criteria": "cpe:2.3:a:openstack:neutron:*:*:*:*:*:*:*:*", "lastModified": "2026-08-29T03:11:01.600", "matchCriteriaId": "066C60D2-AC39-4B5E-B5A1-6A8A07B4DA84", "status": "Active", "versionEndExcluding": "27.0.4", "versionStartIncluding": "27.0.0"}
