@@ -1,0 +1,1 @@
+{"created": "2026-08-28T23:48:53.543", "criteria": "cpe:2.3:a:ibm:cloud_pak_for_data_system:*:*:*:*:*:*:*:*", "lastModified": "2026-08-28T23:48:53.543", "matchCriteriaId": "282B1A1F-9EE9-4A72-B1E8-85E4FA9A8619", "status": "Active", "versionEndIncluding": "interim fix 001", "versionStartIncluding": "11.3.0.2"}
