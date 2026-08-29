@@ -1,0 +1,1 @@
+{"created": "2026-08-29T10:38:46.520", "criteria": "cpe:2.3:a:open62541:open62541:*:*:*:*:*:*:*:*", "lastModified": "2026-08-29T10:38:46.520", "matchCriteriaId": "615BC942-6DF2-4B40-AFC0-79B302312082", "status": "Active", "versionEndExcluding": "1.4.17", "versionStartIncluding": "1.4.0"}
