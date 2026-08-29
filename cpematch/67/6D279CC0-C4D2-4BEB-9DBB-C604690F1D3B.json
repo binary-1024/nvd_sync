@@ -1,0 +1,1 @@
+{"created": "2026-08-29T04:33:43.983", "criteria": "cpe:2.3:a:graylog:graylog:*:*:*:*:*:*:*:*", "lastModified": "2026-08-29T04:33:43.983", "matchCriteriaId": "6D279CC0-C4D2-4BEB-9DBB-C604690F1D3B", "status": "Active", "versionEndExcluding": "7.1.2", "versionStartIncluding": "7.1.0-alpha.1"}
