@@ -1,0 +1,1 @@
+{"created": "2026-08-30T15:24:51.650", "criteria": "cpe:2.3:a:huggingface:sentence-transformers:*:*:*:*:*:*:*:*", "lastModified": "2026-08-30T15:24:51.650", "matchCriteriaId": "5FE7D7BE-69FE-462C-840D-CC10666F49D4", "status": "Active", "versionEndIncluding": "5.5.1", "versionStartIncluding": "0"}
