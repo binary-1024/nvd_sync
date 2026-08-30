@@ -1,0 +1,1 @@
+{"created": "2026-08-30T19:02:58.933", "criteria": "cpe:2.3:a:jenkins_project:webhook_secret_credentials_provider:*:*:*:*:*:*:*:*", "lastModified": "2026-08-30T19:02:58.933", "matchCriteriaId": "6F67108D-524C-4A83-9045-A10B6EF926DB", "status": "Active", "versionEndIncluding": "16.v0cfa_f0215cf5"}
