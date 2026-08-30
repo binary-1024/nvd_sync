@@ -1,0 +1,1 @@
+{"created": "2026-08-29T23:13:58.737", "criteria": "cpe:2.3:a:better-auth:stripe:*:*:*:*:*:*:*:*", "lastModified": "2026-08-29T23:13:58.737", "matchCriteriaId": "6312EB8D-B06F-441C-B439-FDEA4C9A5A16", "status": "Active", "versionEndExcluding": "1.6.21", "versionStartIncluding": "1.4.11"}
