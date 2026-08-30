@@ -1,0 +1,1 @@
+{"created": "2026-08-30T06:31:52.123", "criteria": "cpe:2.3:o:linux:linux_kernel:*:*:*:*:*:*:*:*", "lastModified": "2026-08-30T06:31:52.123", "matchCriteriaId": "DD657C17-4199-4736-AB8D-AF1B9E21A13E", "status": "Active", "versionEndExcluding": "6.2", "versionStartIncluding": "6.1.184"}
