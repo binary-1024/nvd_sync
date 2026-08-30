@@ -1,0 +1,1 @@
+{"created": "2026-08-30T17:14:34.047", "criteria": "cpe:2.3:a:huggingface:accelerate:*:*:*:*:*:*:*:*", "lastModified": "2026-08-30T17:14:34.047", "matchCriteriaId": "9C13E70E-10B7-4CED-92EE-A1C47FC6A57C", "status": "Active", "versionEndIncluding": "1.14.0", "versionStartIncluding": "0"}
