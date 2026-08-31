@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-08-31T14:44:17.340", "created": "2026-08-31T14:44:17.340", "criteria": "cpe:2.3:a:svelte:sveltekit:*:*:*:*:*:node.js:*:*", "lastModified": "2026-08-31T14:44:17.340", "matchCriteriaId": "79CD27A8-B0F2-4C1F-B2B0-0AE2776A32DF", "status": "Active", "versionEndExcluding": "2.53.3", "versionStartIncluding": "2.49.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-08-31T13:29:50.073", "created": "2026-08-31T13:29:50.073", "criteria": "cpe:2.3:a:intel:tdx_module:*:*:*:*:*:*:*:*", "lastModified": "2026-08-31T13:47:22.990", "matchCriteriaId": "5742B45B-B3DC-4D1B-A65F-B0F2BC670467", "status": "Inactive", "versionEndIncluding": "1.5.28"}

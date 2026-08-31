@@ -1,0 +1,1 @@
+{"created": "2026-08-31T14:45:39.947", "criteria": "cpe:2.3:a:vmware:spring_advanced_message_queuing_protocol:*:*:*:*:*:*:*:*", "lastModified": "2026-08-31T14:45:39.947", "matchCriteriaId": "14D7713C-323A-43BB-85BC-36F54189FD7C", "status": "Active", "versionEndExcluding": "4.1.1", "versionStartIncluding": "4.1.0"}
