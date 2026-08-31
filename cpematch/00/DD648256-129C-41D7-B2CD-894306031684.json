@@ -1,0 +1,1 @@
+{"created": "2026-08-31T11:57:32.510", "criteria": "cpe:2.3:a:vmware:spring_integration:*:*:*:*:*:*:*:*", "lastModified": "2026-08-31T11:57:32.510", "matchCriteriaId": "DD648256-129C-41D7-B2CD-894306031684", "status": "Active", "versionEndIncluding": "6.5.10", "versionStartIncluding": "6.5.0"}
