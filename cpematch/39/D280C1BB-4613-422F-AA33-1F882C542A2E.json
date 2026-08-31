@@ -1,0 +1,1 @@
+{"created": "2026-08-31T00:16:41.057", "criteria": "cpe:2.3:a:openstack:designate:*:*:*:*:*:*:*:*", "lastModified": "2026-08-31T00:16:41.057", "matchCriteriaId": "D280C1BB-4613-422F-AA33-1F882C542A2E", "status": "Active", "versionEndExcluding": "22.0.2", "versionStartIncluding": "22.0.0"}
