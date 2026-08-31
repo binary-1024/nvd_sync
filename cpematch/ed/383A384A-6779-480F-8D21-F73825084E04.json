@@ -1,0 +1,1 @@
+{"created": "2026-08-30T23:31:37.127", "criteria": "cpe:2.3:a:ggml:llama.cpp:*:*:*:*:*:*:*:*", "lastModified": "2026-08-30T23:31:37.127", "matchCriteriaId": "383A384A-6779-480F-8D21-F73825084E04", "status": "Active", "versionEndIncluding": "0.17.1", "versionStartIncluding": "0.9.0"}
