@@ -1,0 +1,1 @@
+{"created": "2026-09-01T14:47:13.597", "criteria": "cpe:2.3:a:intel:extension_for_pytorch:*:*:*:*:xpu:python:*:*", "lastModified": "2026-09-01T14:47:13.597", "matchCriteriaId": "2120693D-DD76-4DE8-A9CF-B7AFF9C84D58", "status": "Active", "versionEndIncluding": "2.8.10"}

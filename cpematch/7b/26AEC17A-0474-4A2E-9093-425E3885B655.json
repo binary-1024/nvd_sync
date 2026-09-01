@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-09-01T14:31:04.320", "created": "2026-09-01T14:31:04.320", "criteria": "cpe:2.3:a:intel:extension_for_tensorflow:*:*:*:*:*:python:*:*", "lastModified": "2026-09-01T14:31:04.320", "matchCriteriaId": "26AEC17A-0474-4A2E-9093-425E3885B655", "status": "Active", "versionEndExcluding": "2.15.0.3"}
