@@ -1,0 +1,1 @@
+{"created": "2026-09-01T18:49:46.053", "criteria": "cpe:2.3:a:openai:codex_cli:*:*:*:*:*:*:*:*", "lastModified": "2026-09-01T18:49:46.053", "matchCriteriaId": "4A813143-3496-404A-91D9-DD98B30B2E3D", "status": "Active", "versionEndExcluding": "0.131.0", "versionStartIncluding": "0.72.0"}
