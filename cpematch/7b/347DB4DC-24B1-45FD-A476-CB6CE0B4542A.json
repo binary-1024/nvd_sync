@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-09-01T13:55:40.493", "created": "2026-09-01T13:55:40.493", "criteria": "cpe:2.3:a:adobe:c2pa:*:*:*:*:*:rust:*:*", "lastModified": "2026-09-01T13:58:18.880", "matchCriteriaId": "347DB4DC-24B1-45FD-A476-CB6CE0B4542A", "status": "Inactive", "versionEndExcluding": "0.90.11"}

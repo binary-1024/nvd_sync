@@ -1,0 +1,1 @@
+{"created": "2026-09-01T14:00:47.403", "criteria": "cpe:2.3:a:intel:tensorflow:*:*:*:*:*:*:*:*", "lastModified": "2026-09-01T14:00:47.403", "matchCriteriaId": "41B5525D-B6C8-4561-A9B2-6923628C2138", "status": "Active", "versionEndExcluding": "2.15.0.3"}
