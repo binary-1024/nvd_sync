@@ -1,0 +1,1 @@
+{"created": "2026-09-02T16:08:56.047", "criteria": "cpe:2.3:a:elastic:maps_server:*:*:*:*:*:*:*:*", "lastModified": "2026-09-02T16:08:56.047", "matchCriteriaId": "4E5074B0-635A-4617-882E-7475CE2F1FCF", "status": "Active", "versionEndExcluding": "8.19.19", "versionStartIncluding": "8.19.11"}

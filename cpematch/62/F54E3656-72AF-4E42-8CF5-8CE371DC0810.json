@@ -1,0 +1,1 @@
+{"created": "2026-09-02T16:43:59.430", "criteria": "cpe:2.3:a:grafana:microsoft_sql_server_datasource:*:*:*:*:*:*:*:*", "lastModified": "2026-09-02T16:43:59.430", "matchCriteriaId": "F54E3656-72AF-4E42-8CF5-8CE371DC0810", "status": "Active", "versionEndIncluding": "13.0.1", "versionStartIncluding": "13.0.0"}

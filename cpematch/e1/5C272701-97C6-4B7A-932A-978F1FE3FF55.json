@@ -1,0 +1,1 @@
+{"created": "2026-09-02T16:06:30.177", "criteria": "cpe:2.3:a:elastic:elastic_agent:*:*:*:*:*:*:*:*", "lastModified": "2026-09-02T16:06:30.177", "matchCriteriaId": "5C272701-97C6-4B7A-932A-978F1FE3FF55", "status": "Active", "versionEndExcluding": "9.4.6", "versionStartIncluding": "9.0.0"}
