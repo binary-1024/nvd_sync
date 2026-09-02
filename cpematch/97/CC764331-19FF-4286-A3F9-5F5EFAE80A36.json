@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-09-02T13:54:20.367", "created": "2026-09-02T13:54:20.367", "criteria": "cpe:2.3:a:ibm:portieris:*:*:*:*:*:*:*:*", "lastModified": "2026-09-02T13:54:20.367", "matchCriteriaId": "CC764331-19FF-4286-A3F9-5F5EFAE80A36", "status": "Active", "versionEndExcluding": "0.14.3", "versionStartIncluding": "0.5.0"}
