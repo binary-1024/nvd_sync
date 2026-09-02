@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-09-02T20:53:35.023", "created": "2026-09-02T20:53:35.023", "criteria": "cpe:2.3:a:sangoma:switchvox:*:*:*:*:on-premises:*:*:*", "lastModified": "2026-09-02T20:53:35.023", "matchCriteriaId": "A9E8D249-C33B-4FC1-8EF2-3FD26AA15547", "status": "Active", "versionEndExcluding": "8.4.0.2", "versionStartIncluding": "8.2.2.1"}
