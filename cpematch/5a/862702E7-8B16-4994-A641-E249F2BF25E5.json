@@ -1,0 +1,1 @@
+{"created": "2026-09-02T09:55:39.420", "criteria": "cpe:2.3:a:rabbitmq:amqp091-go:*:*:*:*:*:*:*:*", "lastModified": "2026-09-02T09:55:39.420", "matchCriteriaId": "862702E7-8B16-4994-A641-E249F2BF25E5", "status": "Active", "versionEndExcluding": "1.13.0"}
