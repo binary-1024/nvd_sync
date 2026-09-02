@@ -1,0 +1,1 @@
+{"created": "2026-09-02T19:31:53.850", "criteria": "cpe:2.3:a:mark3labs:mcp-go:*:*:*:*:*:*:*:*", "lastModified": "2026-09-02T19:31:53.850", "matchCriteriaId": "E8C563A5-F0A7-46A1-840E-AB809C0E77BF", "status": "Active", "versionEndExcluding": "0.56.0", "versionStartIncluding": "0"}

@@ -1,0 +1,1 @@
+{"created": "2026-09-02T19:31:53.403", "criteria": "cpe:2.3:a:maquina-app:rails-mcp-server:*:*:*:*:*:*:*:*", "lastModified": "2026-09-02T19:31:53.403", "matchCriteriaId": "1B55B509-DEE4-4AA9-AEC6-3E590E5A4132", "status": "Active", "versionEndExcluding": "1.6.1", "versionStartIncluding": "1.4.0"}

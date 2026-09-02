@@ -1,0 +1,1 @@
+{"created": "2026-09-02T19:55:04.467", "criteria": "cpe:2.3:a:delinea:secret_server:*:*:*:*:*:*:*:*", "lastModified": "2026-09-02T19:55:04.467", "matchCriteriaId": "A34E3EF6-F261-4467-92C6-B94BD8A9866E", "status": "Active", "versionEndExcluding": "12.0.23", "versionStartIncluding": "12.0.0"}
