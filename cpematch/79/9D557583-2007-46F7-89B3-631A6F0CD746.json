@@ -1,0 +1,1 @@
+{"created": "2026-09-02T10:29:39.843", "criteria": "cpe:2.3:a:better-auth:better-auth\\/sso:*:*:*:*:*:*:*:*", "lastModified": "2026-09-02T10:29:39.843", "matchCriteriaId": "9D557583-2007-46F7-89B3-631A6F0CD746", "status": "Active", "versionEndExcluding": "1.4.8", "versionStartIncluding": "1.4.8-beta.1"}
