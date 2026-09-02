@@ -1,0 +1,1 @@
+{"created": "2026-09-02T08:20:28.510", "criteria": "cpe:2.3:a:tecnativa:docker-socket-proxy:*:*:*:*:*:*:*:*", "lastModified": "2026-09-02T08:20:28.510", "matchCriteriaId": "7FC1D6AD-8B2A-4BF9-BA8D-9596E9AAFC8B", "status": "Active", "versionEndIncluding": "0.5.0", "versionStartIncluding": "0"}
