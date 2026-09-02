@@ -1,0 +1,1 @@
+{"created": "2026-09-02T05:50:08.503", "criteria": "cpe:2.3:a:getkin:kin-openapi:*:*:*:*:*:*:*:*", "lastModified": "2026-09-02T05:50:08.503", "matchCriteriaId": "AC320E67-7E37-42D2-B3EA-7DF1DF1751CC", "status": "Active", "versionEndExcluding": "0.142.0", "versionStartIncluding": "0.124.0"}

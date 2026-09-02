@@ -1,0 +1,1 @@
+{"created": "2026-09-02T05:49:51.650", "criteria": "cpe:2.3:a:fasterxml:jackson:*:*:*:*:*:*:*:*", "lastModified": "2026-09-02T05:49:51.650", "matchCriteriaId": "B67A8A07-7351-433D-8948-943748BCF567", "status": "Active", "versionEndExcluding": "2.22.1", "versionStartIncluding": "2.22.0"}
