@@ -1,0 +1,1 @@
+{"created": "2026-09-02T15:49:05.880", "criteria": "cpe:2.3:a:elastic:apm_server:*:*:*:*:*:*:*:*", "lastModified": "2026-09-02T15:49:05.880", "matchCriteriaId": "E7DA1479-F31C-40C2-87D2-5CF02D1073D6", "status": "Active", "versionEndExcluding": "9.4.5", "versionStartIncluding": "9.0.0"}
