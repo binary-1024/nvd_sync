@@ -1,0 +1,1 @@
+{"created": "2026-09-02T23:07:43.790", "criteria": "cpe:2.3:a:argoproj:argo_rollouts:*:*:*:*:*:*:*:*", "lastModified": "2026-09-02T23:07:43.790", "matchCriteriaId": "C1678AAF-0DB4-4AD2-B712-0CC98AEFC6B7", "status": "Active", "versionEndIncluding": "1.10.0", "versionStartIncluding": "0"}
