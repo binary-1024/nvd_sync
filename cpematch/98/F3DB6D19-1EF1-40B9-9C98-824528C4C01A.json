@@ -1,0 +1,1 @@
+{"created": "2026-09-03T02:48:33.430", "criteria": "cpe:2.3:a:xmldom_project:xmldom:*:*:*:*:*:*:*:*", "lastModified": "2026-09-03T02:48:33.430", "matchCriteriaId": "F3DB6D19-1EF1-40B9-9C98-824528C4C01A", "status": "Active", "versionEndExcluding": "0.9.12", "versionStartIncluding": "0.9.10"}
