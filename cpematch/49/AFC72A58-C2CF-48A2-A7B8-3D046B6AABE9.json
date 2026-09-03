@@ -1,0 +1,1 @@
+{"created": "2026-09-03T04:32:59.673", "criteria": "cpe:2.3:a:predis_project:predis:*:*:*:*:*:*:*:*", "lastModified": "2026-09-03T04:32:59.673", "matchCriteriaId": "AFC72A58-C2CF-48A2-A7B8-3D046B6AABE9", "status": "Active", "versionEndExcluding": "3.3.0", "versionStartIncluding": "3.0.0-rc1"}

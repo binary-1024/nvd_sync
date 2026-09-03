@@ -1,0 +1,1 @@
+{"created": "2026-09-03T05:06:52.353", "criteria": "cpe:2.3:a:pydantic_project:httpcore2:*:*:*:*:*:*:*:*", "lastModified": "2026-09-03T05:06:52.353", "matchCriteriaId": "7BEBE6DC-EE55-4A88-ABC1-56EDA77A6387", "status": "Active", "versionEndExcluding": "2.10.0"}

@@ -1,0 +1,1 @@
+{"created": "2026-09-03T05:06:52.353", "criteria": "cpe:2.3:a:pydantic_project:httpx2:*:*:*:*:*:*:*:*", "lastModified": "2026-09-03T05:06:52.353", "matchCriteriaId": "62B3092D-9EC8-436E-ABAB-5E937508EC0B", "status": "Active", "versionEndExcluding": "2.10.0", "versionStartIncluding": "2.6.0"}
