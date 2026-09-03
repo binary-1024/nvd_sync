@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-09-03T13:47:07.273", "created": "2026-09-03T13:47:07.273", "criteria": "cpe:2.3:a:fastify:fastify\\/busyboy:*:*:*:*:*:node.js:*:*", "lastModified": "2026-09-03T13:47:07.273", "matchCriteriaId": "A3D16CF9-3392-4545-8FA2-17C29E58360F", "status": "Active", "versionEndExcluding": "3.2.1", "versionStartIncluding": "1.0.0"}

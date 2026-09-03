@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-09-03T13:43:46.953", "created": "2026-09-03T13:43:46.953", "criteria": "cpe:2.3:a:fastify:fastify\\/oauth2:*:*:*:*:*:node.js:*:*", "lastModified": "2026-09-03T13:43:46.953", "matchCriteriaId": "FF4D44FA-15D4-4CFC-8141-9D8568FFF9F6", "status": "Active", "versionEndExcluding": "8.3.0", "versionStartIncluding": "7.2.0"}

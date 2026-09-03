@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-09-03T13:44:40.527", "created": "2026-09-03T13:44:40.527", "criteria": "cpe:2.3:a:fastify:fastify\\/jwt:*:*:*:*:*:node.js:*:*", "lastModified": "2026-09-03T13:44:40.527", "matchCriteriaId": "E2B7590D-4505-4067-81E5-97513D78FC8C", "status": "Active", "versionEndExcluding": "10.2.2"}
