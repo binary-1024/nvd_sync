@@ -1,0 +1,1 @@
+{"created": "2026-09-03T07:09:57.133", "criteria": "cpe:2.3:a:agentverus:agentverus-scanner:*:*:*:*:*:*:*:*", "lastModified": "2026-09-03T07:09:57.133", "matchCriteriaId": "D280B582-B804-4867-B6C3-EC84962D6835", "status": "Active", "versionEndIncluding": "0.8.1", "versionStartIncluding": "0"}
