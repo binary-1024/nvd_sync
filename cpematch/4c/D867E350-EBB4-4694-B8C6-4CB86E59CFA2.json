@@ -1,0 +1,1 @@
+{"created": "2026-09-03T00:17:20.460", "criteria": "cpe:2.3:a:argoproj-labs:argocd-mcp:*:*:*:*:*:*:*:*", "lastModified": "2026-09-03T00:17:20.460", "matchCriteriaId": "D867E350-EBB4-4694-B8C6-4CB86E59CFA2", "status": "Active", "versionEndExcluding": "0.9.0", "versionStartIncluding": "0.8.0"}
