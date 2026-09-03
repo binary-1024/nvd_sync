@@ -1,15 +1,25 @@
 name: nvd-mirror-sync
+
+# Hourly incremental sync of NVD CVE + cpematch into this repo.
+# ★2026-09-03: windows are anchored on the last successful run (state/last_window_end.json),
+#   so a skipped/late scheduled run no longer loses the records NVD modified in between.
+#   `since` = one-off backfill start (ISO-8601 UTC); anchors advance to "now" on success.
 on:
   schedule:
-    - cron: '0 */1 * * *'  # 每1小时执行
-  workflow_dispatch:     # 允许手动触发
+    - cron: "0 * * * *"         # every hour at :00 UTC (commit lands ~:03; local nvd-git-sync polls :15/:45)
+  workflow_dispatch:
+    inputs:
+      seed:
+        description: "Full seed dump (one-time; large)"
+        type: boolean
+        default: false
+      since:
+        description: "Backfill start, ISO-8601 UTC (e.g. 2026-06-28T00:00:00Z). Empty = normal incremental."
+        type: string
+        default: ""
 
-# 显式设置工作流权限
 permissions:
-  contents: write
-  pull-requests: write
-  actions: write
-  id-token: write
+  contents: write               # needed to commit + push
 
 concurrency:
   group: nvd-mirror-sync
@@ -18,7 +28,7 @@ concurrency:
 jobs:
   sync:
     runs-on: ubuntu-latest
-    timeout-minutes: 330        # room for a seed; incremental is minutes
+    timeout-minutes: 330        # room for a seed/backfill; incremental is minutes
     steps:
       - uses: actions/checkout@v4
         with:
@@ -31,13 +41,19 @@ jobs:
       - name: Fetch NVD updates
         env:
           NVD_API_KEYS: ${{ secrets.NVD_API_KEYS }}   # comma/space separated
+          SEED: ${{ inputs.seed }}
+          SINCE: ${{ inputs.since }}
         run: |
-          if [ "${{ inputs.seed }}" = "true" ]; then
+          if [ "$SEED" = "true" ]; then
             python nvd_mirror.py --base . --seed
+          elif [ -n "$SINCE" ]; then
+            python nvd_mirror.py --base . --since "$SINCE"
           else
-            python nvd_mirror.py --base . --window-min 120
+            python nvd_mirror.py --base .
           fi
 
+      # The script exits non-zero if any kind failed; this step then never runs and the
+      # anchor of the failed kind stays put -> next run replays the same span.
       - name: Commit changes
         run: |
           git config user.name  "nvd-mirror-bot"
