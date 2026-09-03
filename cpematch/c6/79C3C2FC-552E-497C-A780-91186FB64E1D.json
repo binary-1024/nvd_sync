@@ -1,1 +1,1 @@
-{"created": "2026-01-09T12:49:42.027", "criteria": "cpe:2.3:h:elcaradio:star1000:-:*:*:*:*:*:*:*", "lastModified": "2026-01-09T12:49:42.027", "matchCriteriaId": "79C3C2FC-552E-497C-A780-91186FB64E1D", "status": "Active"}
+{"created": "2026-01-09T12:49:42.027", "criteria": "cpe:2.3:h:elcaradio:star1000:-:*:*:*:*:*:*:*", "lastModified": "2026-08-26T13:31:59.783", "matchCriteriaId": "79C3C2FC-552E-497C-A780-91186FB64E1D", "matches": [{"cpeName": "cpe:2.3:h:elcaradio:star1000:-:*:*:*:*:*:*:*", "cpeNameId": "C0712D88-50EA-4253-AA10-AF1E7BA24607"}], "status": "Active"}

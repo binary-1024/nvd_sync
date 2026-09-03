@@ -1,0 +1,1 @@
+{"created": "2026-08-27T12:11:01.563", "criteria": "cpe:2.3:h:intel:xeon_656:-:*:*:*:*:*:*:*", "lastModified": "2026-08-27T13:18:53.370", "matchCriteriaId": "99C1474A-AB19-447D-9BB2-AF3CB384EF92", "matches": [{"cpeName": "cpe:2.3:h:intel:xeon_656:-:*:*:*:*:*:*:*", "cpeNameId": "2E111E63-E647-460C-8FC6-DDC551F7CCB8"}], "status": "Active"}

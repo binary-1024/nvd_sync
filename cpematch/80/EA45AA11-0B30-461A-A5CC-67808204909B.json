@@ -1,1 +1,1 @@
-{"created": "2026-01-02T19:12:16.677", "criteria": "cpe:2.3:h:ateme:flamingo_xl:1.1:*:*:*:*:*:*:*", "lastModified": "2026-01-02T19:12:16.677", "matchCriteriaId": "EA45AA11-0B30-461A-A5CC-67808204909B", "status": "Active"}
+{"created": "2026-01-02T19:12:16.677", "criteria": "cpe:2.3:h:ateme:flamingo_xl:1.1:*:*:*:*:*:*:*", "lastModified": "2026-08-26T13:27:19.057", "matchCriteriaId": "EA45AA11-0B30-461A-A5CC-67808204909B", "matches": [{"cpeName": "cpe:2.3:h:ateme:flamingo_xl:1.1:*:*:*:*:*:*:*", "cpeNameId": "E5E93133-3465-4FF8-BF87-9F12BFB4B80E"}], "status": "Active"}

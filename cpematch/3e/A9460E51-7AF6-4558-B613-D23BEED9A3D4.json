@@ -1,0 +1,1 @@
+{"created": "2026-08-27T07:54:26.597", "criteria": "cpe:2.3:a:konghq:kong_mesh:*:*:*:*:*:*:*:*", "lastModified": "2026-08-27T07:54:26.597", "matchCriteriaId": "A9460E51-7AF6-4558-B613-D23BEED9A3D4", "status": "Active", "versionEndExcluding": "2.12.11", "versionStartIncluding": "2.12.0"}

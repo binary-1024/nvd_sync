@@ -1,0 +1,1 @@
+{"created": "2026-08-27T12:11:01.563", "criteria": "cpe:2.3:o:intel:xeon_6768p_firmware:-:*:*:*:*:*:*:*", "lastModified": "2026-08-27T13:18:53.370", "matchCriteriaId": "377D26AF-3269-4033-849A-6A925E207049", "matches": [{"cpeName": "cpe:2.3:o:intel:xeon_6768p_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "04CF276E-8D63-4637-B801-A85F14761822"}], "status": "Active"}

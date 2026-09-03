@@ -1,0 +1,1 @@
+{"created": "2026-08-28T18:09:21.477", "criteria": "cpe:2.3:a:ruby-oauth:oauth:*:*:*:*:*:*:*:*", "lastModified": "2026-08-28T18:09:21.477", "matchCriteriaId": "4177F894-B0E6-458B-BE4A-9132DD81F937", "status": "Active", "versionEndExcluding": "1.1.6", "versionStartIncluding": "0.5.5"}

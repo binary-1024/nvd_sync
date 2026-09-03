@@ -1,0 +1,1 @@
+{"created": "2026-08-27T20:39:37.043", "criteria": "cpe:2.3:a:wazuh:wazuh:*:*:*:*:*:*:*:*", "lastModified": "2026-08-27T20:39:37.043", "matchCriteriaId": "B0FABC20-9F6A-4C0D-96E7-6DD621C75831", "status": "Active", "versionEndExcluding": "5.0.0-beta2", "versionStartIncluding": "5.0.0-beta1"}

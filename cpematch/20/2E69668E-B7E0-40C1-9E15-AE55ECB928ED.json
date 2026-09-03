@@ -1,0 +1,1 @@
+{"created": "2026-08-27T16:34:19.960", "criteria": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*", "lastModified": "2026-08-27T16:34:19.960", "matchCriteriaId": "2E69668E-B7E0-40C1-9E15-AE55ECB928ED", "status": "Active", "versionEndExcluding": "1.27.0-rc.3", "versionStartIncluding": "1.27.0-0"}

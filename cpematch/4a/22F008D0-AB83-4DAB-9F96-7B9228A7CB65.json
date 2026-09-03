@@ -1,0 +1,1 @@
+{"created": "2026-08-27T11:49:34.673", "criteria": "cpe:2.3:a:neo4j:graphql:*:*:*:*:*:*:*:*", "lastModified": "2026-08-27T11:49:34.673", "matchCriteriaId": "22F008D0-AB83-4DAB-9F96-7B9228A7CB65", "status": "Active", "versionEndExcluding": "7.6.0", "versionStartIncluding": "7.0.0"}

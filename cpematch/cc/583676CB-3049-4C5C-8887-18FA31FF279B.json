@@ -1,0 +1,1 @@
+{"created": "2026-08-27T07:54:45.977", "criteria": "cpe:2.3:a:konghq:kuma:*:*:*:*:*:*:*:*", "lastModified": "2026-08-27T07:54:45.977", "matchCriteriaId": "583676CB-3049-4C5C-8887-18FA31FF279B", "status": "Active", "versionEndExcluding": "2.14.2", "versionStartIncluding": "2.14.0"}

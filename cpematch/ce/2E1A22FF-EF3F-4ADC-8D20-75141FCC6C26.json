@@ -1,0 +1,1 @@
+{"created": "2026-08-06T18:16:09.087", "criteria": "cpe:2.3:a:oracle:mysql_connector\\/c\\+\\+:*:*:*:*:*:*:*:*", "lastModified": "2026-08-06T18:16:09.087", "matchCriteriaId": "2E1A22FF-EF3F-4ADC-8D20-75141FCC6C26", "status": "Active", "versionEndIncluding": "9.7.1", "versionStartIncluding": "9.7.0"}

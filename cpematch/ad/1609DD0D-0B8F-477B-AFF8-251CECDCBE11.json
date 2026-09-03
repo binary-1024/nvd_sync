@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-08-28T18:09:47.927", "created": "2026-08-28T18:09:47.927", "criteria": "cpe:2.3:a:kube-logging:logging-operator:*:*:*:*:*:*:*:*", "lastModified": "2026-08-28T18:09:47.927", "matchCriteriaId": "1609DD0D-0B8F-477B-AFF8-251CECDCBE11", "status": "Active", "versionEndExcluding": "6.6.0"}

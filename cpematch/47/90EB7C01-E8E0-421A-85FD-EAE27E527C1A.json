@@ -1,1 +1,1 @@
-{"created": "2026-06-05T19:20:58.900", "criteria": "cpe:2.3:h:honeywell:iq41x:-:*:*:*:*:*:*:*", "lastModified": "2026-06-05T19:20:58.900", "matchCriteriaId": "90EB7C01-E8E0-421A-85FD-EAE27E527C1A", "status": "Active"}
+{"created": "2026-06-05T19:20:58.900", "criteria": "cpe:2.3:h:honeywell:iq41x:-:*:*:*:*:*:*:*", "lastModified": "2026-08-26T13:45:16.677", "matchCriteriaId": "90EB7C01-E8E0-421A-85FD-EAE27E527C1A", "matches": [{"cpeName": "cpe:2.3:h:honeywell:iq41x:-:*:*:*:*:*:*:*", "cpeNameId": "3D3325C6-10F4-4861-84C8-8C9EDEC95264"}], "status": "Active"}

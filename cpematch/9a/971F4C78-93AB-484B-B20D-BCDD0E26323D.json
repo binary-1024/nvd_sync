@@ -1,0 +1,1 @@
+{"created": "2026-08-28T18:44:29.057", "criteria": "cpe:2.3:a:cakephp:queue:*:*:*:*:*:*:*:*", "lastModified": "2026-08-28T18:44:29.057", "matchCriteriaId": "971F4C78-93AB-484B-B20D-BCDD0E26323D", "status": "Active", "versionEndExcluding": "2.3.1", "versionStartIncluding": "0.1.11"}

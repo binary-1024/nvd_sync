@@ -1,0 +1,1 @@
+{"created": "2026-08-27T20:40:15.080", "criteria": "cpe:2.3:a:buildah_project:buildah:*:*:*:*:*:*:*:*", "lastModified": "2026-08-27T20:40:15.080", "matchCriteriaId": "9F26FADC-8844-4F28-82DF-C78704FB6B51", "status": "Active", "versionEndExcluding": "1.43.2", "versionStartIncluding": "1.38.1"}

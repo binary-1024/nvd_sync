@@ -1,1 +1,1 @@
-{"created": "2026-08-20T18:21:49.967", "criteria": "cpe:2.3:a:trueconf:trueconf_server:*:*:*:*:*:linux:*:*", "lastModified": "2026-08-20T18:21:49.967", "matchCriteriaId": "1828E6BF-7E1C-4C03-96F1-C4300311824A", "status": "Active", "versionEndExcluding": "5.3.9.10015"}
+{"created": "2026-08-20T18:21:49.967", "criteria": "cpe:2.3:a:trueconf:trueconf_server:*:*:*:*:*:linux:*:*", "lastModified": "2026-08-20T18:51:29.850", "matchCriteriaId": "1828E6BF-7E1C-4C03-96F1-C4300311824A", "status": "Inactive", "versionEndExcluding": "5.3.9.10015"}

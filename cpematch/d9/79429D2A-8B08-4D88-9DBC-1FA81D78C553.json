@@ -1,0 +1,1 @@
+{"created": "2026-08-28T10:11:01.830", "criteria": "cpe:2.3:a:containers:fuse-overlayfs:*:*:*:*:*:*:*:*", "lastModified": "2026-08-28T10:11:01.830", "matchCriteriaId": "79429D2A-8B08-4D88-9DBC-1FA81D78C553", "status": "Active", "versionEndExcluding": "1.17"}

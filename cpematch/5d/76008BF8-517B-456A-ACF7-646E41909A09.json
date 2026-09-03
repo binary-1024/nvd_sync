@@ -1,0 +1,1 @@
+{"created": "2026-08-27T12:11:01.563", "criteria": "cpe:2.3:o:intel:xeon_6740p_firmware:-:*:*:*:*:*:*:*", "lastModified": "2026-08-27T13:18:53.370", "matchCriteriaId": "76008BF8-517B-456A-ACF7-646E41909A09", "matches": [{"cpeName": "cpe:2.3:o:intel:xeon_6740p_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "DD35136D-80F2-4AB5-8A4A-125AD8DBC6A2"}], "status": "Active"}

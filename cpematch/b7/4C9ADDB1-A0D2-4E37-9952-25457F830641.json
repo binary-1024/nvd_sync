@@ -1,0 +1,1 @@
+{"created": "2026-08-27T12:11:01.563", "criteria": "cpe:2.3:h:intel:xeon_6756e:-:*:*:*:*:*:*:*", "lastModified": "2026-08-27T13:18:53.370", "matchCriteriaId": "4C9ADDB1-A0D2-4E37-9952-25457F830641", "matches": [{"cpeName": "cpe:2.3:h:intel:xeon_6756e:-:*:*:*:*:*:*:*", "cpeNameId": "E1986A7F-F167-48E9-80A3-909442646FA8"}], "status": "Active"}

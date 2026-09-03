@@ -1,0 +1,1 @@
+{"created": "2026-08-28T02:48:32.400", "criteria": "cpe:2.3:a:pivotal_software:spring_batch:*:*:*:*:*:*:*:*", "lastModified": "2026-08-28T02:48:32.400", "matchCriteriaId": "99425AAE-209D-4FF6-80C0-B7C37AB37652", "status": "Active", "versionEndExcluding": "6.0.5", "versionStartIncluding": "6.0.0"}

@@ -1,0 +1,1 @@
+{"created": "2026-08-28T18:44:26.323", "criteria": "cpe:2.3:a:bank-vaults:vault-secrets-webhook:*:*:*:*:*:*:*:*", "lastModified": "2026-08-28T18:44:26.323", "matchCriteriaId": "ED08135F-3957-4B51-BB9F-790FDEA704B8", "status": "Active", "versionEndExcluding": "1.23.1"}

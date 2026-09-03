@@ -1,0 +1,1 @@
+{"created": "2026-08-06T19:24:40.387", "criteria": "cpe:2.3:a:jonasbn:crypt\\:\\:openssl\\:\\:x509:*:*:*:*:*:*:*:*", "lastModified": "2026-08-06T19:25:01.310", "matchCriteriaId": "0B271024-5E88-43CE-A3F5-9770B3110016", "status": "Inactive", "versionEndExcluding": "2.1.3"}
