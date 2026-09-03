@@ -1,0 +1,1 @@
+{"created": "2026-09-03T14:18:47.227", "criteria": "cpe:2.3:a:redhat:ai_inference_server:*:*:*:*:*:*:*:*", "lastModified": "2026-09-03T14:48:49.480", "matchCriteriaId": "2362D6FF-6951-43A5-9CB7-7F7DBF7E095B", "status": "Inactive", "versionEndExcluding": "3.3.5", "versionStartIncluding": "3.3.0"}
