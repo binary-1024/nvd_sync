@@ -1,0 +1,1 @@
+{"created": "2026-09-04T15:32:35.140", "criteria": "cpe:2.3:o:nvidia:dgx_spark_firmware:*:*:*:*:*:*:*:*", "lastModified": "2026-09-04T15:32:35.140", "matchCriteriaId": "BB4FF9B2-A18A-4CCD-B1AA-6EE48CA3BE6B", "status": "Active", "versionEndIncluding": "1.110.12"}
