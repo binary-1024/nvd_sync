@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-09-04T14:06:01.713", "created": "2026-09-04T14:06:01.713", "criteria": "cpe:2.3:a:roundcube:webmail:*:*:*:*:*:*:*:*", "lastModified": "2026-09-04T14:06:01.713", "matchCriteriaId": "D5C9B7FB-8223-444C-B728-6E724AC2F0C9", "status": "Active", "versionEndExcluding": "1.7.3", "versionStartIncluding": "1.7.0"}
