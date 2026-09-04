@@ -1,0 +1,1 @@
+{"created": "2026-09-04T18:58:27.127", "criteria": "cpe:2.3:a:broadcom:spring_data_relational:*:*:*:*:*:*:*:*", "lastModified": "2026-09-04T18:58:27.127", "matchCriteriaId": "0EFED624-C0EE-40F7-ABBD-300B82023D5B", "status": "Active", "versionEndExcluding": "3.5.12", "versionStartIncluding": "3.5.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-09-04T18:11:34.097", "created": "2026-09-04T18:11:34.097", "criteria": "cpe:2.3:a:broadcom:spring_web_flow:*:*:*:*:*:*:*:*", "lastModified": "2026-09-04T18:11:34.097", "matchCriteriaId": "A1107F4C-EBDC-4024-A99F-A739AE3625A0", "status": "Active", "versionEndExcluding": "3.0.1.1", "versionStartIncluding": "3.0.0"}
