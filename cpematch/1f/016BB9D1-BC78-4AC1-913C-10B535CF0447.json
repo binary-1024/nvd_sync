@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-09-04T19:39:56.500", "created": "2026-09-04T19:39:56.500", "criteria": "cpe:2.3:a:grafana:grafana:*:*:*:*:enterprise:*:*:*", "lastModified": "2026-09-04T19:39:56.500", "matchCriteriaId": "016BB9D1-BC78-4AC1-913C-10B535CF0447", "status": "Active", "versionEndExcluding": "13.2.0", "versionStartIncluding": "13.1.5"}

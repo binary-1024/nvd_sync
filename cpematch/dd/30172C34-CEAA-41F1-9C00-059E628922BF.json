@@ -1,0 +1,1 @@
+{"created": "2026-09-04T19:49:08.907", "criteria": "cpe:2.3:a:mongodb:mongodb:*:*:*:*:*:visual_studio_code:*:*", "lastModified": "2026-09-04T19:49:08.907", "matchCriteriaId": "30172C34-CEAA-41F1-9C00-059E628922BF", "status": "Active", "versionEndExcluding": "1.17.1", "versionStartIncluding": "1.13.0"}
