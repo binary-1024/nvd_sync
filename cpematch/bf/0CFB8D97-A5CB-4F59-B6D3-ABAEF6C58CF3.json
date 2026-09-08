@@ -1,0 +1,1 @@
+{"created": "2026-09-08T15:22:26.617", "criteria": "cpe:2.3:a:broadcom:spring_statemachine:*:*:*:*:*:*:*:*", "lastModified": "2026-09-08T15:22:26.617", "matchCriteriaId": "0CFB8D97-A5CB-4F59-B6D3-ABAEF6C58CF3", "status": "Active", "versionEndExcluding": "3.2.5", "versionStartIncluding": "3.2.0"}

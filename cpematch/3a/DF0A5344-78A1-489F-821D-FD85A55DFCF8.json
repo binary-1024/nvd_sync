@@ -1,0 +1,1 @@
+{"created": "2026-09-08T15:49:55.230", "criteria": "cpe:2.3:a:broadcom:spring_amqp:*:*:*:*:*:*:*:*", "lastModified": "2026-09-08T15:49:55.230", "matchCriteriaId": "DF0A5344-78A1-489F-821D-FD85A55DFCF8", "status": "Active", "versionEndExcluding": "3.1.16", "versionStartIncluding": "3.1.0"}
