@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-09-08T16:25:15.137", "created": "2026-09-08T16:25:15.137", "criteria": "cpe:2.3:a:ibm:integration_bus_for_z\\/os:*:*:*:*:*:*:*:*", "lastModified": "2026-09-08T16:25:15.137", "matchCriteriaId": "FACEF8F4-50A8-4829-9152-08941B2814D3", "status": "Active", "versionEndIncluding": "10.1.0.7", "versionStartIncluding": "10.1.0.0"}
