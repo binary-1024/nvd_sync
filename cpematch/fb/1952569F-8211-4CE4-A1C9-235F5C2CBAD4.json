@@ -1,0 +1,1 @@
+{"created": "2026-09-09T21:33:17.073", "criteria": "cpe:2.3:a:intel:trust_domain_extensions_data_center_attestation_primitives:*:*:*:*:*:*:*:*", "lastModified": "2026-09-09T21:33:17.073", "matchCriteriaId": "1952569F-8211-4CE4-A1C9-235F5C2CBAD4", "status": "Active", "versionEndExcluding": "1.24", "versionStartIncluding": "1.14"}
