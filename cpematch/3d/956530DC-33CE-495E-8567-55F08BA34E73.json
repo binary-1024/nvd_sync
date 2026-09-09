@@ -1,1 +1,1 @@
-{"created": "2026-09-08T18:52:12.310", "criteria": "cpe:2.3:h:lantronix:x300f202s:-:*:*:*:*:*:*:*", "lastModified": "2026-09-08T18:52:12.310", "matchCriteriaId": "956530DC-33CE-495E-8567-55F08BA34E73", "status": "Active"}
+{"created": "2026-09-08T18:52:12.310", "criteria": "cpe:2.3:h:lantronix:x300f202s:-:*:*:*:*:*:*:*", "lastModified": "2026-09-09T19:32:08.437", "matchCriteriaId": "956530DC-33CE-495E-8567-55F08BA34E73", "matches": [{"cpeName": "cpe:2.3:h:lantronix:x300f202s:-:*:*:*:*:*:*:*", "cpeNameId": "3F95CBCA-F44F-4ABB-B98A-25E23555D0C0"}], "status": "Active"}

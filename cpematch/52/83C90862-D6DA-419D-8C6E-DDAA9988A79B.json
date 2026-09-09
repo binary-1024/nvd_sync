@@ -1,1 +1,1 @@
-{"created": "2026-09-08T18:49:50.210", "criteria": "cpe:2.3:h:lantronix:g528gp2fs:-:*:*:*:*:*:*:*", "lastModified": "2026-09-08T18:49:50.210", "matchCriteriaId": "83C90862-D6DA-419D-8C6E-DDAA9988A79B", "status": "Active"}
+{"created": "2026-09-08T18:49:50.210", "criteria": "cpe:2.3:h:lantronix:g528gp2fs:-:*:*:*:*:*:*:*", "lastModified": "2026-09-09T19:31:49.810", "matchCriteriaId": "83C90862-D6DA-419D-8C6E-DDAA9988A79B", "matches": [{"cpeName": "cpe:2.3:h:lantronix:g528gp2fs:-:*:*:*:*:*:*:*", "cpeNameId": "9ECCEEEB-AEA3-489A-B332-F2D258215BBF"}], "status": "Active"}

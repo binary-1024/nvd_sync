@@ -1,1 +1,1 @@
-{"created": "2026-09-08T18:52:12.310", "criteria": "cpe:2.3:h:lantronix:x304g002s:-:*:*:*:*:*:*:*", "lastModified": "2026-09-08T18:52:12.310", "matchCriteriaId": "860EE78D-1577-4481-9725-5592DB4FA572", "status": "Active"}
+{"created": "2026-09-08T18:52:12.310", "criteria": "cpe:2.3:h:lantronix:x304g002s:-:*:*:*:*:*:*:*", "lastModified": "2026-09-09T19:32:08.437", "matchCriteriaId": "860EE78D-1577-4481-9725-5592DB4FA572", "matches": [{"cpeName": "cpe:2.3:h:lantronix:x304g002s:-:*:*:*:*:*:*:*", "cpeNameId": "56478CBD-CCF1-4541-8858-5DB0EED6DE92"}], "status": "Active"}
