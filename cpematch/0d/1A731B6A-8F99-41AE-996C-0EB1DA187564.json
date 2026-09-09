@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-09-09T18:35:37.483", "created": "2026-09-09T18:35:37.483", "criteria": "cpe:2.3:a:external_authentication_project:external_authentication:*:*:*:*:*:drupal:*:*", "lastModified": "2026-09-09T18:35:37.483", "matchCriteriaId": "1A731B6A-8F99-41AE-996C-0EB1DA187564", "status": "Active", "versionEndIncluding": "8.x-1.4", "versionStartIncluding": "8.x-1.0"}
