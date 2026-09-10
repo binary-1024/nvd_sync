@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-09-10T14:50:07.120", "created": "2026-09-10T14:50:07.120", "criteria": "cpe:2.3:a:mongodb:bi_connector:*:*:*:*:*:*:*:*", "lastModified": "2026-09-10T14:50:07.120", "matchCriteriaId": "2DF0244A-375D-4F2A-A765-359999E83D5F", "status": "Active", "versionEndExcluding": "2.14.31", "versionStartIncluding": "2.1.0"}
