@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-09-10T10:48:07.587", "created": "2026-09-10T10:48:07.587", "criteria": "cpe:2.3:a:centarro:commerce_cybersource:*:*:*:*:*:drupal:*:*", "lastModified": "2026-09-10T10:48:07.587", "matchCriteriaId": "0DE7D547-6998-4140-900B-233A4EE587B9", "status": "Active", "versionEndExcluding": "8.x-1.10", "versionStartIncluding": "8.x-1.0"}
