@@ -1,0 +1,1 @@
+{"created": "2026-09-10T19:01:51.783", "criteria": "cpe:2.3:a:mongodb:odbc_driver:*:*:*:*:*:*:*:*", "lastModified": "2026-09-10T19:01:51.783", "matchCriteriaId": "34C2C855-F5DC-402B-83FB-E7B12EEE9F51", "status": "Active", "versionEndExcluding": "2.0.9", "versionStartIncluding": "1.0.0"}

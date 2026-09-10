@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-09-10T18:54:35.917", "created": "2026-09-10T18:54:35.917", "criteria": "cpe:2.3:a:apache:impala:*:*:*:*:*:*:*:*", "lastModified": "2026-09-10T18:54:35.917", "matchCriteriaId": "716DED2E-9C24-45B3-962F-A0FA412993FB", "status": "Active", "versionEndIncluding": "4.5.2", "versionStartIncluding": "4.4.0"}
