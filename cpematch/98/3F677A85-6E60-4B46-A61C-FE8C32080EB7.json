@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-09-10T11:27:19.740", "created": "2026-09-10T11:27:19.740", "criteria": "cpe:2.3:a:redhat:satellite_capsule:*:*:*:*:*:*:*:*", "lastModified": "2026-09-10T11:27:19.740", "matchCriteriaId": "3F677A85-6E60-4B46-A61C-FE8C32080EB7", "status": "Active", "versionEndExcluding": "6.18.0", "versionStartIncluding": "6.18"}
