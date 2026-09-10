@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-09-10T15:43:18.220", "created": "2026-09-10T15:43:18.220", "criteria": "cpe:2.3:a:f5:big-ip_policy_enforcement_manager:*:*:*:*:*:*:*:*", "lastModified": "2026-09-10T15:43:18.220", "matchCriteriaId": "00368D04-52E5-4461-BBA2-23D953C09B0E", "status": "Active", "versionEndIncluding": "21.1.0", "versionStartIncluding": "21.0.0"}

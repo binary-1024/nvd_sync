@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-09-10T15:43:18.220", "created": "2026-09-10T15:43:18.220", "criteria": "cpe:2.3:a:f5:big-ip_websafe:*:*:*:*:*:*:*:*", "lastModified": "2026-09-10T15:43:18.220", "matchCriteriaId": "F8442A4F-70EA-4B78-8E47-8E7A2B9F12A1", "status": "Active", "versionEndIncluding": "21.1.0", "versionStartIncluding": "21.0.0"}

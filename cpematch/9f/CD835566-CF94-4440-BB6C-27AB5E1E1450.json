@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-09-10T15:43:18.220", "created": "2026-09-10T15:43:18.220", "criteria": "cpe:2.3:a:f5:big-ip_automation_toolchain:*:*:*:*:*:*:*:*", "lastModified": "2026-09-10T15:43:18.220", "matchCriteriaId": "CD835566-CF94-4440-BB6C-27AB5E1E1450", "status": "Active", "versionEndIncluding": "21.1.0", "versionStartIncluding": "21.0.0"}

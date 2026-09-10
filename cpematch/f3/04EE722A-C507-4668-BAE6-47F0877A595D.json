@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-09-10T15:43:18.220", "created": "2026-09-10T15:43:18.220", "criteria": "cpe:2.3:a:f5:big-ip_container_ingress_services:*:*:*:*:*:*:*:*", "lastModified": "2026-09-10T15:43:18.220", "matchCriteriaId": "04EE722A-C507-4668-BAE6-47F0877A595D", "status": "Active", "versionEndIncluding": "21.1.0", "versionStartIncluding": "21.0.0"}

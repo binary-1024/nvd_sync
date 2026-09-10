@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-09-10T15:43:18.220", "created": "2026-09-10T15:43:18.220", "criteria": "cpe:2.3:a:f5:big-ip_access_policy_manager:*:*:*:*:*:*:*:*", "lastModified": "2026-09-10T15:43:18.220", "matchCriteriaId": "CAD34CC1-D4A1-4120-990E-A6FEAF80A470", "status": "Active", "versionEndIncluding": "21.1.0", "versionStartIncluding": "21.0.0"}

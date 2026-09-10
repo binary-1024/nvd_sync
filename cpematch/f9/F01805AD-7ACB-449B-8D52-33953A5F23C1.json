@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-09-10T15:43:18.220", "created": "2026-09-10T15:43:18.220", "criteria": "cpe:2.3:a:f5:big-ip_carrier-grade_nat:*:*:*:*:*:*:*:*", "lastModified": "2026-09-10T15:43:18.220", "matchCriteriaId": "F01805AD-7ACB-449B-8D52-33953A5F23C1", "status": "Active", "versionEndIncluding": "21.1.0", "versionStartIncluding": "21.0.0"}
