@@ -1,0 +1,1 @@
+{"created": "2026-09-10T09:46:22.217", "criteria": "cpe:2.3:a:aws_c_http_project:aws-c-http:*:*:*:*:*:*:*:*", "lastModified": "2026-09-10T09:46:22.217", "matchCriteriaId": "075A50C0-2C05-4CFB-879C-E6ECE1543319", "status": "Active", "versionEndExcluding": "0.11.0", "versionStartIncluding": "0.4.22"}
