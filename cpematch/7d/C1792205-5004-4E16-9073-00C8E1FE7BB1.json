@@ -1,0 +1,1 @@
+{"created": "2026-09-11T15:28:21.743", "criteria": "cpe:2.3:a:mongodb:go_driver:*:*:*:*:*:mongodb:*:*", "lastModified": "2026-09-11T15:28:21.743", "matchCriteriaId": "C1792205-5004-4E16-9073-00C8E1FE7BB1", "status": "Active", "versionEndExcluding": "2.8.2", "versionStartIncluding": "2.1.0"}
