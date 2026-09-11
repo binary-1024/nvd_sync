@@ -1,0 +1,1 @@
+{"created": "2026-09-11T13:27:28.433", "criteria": "cpe:2.3:a:mongodb:php_library:*:*:*:*:*:*:*:*", "lastModified": "2026-09-11T13:27:28.433", "matchCriteriaId": "9B6C06A6-B674-47E0-8CC0-AE688075AB99", "status": "Active", "versionEndExcluding": "2.4.1", "versionStartIncluding": "2.0.0"}
