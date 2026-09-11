@@ -1,0 +1,1 @@
+{"created": "2026-09-11T17:07:26.800", "criteria": "cpe:2.3:a:mongodb:ops_manager:*:*:*:*:*:*:*:*", "lastModified": "2026-09-11T17:07:26.800", "matchCriteriaId": "40B4DD25-FF68-4EAA-A038-22927E035D03", "status": "Active", "versionEndExcluding": "8.0.23", "versionStartIncluding": "7.0.0"}
