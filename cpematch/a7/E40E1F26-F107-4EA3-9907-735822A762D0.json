@@ -1,1 +1,1 @@
-{"created": "2026-09-08T12:58:27.827", "criteria": "cpe:2.3:h:netgear:rs100:-:*:*:*:*:*:*:*", "lastModified": "2026-09-08T12:58:27.827", "matchCriteriaId": "E40E1F26-F107-4EA3-9907-735822A762D0", "status": "Active"}
+{"created": "2026-09-08T12:58:27.827", "criteria": "cpe:2.3:h:netgear:rs100:-:*:*:*:*:*:*:*", "lastModified": "2026-09-14T13:27:49.380", "matchCriteriaId": "E40E1F26-F107-4EA3-9907-735822A762D0", "matches": [{"cpeName": "cpe:2.3:h:netgear:rs100:-:*:*:*:*:*:*:*", "cpeNameId": "1480D401-BA52-4558-B52F-35433C34AAFC"}], "status": "Active"}

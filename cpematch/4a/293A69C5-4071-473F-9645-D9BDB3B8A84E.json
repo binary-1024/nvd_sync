@@ -1,1 +1,1 @@
-{"created": "2026-09-08T12:58:27.827", "criteria": "cpe:2.3:h:netgear:rs300:-:*:*:*:*:*:*:*", "lastModified": "2026-09-08T12:58:27.827", "matchCriteriaId": "293A69C5-4071-473F-9645-D9BDB3B8A84E", "status": "Active"}
+{"created": "2026-09-08T12:58:27.827", "criteria": "cpe:2.3:h:netgear:rs300:-:*:*:*:*:*:*:*", "lastModified": "2026-09-14T13:27:49.380", "matchCriteriaId": "293A69C5-4071-473F-9645-D9BDB3B8A84E", "matches": [{"cpeName": "cpe:2.3:h:netgear:rs300:-:*:*:*:*:*:*:*", "cpeNameId": "9E2B4C7F-1947-4B38-AA9A-4EF2048FA669"}], "status": "Active"}
