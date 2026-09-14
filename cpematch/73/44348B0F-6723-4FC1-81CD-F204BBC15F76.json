@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-09-14T21:26:00.733", "created": "2026-09-14T21:26:00.733", "criteria": "cpe:2.3:o:cisco:asyncos:*:*:*:*:*:*:*:*", "lastModified": "2026-09-14T21:26:00.733", "matchCriteriaId": "44348B0F-6723-4FC1-81CD-F204BBC15F76", "status": "Active", "versionEndExcluding": "16.5.0-780", "versionStartIncluding": "16.5"}
