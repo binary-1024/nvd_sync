@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-09-17T14:00:37.967", "created": "2026-09-17T14:00:37.967", "criteria": "cpe:2.3:a:mongodb:libmongocrypt:*:*:*:*:*:*:*:*", "lastModified": "2026-09-17T14:00:37.967", "matchCriteriaId": "2CB34549-A4E5-449A-A5FD-E1BDE233F4FE", "status": "Active", "versionEndExcluding": "1.20.2"}
