@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-09-17T18:43:49.880", "created": "2026-09-17T18:43:49.880", "criteria": "cpe:2.3:a:cisco:catalyst_center:*:*:*:*:*:*:*:*", "lastModified": "2026-09-17T18:45:10.210", "matchCriteriaId": "D4E3169A-1834-4588-8568-14487DC9C0CA", "status": "Inactive", "versionEndIncluding": "2.3.7.10", "versionStartIncluding": "2.3.7.0"}
