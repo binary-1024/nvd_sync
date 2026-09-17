@@ -1,0 +1,1 @@
+{"created": "2026-09-17T14:25:44.087", "criteria": "cpe:2.3:a:apache:apache-airflow-providers-apache-kafka:*:*:*:*:*:*:*:*", "lastModified": "2026-09-17T14:25:44.087", "matchCriteriaId": "BE944DF3-BBD8-4B8A-A16C-1469DE0D0D7C", "status": "Active", "versionEndExcluding": "2.0.0", "versionStartIncluding": "1.15.0"}
