@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-09-17T15:05:39.067", "created": "2026-09-14T23:17:41.413", "criteria": "cpe:2.3:a:ibm:cloud_pak_for_business_automation:*:*:*:*:*:*:*:*", "lastModified": "2026-09-14T23:17:41.413", "matchCriteriaId": "727A84FD-B61F-4B24-9EC8-F57AB20519A1", "status": "Active", "versionEndIncluding": "25.0.0 interim fix 005", "versionStartIncluding": "25.0.0"}
