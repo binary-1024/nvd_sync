@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-09-18T19:56:38.287", "created": "2026-09-18T19:56:38.287", "criteria": "cpe:2.3:a:apache:nifi:*:*:*:*:*:*:*:*", "lastModified": "2026-09-18T19:57:13.280", "matchCriteriaId": "7B896882-B9BC-41FA-B46A-F930F414DEF7", "status": "Inactive", "versionEndExcluding": "2.12.0"}
