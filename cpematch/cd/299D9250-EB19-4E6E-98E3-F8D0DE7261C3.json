@@ -1,1 +1,1 @@
-{"created": "2026-09-02T15:49:05.880", "criteria": "cpe:2.3:a:elastic:apm_server:9.5.0:*:*:*:*:*:*:*", "lastModified": "2026-09-02T15:49:05.880", "matchCriteriaId": "299D9250-EB19-4E6E-98E3-F8D0DE7261C3", "status": "Active"}
+{"created": "2026-09-02T15:49:05.880", "criteria": "cpe:2.3:a:elastic:apm_server:9.5.0:*:*:*:*:*:*:*", "lastModified": "2026-09-18T20:25:36.797", "matchCriteriaId": "299D9250-EB19-4E6E-98E3-F8D0DE7261C3", "matches": [{"cpeName": "cpe:2.3:a:elastic:apm_server:9.5.0:*:*:*:*:*:*:*", "cpeNameId": "6AF972E5-996C-42C2-A8A1-EB1F0F5AB7CC"}], "status": "Active"}
