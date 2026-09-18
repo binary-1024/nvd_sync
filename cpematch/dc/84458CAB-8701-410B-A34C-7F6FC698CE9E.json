@@ -1,1 +1,1 @@
-{"created": "2026-09-01T20:39:55.010", "criteria": "cpe:2.3:a:elastic:kibana:9.5.0:*:*:*:*:*:*:*", "lastModified": "2026-09-01T20:39:55.010", "matchCriteriaId": "84458CAB-8701-410B-A34C-7F6FC698CE9E", "status": "Active"}
+{"created": "2026-09-01T20:39:55.010", "criteria": "cpe:2.3:a:elastic:kibana:9.5.0:*:*:*:*:*:*:*", "lastModified": "2026-09-18T18:31:20.173", "matchCriteriaId": "84458CAB-8701-410B-A34C-7F6FC698CE9E", "matches": [{"cpeName": "cpe:2.3:a:elastic:kibana:9.5.0:*:*:*:*:*:*:*", "cpeNameId": "0C08C737-ED3D-448A-B540-9870E4B83787"}], "status": "Active"}

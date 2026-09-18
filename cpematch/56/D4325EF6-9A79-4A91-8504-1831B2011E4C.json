@@ -1,0 +1,1 @@
+{"created": "2026-09-18T18:35:51.167", "criteria": "cpe:2.3:a:sonatype:nexus_repository_manager_3:*:*:*:*:oss:*:*:*", "lastModified": "2026-09-18T18:35:51.167", "matchCriteriaId": "D4325EF6-9A79-4A91-8504-1831B2011E4C", "status": "Active", "versionEndExcluding": "3.96.0", "versionStartIncluding": "3.38.0"}
