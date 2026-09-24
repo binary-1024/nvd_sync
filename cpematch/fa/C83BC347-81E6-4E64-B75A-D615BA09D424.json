@@ -1,0 +1,1 @@
+{"created": "2026-09-24T13:03:17.263", "criteria": "cpe:2.3:a:intel:vllm_hardware:*:*:*:*:*:intel_gaudi:*:*", "lastModified": "2026-09-24T13:03:17.263", "matchCriteriaId": "C83BC347-81E6-4E64-B75A-D615BA09D424", "status": "Active", "versionEndExcluding": "0.16.0"}
