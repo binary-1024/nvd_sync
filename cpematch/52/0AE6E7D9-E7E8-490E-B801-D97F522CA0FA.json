@@ -1,1 +1,1 @@
-{"created": "2026-09-22T14:12:27.850", "criteria": "cpe:2.3:h:qualcomm:sm8950p:-:*:*:*:*:*:*:*", "lastModified": "2026-09-22T14:12:27.850", "matchCriteriaId": "0AE6E7D9-E7E8-490E-B801-D97F522CA0FA", "status": "Active"}
+{"created": "2026-09-22T14:12:27.850", "criteria": "cpe:2.3:h:qualcomm:sm8950p:-:*:*:*:*:*:*:*", "lastModified": "2026-09-24T15:25:46.300", "matchCriteriaId": "0AE6E7D9-E7E8-490E-B801-D97F522CA0FA", "matches": [{"cpeName": "cpe:2.3:h:qualcomm:sm8950p:-:*:*:*:*:*:*:*", "cpeNameId": "9095CDE1-C5B2-4E92-B763-36865F02A3E6"}], "status": "Active"}
