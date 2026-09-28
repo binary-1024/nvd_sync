@@ -1,1 +1,1 @@
-{"created": "2025-04-16T13:54:44.107", "criteria": "cpe:2.3:a:jerryhanjj:erp:1.0:*:*:*:*:*:*:*", "lastModified": "2025-04-16T13:54:44.107", "matchCriteriaId": "717055C1-B5C0-4DFB-B44B-EE88956360A6", "status": "Active"}
+{"created": "2025-04-16T13:54:44.107", "criteria": "cpe:2.3:a:jerryhanjj:erp:1.0:*:*:*:*:*:*:*", "lastModified": "2026-09-28T23:02:22.407", "matchCriteriaId": "717055C1-B5C0-4DFB-B44B-EE88956360A6", "matches": [{"cpeName": "cpe:2.3:a:jerryhanjj:erp:1.0:*:*:*:*:*:*:*", "cpeNameId": "E75BB6FC-2652-4A17-BEF0-40291FF04B72"}], "status": "Active"}

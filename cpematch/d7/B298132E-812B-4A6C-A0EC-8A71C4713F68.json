@@ -1,1 +1,1 @@
-{"created": "2025-09-26T14:28:43.300", "criteria": "cpe:2.3:a:paracrawl:keops:2:*:*:*:*:*:*:*", "lastModified": "2025-09-26T14:28:43.300", "matchCriteriaId": "B298132E-812B-4A6C-A0EC-8A71C4713F68", "status": "Active"}
+{"created": "2025-09-26T14:28:43.300", "criteria": "cpe:2.3:a:paracrawl:keops:2:*:*:*:*:*:*:*", "lastModified": "2026-09-28T22:44:39.587", "matchCriteriaId": "B298132E-812B-4A6C-A0EC-8A71C4713F68", "matches": [{"cpeName": "cpe:2.3:a:paracrawl:keops:2:*:*:*:*:*:*:*", "cpeNameId": "BCBCF561-2970-493D-AE61-AB40355678C2"}], "status": "Active"}
