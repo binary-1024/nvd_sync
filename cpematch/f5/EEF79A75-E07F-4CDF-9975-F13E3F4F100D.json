@@ -1,1 +1,1 @@
-{"created": "2025-05-20T14:50:17.047", "criteria": "cpe:2.3:a:esafenet:dsm:3.1.2:*:*:*:*:*:*:*", "lastModified": "2025-05-20T14:50:17.047", "matchCriteriaId": "EEF79A75-E07F-4CDF-9975-F13E3F4F100D", "status": "Active"}
+{"created": "2025-05-20T14:50:17.047", "criteria": "cpe:2.3:a:esafenet:dsm:3.1.2:*:*:*:*:*:*:*", "lastModified": "2026-09-28T15:51:09.173", "matchCriteriaId": "EEF79A75-E07F-4CDF-9975-F13E3F4F100D", "matches": [{"cpeName": "cpe:2.3:a:esafenet:dsm:3.1.2:*:*:*:*:*:*:*", "cpeNameId": "01186362-13DF-4BB2-9B1A-D124BB9BAF04"}], "status": "Active"}
