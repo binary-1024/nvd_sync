@@ -1,0 +1,1 @@
+{"created": "2026-10-01T15:51:31.413", "criteria": "cpe:2.3:a:apache:wss4j:*:*:*:*:*:*:*:*", "lastModified": "2026-10-01T15:51:31.413", "matchCriteriaId": "31AFF243-7BCE-44BC-85C5-6FE257642C13", "status": "Active", "versionEndExcluding": "3.0.6", "versionStartIncluding": "3.0.0"}

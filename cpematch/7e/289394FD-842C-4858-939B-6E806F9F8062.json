@@ -1,1 +1,1 @@
-{"created": "2026-09-03T13:16:42.830", "criteria": "cpe:2.3:a:microsoft:fabric:-:*:*:*:*:*:*:*", "lastModified": "2026-09-03T13:16:42.830", "matchCriteriaId": "289394FD-842C-4858-939B-6E806F9F8062", "status": "Active"}
+{"created": "2026-09-03T13:16:42.830", "criteria": "cpe:2.3:a:microsoft:fabric:-:*:*:*:*:*:*:*", "lastModified": "2026-10-01T15:21:14.923", "matchCriteriaId": "289394FD-842C-4858-939B-6E806F9F8062", "matches": [{"cpeName": "cpe:2.3:a:microsoft:fabric:-:*:*:*:*:*:*:*", "cpeNameId": "3E0B5548-3864-4757-9B51-D1355F6C3064"}], "status": "Active"}
