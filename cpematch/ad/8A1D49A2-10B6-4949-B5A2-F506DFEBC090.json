@@ -1,0 +1,1 @@
+{"created": "2026-10-05T14:37:48.517", "criteria": "cpe:2.3:a:microsoft:.net_sdk:*:*:*:*:*:*:*:*", "lastModified": "2026-10-05T14:37:48.517", "matchCriteriaId": "8A1D49A2-10B6-4949-B5A2-F506DFEBC090", "status": "Active", "versionEndExcluding": "9.0.317", "versionStartIncluding": "9.0.200"}
