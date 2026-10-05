@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-10-05T18:54:40.157", "created": "2026-10-05T18:54:40.157", "criteria": "cpe:2.3:a:electronjs:electron:*:*:*:*:*:node.js:*:*", "lastModified": "2026-10-05T18:56:07.390", "matchCriteriaId": "845CB147-F022-47CB-9301-D27B7977D896", "status": "Inactive", "versionEndExcluding": "41.10.3", "versionStartIncluding": "41.0.0"}
