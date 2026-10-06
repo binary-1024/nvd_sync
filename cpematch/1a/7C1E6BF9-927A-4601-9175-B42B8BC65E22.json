@@ -1,0 +1,1 @@
+{"created": "2026-10-06T13:48:30.680", "criteria": "cpe:2.3:a:ibm:financial_transaction_manager:*:*:*:*:*:*:*:*", "lastModified": "2026-10-06T13:48:30.680", "matchCriteriaId": "7C1E6BF9-927A-4601-9175-B42B8BC65E22", "status": "Active", "versionEndExcluding": "4.0.11.0", "versionStartIncluding": "4.0.6.0"}
