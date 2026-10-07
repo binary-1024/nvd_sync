@@ -1,0 +1,1 @@
+{"created": "2026-10-07T12:43:50.513", "criteria": "cpe:2.3:a:microsoft:sql_server_management_studio:*:*:*:*:*:*:*:*", "lastModified": "2026-10-07T12:43:50.513", "matchCriteriaId": "BD007B17-5B89-4F0F-8433-C97F133CF201", "status": "Active", "versionEndExcluding": "22.8.2", "versionStartIncluding": "22.0"}
