@@ -1,0 +1,1 @@
+{"created": "2026-10-07T16:57:39.110", "criteria": "cpe:2.3:a:apache:apache-airflow-providers-teradata:*:*:*:*:*:*:*:*", "lastModified": "2026-10-07T16:57:39.110", "matchCriteriaId": "0E4B253E-1343-477A-B2CB-D91488966A0D", "status": "Active", "versionEndExcluding": "3.7.0"}
