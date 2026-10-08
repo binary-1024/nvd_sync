@@ -1,0 +1,1 @@
+{"created": "2026-10-08T08:07:06.467", "criteria": "cpe:2.3:a:redhat:virtio-win:*:*:*:*:*:*:*:*", "lastModified": "2026-10-08T08:07:06.467", "matchCriteriaId": "2A529F72-B966-47DB-87F6-291BEEFCAB74", "status": "Active", "versionEndExcluding": "mm320", "versionStartIncluding": "mm210"}
