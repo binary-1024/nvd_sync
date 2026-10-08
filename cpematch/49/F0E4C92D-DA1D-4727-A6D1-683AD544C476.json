@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-10-08T18:24:34.687", "created": "2026-10-08T18:24:34.687", "criteria": "cpe:2.3:a:apache:jackrabbit:*:*:*:*:*:*:*:*", "lastModified": "2026-10-08T18:25:53.437", "matchCriteriaId": "F0E4C92D-DA1D-4727-A6D1-683AD544C476", "status": "Inactive", "versionEndExcluding": "2.23.5", "versionStartIncluding": "2.23.0"}
