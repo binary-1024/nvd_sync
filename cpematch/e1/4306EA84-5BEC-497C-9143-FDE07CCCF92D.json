@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-10-08T05:06:52.950", "created": "2026-10-08T05:06:52.950", "criteria": "cpe:2.3:a:vmware:vsphere:*:*:*:*:*:*:*:*", "lastModified": "2026-10-08T05:06:52.950", "matchCriteriaId": "4306EA84-5BEC-497C-9143-FDE07CCCF92D", "status": "Active", "versionStartIncluding": "9.0.x.x"}

@@ -1,0 +1,1 @@
+{"created": "2026-10-08T05:06:47.633", "criteria": "cpe:2.3:o:vmware:esx:*:*:*:*:*:*:*:*", "lastModified": "2026-10-08T05:06:47.633", "matchCriteriaId": "0DAA9599-A136-4A89-AE4D-2865331F16BE", "status": "Active", "versionEndExcluding": "9.0.2.0100-25595025", "versionStartIncluding": "9.0"}

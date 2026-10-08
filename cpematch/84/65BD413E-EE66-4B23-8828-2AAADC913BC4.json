@@ -1,0 +1,1 @@
+{"created": "2026-10-08T05:05:45.597", "criteria": "cpe:2.3:a:pivotal_software:spring_ldap:*:*:*:*:*:*:*:*", "lastModified": "2026-10-08T05:05:45.597", "matchCriteriaId": "65BD413E-EE66-4B23-8828-2AAADC913BC4", "status": "Active", "versionEndExcluding": "4.0.4", "versionStartIncluding": "4.0.0"}
