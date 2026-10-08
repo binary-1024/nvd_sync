@@ -1,0 +1,1 @@
+{"created": "2026-10-08T04:46:03.997", "criteria": "cpe:2.3:a:tmds:tmds.dbus.protocol:*:*:*:*:*:*:*:*", "lastModified": "2026-10-08T04:46:03.997", "matchCriteriaId": "C1CEE11E-A049-4192-9469-AFDE0E8ECC64", "status": "Active", "versionEndExcluding": "0.92.0", "versionStartIncluding": "0.22.0"}
