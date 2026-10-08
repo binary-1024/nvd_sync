@@ -1,0 +1,1 @@
+{"created": "2026-10-08T00:22:33.537", "criteria": "cpe:2.3:a:linuxfoundation:backstage:*:*:*:*:*:*:*:*", "lastModified": "2026-10-08T00:22:33.537", "matchCriteriaId": "8855D859-FFA5-4082-8A1D-5FEDA085FF6F", "status": "Active", "versionEndExcluding": "1.51.3", "versionStartIncluding": "1.51.0-next.0"}

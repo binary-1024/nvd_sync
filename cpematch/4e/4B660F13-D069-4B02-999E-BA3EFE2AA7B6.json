@@ -1,0 +1,1 @@
+{"created": "2026-10-08T00:09:55.970", "criteria": "cpe:2.3:a:linuxfoundation:plugin-kubernetes-backend:*:*:*:*:*:*:*:*", "lastModified": "2026-10-08T00:09:55.970", "matchCriteriaId": "4B660F13-D069-4B02-999E-BA3EFE2AA7B6", "status": "Active", "versionEndExcluding": "0.21.10"}

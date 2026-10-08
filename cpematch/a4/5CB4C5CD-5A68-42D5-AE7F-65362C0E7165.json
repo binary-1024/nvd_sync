@@ -1,0 +1,1 @@
+{"created": "2026-10-08T00:42:20.980", "criteria": "cpe:2.3:a:linuxfoundation:backstage_plugin-techdocs-node:*:*:*:*:*:*:*:*", "lastModified": "2026-10-08T00:42:20.980", "matchCriteriaId": "5CB4C5CD-5A68-42D5-AE7F-65362C0E7165", "status": "Active", "versionEndExcluding": "1.15.4", "versionStartIncluding": "1.15.0"}

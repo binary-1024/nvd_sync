@@ -1,0 +1,1 @@
+{"created": "2026-10-08T00:22:14.493", "criteria": "cpe:2.3:a:backstage_project:backend-defaults:*:*:*:*:*:*:*:*", "lastModified": "2026-10-08T00:22:14.493", "matchCriteriaId": "1C42A39E-6715-41F7-8270-91E47D03B20B", "status": "Active", "versionEndExcluding": "0.17.8", "versionStartIncluding": "0.17.0"}

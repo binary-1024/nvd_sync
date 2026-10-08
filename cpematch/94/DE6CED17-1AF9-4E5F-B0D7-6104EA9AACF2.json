@@ -1,0 +1,1 @@
+{"created": "2026-10-08T00:22:33.537", "criteria": "cpe:2.3:a:linuxfoundation:backstage_plugin-catalog-backend:*:*:*:*:*:*:*:*", "lastModified": "2026-10-08T00:22:33.537", "matchCriteriaId": "DE6CED17-1AF9-4E5F-B0D7-6104EA9AACF2", "status": "Active", "versionEndExcluding": "3.6.2", "versionStartIncluding": "3.6.0"}
