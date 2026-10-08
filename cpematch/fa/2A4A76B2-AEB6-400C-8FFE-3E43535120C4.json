@@ -1,0 +1,1 @@
+{"created": "2026-10-07T23:50:57.040", "criteria": "cpe:2.3:a:linuxfoundation:plugin-catalog-backend-module-bitbucket-server:*:*:*:*:*:*:*:*", "lastModified": "2026-10-07T23:50:57.040", "matchCriteriaId": "2A4A76B2-AEB6-400C-8FFE-3E43535120C4", "status": "Active", "versionEndExcluding": "0.5.15", "versionStartIncluding": "0.4.0"}

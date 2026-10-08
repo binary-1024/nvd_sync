@@ -1,0 +1,1 @@
+{"created": "2026-10-07T23:51:49.530", "criteria": "cpe:2.3:a:linuxfoundation:plugin-auth-node:*:*:*:*:*:*:*:*", "lastModified": "2026-10-07T23:51:49.530", "matchCriteriaId": "2270C5FC-631C-4C30-8F48-496E78AE5715", "status": "Active", "versionEndExcluding": "0.6.15", "versionStartIncluding": "0.3.0"}

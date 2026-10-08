@@ -1,0 +1,1 @@
+{"created": "2026-10-07T23:51:07.843", "criteria": "cpe:2.3:a:linuxfoundation:plugin-scaffolder-backend-module-sentry:*:*:*:*:*:*:*:*", "lastModified": "2026-10-07T23:51:07.843", "matchCriteriaId": "D86615B9-5703-464B-A3BF-AEFED8505E68", "status": "Active", "versionEndExcluding": "0.3.8", "versionStartIncluding": "0.3.0"}
