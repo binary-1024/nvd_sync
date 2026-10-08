@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-10-08T15:30:13.123", "created": "2026-10-08T15:30:13.123", "criteria": "cpe:2.3:a:haproxy:haproxy:*:*:*:*:*:*:*:*", "lastModified": "2026-10-08T15:31:56.850", "matchCriteriaId": "78860D02-22E6-4673-84E4-F293A4F9CEE9", "status": "Inactive", "versionEndExcluding": "3.0.24", "versionStartIncluding": "2.9.0"}
