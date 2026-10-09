@@ -1,0 +1,1 @@
+{"created": "2026-10-09T06:11:33.893", "criteria": "cpe:2.3:a:gnu:freeipmi:*:*:*:*:*:*:*:*", "lastModified": "2026-10-09T06:11:33.893", "matchCriteriaId": "69D808A8-0617-4617-8762-816CEC778DF3", "status": "Active", "versionEndExcluding": "1.6.18", "versionStartIncluding": "0.7.12"}
