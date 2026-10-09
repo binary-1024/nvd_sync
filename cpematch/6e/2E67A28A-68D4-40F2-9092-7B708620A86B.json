@@ -1,0 +1,1 @@
+{"created": "2026-10-08T23:21:00.383", "criteria": "cpe:2.3:a:asynchttpclient_project:async-http-client:*:*:*:*:*:*:*:*", "lastModified": "2026-10-08T23:21:00.383", "matchCriteriaId": "2E67A28A-68D4-40F2-9092-7B708620A86B", "status": "Active", "versionEndExcluding": "3.0.14", "versionStartIncluding": "3.0.11"}
