@@ -1,0 +1,1 @@
+{"created": "2026-10-09T01:01:53.937", "criteria": "cpe:2.3:a:traverse_project:traverse:*:*:*:*:*:*:*:*", "lastModified": "2026-10-09T01:01:53.937", "matchCriteriaId": "A1F5891C-AD1C-4E37-9918-C03C9AAB5E9E", "status": "Active", "versionEndExcluding": "0.3.10", "versionStartIncluding": "0.3.6"}
