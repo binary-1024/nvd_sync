@@ -1,0 +1,1 @@
+{"created": "2026-10-09T20:40:22.683", "criteria": "cpe:2.3:a:linuxfoundation:backstage\\/plugin-auth-backend:*:*:*:*:*:node.js:*:*", "lastModified": "2026-10-09T20:40:22.683", "matchCriteriaId": "B087DDFF-EF94-42A0-A164-25CD7CDACBEE", "status": "Active", "versionEndExcluding": "0.29.2"}
