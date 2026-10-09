@@ -1,0 +1,1 @@
+{"created": "2026-10-09T13:21:38.347", "criteria": "cpe:2.3:a:modelcontextprotocol:kotlin-sdk:*:*:*:*:*:*:*:*", "lastModified": "2026-10-09T13:21:38.347", "matchCriteriaId": "06A92992-4EA4-40EE-AF0D-7B84CB1776E5", "status": "Active", "versionEndExcluding": "0.13.0", "versionStartIncluding": "0.7.0"}
