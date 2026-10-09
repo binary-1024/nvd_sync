@@ -1,0 +1,1 @@
+{"created": "2026-10-09T16:12:18.153", "criteria": "cpe:2.3:a:langchain4j:langchain4j-mariadb:*:*:*:*:*:*:*:*", "lastModified": "2026-10-09T16:12:18.153", "matchCriteriaId": "F222E707-36E9-40BB-8DC9-352A4A36A852", "status": "Active", "versionEndExcluding": "1.5.1-beta11", "versionStartIncluding": "1.3.0-beta9"}

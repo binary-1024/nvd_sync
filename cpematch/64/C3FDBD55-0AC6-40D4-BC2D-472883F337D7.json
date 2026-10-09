@@ -1,0 +1,1 @@
+{"created": "2026-10-09T16:12:18.153", "criteria": "cpe:2.3:a:langchain4j:langchain4j-pgvector:*:*:*:*:*:*:*:*", "lastModified": "2026-10-09T16:12:18.153", "matchCriteriaId": "C3FDBD55-0AC6-40D4-BC2D-472883F337D7", "status": "Active", "versionEndExcluding": "1.11.8-beta19", "versionStartIncluding": "1.6.0-beta12"}

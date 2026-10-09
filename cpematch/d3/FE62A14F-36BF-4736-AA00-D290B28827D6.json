@@ -1,0 +1,1 @@
+{"created": "2026-10-09T16:59:45.220", "criteria": "cpe:2.3:a:gridprotectionalliance:openpdc_docker_image:*:*:*:*:*:*:*:*", "lastModified": "2026-10-09T16:59:45.220", "matchCriteriaId": "FE62A14F-36BF-4736-AA00-D290B28827D6", "status": "Active", "versionEndExcluding": "2.9.482", "versionStartIncluding": "0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-10-09T16:34:21.050", "created": "2026-09-16T22:47:18.090", "criteria": "cpe:2.3:a:oracle:service_contracts:*:*:*:*:*:*:*:*", "lastModified": "2026-09-16T22:47:18.090", "matchCriteriaId": "D71EBC89-C603-4078-AFAB-EB75FBE8399F", "status": "Active", "versionEndIncluding": "12.2.15", "versionStartIncluding": "12.2.14"}
