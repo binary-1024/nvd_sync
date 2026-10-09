@@ -1,0 +1,1 @@
+{"created": "2026-10-09T18:37:40.970", "criteria": "cpe:2.3:a:gvisor_tap_vsock_project:gvisor-tap-vsock:*:*:*:*:*:*:*:*", "lastModified": "2026-10-09T18:37:40.970", "matchCriteriaId": "8278AE40-980F-4272-A041-8D33F51DEE05", "status": "Active", "versionEndExcluding": "0.9.0"}
