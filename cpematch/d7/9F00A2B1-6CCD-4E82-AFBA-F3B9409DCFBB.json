@@ -1,0 +1,1 @@
+{"created": "2026-10-09T01:29:22.540", "criteria": "cpe:2.3:a:mariadb_corporation:mariadb-connector-nodejs:*:*:*:*:*:*:*:*", "lastModified": "2026-10-09T01:29:22.540", "matchCriteriaId": "9F00A2B1-6CCD-4E82-AFBA-F3B9409DCFBB", "status": "Active", "versionEndExcluding": "3.4.7", "versionStartIncluding": "3.4.0"}
