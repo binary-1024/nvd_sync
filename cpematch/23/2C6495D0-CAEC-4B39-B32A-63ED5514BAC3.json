@@ -1,0 +1,1 @@
+{"created": "2026-10-09T12:48:08.740", "criteria": "cpe:2.3:a:envoyproxy:gateway:*:*:*:*:*:*:*:*", "lastModified": "2026-10-09T12:48:08.740", "matchCriteriaId": "2C6495D0-CAEC-4B39-B32A-63ED5514BAC3", "status": "Active", "versionEndExcluding": "1.8.1", "versionStartIncluding": "1.8.0-rc.0"}
