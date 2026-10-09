@@ -1,0 +1,1 @@
+{"created": "2026-10-09T15:17:49.800", "criteria": "cpe:2.3:a:sparklemotion:sqlite3_ruby:*:*:*:*:*:*:*:*", "lastModified": "2026-10-09T15:17:49.800", "matchCriteriaId": "D0F285A5-9E94-4006-84AE-E96845F86A39", "status": "Active", "versionEndExcluding": "2.9.5", "versionStartIncluding": "2.1.0"}
