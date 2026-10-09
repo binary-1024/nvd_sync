@@ -1,0 +1,1 @@
+{"created": "2026-10-09T08:27:54.503", "criteria": "cpe:2.3:a:datadog:dd-trace-php:*:*:*:*:*:*:*:*", "lastModified": "2026-10-09T08:27:54.503", "matchCriteriaId": "187A8157-54EE-47DD-9CBA-EF5CE1746A59", "status": "Active", "versionEndExcluding": "1.19.2"}
