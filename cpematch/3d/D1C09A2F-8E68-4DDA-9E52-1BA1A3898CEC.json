@@ -1,0 +1,1 @@
+{"created": "2026-10-10T19:25:31.760", "criteria": "cpe:2.3:a:plesk:plesk_restful_api:*:*:*:*:*:plesk:*:*", "lastModified": "2026-10-10T19:25:31.760", "matchCriteriaId": "D1C09A2F-8E68-4DDA-9E52-1BA1A3898CEC", "status": "Active", "versionEndExcluding": "2.4.7", "versionStartIncluding": "2.4.2"}
