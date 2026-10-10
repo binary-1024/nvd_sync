@@ -1,0 +1,1 @@
+{"created": "2026-10-10T07:00:39.987", "criteria": "cpe:2.3:a:linuxfoundation:kubeedge:*:*:*:*:*:*:*:*", "lastModified": "2026-10-10T07:00:39.987", "matchCriteriaId": "EBEE14D5-DA93-45DB-AF66-C45A77FA7359", "status": "Active", "versionEndExcluding": "1.23.1", "versionStartIncluding": "1.23.0"}

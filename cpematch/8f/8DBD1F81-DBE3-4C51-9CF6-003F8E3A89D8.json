@@ -1,0 +1,1 @@
+{"created": "2026-10-10T06:40:53.517", "criteria": "cpe:2.3:a:canonical:accountsservice:*:*:*:*:*:*:*:*", "lastModified": "2026-10-10T06:40:53.517", "matchCriteriaId": "8DBD1F81-DBE3-4C51-9CF6-003F8E3A89D8", "status": "Active", "versionEndExcluding": "23.13.9-8ubuntu7", "versionStartIncluding": "23.13.9-8ubuntu6"}
