@@ -1,0 +1,1 @@
+{"created": "2026-10-10T13:44:51.180", "criteria": "cpe:2.3:a:temporal.io:tchannel-go:*:*:*:*:*:*:*:*", "lastModified": "2026-10-10T13:44:51.180", "matchCriteriaId": "4E11CCBA-F442-4F48-BBB1-C29BC049D4EA", "status": "Active", "versionEndExcluding": "1.22.1", "versionStartIncluding": "0.0.0-20160105034737-a6904155f628"}

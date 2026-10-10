@@ -1,0 +1,1 @@
+{"created": "2026-10-10T13:22:15.963", "criteria": "cpe:2.3:a:nvidia:model-optimizer:*:*:*:*:*:*:*:*", "lastModified": "2026-10-10T13:22:15.963", "matchCriteriaId": "9EE111F4-B002-400D-AE8F-1B928EE278D2", "status": "Active", "versionEndIncluding": "0.43.0", "versionStartIncluding": "0"}
