@@ -1,0 +1,1 @@
+{"created": "2026-10-10T07:57:30.583", "criteria": "cpe:2.3:a:talend:jobserver:*:*:*:*:*:*:*:*", "lastModified": "2026-10-10T07:57:30.583", "matchCriteriaId": "269A9E52-30F4-4F75-B568-841F4ADB6A2E", "status": "Active", "versionEndExcluding": "tps-6018", "versionStartIncluding": "7.3"}

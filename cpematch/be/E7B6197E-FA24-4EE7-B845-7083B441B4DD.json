@@ -1,0 +1,1 @@
+{"created": "2026-10-10T07:57:46.983", "criteria": "cpe:2.3:a:redhat:ansible_automation_platform:*:*:*:*:*:*:*:*", "lastModified": "2026-10-10T07:57:46.983", "matchCriteriaId": "E7B6197E-FA24-4EE7-B845-7083B441B4DD", "status": "Active", "versionEndExcluding": "2.5.20260422", "versionStartIncluding": "2.5.0"}
