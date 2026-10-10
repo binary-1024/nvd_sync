@@ -1,0 +1,1 @@
+{"created": "2026-10-10T12:44:59.950", "criteria": "cpe:2.3:a:phoenixframework:phoenix_live_view:*:*:*:*:*:*:*:*", "lastModified": "2026-10-10T12:44:59.950", "matchCriteriaId": "C7259E35-DA17-415F-A97B-7D525E50FAA3", "status": "Active", "versionEndExcluding": "1.0.19", "versionStartIncluding": "0.5.0"}
