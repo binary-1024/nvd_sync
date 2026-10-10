@@ -1,0 +1,1 @@
+{"created": "2026-10-10T08:52:15.773", "criteria": "cpe:2.3:a:libevent_project:libevent:*:*:*:*:*:*:*:*", "lastModified": "2026-10-10T08:52:15.773", "matchCriteriaId": "AD61164D-4CF6-41F0-881C-0D07BDC1EF3E", "status": "Active", "versionEndExcluding": "2.2.2-alpha", "versionStartIncluding": "2.2.0-alpha"}

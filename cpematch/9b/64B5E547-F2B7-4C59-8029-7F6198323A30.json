@@ -1,0 +1,1 @@
+{"created": "2026-10-10T08:52:57.327", "criteria": "cpe:2.3:a:anyio_project:anyio:*:*:*:*:*:*:*:*", "lastModified": "2026-10-10T08:52:57.327", "matchCriteriaId": "64B5E547-F2B7-4C59-8029-7F6198323A30", "status": "Active", "versionEndExcluding": "4.14.2", "versionStartIncluding": "4.14.0"}
