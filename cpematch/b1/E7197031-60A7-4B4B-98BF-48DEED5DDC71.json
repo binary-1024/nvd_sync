@@ -1,0 +1,1 @@
+{"created": "2026-10-10T02:46:42.537", "criteria": "cpe:2.3:a:spring:micrometer:*:*:*:*:*:*:*:*", "lastModified": "2026-10-10T02:46:42.537", "matchCriteriaId": "E7197031-60A7-4B4B-98BF-48DEED5DDC71", "status": "Active", "versionEndExcluding": "1.16.7", "versionStartIncluding": "1.16.0"}

@@ -1,0 +1,1 @@
+{"created": "2026-10-10T02:46:40.107", "criteria": "cpe:2.3:a:micrometer_project:micrometer:*:*:*:*:*:*:*:*", "lastModified": "2026-10-10T02:46:40.107", "matchCriteriaId": "A4C109D7-7C0B-441D-8134-BEAEE2C5CDB7", "status": "Active", "versionEndExcluding": "1.15.13", "versionStartIncluding": "1.15.0"}

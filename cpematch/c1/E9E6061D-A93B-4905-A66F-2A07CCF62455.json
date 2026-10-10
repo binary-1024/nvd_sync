@@ -1,0 +1,1 @@
+{"created": "2026-10-10T02:31:21.837", "criteria": "cpe:2.3:a:apereo:cas_server:*:*:*:*:*:*:*:*", "lastModified": "2026-10-10T02:31:21.837", "matchCriteriaId": "E9E6061D-A93B-4905-A66F-2A07CCF62455", "status": "Active", "versionEndExcluding": "8.0.0-rc6", "versionStartIncluding": "7.3.0"}
