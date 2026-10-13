@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-10-13T19:33:26.100", "created": "2026-10-13T19:33:26.100", "criteria": "cpe:2.3:a:ibm:tririga_application_platform:*:*:*:*:*:*:*:*", "lastModified": "2026-10-13T19:33:26.100", "matchCriteriaId": "48E1B439-4DEA-4ADC-88D8-B4011F26CC3F", "status": "Active", "versionEndExcluding": "5.0.9", "versionStartIncluding": "5.0.0"}
