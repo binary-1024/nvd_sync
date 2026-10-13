@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-10-13T17:44:31.260", "created": "2026-10-13T17:44:31.260", "criteria": "cpe:2.3:a:ivanti:connect_secure:*:*:*:*:*:*:*:*", "lastModified": "2026-10-13T17:44:31.260", "matchCriteriaId": "51F9201D-EF2F-4750-846E-912827761A9F", "status": "Active", "versionEndExcluding": "25.1.1.2", "versionStartIncluding": "25.1.0.0"}
