@@ -1,0 +1,1 @@
+{"created": "2026-10-13T21:05:09.087", "criteria": "cpe:2.3:a:socketio:engine.io:*:*:*:*:*:*:*:*", "lastModified": "2026-10-13T21:05:09.087", "matchCriteriaId": "6F4B302E-5BA3-48FF-8862-13981ADE73FB", "status": "Active", "versionEndExcluding": "6.6.10", "versionStartIncluding": "6.6.0"}
