@@ -1,0 +1,1 @@
+{"created": "2026-10-13T18:52:25.710", "criteria": "cpe:2.3:a:linuxfoundation:backstage_plugin-catalog-backend:*:*:*:*:*:node.js:*:*", "lastModified": "2026-10-13T18:52:25.710", "matchCriteriaId": "7F0C2290-97C5-404F-B9E1-05A9335E6B82", "status": "Active", "versionEndExcluding": "3.9.1", "versionStartIncluding": "3.9.0"}
