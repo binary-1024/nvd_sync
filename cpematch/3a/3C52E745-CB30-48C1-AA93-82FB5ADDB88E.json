@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-10-14T10:07:23.193", "created": "2026-10-14T10:07:23.193", "criteria": "cpe:2.3:a:redhat:quay:*:*:*:*:*:*:*:*", "lastModified": "2026-10-14T10:07:23.193", "matchCriteriaId": "3C52E745-CB30-48C1-AA93-82FB5ADDB88E", "status": "Active", "versionEndExcluding": "3.14.9", "versionStartIncluding": "3.14"}
