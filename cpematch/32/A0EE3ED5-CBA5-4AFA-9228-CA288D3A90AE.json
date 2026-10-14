@@ -1,0 +1,1 @@
+{"created": "2026-10-13T23:23:57.073", "criteria": "cpe:2.3:a:microsoft:windows_defender_for_endpoint:*:*:*:*:*:*:*:*", "lastModified": "2026-10-13T23:23:57.073", "matchCriteriaId": "A0EE3ED5-CBA5-4AFA-9228-CA288D3A90AE", "status": "Active", "versionEndExcluding": "4.18.26060.3008", "versionStartIncluding": "1.0.0.0"}
