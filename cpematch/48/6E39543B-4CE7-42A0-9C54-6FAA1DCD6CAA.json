@@ -1,0 +1,1 @@
+{"created": "2026-10-15T06:32:16.597", "criteria": "cpe:2.3:a:apache:airflow_providers_microsoft_azure:*:*:*:*:*:*:*:*", "lastModified": "2026-10-15T06:32:16.597", "matchCriteriaId": "6E39543B-4CE7-42A0-9C54-6FAA1DCD6CAA", "status": "Active", "versionEndExcluding": "14.1.0"}
