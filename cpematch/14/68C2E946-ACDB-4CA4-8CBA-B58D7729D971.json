@@ -1,0 +1,1 @@
+{"created": "2026-10-15T09:05:40.527", "criteria": "cpe:2.3:a:microsoft:azure_command-line_interface:*:*:*:*:*:*:*:*", "lastModified": "2026-10-15T09:05:40.527", "matchCriteriaId": "68C2E946-ACDB-4CA4-8CBA-B58D7729D971", "status": "Active", "versionEndExcluding": "1.0.7", "versionStartIncluding": "2.0.0"}

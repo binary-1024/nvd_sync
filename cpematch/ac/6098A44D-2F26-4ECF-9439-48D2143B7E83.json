@@ -1,0 +1,1 @@
+{"created": "2026-10-15T09:05:40.527", "criteria": "cpe:2.3:a:microsoft:azure_devops_cli_extension:*:*:*:*:*:*:*:*", "lastModified": "2026-10-15T09:05:40.527", "matchCriteriaId": "6098A44D-2F26-4ECF-9439-48D2143B7E83", "status": "Active", "versionEndExcluding": "1.0.7", "versionStartIncluding": "1.0.6"}
