@@ -1,0 +1,1 @@
+{"created": "2026-10-15T19:28:39.320", "criteria": "cpe:2.3:a:atlassian:jira_service_management:*:*:*:*:data_center:*:*:*", "lastModified": "2026-10-15T19:28:39.320", "matchCriteriaId": "7166EDE8-5D90-4B90-B770-0DBD581D10E9", "status": "Active", "versionEndExcluding": "11.3.12", "versionStartIncluding": "10.4.0"}
