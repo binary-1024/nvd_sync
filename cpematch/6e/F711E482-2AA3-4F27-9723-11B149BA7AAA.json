@@ -1,0 +1,1 @@
+{"created": "2026-10-15T14:57:30.463", "criteria": "cpe:2.3:a:eclipse:vert.x-web:*:*:*:*:*:*:*:*", "lastModified": "2026-10-15T14:57:30.463", "matchCriteriaId": "F711E482-2AA3-4F27-9723-11B149BA7AAA", "status": "Active", "versionEndExcluding": "5.2.1", "versionStartIncluding": "5.2.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-10-15T14:04:52.060", "created": "2026-10-15T14:04:52.060", "criteria": "cpe:2.3:a:microsoft:azure-keyvault-certificates:*:*:*:*:*:-:*:*", "lastModified": "2026-10-15T14:04:52.060", "matchCriteriaId": "CCF0F9E5-6E40-440C-8151-ECA4B0AEFE9D", "status": "Active", "versionEndExcluding": "4.11.2"}

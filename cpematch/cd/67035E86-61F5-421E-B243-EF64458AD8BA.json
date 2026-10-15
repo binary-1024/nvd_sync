@@ -1,1 +1,1 @@
-{"created": "2026-09-09T14:41:02.507", "criteria": "cpe:2.3:a:microsoft:.net:11.0.0:rc1:*:*:*:*:*:*", "lastModified": "2026-09-09T14:41:02.507", "matchCriteriaId": "67035E86-61F5-421E-B243-EF64458AD8BA", "status": "Active"}
+{"created": "2026-09-09T14:41:02.507", "criteria": "cpe:2.3:a:microsoft:.net:11.0.0:rc1:*:*:*:*:*:*", "lastModified": "2026-10-15T14:56:44.073", "matchCriteriaId": "67035E86-61F5-421E-B243-EF64458AD8BA", "matches": [{"cpeName": "cpe:2.3:a:microsoft:.net:11.0.0:rc1:*:*:*:*:*:*", "cpeNameId": "3C7CE8C8-EBE2-4822-B681-B06BB4EEE7E3"}], "status": "Active"}
