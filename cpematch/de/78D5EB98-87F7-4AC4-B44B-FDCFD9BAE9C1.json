@@ -1,0 +1,1 @@
+{"created": "2026-10-15T15:22:24.020", "criteria": "cpe:2.3:a:eclipse_foundation:vertx-db2-client:*:*:*:*:*:*:*:*", "lastModified": "2026-10-15T15:22:24.020", "matchCriteriaId": "78D5EB98-87F7-4AC4-B44B-FDCFD9BAE9C1", "status": "Active", "versionEndExcluding": "5.1.10", "versionStartIncluding": "5.0.0"}

@@ -1,0 +1,1 @@
+{"created": "2026-10-15T15:05:09.590", "criteria": "cpe:2.3:a:eclipse_vertx:vertx-mssql-client:*:*:*:*:*:*:*:*", "lastModified": "2026-10-15T15:05:09.590", "matchCriteriaId": "C7FE50AD-4854-485F-8BB1-DAC33F28F46B", "status": "Active", "versionEndExcluding": "5.2.1", "versionStartIncluding": "5.2.0"}

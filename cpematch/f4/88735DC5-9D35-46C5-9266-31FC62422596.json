@@ -1,0 +1,1 @@
+{"created": "2026-10-15T15:47:14.027", "criteria": "cpe:2.3:a:linuxfoundation:backstage\\/plugin-kubernetes-backend:*:*:*:*:*:node.js:*:*", "lastModified": "2026-10-15T15:47:14.027", "matchCriteriaId": "88735DC5-9D35-46C5-9266-31FC62422596", "status": "Active", "versionEndExcluding": "0.21.8"}

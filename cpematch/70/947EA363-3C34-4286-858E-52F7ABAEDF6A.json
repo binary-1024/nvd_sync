@@ -1,0 +1,1 @@
+{"created": "2026-10-15T15:52:45.600", "criteria": "cpe:2.3:a:eclipse-ecsp:api-gateway:*:*:*:*:*:*:*:*", "lastModified": "2026-10-15T15:52:45.600", "matchCriteriaId": "947EA363-3C34-4286-858E-52F7ABAEDF6A", "status": "Active", "versionEndIncluding": "1.7.3", "versionStartIncluding": "1.1.1"}
