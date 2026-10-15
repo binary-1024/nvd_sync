@@ -1,0 +1,1 @@
+{"created": "2026-10-15T12:48:21.797", "criteria": "cpe:2.3:a:microsoft:windows_remote_pos_driver:*:*:*:*:*:*:*:*", "lastModified": "2026-10-15T12:48:21.797", "matchCriteriaId": "6D72223F-7CF5-48FF-9161-86CFA57152AE", "status": "Active", "versionEndExcluding": "10.0.26300.9711", "versionStartIncluding": "10.0.26300.0"}
