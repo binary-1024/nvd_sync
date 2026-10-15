@@ -1,0 +1,1 @@
+{"created": "2026-10-15T07:30:03.553", "criteria": "cpe:2.3:a:socket:socket.io:*:*:*:*:*:*:*:*", "lastModified": "2026-10-15T07:30:03.553", "matchCriteriaId": "C77B2BC1-13A7-4CF4-B02B-1FA1DA832140", "status": "Active", "versionEndExcluding": "3.4.5", "versionStartIncluding": "3.4.0"}
