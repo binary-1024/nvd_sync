@@ -1,0 +1,1 @@
+{"created": "2026-10-15T13:06:19.297", "criteria": "cpe:2.3:a:microsoft:aspnet_core_signalr_common:*:*:*:*:*:*:*:*", "lastModified": "2026-10-15T13:06:19.297", "matchCriteriaId": "41B0367F-2DDF-49AE-85BC-2425B244DFC0", "status": "Active", "versionEndExcluding": "10.0.13", "versionStartIncluding": "10.0.0"}

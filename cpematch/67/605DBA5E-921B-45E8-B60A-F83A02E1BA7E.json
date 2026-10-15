@@ -1,0 +1,1 @@
+{"created": "2026-10-15T13:36:01.123", "criteria": "cpe:2.3:a:microsoft:aspnet_core_authentication_negotiate:*:*:*:*:*:*:*:*", "lastModified": "2026-10-15T13:36:01.123", "matchCriteriaId": "605DBA5E-921B-45E8-B60A-F83A02E1BA7E", "status": "Active", "versionEndExcluding": "10.0.13", "versionStartIncluding": "10.0.0"}

@@ -1,0 +1,1 @@
+{"created": "2026-10-15T13:17:21.197", "criteria": "cpe:2.3:a:microsoft:openssh:*:*:*:*:*:*:*:*", "lastModified": "2026-10-15T13:17:21.197", "matchCriteriaId": "73CC8E18-E011-43B9-BB9B-8C908E1EA540", "status": "Active", "versionEndExcluding": "10.0.20348.5761", "versionStartIncluding": "10.0.20348.0"}
