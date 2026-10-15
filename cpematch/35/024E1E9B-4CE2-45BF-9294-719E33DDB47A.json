@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-10-14T23:20:52.300", "created": "2026-10-14T23:20:52.300", "criteria": "cpe:2.3:a:redhat:hardened_images:*:*:*:*:*:*:*:*", "lastModified": "2026-10-14T23:20:52.300", "matchCriteriaId": "024E1E9B-4CE2-45BF-9294-719E33DDB47A", "status": "Active", "versionEndExcluding": "3.12.13-3.hum1"}
