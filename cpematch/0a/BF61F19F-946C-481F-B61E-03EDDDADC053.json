@@ -1,0 +1,1 @@
+{"created": "2026-10-15T10:58:25.183", "criteria": "cpe:2.3:a:microsoft:internet_information_services:*:*:*:*:*:*:*:*", "lastModified": "2026-10-15T10:58:25.183", "matchCriteriaId": "BF61F19F-946C-481F-B61E-03EDDDADC053", "status": "Active", "versionEndExcluding": "10.0.14393.9612", "versionStartIncluding": "10.0.14393.0"}

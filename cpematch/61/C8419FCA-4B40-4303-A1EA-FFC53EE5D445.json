@@ -1,0 +1,1 @@
+{"created": "2026-10-15T10:56:04.543", "criteria": "cpe:2.3:a:microsoft:windows_subsystem_for_linux:*:*:*:*:*:*:*:*", "lastModified": "2026-10-15T10:56:04.543", "matchCriteriaId": "C8419FCA-4B40-4303-A1EA-FFC53EE5D445", "status": "Active", "versionEndExcluding": "10.0.26100.9711", "versionStartIncluding": "10.0.26100.0"}
