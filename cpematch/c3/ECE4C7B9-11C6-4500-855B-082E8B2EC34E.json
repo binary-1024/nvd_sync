@@ -1,0 +1,1 @@
+{"created": "2026-10-15T11:04:53.080", "criteria": "cpe:2.3:a:microsoft:endpoint_configuration_manager:*:*:*:*:*:*:*:*", "lastModified": "2026-10-15T11:04:53.080", "matchCriteriaId": "ECE4C7B9-11C6-4500-855B-082E8B2EC34E", "status": "Active", "versionEndExcluding": "5.00.9141.1041", "versionStartIncluding": "1.0.0"}
