@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-10-19T17:42:51.797", "created": "2026-10-19T17:42:51.797", "criteria": "cpe:2.3:a:pfsense:pfsense:*:*:*:*:community:*:*:*", "lastModified": "2026-10-19T17:42:51.797", "matchCriteriaId": "622F8441-CA23-43DC-B7A4-F8B2BD2C1658", "status": "Active", "versionEndIncluding": "2.9.0", "versionStartIncluding": "2.7.0"}
