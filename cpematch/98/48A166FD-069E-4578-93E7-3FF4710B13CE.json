@@ -1,0 +1,1 @@
+{"created": "2026-10-20T15:18:03.743", "criteria": "cpe:2.3:a:streamshub:console:*:*:*:*:*:*:*:*", "lastModified": "2026-10-20T15:18:03.743", "matchCriteriaId": "48A166FD-069E-4578-93E7-3FF4710B13CE", "status": "Active", "versionEndExcluding": "0.12.10", "versionStartIncluding": "0.2.0"}

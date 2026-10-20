@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-10-20T15:18:07.567", "created": "2026-10-20T15:18:07.567", "criteria": "cpe:2.3:o:ibm:diamondback_tape_library_firmware:*:*:*:*:*:*:*:*", "lastModified": "2026-10-20T15:18:07.567", "matchCriteriaId": "FBEE32CE-8654-4B2E-B998-C653FFE08FAF", "status": "Active", "versionEndExcluding": "1.12.0.4", "versionStartIncluding": "1.1.1.6"}

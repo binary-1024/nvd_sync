@@ -1,0 +1,1 @@
+{"created": "2026-10-20T15:26:37.437", "criteria": "cpe:2.3:o:ibm:security_verify_access_firmware:*:*:*:*:*:*:*:*", "lastModified": "2026-10-20T15:26:37.437", "matchCriteriaId": "93594343-A298-4F14-A2D2-59DBD231891D", "status": "Active", "versionEndExcluding": "10.0.9.4", "versionStartIncluding": "10.0.9.3"}
