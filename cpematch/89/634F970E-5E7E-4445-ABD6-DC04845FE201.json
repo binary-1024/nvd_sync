@@ -1,0 +1,1 @@
+{"created": "2026-10-20T10:28:58.810", "criteria": "cpe:2.3:o:redhat:enterprise_linux:*:*:*:*:*:*:*:*", "lastModified": "2026-10-20T10:28:58.810", "matchCriteriaId": "634F970E-5E7E-4445-ABD6-DC04845FE201", "status": "Active", "versionEndExcluding": "0\\:2.11.0-2.el10_2.1", "versionStartIncluding": "10"}
