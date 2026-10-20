@@ -1,0 +1,1 @@
+{"created": "2026-10-20T11:21:59.497", "criteria": "cpe:2.3:o:openzfs:openzfs:*:*:*:*:*:*:*:*", "lastModified": "2026-10-20T11:21:59.497", "matchCriteriaId": "0D0C5ECD-722B-4E77-983A-450F49B4049A", "status": "Active", "versionEndExcluding": "2.3.9", "versionStartIncluding": "2.3.0"}

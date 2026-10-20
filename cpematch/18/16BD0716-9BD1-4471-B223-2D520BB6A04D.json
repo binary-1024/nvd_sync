@@ -1,0 +1,1 @@
+{"created": "2026-10-20T11:53:19.163", "criteria": "cpe:2.3:a:google:adk_python:*:*:*:*:*:*:*:*", "lastModified": "2026-10-20T11:53:19.163", "matchCriteriaId": "16BD0716-9BD1-4471-B223-2D520BB6A04D", "status": "Active", "versionEndExcluding": "2.7.0", "versionStartIncluding": "2.0.0"}
