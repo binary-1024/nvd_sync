@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-10-20T00:19:12.817", "created": "2026-10-20T00:19:12.817", "criteria": "cpe:2.3:a:ibm:cloud_pak_system:*:*:*:*:*:*:*:*", "lastModified": "2026-10-20T00:19:12.817", "matchCriteriaId": "41A39600-F683-4CA9-8285-1AF86671D4DF", "status": "Active", "versionEndExcluding": "2.3.6.2", "versionStartIncluding": "2.3.6.0"}
