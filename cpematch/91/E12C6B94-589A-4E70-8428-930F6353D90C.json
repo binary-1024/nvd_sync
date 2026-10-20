@@ -1,0 +1,1 @@
+{"created": "2026-10-20T17:48:03.123", "criteria": "cpe:2.3:a:codesys:control_for_raspberry_pi_sl:*:*:*:*:*:*:*:*", "lastModified": "2026-10-20T17:48:03.123", "matchCriteriaId": "E12C6B94-589A-4E70-8428-930F6353D90C", "status": "Active", "versionEndExcluding": "4.21.0.0", "versionStartIncluding": "4.15.0.0"}

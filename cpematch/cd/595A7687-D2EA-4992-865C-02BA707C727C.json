@@ -1,0 +1,1 @@
+{"created": "2026-10-20T17:48:03.123", "criteria": "cpe:2.3:a:codesys:control_for_plcnext_sl:*:*:*:*:*:*:*:*", "lastModified": "2026-10-20T17:48:03.123", "matchCriteriaId": "595A7687-D2EA-4992-865C-02BA707C727C", "status": "Active", "versionEndExcluding": "4.21.0.0", "versionStartIncluding": "4.15.0.0"}

@@ -1,0 +1,1 @@
+{"created": "2026-10-20T17:48:03.123", "criteria": "cpe:2.3:a:codesys:control_for_beaglebone_sl:*:*:*:*:*:*:*:*", "lastModified": "2026-10-20T17:48:03.123", "matchCriteriaId": "DB14B4C2-A9C0-464E-BD03-470236EA09EF", "status": "Active", "versionEndExcluding": "4.21.0.0", "versionStartIncluding": "4.15.0.0"}
