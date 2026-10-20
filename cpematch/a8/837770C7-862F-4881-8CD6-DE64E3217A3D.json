@@ -1,0 +1,1 @@
+{"created": "2026-10-20T06:46:06.340", "criteria": "cpe:2.3:o:siderolabs:talos_linux:*:*:*:*:*:*:*:*", "lastModified": "2026-10-20T06:46:06.340", "matchCriteriaId": "837770C7-862F-4881-8CD6-DE64E3217A3D", "status": "Active", "versionEndExcluding": "1.13.3", "versionStartIncluding": "1.13.0"}

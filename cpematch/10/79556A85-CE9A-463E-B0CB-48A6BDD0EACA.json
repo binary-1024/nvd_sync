@@ -1,0 +1,1 @@
+{"created": "2026-10-20T06:46:20.150", "criteria": "cpe:2.3:a:argoproj:argo_cd:*:*:*:*:*:*:*:*", "lastModified": "2026-10-20T06:46:20.150", "matchCriteriaId": "79556A85-CE9A-463E-B0CB-48A6BDD0EACA", "status": "Active", "versionEndExcluding": "3.6.0-rc2", "versionStartIncluding": "3.6.0-rc1"}

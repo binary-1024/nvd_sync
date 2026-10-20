@@ -1,0 +1,1 @@
+{"created": "2026-10-20T07:01:12.660", "criteria": "cpe:2.3:a:vector_project:vector:*:*:*:*:*:*:*:*", "lastModified": "2026-10-20T07:01:12.660", "matchCriteriaId": "2F9868CB-87C9-4BF9-8DFB-2D1AB6AB138B", "status": "Active", "versionEndExcluding": "0.57.0", "versionStartIncluding": "0.10.0"}
