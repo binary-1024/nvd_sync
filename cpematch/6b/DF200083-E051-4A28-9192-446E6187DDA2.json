@@ -1,0 +1,1 @@
+{"created": "2026-10-20T10:01:07.797", "criteria": "cpe:2.3:a:okta:privileged_access_client:*:*:*:*:*:*:*:*", "lastModified": "2026-10-20T10:01:07.797", "matchCriteriaId": "DF200083-E051-4A28-9192-446E6187DDA2", "status": "Active", "versionEndExcluding": "1.113.0", "versionStartIncluding": "1.18.0"}

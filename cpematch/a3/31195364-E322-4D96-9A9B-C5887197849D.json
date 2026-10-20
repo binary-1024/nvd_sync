@@ -1,0 +1,1 @@
+{"created": "2026-10-20T10:00:41.807", "criteria": "cpe:2.3:a:okta:radius_agent:*:*:*:*:*:*:*:*", "lastModified": "2026-10-20T10:00:41.807", "matchCriteriaId": "31195364-E322-4D96-9A9B-C5887197849D", "status": "Active", "versionEndExcluding": "2.28.0", "versionStartIncluding": "2.17.5"}

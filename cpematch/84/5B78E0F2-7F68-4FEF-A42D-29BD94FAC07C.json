@@ -1,0 +1,1 @@
+{"created": "2026-10-20T09:46:18.963", "criteria": "cpe:2.3:a:okta:credential_provider_for_windows:*:*:*:*:*:*:*:*", "lastModified": "2026-10-20T09:46:18.963", "matchCriteriaId": "5B78E0F2-7F68-4FEF-A42D-29BD94FAC07C", "status": "Active", "versionEndExcluding": "1.4.6.0"}
