@@ -1,0 +1,1 @@
+{"created": "2026-10-20T18:14:56.353", "criteria": "cpe:2.3:a:bouncycastle:bc-lts:*:*:*:*:*:*:*:*", "lastModified": "2026-10-20T18:14:56.353", "matchCriteriaId": "983BFD45-4C2F-4D9C-8F83-08CEF72B20E0", "status": "Active", "versionEndExcluding": "2.73.11", "versionStartIncluding": "2.73.0"}

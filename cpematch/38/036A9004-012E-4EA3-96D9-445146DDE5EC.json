@@ -1,0 +1,1 @@
+{"created": "2026-10-20T18:11:22.917", "criteria": "cpe:2.3:o:espressif:esp-idf:*:*:*:*:*:*:*:*", "lastModified": "2026-10-20T18:11:22.917", "matchCriteriaId": "036A9004-012E-4EA3-96D9-445146DDE5EC", "status": "Active", "versionEndExcluding": "5.3.6", "versionStartIncluding": "5.3-beta1"}
