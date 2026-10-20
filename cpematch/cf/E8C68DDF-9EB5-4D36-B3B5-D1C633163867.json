@@ -1,0 +1,1 @@
+{"created": "2026-10-20T08:46:43.263", "criteria": "cpe:2.3:a:pfu:image_scanner_driver_for_linux_fi_series:*:*:*:*:*:*:*:*", "lastModified": "2026-10-20T08:46:43.263", "matchCriteriaId": "E8C68DDF-9EB5-4D36-B3B5-D1C633163867", "status": "Active", "versionEndIncluding": "2.7.1", "versionStartIncluding": "2.7.0"}
