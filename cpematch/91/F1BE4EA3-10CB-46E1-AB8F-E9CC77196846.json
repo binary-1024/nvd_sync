@@ -1,0 +1,1 @@
+{"created": "2026-10-20T14:55:38.030", "criteria": "cpe:2.3:a:linuxfoundation:backstage\\/backend-defaults:*:*:*:*:*:node.js:*:*", "lastModified": "2026-10-20T14:55:38.030", "matchCriteriaId": "F1BE4EA3-10CB-46E1-AB8F-E9CC77196846", "status": "Active", "versionEndExcluding": "0.17.8"}

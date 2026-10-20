@@ -1,0 +1,1 @@
+{"created": "2026-10-20T14:55:38.030", "criteria": "cpe:2.3:a:linuxfoundation:backstage\\/plugin-catalog-backend-module-azure:*:*:*:*:*:node.js:*:*", "lastModified": "2026-10-20T14:55:38.030", "matchCriteriaId": "70E827C0-82D8-4AFB-9B05-63CAF0319C13", "status": "Active", "versionEndExcluding": "0.3.21"}

@@ -1,1 +1,1 @@
-{"created": "2026-05-05T19:10:31.027", "criteria": "cpe:2.3:a:ctek:charge_portal:-:*:*:*:*:*:*:*", "lastModified": "2026-05-05T19:10:31.027", "matchCriteriaId": "C757F5E2-F4E7-464D-9184-BD665287E411", "status": "Active"}
+{"created": "2026-05-05T19:10:31.027", "criteria": "cpe:2.3:a:ctek:charge_portal:-:*:*:*:*:*:*:*", "lastModified": "2026-10-20T14:43:37.660", "matchCriteriaId": "C757F5E2-F4E7-464D-9184-BD665287E411", "matches": [{"cpeName": "cpe:2.3:a:ctek:charge_portal:-:*:*:*:*:*:*:*", "cpeNameId": "7140DE4E-4F42-449D-B11A-4C93E377D4C2"}], "status": "Active"}
