@@ -1,0 +1,1 @@
+{"created": "2026-10-20T19:58:22.363", "criteria": "cpe:2.3:a:linuxfoundation:backstage\\/plugin-scaffolder-backend-module-azure:*:*:*:*:*:node.js:*:*", "lastModified": "2026-10-20T19:58:22.363", "matchCriteriaId": "0C67C4AA-6610-4536-9CEF-562872DEB622", "status": "Active", "versionEndExcluding": "0.2.25"}

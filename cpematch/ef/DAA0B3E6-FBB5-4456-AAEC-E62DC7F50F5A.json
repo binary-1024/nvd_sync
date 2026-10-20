@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-10-20T19:36:33.063", "created": "2026-10-20T19:36:33.063", "criteria": "cpe:2.3:a:linuxfoundation:backstage\\/plugin-proxy-backend:*:*:*:*:*:node.js:*:*", "lastModified": "2026-10-20T19:36:33.063", "matchCriteriaId": "DAA0B3E6-FBB5-4456-AAEC-E62DC7F50F5A", "status": "Active", "versionEndExcluding": "0.6.18", "versionStartIncluding": "0.5.0"}

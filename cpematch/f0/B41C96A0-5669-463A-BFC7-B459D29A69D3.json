@@ -1,0 +1,1 @@
+{"created": "2026-10-20T20:01:04.107", "criteria": "cpe:2.3:a:linuxfoundation:backstage\\/plugin-scaffolder-backend-module-gitlab:*:*:*:*:*:node.js:*:*", "lastModified": "2026-10-20T20:01:04.107", "matchCriteriaId": "B41C96A0-5669-463A-BFC7-B459D29A69D3", "status": "Active", "versionEndExcluding": "0.11.10"}
