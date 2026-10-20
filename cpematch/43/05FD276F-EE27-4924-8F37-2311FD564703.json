@@ -1,0 +1,1 @@
+{"created": "2026-10-20T21:41:30.163", "criteria": "cpe:2.3:a:google:adk:*:*:*:*:*:*:*:*", "lastModified": "2026-10-20T21:41:30.163", "matchCriteriaId": "05FD276F-EE27-4924-8F37-2311FD564703", "status": "Active", "versionEndExcluding": "0.6.0", "versionStartIncluding": "0.4.0"}
