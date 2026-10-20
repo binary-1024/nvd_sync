@@ -1,0 +1,1 @@
+{"created": "2026-10-20T05:41:54.293", "criteria": "cpe:2.3:a:camunda:camunda_bpm_platform:*:*:*:*:*:*:*:*", "lastModified": "2026-10-20T05:41:54.293", "matchCriteriaId": "FB83F9A9-6DB5-4F61-A50F-516296C7E17C", "status": "Active", "versionEndExcluding": "7.24.15", "versionStartIncluding": "7.24.0"}
