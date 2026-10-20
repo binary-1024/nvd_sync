@@ -1,0 +1,1 @@
+{"created": "2026-10-20T07:56:18.150", "criteria": "cpe:2.3:a:ibm:enterprise_build_of_quarkus:*:*:*:*:*:*:*:*", "lastModified": "2026-10-20T07:56:18.150", "matchCriteriaId": "56FAAFBB-BB16-402B-84AB-3BEC9FC2155A", "status": "Active", "versionEndIncluding": "3.33.3.sp1", "versionStartIncluding": "3.33.1"}
