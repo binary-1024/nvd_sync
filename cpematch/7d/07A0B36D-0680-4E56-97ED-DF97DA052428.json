@@ -1,0 +1,1 @@
+{"created": "2026-10-21T05:02:55.050", "criteria": "cpe:2.3:a:microsoft:powershell:*:*:*:*:*:*:*:*", "lastModified": "2026-10-21T05:02:55.050", "matchCriteriaId": "07A0B36D-0680-4E56-97ED-DF97DA052428", "status": "Active", "versionEndExcluding": "10.0.19045.7807", "versionStartIncluding": "10.0.19045.0"}
