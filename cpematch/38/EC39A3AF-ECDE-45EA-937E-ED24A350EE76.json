@@ -1,1 +1,1 @@
-{"created": "2026-09-11T17:53:21.410", "criteria": "cpe:2.3:a:mongodb:compass:1.43.4:*:*:*:*:*:*:*", "lastModified": "2026-09-11T17:53:21.410", "matchCriteriaId": "EC39A3AF-ECDE-45EA-937E-ED24A350EE76", "status": "Active"}
+{"created": "2026-09-11T17:53:21.410", "criteria": "cpe:2.3:a:mongodb:compass:1.43.4:*:*:*:*:*:*:*", "lastModified": "2026-10-21T19:57:56.503", "matchCriteriaId": "EC39A3AF-ECDE-45EA-937E-ED24A350EE76", "matches": [{"cpeName": "cpe:2.3:a:mongodb:compass:1.43.4:*:*:*:*:*:*:*", "cpeNameId": "465967F6-AF46-4F27-BB24-027CF74F4AB8"}], "status": "Active"}
