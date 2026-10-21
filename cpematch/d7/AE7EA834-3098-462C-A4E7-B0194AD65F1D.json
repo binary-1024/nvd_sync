@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-10-21T14:07:13.967", "created": "2026-10-21T14:07:13.967", "criteria": "cpe:2.3:a:tox-dev:filelock:*:*:*:*:*:python:*:*", "lastModified": "2026-10-21T14:07:13.967", "matchCriteriaId": "AE7EA834-3098-462C-A4E7-B0194AD65F1D", "status": "Active", "versionEndExcluding": "4.2.1", "versionStartIncluding": "4.0.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-10-21T15:06:43.970", "created": "2026-10-21T15:06:43.970", "criteria": "cpe:2.3:a:e-guardian:siteguard:*:*:*:*:server:apache:*:*", "lastModified": "2026-10-21T15:06:43.970", "matchCriteriaId": "CE725401-7C7C-4D82-B360-77B977733362", "status": "Active", "versionEndExcluding": "8.00", "versionStartIncluding": "2.20"}

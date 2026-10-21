@@ -1,0 +1,1 @@
+{"created": "2026-10-21T14:34:43.087", "criteria": "cpe:2.3:a:sanic_project:sanic:*:*:*:*:*:*:*:*", "lastModified": "2026-10-21T14:34:43.087", "matchCriteriaId": "342CA2E2-D3A7-46F9-AF7B-D46E15020130", "status": "Active", "versionEndExcluding": "25.12.1", "versionStartIncluding": "25.12.0"}

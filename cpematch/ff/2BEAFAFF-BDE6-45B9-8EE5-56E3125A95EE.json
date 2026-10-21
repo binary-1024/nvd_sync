@@ -1,0 +1,1 @@
+{"created": "2026-10-21T14:34:47.300", "criteria": "cpe:2.3:a:opensearch_project:opensearch-dashboards:*:*:*:*:*:*:*:*", "lastModified": "2026-10-21T14:34:47.300", "matchCriteriaId": "2BEAFAFF-BDE6-45B9-8EE5-56E3125A95EE", "status": "Active", "versionEndExcluding": "3.6.0", "versionStartIncluding": "3.0.0"}
