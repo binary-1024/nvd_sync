@@ -1,0 +1,1 @@
+{"created": "2026-10-21T03:54:00.063", "criteria": "cpe:2.3:a:microsoft:active_directory_federation_services:*:*:*:*:*:*:*:*", "lastModified": "2026-10-21T03:54:00.063", "matchCriteriaId": "87180FAB-EBB8-49A6-9326-5E20DBA4EB35", "status": "Active", "versionEndExcluding": "6.3.9600.23470", "versionStartIncluding": "6.3.9600.0"}

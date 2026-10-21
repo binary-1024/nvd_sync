@@ -1,0 +1,1 @@
+{"created": "2026-10-21T03:34:17.443", "criteria": "cpe:2.3:a:synopsys:coverity_connect:*:*:*:*:*:*:*:*", "lastModified": "2026-10-21T03:34:17.443", "matchCriteriaId": "C0A49C96-FF5F-4B81-A0BC-29972EC5C106", "status": "Active", "versionEndExcluding": "2026.6.0", "versionStartIncluding": "2023.6.0"}
