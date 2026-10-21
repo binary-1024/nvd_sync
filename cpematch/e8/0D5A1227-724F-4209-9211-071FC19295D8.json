@@ -1,0 +1,1 @@
+{"created": "2026-10-21T02:05:27.430", "criteria": "cpe:2.3:a:virtualenv:virtualenv:*:*:*:*:*:*:*:*", "lastModified": "2026-10-21T02:05:27.430", "matchCriteriaId": "0D5A1227-724F-4209-9211-071FC19295D8", "status": "Active", "versionEndExcluding": "21.14.10", "versionStartIncluding": "21.14.8"}
