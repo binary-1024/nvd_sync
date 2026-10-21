@@ -1,0 +1,1 @@
+{"created": "2026-10-20T23:39:11.667", "criteria": "cpe:2.3:a:tox-dev:filelock:*:*:*:*:*:*:*:*", "lastModified": "2026-10-20T23:39:11.667", "matchCriteriaId": "33A93AD8-EC4B-4653-AB75-185108D1149B", "status": "Active", "versionEndExcluding": "4.2.1", "versionStartIncluding": "4.0.0"}
