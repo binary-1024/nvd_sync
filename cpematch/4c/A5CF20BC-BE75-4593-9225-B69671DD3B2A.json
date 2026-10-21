@@ -1,0 +1,1 @@
+{"created": "2026-10-21T18:57:07.283", "criteria": "cpe:2.3:a:wso2:carbon_identity_oauth:*:*:*:*:*:*:*:*", "lastModified": "2026-10-21T18:57:07.283", "matchCriteriaId": "A5CF20BC-BE75-4593-9225-B69671DD3B2A", "status": "Active", "versionEndExcluding": "6.8.0.40", "versionStartIncluding": "6.8.0"}
