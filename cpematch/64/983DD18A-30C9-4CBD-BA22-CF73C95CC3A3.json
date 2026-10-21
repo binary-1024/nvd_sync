@@ -1,0 +1,1 @@
+{"created": "2026-10-21T10:39:37.710", "criteria": "cpe:2.3:a:microsoft:system.security.cryptography.pkcs:*:*:*:*:*:*:*:*", "lastModified": "2026-10-21T10:39:37.710", "matchCriteriaId": "983DD18A-30C9-4CBD-BA22-CF73C95CC3A3", "status": "Active", "versionEndExcluding": "10.0.13"}
