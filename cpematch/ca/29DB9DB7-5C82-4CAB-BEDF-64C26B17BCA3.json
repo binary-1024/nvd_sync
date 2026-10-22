@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-10-22T14:03:39.147", "created": "2026-10-22T14:03:39.147", "criteria": "cpe:2.3:a:linuxfoundation:vitess:*:*:*:*:*:*:*:*", "lastModified": "2026-10-22T14:03:39.147", "matchCriteriaId": "29DB9DB7-5C82-4CAB-BEDF-64C26B17BCA3", "status": "Active", "versionEndExcluding": "24.0.2", "versionStartIncluding": "24.0.0"}
