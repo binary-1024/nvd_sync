@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-10-22T15:21:02.870", "created": "2026-10-22T15:21:02.870", "criteria": "cpe:2.3:a:redhat:jboss_enterprise_application_platform:*:*:*:*:*:*:*:*", "lastModified": "2026-10-22T15:21:02.870", "matchCriteriaId": "B819B958-E86D-48C8-868E-DAA30F0CA801", "status": "Active", "versionEndExcluding": "8.1.8", "versionStartIncluding": "8.1"}
