@@ -1,0 +1,1 @@
+{"created": "2026-10-22T14:42:27.787", "criteria": "cpe:2.3:a:microsoft:visual_studio_2022:*:*:*:*:*:macos:*:*", "lastModified": "2026-10-22T14:42:27.787", "matchCriteriaId": "E6DD5E99-A3A7-4846-9D5D-0776BDA7DA4A", "status": "Active", "versionEndExcluding": "17.0.3", "versionStartIncluding": "17.0"}
