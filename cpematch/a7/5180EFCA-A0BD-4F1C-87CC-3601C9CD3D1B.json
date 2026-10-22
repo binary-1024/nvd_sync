@@ -1,0 +1,1 @@
+{"created": "2026-10-22T17:06:34.050", "criteria": "cpe:2.3:a:apache:pulsar:*:*:*:*:*:*:*:*", "lastModified": "2026-10-22T17:06:34.050", "matchCriteriaId": "5180EFCA-A0BD-4F1C-87CC-3601C9CD3D1B", "status": "Active", "versionEndExcluding": "4.2.5", "versionStartIncluding": "4.1.0"}
