@@ -1,0 +1,1 @@
+{"created": "2026-10-22T16:57:02.553", "criteria": "cpe:2.3:a:google:sam:*:*:*:*:*:*:*:*", "lastModified": "2026-10-22T16:57:02.553", "matchCriteriaId": "8C6373E8-CFD9-41E5-BBD6-096C2A3D4A46", "status": "Active", "versionEndExcluding": "0.1.0-alpha.9", "versionStartIncluding": "0.1.0-alpha.1"}
