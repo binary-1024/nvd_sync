@@ -1,0 +1,1 @@
+{"created": "2026-10-23T21:48:18.427", "criteria": "cpe:2.3:a:knime:knime_analytics_platform:*:*:*:*:*:*:*:*", "lastModified": "2026-10-23T21:48:18.427", "matchCriteriaId": "B15913D6-166E-4E4E-AA90-259D54710BE8", "status": "Active", "versionEndExcluding": "5.12.0", "versionStartIncluding": "5.8.4"}
