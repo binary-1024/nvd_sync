@@ -1,0 +1,1 @@
+{"created": "2026-10-23T20:22:28.980", "criteria": "cpe:2.3:a:google:agent_development_kit_maven_plugin:*:*:*:*:*:*:*:*", "lastModified": "2026-10-23T20:22:28.980", "matchCriteriaId": "B8173F09-4589-4DC0-BBBB-335ED1E70F18", "status": "Active", "versionEndExcluding": "1.13.0", "versionStartIncluding": "0.3.0"}

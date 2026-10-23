@@ -1,0 +1,1 @@
+{"created": "2026-10-23T20:22:28.980", "criteria": "cpe:2.3:a:google:agent_development_kit_for_java:*:*:*:*:*:*:*:*", "lastModified": "2026-10-23T20:22:28.980", "matchCriteriaId": "A85BA2C9-8345-446B-B5B5-1C73DA9D9535", "status": "Active", "versionEndExcluding": "1.13.0", "versionStartIncluding": "0.1.0"}
