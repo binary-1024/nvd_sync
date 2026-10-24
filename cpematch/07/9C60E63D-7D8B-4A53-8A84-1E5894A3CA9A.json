@@ -1,0 +1,1 @@
+{"created": "2026-10-24T08:52:46.947", "criteria": "cpe:2.3:a:hashicorp:vault_secrets_operator:*:*:*:*:*:*:*:*", "lastModified": "2026-10-24T08:52:46.947", "matchCriteriaId": "9C60E63D-7D8B-4A53-8A84-1E5894A3CA9A", "status": "Active", "versionEndExcluding": "1.5.0", "versionStartIncluding": "1.3.0"}
