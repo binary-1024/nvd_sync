@@ -1,0 +1,1 @@
+{"created": "2026-10-24T21:46:52.223", "criteria": "cpe:2.3:a:microsoft:azure_keyvault_keys:*:*:*:*:*:*:*:*", "lastModified": "2026-10-24T21:46:52.223", "matchCriteriaId": "0EA664F3-C727-46C7-803D-C645E12F77A3", "status": "Active", "versionEndExcluding": "4.10.2", "versionStartIncluding": "4.11.2"}
