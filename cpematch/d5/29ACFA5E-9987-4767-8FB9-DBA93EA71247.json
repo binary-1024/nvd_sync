@@ -1,0 +1,1 @@
+{"created": "2026-10-23T23:40:21.597", "criteria": "cpe:2.3:a:amazon:log4j-cve-2021-44228-hotpatch:*:*:*:*:*:*:*:*", "lastModified": "2026-10-23T23:40:21.597", "matchCriteriaId": "29ACFA5E-9987-4767-8FB9-DBA93EA71247", "status": "Active", "versionEndExcluding": "1.3-9"}
