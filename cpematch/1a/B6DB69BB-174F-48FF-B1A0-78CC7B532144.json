@@ -1,0 +1,1 @@
+{"created": "2026-10-24T06:04:38.217", "criteria": "cpe:2.3:a:snowflake:snowflake_php_pdo_driver:*:*:*:*:*:*:*:*", "lastModified": "2026-10-24T06:04:38.217", "matchCriteriaId": "B6DB69BB-174F-48FF-B1A0-78CC7B532144", "status": "Active", "versionEndExcluding": "4.2.0", "versionStartIncluding": "3.6.0"}

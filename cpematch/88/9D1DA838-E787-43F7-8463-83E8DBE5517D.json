@@ -1,0 +1,1 @@
+{"created": "2026-10-24T06:04:38.217", "criteria": "cpe:2.3:a:snowflake:snowflake_connector:*:*:*:*:*:*:*:*", "lastModified": "2026-10-24T06:04:38.217", "matchCriteriaId": "9D1DA838-E787-43F7-8463-83E8DBE5517D", "status": "Active", "versionEndExcluding": "6.1.0", "versionStartIncluding": "4.7.0"}
