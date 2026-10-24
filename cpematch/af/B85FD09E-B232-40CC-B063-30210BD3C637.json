@@ -1,0 +1,1 @@
+{"created": "2026-10-24T17:55:01.033", "criteria": "cpe:2.3:a:google:gerrit:*:*:*:*:*:*:*:*", "lastModified": "2026-10-24T17:55:01.033", "matchCriteriaId": "B85FD09E-B232-40CC-B063-30210BD3C637", "status": "Active", "versionEndExcluding": "3.13.9", "versionStartIncluding": "3.13.0"}
