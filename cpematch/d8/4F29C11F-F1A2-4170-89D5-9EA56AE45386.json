@@ -1,0 +1,1 @@
+{"created": "2026-10-24T00:19:51.780", "criteria": "cpe:2.3:a:amazon:postgres-mcp-server:*:*:*:*:*:*:*:*", "lastModified": "2026-10-24T00:19:51.780", "matchCriteriaId": "4F29C11F-F1A2-4170-89D5-9EA56AE45386", "status": "Active", "versionEndExcluding": "1.1.7"}
