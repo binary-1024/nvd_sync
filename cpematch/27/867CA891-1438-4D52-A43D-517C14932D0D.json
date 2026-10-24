@@ -1,0 +1,1 @@
+{"created": "2026-10-24T02:46:49.180", "criteria": "cpe:2.3:a:amazon:sagemaker_python_sdk:*:*:*:*:*:*:*:*", "lastModified": "2026-10-24T02:46:49.180", "matchCriteriaId": "867CA891-1438-4D52-A43D-517C14932D0D", "status": "Active", "versionEndExcluding": "2.257.2", "versionStartIncluding": "2.0"}
