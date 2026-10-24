@@ -1,0 +1,1 @@
+{"created": "2026-10-24T18:51:22.347", "criteria": "cpe:2.3:a:zstd-jni_project:zstd-jni:*:*:*:*:*:*:*:*", "lastModified": "2026-10-24T18:51:22.347", "matchCriteriaId": "C33178F0-3E84-45C3-9AFB-4394AED26C81", "status": "Active", "versionEndExcluding": "1.5.7-14", "versionStartIncluding": "1.1.1"}
