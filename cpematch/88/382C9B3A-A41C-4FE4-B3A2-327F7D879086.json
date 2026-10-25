@@ -1,0 +1,1 @@
+{"created": "2026-10-25T01:10:39.817", "criteria": "cpe:2.3:a:luben:zstd-jni:*:*:*:*:*:*:*:*", "lastModified": "2026-10-25T01:10:39.817", "matchCriteriaId": "382C9B3A-A41C-4FE4-B3A2-327F7D879086", "status": "Active", "versionEndExcluding": "1.5.7-14", "versionStartIncluding": "1.5.5-6"}

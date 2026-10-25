@@ -1,0 +1,1 @@
+{"created": "2026-10-25T00:27:03.600", "criteria": "cpe:2.3:a:gnome:gvfs:*:*:*:*:*:*:*:*", "lastModified": "2026-10-25T00:27:03.600", "matchCriteriaId": "55EDFE60-ADD8-4173-B655-E1B1E5EAA4FF", "status": "Active", "versionEndExcluding": "1.62.0", "versionStartIncluding": "1.48.1"}
