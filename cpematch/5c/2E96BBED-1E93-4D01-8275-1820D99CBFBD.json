@@ -1,0 +1,1 @@
+{"created": "2026-10-25T03:36:34.410", "criteria": "cpe:2.3:a:canonical:snapd:*:*:*:*:*:*:*:*", "lastModified": "2026-10-25T03:36:34.410", "matchCriteriaId": "2E96BBED-1E93-4D01-8275-1820D99CBFBD", "status": "Active", "versionEndExcluding": "2.76.1", "versionStartIncluding": "2.75.0"}

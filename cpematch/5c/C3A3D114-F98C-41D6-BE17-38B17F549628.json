@@ -1,0 +1,1 @@
+{"created": "2026-10-25T03:55:48.443", "criteria": "cpe:2.3:a:f5:nginx_plus:*:*:*:*:*:*:*:*", "lastModified": "2026-10-25T03:55:48.443", "matchCriteriaId": "C3A3D114-F98C-41D6-BE17-38B17F549628", "status": "Active", "versionEndExcluding": "37.1.1.2", "versionStartIncluding": "37.1.0.1"}
