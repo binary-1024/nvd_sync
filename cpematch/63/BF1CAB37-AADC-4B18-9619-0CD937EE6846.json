@@ -1,0 +1,1 @@
+{"created": "2026-10-25T05:16:35.650", "criteria": "cpe:2.3:a:postgis:address_standardizer:*:*:*:*:*:*:*:*", "lastModified": "2026-10-25T05:16:35.650", "matchCriteriaId": "BF1CAB37-AADC-4B18-9619-0CD937EE6846", "status": "Active", "versionEndIncluding": "3.7.0"}
