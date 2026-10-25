@@ -1,0 +1,1 @@
+{"created": "2026-10-25T01:40:31.807", "criteria": "cpe:2.3:a:jboss:resteasy:*:*:*:*:*:*:*:*", "lastModified": "2026-10-25T01:40:31.807", "matchCriteriaId": "7AFF3764-A562-4334-B8E4-1B6D906E91D0", "status": "Active", "versionEndExcluding": "6.2.19.final", "versionStartIncluding": "0"}
