@@ -1,0 +1,1 @@
+{"created": "2026-10-26T03:57:18.570", "criteria": "cpe:2.3:a:redhat:advanced_cluster_security:*:*:*:*:*:*:*:*", "lastModified": "2026-10-26T03:57:18.570", "matchCriteriaId": "DF5571B7-7D70-434B-AC60-6B24B9F0F630", "status": "Active", "versionEndExcluding": "4.11.1", "versionStartIncluding": "4.11"}
