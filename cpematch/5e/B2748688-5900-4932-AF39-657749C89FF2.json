@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-10-26T21:08:35.363", "created": "2026-10-26T21:08:35.363", "criteria": "cpe:2.3:a:redhat:openshift_data_foundation:*:*:*:*:*:*:*:*", "lastModified": "2026-10-26T21:08:35.363", "matchCriteriaId": "B2748688-5900-4932-AF39-657749C89FF2", "status": "Active", "versionEndExcluding": "4.20.15", "versionStartIncluding": "4.20"}

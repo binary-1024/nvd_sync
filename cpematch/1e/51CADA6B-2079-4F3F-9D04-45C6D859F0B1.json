@@ -1,0 +1,1 @@
+{"created": "2026-10-26T21:45:29.310", "criteria": "cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:*:*:*:*:*:*:*:*", "lastModified": "2026-10-26T21:45:29.310", "matchCriteriaId": "51CADA6B-2079-4F3F-9D04-45C6D859F0B1", "status": "Active", "versionEndExcluding": "10.0.1037-beta", "versionStartIncluding": "10.0.0-beta"}

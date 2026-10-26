@@ -1,0 +1,1 @@
+{"created": "2026-10-26T21:11:25.710", "criteria": "cpe:2.3:a:openresty:lua-resty-dns:*:*:*:*:*:*:*:*", "lastModified": "2026-10-26T21:11:25.710", "matchCriteriaId": "B9EC3C99-2D2C-414D-9B9E-7BE1FBF96E4B", "status": "Active", "versionEndExcluding": "0.24", "versionStartIncluding": "0"}

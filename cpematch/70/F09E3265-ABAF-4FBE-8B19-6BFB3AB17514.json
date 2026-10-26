@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-10-26T21:07:14.220", "created": "2026-10-26T21:07:14.220", "criteria": "cpe:2.3:a:redhat:multicluster_engine_for_kubernetes:*:*:*:*:*:*:*:*", "lastModified": "2026-10-26T21:07:14.220", "matchCriteriaId": "F09E3265-ABAF-4FBE-8B19-6BFB3AB17514", "status": "Active", "versionEndExcluding": "2.8.5", "versionStartIncluding": "2.8"}
