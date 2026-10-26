@@ -1,0 +1,1 @@
+{"created": "2026-10-26T19:25:36.317", "criteria": "cpe:2.3:a:langchain:langgraph:*:*:*:*:*:*:*:*", "lastModified": "2026-10-26T19:25:36.317", "matchCriteriaId": "09FEE126-D0C7-43FA-9D8C-4DE78F924DB5", "status": "Active", "versionEndExcluding": "0.4.32", "versionStartIncluding": "0.4.15"}

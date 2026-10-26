@@ -1,0 +1,1 @@
+{"created": "2026-10-26T19:44:52.207", "criteria": "cpe:2.3:a:zip-rs:zip:*:*:*:*:*:*:*:*", "lastModified": "2026-10-26T19:44:52.207", "matchCriteriaId": "5787AB5A-C690-47F4-9DC2-7969D3820FF0", "status": "Active", "versionEndExcluding": "9.0.0", "versionStartIncluding": "0.6.0"}

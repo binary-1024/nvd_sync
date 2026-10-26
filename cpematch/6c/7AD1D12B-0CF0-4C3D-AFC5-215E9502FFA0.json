@@ -1,0 +1,1 @@
+{"created": "2026-10-26T19:26:04.957", "criteria": "cpe:2.3:a:graphql-hive:graphql-scalars:*:*:*:*:*:*:*:*", "lastModified": "2026-10-26T19:26:04.957", "matchCriteriaId": "7AD1D12B-0CF0-4C3D-AFC5-215E9502FFA0", "status": "Active", "versionEndExcluding": "2.0.1", "versionStartIncluding": "1.24.1"}
