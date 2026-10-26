@@ -1,0 +1,1 @@
+{"created": "2026-10-26T04:42:01.260", "criteria": "cpe:2.3:a:dell:terraform_provider_for_ome:*:*:*:*:*:*:*:*", "lastModified": "2026-10-26T04:42:01.260", "matchCriteriaId": "90F48553-2191-4600-BB7C-50857603ED8A", "status": "Active", "versionEndExcluding": "1.2.4", "versionStartIncluding": "1.0.0"}
