@@ -1,0 +1,1 @@
+{"created": "2026-10-26T02:13:56.547", "criteria": "cpe:2.3:a:oracle:olap:*:*:*:*:*:*:*:*", "lastModified": "2026-10-26T02:13:56.547", "matchCriteriaId": "F168A95C-BF05-4BF6-8371-AB28A6E00EC5", "status": "Active", "versionEndIncluding": "23.26.3", "versionStartIncluding": "23.4.0"}
