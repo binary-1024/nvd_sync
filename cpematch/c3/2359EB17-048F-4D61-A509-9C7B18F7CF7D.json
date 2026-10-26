@@ -1,0 +1,1 @@
+{"created": "2026-10-26T08:26:48.957", "criteria": "cpe:2.3:a:pgpool:pgpool-ii:*:*:*:*:*:*:*:*", "lastModified": "2026-10-26T08:26:48.957", "matchCriteriaId": "2359EB17-048F-4D61-A509-9C7B18F7CF7D", "status": "Active", "versionEndExcluding": "4.6.8", "versionStartIncluding": "4.6.0"}
