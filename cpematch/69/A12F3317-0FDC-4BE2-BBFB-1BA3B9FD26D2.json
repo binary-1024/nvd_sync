@@ -1,0 +1,1 @@
+{"created": "2026-10-26T18:57:53.057", "criteria": "cpe:2.3:a:hashicorp:consul:*:*:*:*:*:*:*:*", "lastModified": "2026-10-26T18:57:53.057", "matchCriteriaId": "A12F3317-0FDC-4BE2-BBFB-1BA3B9FD26D2", "status": "Active", "versionEndExcluding": "1.21.19", "versionStartIncluding": "1.21.18"}
