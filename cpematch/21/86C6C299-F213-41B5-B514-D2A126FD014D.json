@@ -1,0 +1,1 @@
+{"created": "2026-10-26T22:10:31.723", "criteria": "cpe:2.3:a:gstreamer:gst-editing-services:*:*:*:*:*:*:*:*", "lastModified": "2026-10-26T22:10:31.723", "matchCriteriaId": "86C6C299-F213-41B5-B514-D2A126FD014D", "status": "Active", "versionEndExcluding": "1.28.8", "versionStartIncluding": "0"}

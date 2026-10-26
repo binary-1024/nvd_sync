@@ -1,0 +1,1 @@
+{"created": "2026-10-26T22:11:40.300", "criteria": "cpe:2.3:a:netty:netty-tcnative:*:*:*:*:*:*:*:*", "lastModified": "2026-10-26T22:11:40.300", "matchCriteriaId": "D3DCFEF8-8649-48F1-A8CF-6A955F92F885", "status": "Active", "versionEndExcluding": "2.0.84.final", "versionStartIncluding": "2.0.66.final"}
