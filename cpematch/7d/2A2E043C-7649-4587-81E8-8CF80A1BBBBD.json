@@ -1,0 +1,1 @@
+{"created": "2026-10-26T06:16:42.867", "criteria": "cpe:2.3:a:kubernetes:cri-o:*:*:*:*:*:*:*:*", "lastModified": "2026-10-26T06:16:42.867", "matchCriteriaId": "2A2E043C-7649-4587-81E8-8CF80A1BBBBD", "status": "Active", "versionEndExcluding": "1.36.6", "versionStartIncluding": "1.36.0"}
