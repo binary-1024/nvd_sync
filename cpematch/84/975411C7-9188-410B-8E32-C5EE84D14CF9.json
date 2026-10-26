@@ -1,0 +1,1 @@
+{"created": "2026-10-26T12:48:54.160", "criteria": "cpe:2.3:a:rustls:webpki:*:*:*:*:*:*:*:*", "lastModified": "2026-10-26T12:48:54.160", "matchCriteriaId": "975411C7-9188-410B-8E32-C5EE84D14CF9", "status": "Active", "versionEndExcluding": "0.104.0-alpha.7", "versionStartIncluding": "0.104.0-alpha.1"}

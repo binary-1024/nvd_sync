@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-10-26T11:06:02.960", "created": "2026-10-26T11:06:02.960", "criteria": "cpe:2.3:a:netty:netty:-:*:*:*:*:*:*:*", "lastModified": "2026-10-26T11:06:02.960", "matchCriteriaId": "4DD8410F-F217-4BD8-A30A-6D0194C81F58", "matches": [{"cpeName": "cpe:2.3:a:netty:netty:-:*:*:*:*:*:*:*", "cpeNameId": "D26900DC-E4EB-4164-84F6-278ED0E34C92"}], "status": "Active"}
