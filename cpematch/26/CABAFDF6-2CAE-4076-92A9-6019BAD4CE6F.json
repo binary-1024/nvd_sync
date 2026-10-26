@@ -1,0 +1,1 @@
+{"created": "2026-10-26T05:38:38.433", "criteria": "cpe:2.3:a:apache:pyarrow:*:*:*:*:*:*:*:*", "lastModified": "2026-10-26T05:38:38.433", "matchCriteriaId": "CABAFDF6-2CAE-4076-92A9-6019BAD4CE6F", "status": "Active", "versionEndExcluding": "26.0.0", "versionStartIncluding": "8.0.0"}
