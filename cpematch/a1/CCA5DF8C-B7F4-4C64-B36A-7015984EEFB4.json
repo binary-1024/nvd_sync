@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-10-26T20:59:54.350", "created": "2026-10-26T20:59:54.350", "criteria": "cpe:2.3:a:redhat:developer_hub:*:*:*:*:*:*:*:*", "lastModified": "2026-10-26T20:59:54.350", "matchCriteriaId": "CCA5DF8C-B7F4-4C64-B36A-7015984EEFB4", "status": "Active", "versionEndExcluding": "1.9.4", "versionStartIncluding": "1.9.0"}

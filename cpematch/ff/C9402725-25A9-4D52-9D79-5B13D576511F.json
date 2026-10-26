@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-10-26T20:59:54.350", "created": "2026-10-26T20:59:54.350", "criteria": "cpe:2.3:a:redhat:advanced_cluster_management_for_kubernetes:*:*:*:*:*:*:*:*", "lastModified": "2026-10-26T20:59:54.350", "matchCriteriaId": "C9402725-25A9-4D52-9D79-5B13D576511F", "status": "Active", "versionEndExcluding": "2.14.3", "versionStartIncluding": "2.14"}

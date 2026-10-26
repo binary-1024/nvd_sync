@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-10-26T20:59:54.350", "created": "2026-10-26T20:59:54.350", "criteria": "cpe:2.3:a:redhat:edge_manager:*:*:*:*:*:*:*:*", "lastModified": "2026-10-26T20:59:54.350", "matchCriteriaId": "217995E6-079A-4586-A56F-8D50462EF769", "status": "Active", "versionEndExcluding": "1.0.3", "versionStartIncluding": "1.0"}

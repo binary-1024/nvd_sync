@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-10-26T20:22:39.573", "created": "2026-10-26T20:22:39.573", "criteria": "cpe:2.3:a:redhat:openshift_ai:*:*:*:*:*:*:*:*", "lastModified": "2026-10-26T20:22:39.573", "matchCriteriaId": "7A21106B-BD4A-4B5A-BD98-80F23DCC0165", "status": "Active", "versionEndExcluding": "3.0.3", "versionStartIncluding": "3.0"}
