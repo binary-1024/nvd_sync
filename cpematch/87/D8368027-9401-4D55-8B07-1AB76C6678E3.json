@@ -1,0 +1,1 @@
+{"created": "2026-10-27T09:45:33.143", "criteria": "cpe:2.3:a:drupal:stop_administrator_login:*:*:*:*:*:*:*:*", "lastModified": "2026-10-27T09:45:33.143", "matchCriteriaId": "D8368027-9401-4D55-8B07-1AB76C6678E3", "status": "Active", "versionEndExcluding": "1.6", "versionStartIncluding": "1.0"}
