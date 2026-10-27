@@ -1,0 +1,1 @@
+{"created": "2026-10-27T03:29:41.360", "criteria": "cpe:2.3:a:amazon:amazon_connect_salesforce_lambda:*:*:*:*:*:*:*:*", "lastModified": "2026-10-27T03:29:41.360", "matchCriteriaId": "D081B4E3-2E77-4A02-902F-371563BF93EA", "status": "Active", "versionEndExcluding": "5.26", "versionStartIncluding": "5.15"}
