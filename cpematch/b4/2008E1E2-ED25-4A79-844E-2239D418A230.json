@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-10-27T19:07:17.680", "created": "2026-10-27T19:07:17.680", "criteria": "cpe:2.3:a:redhat:build_of_apache_camel:*:*:*:*:*:quarkus:*:*", "lastModified": "2026-10-27T19:07:17.680", "matchCriteriaId": "2008E1E2-ED25-4A79-844E-2239D418A230", "status": "Active", "versionEndExcluding": "4.18.1", "versionStartIncluding": "4.0.0"}
