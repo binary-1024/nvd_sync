@@ -1,0 +1,1 @@
+{"created": "2026-10-27T04:23:33.857", "criteria": "cpe:2.3:a:microsoft:sql_server:*:*:*:*:*:*:*:*", "lastModified": "2026-10-27T04:23:33.857", "matchCriteriaId": "BB317D1F-ED3E-4042-85DF-B05330A8FBE2", "status": "Active", "versionEndExcluding": "17.0.5015.4", "versionStartIncluding": "17.0.4006.2"}

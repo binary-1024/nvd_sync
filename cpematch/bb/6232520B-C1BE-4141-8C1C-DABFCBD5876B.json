@@ -1,0 +1,1 @@
+{"created": "2026-10-27T04:44:20.863", "criteria": "cpe:2.3:a:openstack:octavia:*:*:*:*:*:*:*:*", "lastModified": "2026-10-27T04:44:20.863", "matchCriteriaId": "6232520B-C1BE-4141-8C1C-DABFCBD5876B", "status": "Active", "versionEndExcluding": "16.1.0", "versionStartIncluding": "6.0.0"}
