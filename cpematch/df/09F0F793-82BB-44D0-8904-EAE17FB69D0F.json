@@ -1,0 +1,1 @@
+{"created": "2026-10-28T10:51:26.840", "criteria": "cpe:2.3:a:digium:certified_asterisk:*:*:*:*:*:*:*:*", "lastModified": "2026-10-28T10:51:26.840", "matchCriteriaId": "09F0F793-82BB-44D0-8904-EAE17FB69D0F", "status": "Active", "versionEndExcluding": "22.8-cert3", "versionStartIncluding": "22.8-cert1-pre1"}

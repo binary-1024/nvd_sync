@@ -1,0 +1,1 @@
+{"created": "2026-10-28T10:26:58.630", "criteria": "cpe:2.3:a:kubernetes:kubernetes:*:*:*:*:*:*:*:*", "lastModified": "2026-10-28T10:26:58.630", "matchCriteriaId": "695A6DD1-661C-4E06-9F5D-486F3B5DCD4B", "status": "Active", "versionEndExcluding": "1.35.9", "versionStartIncluding": "1.35.0"}
