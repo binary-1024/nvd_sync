@@ -1,0 +1,1 @@
+{"created": "2026-10-28T07:39:42.860", "criteria": "cpe:2.3:a:datadog:dd-trace-py:*:*:*:*:*:*:*:*", "lastModified": "2026-10-28T07:39:42.860", "matchCriteriaId": "E5360890-F17A-4912-AF02-D4039C24CA9F", "status": "Active", "versionEndExcluding": "3.19.9", "versionStartIncluding": "1.5.0"}
