@@ -1,0 +1,1 @@
+{"created": "2026-10-28T17:37:30.217", "criteria": "cpe:2.3:o:juniper:session_smart_conductor_firmware:*:*:*:*:*:*:*:*", "lastModified": "2026-10-28T17:37:30.217", "matchCriteriaId": "5F1EC8E8-30C3-4476-8E77-2B3B5DC530A8", "status": "Active", "versionEndExcluding": "7.2.3", "versionStartIncluding": "7.2.0"}
