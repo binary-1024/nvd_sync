@@ -1,0 +1,1 @@
+{"created": "2026-10-29T04:58:07.543", "criteria": "cpe:2.3:a:apache:kafka:*:*:*:*:*:*:*:*", "lastModified": "2026-10-29T04:58:07.543", "matchCriteriaId": "8010D69B-6D06-47EF-BC51-1F5BDA84BF3F", "status": "Active", "versionEndExcluding": "4.4.0", "versionStartIncluding": "4.4.0"}

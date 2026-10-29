@@ -1,0 +1,1 @@
+{"created": "2026-10-29T04:07:17.433", "criteria": "cpe:2.3:a:wso2:saml2_sso_authenticator_ui_bundle:*:*:*:*:*:*:*:*", "lastModified": "2026-10-29T04:07:17.433", "matchCriteriaId": "3155D36B-2528-493F-A822-DDC4503669ED", "status": "Active", "versionEndExcluding": "5.6.4.1", "versionStartIncluding": "5.6.4"}
