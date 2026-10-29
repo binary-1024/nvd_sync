@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-10-29T16:58:46.953", "created": "2026-10-29T16:58:46.953", "criteria": "cpe:2.3:a:cisco:secure_firewall_threat_defense:*:*:*:*:*:*:*:*", "lastModified": "2026-10-29T17:02:48.673", "matchCriteriaId": "909EC3CB-04C8-4890-9FBF-28663A927F70", "status": "Inactive", "versionEndExcluding": "7.4.9", "versionStartIncluding": "7.4.0"}
