@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-10-29T17:18:19.613", "created": "2026-10-29T17:18:19.613", "criteria": "cpe:2.3:o:vmware:esxi:*:*:*:*:*:*:*:*", "lastModified": "2026-10-29T17:18:19.613", "matchCriteriaId": "D7DC2815-CD13-42DC-96E5-412CFB768A6A", "status": "Active", "versionEndExcluding": "9.0.2.0100", "versionStartIncluding": "9.0.0"}

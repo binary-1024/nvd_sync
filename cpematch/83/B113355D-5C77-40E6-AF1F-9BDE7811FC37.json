@@ -1,0 +1,1 @@
+{"created": "2026-10-29T17:48:57.077", "criteria": "cpe:2.3:a:microsoft:dotnet:*:*:*:*:*:*:*:*", "lastModified": "2026-10-29T17:48:57.077", "matchCriteriaId": "B113355D-5C77-40E6-AF1F-9BDE7811FC37", "status": "Active", "versionEndExcluding": "9.0.320", "versionStartIncluding": "9.0.0"}
