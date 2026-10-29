@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-10-29T14:23:55.193", "created": "2026-10-29T14:23:55.193", "criteria": "cpe:2.3:a:redhat:build_of_apache_camel:*:*:*:*:*:spring_boot:*:*", "lastModified": "2026-10-29T14:23:55.193", "matchCriteriaId": "90230BF5-F78D-41AA-B78D-9D88656044F3", "status": "Active", "versionEndExcluding": "4.18.1"}

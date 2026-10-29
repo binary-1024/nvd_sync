@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-10-29T14:53:48.253", "created": "2026-10-29T14:53:48.253", "criteria": "cpe:2.3:a:python-markdown:markdown:*:*:*:*:*:*:*:*", "lastModified": "2026-10-29T14:53:48.253", "matchCriteriaId": "D7B03E00-6B43-435B-88EA-A6D1CDEEF297", "status": "Active", "versionEndIncluding": "3.11.2", "versionStartIncluding": "3.0"}
