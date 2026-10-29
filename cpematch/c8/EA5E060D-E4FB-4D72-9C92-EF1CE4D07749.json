@@ -1,0 +1,1 @@
+{"created": "2026-10-29T21:39:06.330", "criteria": "cpe:2.3:a:amazon:aws_privateca_issuer:*:*:*:*:*:*:*:*", "lastModified": "2026-10-29T21:39:06.330", "matchCriteriaId": "EA5E060D-E4FB-4D72-9C92-EF1CE4D07749", "status": "Active", "versionEndExcluding": "1.10.1-eksbuild.1"}
