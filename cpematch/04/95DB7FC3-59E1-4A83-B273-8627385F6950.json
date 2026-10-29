@@ -1,0 +1,1 @@
+{"created": "2026-10-29T12:13:26.930", "criteria": "cpe:2.3:a:wso2:api_control_plane:*:*:*:*:*:*:*:*", "lastModified": "2026-10-29T12:13:26.930", "matchCriteriaId": "95DB7FC3-59E1-4A83-B273-8627385F6950", "status": "Active", "versionEndExcluding": "4.7.0.1", "versionStartIncluding": "4.7.0"}
