@@ -1,0 +1,1 @@
+{"created": "2026-10-30T07:07:46.007", "criteria": "cpe:2.3:a:drupal_project:signature_pad_widget:*:*:*:*:*:*:*:*", "lastModified": "2026-10-30T07:07:46.007", "matchCriteriaId": "7D186945-AC77-4BA9-A0DA-966447F1D772", "status": "Active", "versionEndExcluding": "1.15.0", "versionStartIncluding": "0.0.0"}
