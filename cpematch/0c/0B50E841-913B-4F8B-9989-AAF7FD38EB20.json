@@ -1,0 +1,1 @@
+{"created": "2026-10-30T14:38:47.343", "criteria": "cpe:2.3:a:getdbt:dbt-core:*:*:*:*:*:python:*:*", "lastModified": "2026-10-30T14:38:47.343", "matchCriteriaId": "0B50E841-913B-4F8B-9989-AAF7FD38EB20", "status": "Active", "versionEndExcluding": "1.7.14", "versionStartIncluding": "1.7.0"}
