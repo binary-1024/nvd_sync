@@ -1,0 +1,1 @@
+{"created": "2026-10-30T04:24:43.130", "criteria": "cpe:2.3:a:restrict_route_by_ip_project:restrict_route_by_ip:*:*:*:*:*:*:*:*", "lastModified": "2026-10-30T04:24:43.130", "matchCriteriaId": "4CD5E517-7F20-4BA7-8438-87E4396F478D", "status": "Active", "versionEndExcluding": "2.0.1", "versionStartIncluding": "2.0.0"}
