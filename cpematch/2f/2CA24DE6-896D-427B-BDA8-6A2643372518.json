@@ -1,0 +1,1 @@
+{"created": "2026-10-30T06:35:31.053", "criteria": "cpe:2.3:a:drupal:commerce_stripe:*:*:*:*:*:*:*:*", "lastModified": "2026-10-30T06:35:31.053", "matchCriteriaId": "2CA24DE6-896D-427B-BDA8-6A2643372518", "status": "Active", "versionEndExcluding": "2.2.3", "versionStartIncluding": "2.0.0"}
