@@ -1,1 +1,1 @@
-{"created": "2026-10-26T16:38:48.267", "criteria": "cpe:2.3:a:redhat:quay:3.10.0:*:*:*:*:*:*:*", "lastModified": "2026-10-26T16:38:48.267", "matchCriteriaId": "94283959-82F7-48DB-8352-4F38553A1EBC", "status": "Active"}
+{"created": "2026-10-26T16:38:48.267", "criteria": "cpe:2.3:a:redhat:quay:3.10.0:*:*:*:*:*:*:*", "lastModified": "2026-10-30T13:49:56.037", "matchCriteriaId": "94283959-82F7-48DB-8352-4F38553A1EBC", "matches": [{"cpeName": "cpe:2.3:a:redhat:quay:3.10.0:*:*:*:*:*:*:*", "cpeNameId": "82A54FE0-C34F-4B2E-8EA4-33A40F9183DE"}], "status": "Active"}

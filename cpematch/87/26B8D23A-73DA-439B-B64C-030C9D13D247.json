@@ -1,1 +1,1 @@
-{"created": "2026-10-23T18:24:26.143", "criteria": "cpe:2.3:a:redhat:openshift_ai:3.0:*:*:*:*:*:*:*", "lastModified": "2026-10-23T18:24:26.143", "matchCriteriaId": "26B8D23A-73DA-439B-B64C-030C9D13D247", "status": "Active"}
+{"created": "2026-10-23T18:24:26.143", "criteria": "cpe:2.3:a:redhat:openshift_ai:3.0:*:*:*:*:*:*:*", "lastModified": "2026-10-30T13:42:58.023", "matchCriteriaId": "26B8D23A-73DA-439B-B64C-030C9D13D247", "matches": [{"cpeName": "cpe:2.3:a:redhat:openshift_ai:3.0:*:*:*:*:*:*:*", "cpeNameId": "FEF70A70-9F51-4089-ADF0-491AAECE6422"}], "status": "Active"}
