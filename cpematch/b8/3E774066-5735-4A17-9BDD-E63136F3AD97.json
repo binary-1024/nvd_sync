@@ -1,0 +1,1 @@
+{"created": "2026-10-29T23:14:43.990", "criteria": "cpe:2.3:a:hashicorp:boundary:*:*:*:*:*:*:*:*", "lastModified": "2026-10-29T23:14:43.990", "matchCriteriaId": "3E774066-5735-4A17-9BDD-E63136F3AD97", "status": "Active", "versionEndExcluding": "1.0.2", "versionStartIncluding": "1.0.0"}
