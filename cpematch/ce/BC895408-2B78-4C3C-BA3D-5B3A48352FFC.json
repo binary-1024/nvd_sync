@@ -1,0 +1,1 @@
+{"created": "2026-10-30T09:30:38.017", "criteria": "cpe:2.3:a:teamworktec:elixir:*:*:*:*:*:*:*:*", "lastModified": "2026-10-30T09:30:38.017", "matchCriteriaId": "BC895408-2B78-4C3C-BA3D-5B3A48352FFC", "status": "Active", "versionEndExcluding": "1.19.7", "versionStartIncluding": "1.19.0-rc.0"}

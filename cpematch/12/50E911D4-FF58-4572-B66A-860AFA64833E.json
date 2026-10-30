@@ -1,0 +1,1 @@
+{"created": "2026-10-30T09:45:00.860", "criteria": "cpe:2.3:a:pivotal_software:cloud_foundry_uaa:*:*:*:*:*:*:*:*", "lastModified": "2026-10-30T09:45:00.860", "matchCriteriaId": "50E911D4-FF58-4572-B66A-860AFA64833E", "status": "Active", "versionEndExcluding": "79.9.0", "versionStartIncluding": "76.23.0"}
