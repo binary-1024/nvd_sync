@@ -1,0 +1,1 @@
+{"created": "2026-10-31T00:09:43.400", "criteria": "cpe:2.3:a:openvm:openvm:*:*:*:*:*:*:*:*", "lastModified": "2026-10-31T00:09:43.400", "matchCriteriaId": "5CE686F3-5F70-41A8-AA21-53F09FBEEC72", "status": "Active", "versionEndExcluding": "2.1.0-preview", "versionStartIncluding": "2.1.0-dev.0"}
