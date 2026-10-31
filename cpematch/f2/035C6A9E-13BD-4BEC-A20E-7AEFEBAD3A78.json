@@ -1,0 +1,1 @@
+{"created": "2026-10-31T21:22:30.880", "criteria": "cpe:2.3:a:apache:mina:*:*:*:*:*:*:*:*", "lastModified": "2026-10-31T21:22:30.880", "matchCriteriaId": "035C6A9E-13BD-4BEC-A20E-7AEFEBAD3A78", "status": "Active", "versionEndIncluding": "3.0.0-m2", "versionStartIncluding": "3.0.0"}
