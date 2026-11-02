@@ -1,0 +1,1 @@
+{"created": "2026-11-02T08:24:17.330", "criteria": "cpe:2.3:a:payhere:payhere_payment_gateway:*:*:*:*:*:wordpress:*:*", "lastModified": "2026-11-02T08:24:17.330", "matchCriteriaId": "F45D002D-9A44-4A89-8420-9BBFA9E74EEF", "status": "Active", "versionEndIncluding": "2.4.5", "versionStartIncluding": "2.4.0"}
