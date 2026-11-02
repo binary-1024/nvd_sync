@@ -1,0 +1,1 @@
+{"created": "2026-11-02T10:26:48.550", "criteria": "cpe:2.3:a:wso2:keystore_rest_api_v1:*:*:*:*:*:*:*:*", "lastModified": "2026-11-02T10:26:48.550", "matchCriteriaId": "CA3CB873-8D7C-488A-8DF5-F00790347B7D", "status": "Active", "versionEndExcluding": "1.0.190.17", "versionStartIncluding": "1.0.190"}
