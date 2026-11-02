@@ -1,0 +1,1 @@
+{"created": "2026-11-02T18:55:55.593", "criteria": "cpe:2.3:a:suse:rancher_webhook:*:*:*:*:*:*:*:*", "lastModified": "2026-11-02T18:55:55.593", "matchCriteriaId": "6B722D74-1BFD-4194-8D05-EDE74767CB72", "status": "Active", "versionEndExcluding": "0.11.4", "versionStartIncluding": "0.11.0"}

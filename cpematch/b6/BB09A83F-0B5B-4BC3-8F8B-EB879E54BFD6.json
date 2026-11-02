@@ -1,0 +1,1 @@
+{"created": "2026-11-02T18:55:55.593", "criteria": "cpe:2.3:a:suse:rancher:*:*:*:*:*:*:*:*", "lastModified": "2026-11-02T18:55:55.593", "matchCriteriaId": "BB09A83F-0B5B-4BC3-8F8B-EB879E54BFD6", "status": "Active", "versionEndExcluding": "2.15.3", "versionStartIncluding": "2.15.2"}
