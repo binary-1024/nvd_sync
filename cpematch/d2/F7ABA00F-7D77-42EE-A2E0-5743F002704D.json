@@ -1,0 +1,1 @@
+{"created": "2026-11-02T14:35:14.830", "criteria": "cpe:2.3:a:apache:arrow:*:*:*:*:*:*:*:*", "lastModified": "2026-11-02T14:35:14.830", "matchCriteriaId": "F7ABA00F-7D77-42EE-A2E0-5743F002704D", "status": "Active", "versionEndExcluding": "57.3.2", "versionStartIncluding": "33.0.0"}
