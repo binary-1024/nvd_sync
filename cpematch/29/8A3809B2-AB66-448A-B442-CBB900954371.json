@@ -1,0 +1,1 @@
+{"created": "2026-11-03T09:01:55.290", "criteria": "cpe:2.3:a:quarkiverse:quarkus-langchain4j:*:*:*:*:*:*:*:*", "lastModified": "2026-11-03T09:01:55.290", "matchCriteriaId": "8A3809B2-AB66-448A-B442-CBB900954371", "status": "Active", "versionEndIncluding": "1.14.1", "versionStartIncluding": "1.9.0"}

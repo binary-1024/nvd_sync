@@ -1,0 +1,1 @@
+{"created": "2026-11-03T08:16:31.853", "criteria": "cpe:2.3:a:amazon:graphql-index-transformer:*:*:*:*:*:*:*:*", "lastModified": "2026-11-03T08:16:31.853", "matchCriteriaId": "22C162F5-B8C1-424D-BF99-91DE3EB84247", "status": "Active", "versionEndExcluding": "3.1.2", "versionStartIncluding": "2.2.0"}

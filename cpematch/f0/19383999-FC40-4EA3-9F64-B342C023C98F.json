@@ -1,0 +1,1 @@
+{"created": "2026-11-03T08:36:01.897", "criteria": "cpe:2.3:a:marcosschroh:dataclasses-avroschema:*:*:*:*:*:*:*:*", "lastModified": "2026-11-03T08:36:01.897", "matchCriteriaId": "19383999-FC40-4EA3-9F64-B342C023C98F", "status": "Active", "versionEndExcluding": "0.70.6", "versionStartIncluding": "0.62.3"}
