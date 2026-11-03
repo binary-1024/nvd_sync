@@ -1,0 +1,1 @@
+{"created": "2026-11-03T20:23:18.517", "criteria": "cpe:2.3:a:sentry:sentry:*:*:*:*:*:*:*:*", "lastModified": "2026-11-03T20:23:18.517", "matchCriteriaId": "EB2E1EF2-7DAC-4B44-9867-645F6573A24C", "status": "Active", "versionEndExcluding": "9.47.2", "versionStartIncluding": "9.36.0"}
