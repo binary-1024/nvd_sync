@@ -1,0 +1,1 @@
+{"created": "2026-11-03T11:46:30.397", "criteria": "cpe:2.3:a:haproxy:kubernetes_ingress_controller:*:*:*:*:*:*:*:*", "lastModified": "2026-11-03T11:46:30.397", "matchCriteriaId": "6815B6C3-A42E-457B-A81D-764685D0CA18", "status": "Active", "versionEndExcluding": "3.3r1-377.1005", "versionStartIncluding": "3.3.0r1"}

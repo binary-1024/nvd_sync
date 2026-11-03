@@ -1,0 +1,1 @@
+{"created": "2026-11-03T11:05:30.253", "criteria": "cpe:2.3:a:haproxy:data_plane_api_ee:*:*:*:*:*:*:*:*", "lastModified": "2026-11-03T11:05:30.253", "matchCriteriaId": "486E4EA4-678A-4ACB-B055-D9B37A3E3AA7", "status": "Active", "versionEndExcluding": "3.0.25-ee1", "versionStartIncluding": "3.0-ee"}

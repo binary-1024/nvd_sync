@@ -1,0 +1,1 @@
+{"created": "2026-11-03T11:38:16.833", "criteria": "cpe:2.3:a:amazon:amazon_extensions_s3_encryption:*:*:*:*:*:*:*:*", "lastModified": "2026-11-03T11:38:16.833", "matchCriteriaId": "202D0B2A-64DD-4027-A5B6-14FDF7737119", "status": "Active", "versionEndExcluding": "4.0.3", "versionStartIncluding": "4.0.0"}
