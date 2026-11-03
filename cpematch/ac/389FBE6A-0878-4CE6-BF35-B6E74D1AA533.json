@@ -1,0 +1,1 @@
+{"created": "2026-11-03T09:21:41.227", "criteria": "cpe:2.3:a:huggingface:text_embeddings_inference:*:*:*:*:*:*:*:*", "lastModified": "2026-11-03T09:21:41.227", "matchCriteriaId": "389FBE6A-0878-4CE6-BF35-B6E74D1AA533", "status": "Active", "versionEndIncluding": "1.9.4", "versionStartIncluding": "0"}
