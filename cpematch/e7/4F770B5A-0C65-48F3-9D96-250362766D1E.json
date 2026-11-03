@@ -1,0 +1,1 @@
+{"created": "2026-11-03T18:56:40.037", "criteria": "cpe:2.3:a:trigger.dev:cli-v3:*:*:*:*:*:*:*:*", "lastModified": "2026-11-03T18:56:40.037", "matchCriteriaId": "4F770B5A-0C65-48F3-9D96-250362766D1E", "status": "Active", "versionEndExcluding": "4.5.4", "versionStartIncluding": "3.0.0"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-11-03T18:21:05.600", "created": "2026-11-03T18:21:05.600", "criteria": "cpe:2.3:a:semantic-mediawiki:semantic_mediawiki:*:*:*:*:*:mediawiki:*:*", "lastModified": "2026-11-03T18:21:05.600", "matchCriteriaId": "7A4D62E3-F8C8-4EA6-BFBE-709DF0C08D0F", "status": "Active", "versionEndExcluding": "7.3.1", "versionStartIncluding": "4.2.0"}
