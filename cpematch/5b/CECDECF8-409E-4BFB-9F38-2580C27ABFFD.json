@@ -1,0 +1,1 @@
+{"created": "2026-11-03T03:45:08.913", "criteria": "cpe:2.3:o:openvpn:ovpn-dco-win:*:*:*:*:*:*:*:*", "lastModified": "2026-11-03T03:45:08.913", "matchCriteriaId": "CECDECF8-409E-4BFB-9F38-2580C27ABFFD", "status": "Active", "versionEndExcluding": "2.8.13", "versionStartIncluding": "2.4.0"}

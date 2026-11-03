@@ -1,0 +1,1 @@
+{"created": "2026-11-03T03:33:40.753", "criteria": "cpe:2.3:a:adonisjs:http-server:*:*:*:*:*:*:*:*", "lastModified": "2026-11-03T03:33:40.753", "matchCriteriaId": "9D9FB532-6B37-4F94-9ADD-9464FF21B000", "status": "Active", "versionEndExcluding": "9.1.1", "versionStartIncluding": "9.0.0"}
