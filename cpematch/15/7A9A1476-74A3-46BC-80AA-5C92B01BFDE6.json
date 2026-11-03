@@ -1,0 +1,1 @@
+{"created": "2026-11-03T15:19:37.273", "criteria": "cpe:2.3:a:vitest_project:browser:*:*:*:*:*:*:*:*", "lastModified": "2026-11-03T15:19:37.273", "matchCriteriaId": "7A9A1476-74A3-46BC-80AA-5C92B01BFDE6", "status": "Active", "versionEndExcluding": "5.0.5", "versionStartIncluding": "5.0.0-beta.6"}

@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-11-03T15:30:44.763", "created": "2026-11-03T15:30:44.763", "criteria": "cpe:2.3:a:oracle:hr_intelligence:*:*:*:*:*:*:*:*", "lastModified": "2026-11-03T15:30:44.763", "matchCriteriaId": "E227BD72-FEE8-4358-8AEC-68EFD1FCD45A", "status": "Active", "versionEndExcluding": "12.2.15", "versionStartIncluding": "12.2.3"}
