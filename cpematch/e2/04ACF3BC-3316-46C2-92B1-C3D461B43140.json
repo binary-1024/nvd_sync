@@ -1,0 +1,1 @@
+{"created": "2026-11-03T14:04:12.740", "criteria": "cpe:2.3:a:apache:traffic_server:*:*:*:*:*:*:*:*", "lastModified": "2026-11-03T14:04:12.740", "matchCriteriaId": "04ACF3BC-3316-46C2-92B1-C3D461B43140", "status": "Active", "versionEndExcluding": "10.2.1", "versionStartIncluding": "10.2.0"}
