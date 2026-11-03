@@ -1,0 +1,1 @@
+{"created": "2026-11-03T03:02:09.943", "criteria": "cpe:2.3:a:hms-networks:pcan_windows_can_device_drivers:*:*:*:*:*:*:*:*", "lastModified": "2026-11-03T03:02:09.943", "matchCriteriaId": "7CBB1764-EE1E-4EC2-9212-ACB8225C47D8", "status": "Active", "versionEndIncluding": "5.1.2", "versionStartIncluding": "0"}
