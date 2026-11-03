@@ -1,0 +1,1 @@
+{"created": "2026-11-02T23:29:51.583", "criteria": "cpe:2.3:a:paloaltonetworks:bridgecrew_checkov:*:*:*:*:*:*:*:*", "lastModified": "2026-11-02T23:29:51.583", "matchCriteriaId": "7B901821-4A21-4691-BFE0-F7889559BA4B", "status": "Active", "versionEndExcluding": "3.2.533", "versionStartIncluding": "3.2.0"}
