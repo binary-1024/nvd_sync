@@ -1,0 +1,1 @@
+{"created": "2026-11-03T12:48:35.160", "criteria": "cpe:2.3:a:mend:mend-renovate-ce_helm_chart:*:*:*:*:*:*:*:*", "lastModified": "2026-11-03T12:48:35.160", "matchCriteriaId": "13D374F5-44D3-4E78-8B2D-BCD043B53F8B", "status": "Active", "versionEndExcluding": "15.5.0", "versionStartIncluding": "0"}

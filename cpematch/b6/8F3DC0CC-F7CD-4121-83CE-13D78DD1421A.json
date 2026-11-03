@@ -1,0 +1,1 @@
+{"created": "2026-11-03T12:37:01.500", "criteria": "cpe:2.3:a:gitpython_project:gitpython:*:*:*:*:*:*:*:*", "lastModified": "2026-11-03T12:37:01.500", "matchCriteriaId": "8F3DC0CC-F7CD-4121-83CE-13D78DD1421A", "status": "Active", "versionEndExcluding": "3.2.0", "versionStartIncluding": "3.1.62"}

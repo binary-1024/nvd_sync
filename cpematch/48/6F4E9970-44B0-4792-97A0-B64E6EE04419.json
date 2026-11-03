@@ -1,0 +1,1 @@
+{"created": "2026-11-03T12:38:17.850", "criteria": "cpe:2.3:a:better-auth:kysely_adapter:*:*:*:*:*:*:*:*", "lastModified": "2026-11-03T12:38:17.850", "matchCriteriaId": "6F4E9970-44B0-4792-97A0-B64E6EE04419", "status": "Active", "versionEndExcluding": "1.7.0", "versionStartIncluding": "1.6.17"}

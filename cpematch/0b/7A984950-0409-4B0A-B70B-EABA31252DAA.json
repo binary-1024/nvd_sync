@@ -1,0 +1,1 @@
+{"created": "2026-11-03T12:27:30.370", "criteria": "cpe:2.3:a:amazon:neptune_engine:*:*:*:*:*:*:*:*", "lastModified": "2026-11-03T12:27:30.370", "matchCriteriaId": "7A984950-0409-4B0A-B70B-EABA31252DAA", "status": "Active", "versionEndExcluding": "1.5.0.0", "versionStartIncluding": "1.2.0.0"}
