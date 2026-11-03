@@ -1,0 +1,1 @@
+{"created": "2026-11-03T22:16:03.837", "criteria": "cpe:2.3:a:laravel:framework:*:*:*:*:*:*:*:*", "lastModified": "2026-11-03T22:16:03.837", "matchCriteriaId": "EA224403-7593-4C1E-A4E1-7BF8BB3C16D8", "status": "Active", "versionEndExcluding": "13.29.0", "versionStartIncluding": "13.0.0"}
