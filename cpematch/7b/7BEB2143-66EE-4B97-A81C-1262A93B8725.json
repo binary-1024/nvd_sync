@@ -1,0 +1,1 @@
+{"created": "2026-11-03T21:46:32.820", "criteria": "cpe:2.3:a:hmailserver:hmailserver:*:*:*:*:*:*:*:*", "lastModified": "2026-11-03T21:46:32.820", "matchCriteriaId": "7BEB2143-66EE-4B97-A81C-1262A93B8725", "status": "Active", "versionEndExcluding": "6.3.7", "versionStartIncluding": "6.2.1"}
