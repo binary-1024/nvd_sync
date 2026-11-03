@@ -1,0 +1,1 @@
+{"created": "2026-11-03T16:33:17.927", "criteria": "cpe:2.3:a:wso2:identity_oauth2_grant_jwt:*:*:*:*:*:*:*:*", "lastModified": "2026-11-03T16:33:17.927", "matchCriteriaId": "A9EC83D5-72CE-4AFC-BE54-C2BDABD7C8A8", "status": "Active", "versionEndExcluding": "2.2.0.3", "versionStartIncluding": "2.2.0"}
