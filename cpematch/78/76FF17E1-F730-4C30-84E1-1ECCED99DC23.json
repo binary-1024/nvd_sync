@@ -1,0 +1,1 @@
+{"created": "2026-11-04T15:20:21.347", "criteria": "cpe:2.3:a:babelfish-for-postgresql:babelfish_extensions:*:*:*:*:*:*:*:*", "lastModified": "2026-11-04T15:20:21.347", "matchCriteriaId": "76FF17E1-F730-4C30-84E1-1ECCED99DC23", "status": "Active", "versionEndIncluding": "1.5", "versionStartIncluding": "1.2"}
