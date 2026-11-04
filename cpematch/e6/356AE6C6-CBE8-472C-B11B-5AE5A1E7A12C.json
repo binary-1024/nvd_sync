@@ -1,0 +1,1 @@
+{"created": "2026-11-04T01:45:52.470", "criteria": "cpe:2.3:a:mongodb:atlas_sql_jdbc_driver:*:*:*:*:*:*:*:*", "lastModified": "2026-11-04T01:45:52.470", "matchCriteriaId": "356AE6C6-CBE8-472C-B11B-5AE5A1E7A12C", "status": "Active", "versionEndExcluding": "4.0.1", "versionStartIncluding": "2.1.2"}
