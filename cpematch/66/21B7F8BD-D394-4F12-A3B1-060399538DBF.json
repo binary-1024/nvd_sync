@@ -1,0 +1,1 @@
+{"created": "2026-11-04T21:13:46.013", "criteria": "cpe:2.3:a:getscreen:agent_app:*:*:*:*:*:windows:*:*", "lastModified": "2026-11-04T21:13:46.013", "matchCriteriaId": "21B7F8BD-D394-4F12-A3B1-060399538DBF", "status": "Active", "versionEndExcluding": "3.9.5", "versionStartIncluding": "3.0.12"}
