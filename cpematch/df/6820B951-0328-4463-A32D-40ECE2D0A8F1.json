@@ -1,0 +1,1 @@
+{"created": "2026-11-03T23:37:45.717", "criteria": "cpe:2.3:a:elastic:logstash:*:*:*:*:*:*:*:*", "lastModified": "2026-11-03T23:37:45.717", "matchCriteriaId": "6820B951-0328-4463-A32D-40ECE2D0A8F1", "status": "Active", "versionEndExcluding": "9.5.6", "versionStartIncluding": "9.5.0"}
