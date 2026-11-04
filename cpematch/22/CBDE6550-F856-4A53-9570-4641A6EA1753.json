@@ -1,0 +1,1 @@
+{"created": "2026-11-04T17:32:57.430", "criteria": "cpe:2.3:o:siemens:industrial_edge_device_kit_arm64:*:*:*:*:*:*:*:*", "lastModified": "2026-11-04T17:32:57.430", "matchCriteriaId": "CBDE6550-F856-4A53-9570-4641A6EA1753", "status": "Active", "versionEndExcluding": "1.27.1-1", "versionStartIncluding": "1.26.2-1"}

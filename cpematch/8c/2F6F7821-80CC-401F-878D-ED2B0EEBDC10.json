@@ -1,0 +1,1 @@
+{"created": "2026-11-04T18:00:53.450", "criteria": "cpe:2.3:a:containerd:runwasi:*:*:*:*:*:*:*:*", "lastModified": "2026-11-04T18:00:53.450", "matchCriteriaId": "2F6F7821-80CC-401F-878D-ED2B0EEBDC10", "status": "Active", "versionEndExcluding": "0.6.1"}
