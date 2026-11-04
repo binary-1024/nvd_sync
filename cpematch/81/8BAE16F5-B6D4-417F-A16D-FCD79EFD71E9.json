@@ -1,0 +1,1 @@
+{"created": "2026-11-04T10:42:14.283", "criteria": "cpe:2.3:a:cisco:open_source_snort3:*:*:*:*:*:*:*:*", "lastModified": "2026-11-04T10:42:14.283", "matchCriteriaId": "8BAE16F5-B6D4-417F-A16D-FCD79EFD71E9", "status": "Active", "versionEndIncluding": "3.2.2.0", "versionStartIncluding": "3.2.1.0"}

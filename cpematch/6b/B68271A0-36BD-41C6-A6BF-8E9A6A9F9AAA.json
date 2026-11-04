@@ -1,0 +1,1 @@
+{"created": "2026-11-04T10:21:07.930", "criteria": "cpe:2.3:a:eclipse:jetty_security:*:*:*:*:*:*:*:*", "lastModified": "2026-11-04T10:21:07.930", "matchCriteriaId": "B68271A0-36BD-41C6-A6BF-8E9A6A9F9AAA", "status": "Active", "versionEndExcluding": "11.0.33", "versionStartIncluding": "11.0.0"}

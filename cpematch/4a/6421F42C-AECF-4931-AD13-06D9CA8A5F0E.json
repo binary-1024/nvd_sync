@@ -1,0 +1,1 @@
+{"created": "2026-11-04T10:42:14.283", "criteria": "cpe:2.3:a:cisco:utd_snort_ips_engine_software:*:*:*:*:*:*:*:*", "lastModified": "2026-11-04T10:42:14.283", "matchCriteriaId": "6421F42C-AECF-4931-AD13-06D9CA8A5F0E", "status": "Active", "versionEndIncluding": "17.5.1a", "versionStartIncluding": "17.5.1a"}

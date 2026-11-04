@@ -1,0 +1,1 @@
+{"created": "2026-11-04T10:21:06.083", "criteria": "cpe:2.3:a:eclipse_foundation:jetty-ee8-annotations:*:*:*:*:*:*:*:*", "lastModified": "2026-11-04T10:21:06.083", "matchCriteriaId": "20068CD9-A53E-4446-ADE2-47DCCC3465B3", "status": "Active", "versionEndExcluding": "12.1.12", "versionStartIncluding": "12.1.0"}

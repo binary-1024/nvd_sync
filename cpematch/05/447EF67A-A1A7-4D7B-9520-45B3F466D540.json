@@ -1,0 +1,1 @@
+{"created": "2026-11-04T10:38:34.250", "criteria": "cpe:2.3:a:eclipse:jetty-ethereum:*:*:*:*:*:*:*:*", "lastModified": "2026-11-04T10:38:34.250", "matchCriteriaId": "447EF67A-A1A7-4D7B-9520-45B3F466D540", "status": "Active", "versionEndExcluding": "12.1.13", "versionStartIncluding": "12.1.0"}

@@ -1,0 +1,1 @@
+{"created": "2026-11-04T10:42:14.283", "criteria": "cpe:2.3:a:cisco:secure_firewall_threat_defense_software:*:*:*:*:*:*:*:*", "lastModified": "2026-11-04T10:42:14.283", "matchCriteriaId": "8FB24D95-06B5-4C22-B10C-B3234835023E", "status": "Active", "versionEndIncluding": "7.7.11", "versionStartIncluding": "7.7.0"}
