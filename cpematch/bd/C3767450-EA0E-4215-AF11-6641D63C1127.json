@@ -1,0 +1,1 @@
+{"created": "2026-11-05T16:50:15.153", "criteria": "cpe:2.3:a:modelcontextprotocol:python-sdk:*:*:*:*:*:*:*:*", "lastModified": "2026-11-05T16:50:15.153", "matchCriteriaId": "C3767450-EA0E-4215-AF11-6641D63C1127", "status": "Active", "versionEndExcluding": "1.30.0", "versionStartIncluding": "1.8.0"}
