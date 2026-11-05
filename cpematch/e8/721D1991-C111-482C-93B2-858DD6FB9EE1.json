@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-11-05T13:57:41.583", "created": "2026-11-05T13:57:41.583", "criteria": "cpe:2.3:a:getscreen:getscreen_agent:*:*:*:*:*:windows:*:*", "lastModified": "2026-11-05T13:57:41.583", "matchCriteriaId": "721D1991-C111-482C-93B2-858DD6FB9EE1", "status": "Active", "versionEndExcluding": "3.9.5", "versionStartIncluding": "3.0.12"}
