@@ -1,0 +1,1 @@
+{"created": "2026-11-06T10:36:35.373", "criteria": "cpe:2.3:a:bouncycastle:bc-fja:*:*:*:*:*:*:*:*", "lastModified": "2026-11-06T10:36:35.373", "matchCriteriaId": "FD2D689A-8906-4F85-BFAE-CF46389CD62A", "status": "Active", "versionEndExcluding": "1.0.13", "versionStartIncluding": "1.0.4"}
