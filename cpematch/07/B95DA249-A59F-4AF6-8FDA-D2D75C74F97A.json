@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-11-06T17:00:00.293", "created": "2026-11-06T17:00:00.293", "criteria": "cpe:2.3:a:redhat:openshift_virtualization:*:*:*:*:*:*:*:*", "lastModified": "2026-11-06T17:00:00.293", "matchCriteriaId": "B95DA249-A59F-4AF6-8FDA-D2D75C74F97A", "status": "Active", "versionEndExcluding": "1779375376", "versionStartIncluding": "4.12"}

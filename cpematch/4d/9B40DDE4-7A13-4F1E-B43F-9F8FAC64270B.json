@@ -1,0 +1,1 @@
+{"created": "2026-11-06T17:00:00.293", "criteria": "cpe:2.3:a:kubevirt:kubevirt:*:*:*:*:*:*:*:*", "lastModified": "2026-11-06T17:00:00.293", "matchCriteriaId": "9B40DDE4-7A13-4F1E-B43F-9F8FAC64270B", "status": "Active", "versionEndExcluding": "1.8.3", "versionStartIncluding": "1.8.0"}
