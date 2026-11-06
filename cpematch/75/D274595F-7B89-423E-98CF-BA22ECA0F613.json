@@ -1,0 +1,1 @@
+{"created": "2026-11-06T07:59:07.960", "criteria": "cpe:2.3:a:redhat:ansible_automation_platform:*:*:*:*:*:*:*:*", "lastModified": "2026-11-06T07:59:07.960", "matchCriteriaId": "D274595F-7B89-423E-98CF-BA22ECA0F613", "status": "Active", "versionEndExcluding": "0\\:4.6.33-1.el8ap"}

@@ -1,0 +1,1 @@
+{"created": "2026-11-06T08:01:20.270", "criteria": "cpe:2.3:o:johnsoncontrols:cw_edge_controller_firmware:*:*:*:*:*:*:*:*", "lastModified": "2026-11-06T08:01:20.270", "matchCriteriaId": "5796B011-EC85-46C9-AB92-6F68C15FAF4E", "status": "Active", "versionEndIncluding": "cw 3.3b25", "versionStartIncluding": "cw 3.3b24"}
