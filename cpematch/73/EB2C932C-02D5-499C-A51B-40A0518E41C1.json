@@ -1,0 +1,1 @@
+{"created": "2026-11-06T15:12:54.093", "criteria": "cpe:2.3:a:nextauthjs:next-auth:*:*:*:*:*:*:*:*", "lastModified": "2026-11-06T15:12:54.093", "matchCriteriaId": "EB2C932C-02D5-499C-A51B-40A0518E41C1", "status": "Active", "versionEndExcluding": "4.24.15", "versionStartIncluding": "4.0.6"}

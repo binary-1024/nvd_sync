@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-11-06T15:28:18.420", "created": "2026-11-06T15:28:18.420", "criteria": "cpe:2.3:a:ibm:watson_speech_services_cartridge:*:*:*:*:*:*:*:*", "lastModified": "2026-11-06T15:28:18.420", "matchCriteriaId": "6AC2AD50-7EA4-40A9-964C-07FA85A23E1C", "status": "Active", "versionEndIncluding": "5.4.0", "versionStartIncluding": "4.0.0"}
