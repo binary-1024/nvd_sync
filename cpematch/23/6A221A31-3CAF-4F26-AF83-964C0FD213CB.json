@@ -1,0 +1,1 @@
+{"created": "2026-11-06T06:58:40.267", "criteria": "cpe:2.3:a:openstack:manila:*:*:*:*:*:*:*:*", "lastModified": "2026-11-06T06:58:40.267", "matchCriteriaId": "6A221A31-3CAF-4F26-AF83-964C0FD213CB", "status": "Active", "versionEndExcluding": "21.0.3", "versionStartIncluding": "21.0.0"}
