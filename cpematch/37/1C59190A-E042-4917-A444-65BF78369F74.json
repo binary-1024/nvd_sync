@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-11-06T11:53:58.667", "created": "2026-11-06T11:53:58.667", "criteria": "cpe:2.3:a:tanium:threat_response:*:*:*:*:*:*:*:*", "lastModified": "2026-11-06T11:53:58.667", "matchCriteriaId": "1C59190A-E042-4917-A444-65BF78369F74", "status": "Active", "versionEndExcluding": "4.12.353", "versionStartIncluding": "4.12.0"}
