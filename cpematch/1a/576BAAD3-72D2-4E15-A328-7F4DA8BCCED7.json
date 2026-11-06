@@ -1,0 +1,1 @@
+{"created": "2026-11-06T02:03:33.540", "criteria": "cpe:2.3:a:schedmd:slurm:*:*:*:*:*:*:*:*", "lastModified": "2026-11-06T02:03:33.540", "matchCriteriaId": "576BAAD3-72D2-4E15-A328-7F4DA8BCCED7", "status": "Active", "versionEndIncluding": "25.05.8", "versionStartIncluding": "25.05.0"}
