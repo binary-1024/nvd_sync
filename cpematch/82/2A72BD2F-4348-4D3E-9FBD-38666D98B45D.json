@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-11-07T00:26:19.463", "created": "2026-11-07T00:26:19.463", "criteria": "cpe:2.3:a:nodejs:undici:*:*:*:*:*:*:*:*", "lastModified": "2026-11-07T00:26:19.463", "matchCriteriaId": "2A72BD2F-4348-4D3E-9FBD-38666D98B45D", "status": "Active", "versionEndExcluding": "7.30.2", "versionStartIncluding": "7.30.1"}

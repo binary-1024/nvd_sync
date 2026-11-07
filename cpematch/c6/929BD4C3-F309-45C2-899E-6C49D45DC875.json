@@ -1,0 +1,1 @@
+{"created": "2026-11-07T00:10:35.880", "criteria": "cpe:2.3:a:suse:rke2_ingress-nginx:*:*:*:*:*:*:*:*", "lastModified": "2026-11-07T00:10:35.880", "matchCriteriaId": "929BD4C3-F309-45C2-899E-6C49D45DC875", "status": "Active", "versionEndExcluding": "1.15.2-prime1", "versionStartIncluding": "0"}
