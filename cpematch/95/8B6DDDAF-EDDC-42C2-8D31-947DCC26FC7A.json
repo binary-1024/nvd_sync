@@ -1,0 +1,1 @@
+{"created": "2026-11-07T01:04:09.010", "criteria": "cpe:2.3:a:docker:buildx:*:*:*:*:*:*:*:*", "lastModified": "2026-11-07T01:04:09.010", "matchCriteriaId": "8B6DDDAF-EDDC-42C2-8D31-947DCC26FC7A", "status": "Active", "versionEndExcluding": "0.38.1", "versionStartIncluding": "0.19.0"}
