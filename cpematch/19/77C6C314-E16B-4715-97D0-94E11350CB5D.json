@@ -1,0 +1,1 @@
+{"created": "2026-11-08T03:14:46.283", "criteria": "cpe:2.3:o:cisco:meraki_mx_firmware:*:*:*:*:*:*:*:*", "lastModified": "2026-11-08T03:14:46.283", "matchCriteriaId": "77C6C314-E16B-4715-97D0-94E11350CB5D", "status": "Active", "versionEndIncluding": "mx_26.1.6", "versionStartIncluding": "mx_26.1.4"}
