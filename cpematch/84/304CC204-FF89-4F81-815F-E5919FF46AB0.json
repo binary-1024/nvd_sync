@@ -1,0 +1,1 @@
+{"created": "2026-11-08T18:54:27.490", "criteria": "cpe:2.3:a:ibm:storage_scale:*:*:*:*:*:*:*:*", "lastModified": "2026-11-08T18:54:27.490", "matchCriteriaId": "304CC204-FF89-4F81-815F-E5919FF46AB0", "status": "Active", "versionEndExcluding": "6.0.1.1", "versionStartIncluding": "6.0.1.0"}

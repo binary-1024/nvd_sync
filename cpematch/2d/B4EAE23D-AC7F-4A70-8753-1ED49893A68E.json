@@ -1,0 +1,1 @@
+{"created": "2026-11-08T18:44:16.440", "criteria": "cpe:2.3:a:ibm:turbonomic_kubeturbo_agent:*:*:*:*:*:*:*:*", "lastModified": "2026-11-08T18:44:16.440", "matchCriteriaId": "B4EAE23D-AC7F-4A70-8753-1ED49893A68E", "status": "Active", "versionEndExcluding": "8.21.3", "versionStartIncluding": "8.16.0"}
