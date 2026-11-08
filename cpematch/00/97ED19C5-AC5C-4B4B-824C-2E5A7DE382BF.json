@@ -1,0 +1,1 @@
+{"created": "2026-11-08T00:45:05.480", "criteria": "cpe:2.3:a:crowdstrike:crowdstrike_oauth_api_app:*:*:*:*:soar:*:*:*", "lastModified": "2026-11-08T00:45:05.480", "matchCriteriaId": "97ED19C5-AC5C-4B4B-824C-2E5A7DE382BF", "status": "Active", "versionEndExcluding": "5.1.3"}

@@ -1,0 +1,1 @@
+{"created": "2026-11-08T00:29:09.620", "criteria": "cpe:2.3:a:splunk:nmap_scanner:*:*:*:*:*:splunk_soar:*:*", "lastModified": "2026-11-08T00:29:09.620", "matchCriteriaId": "5D90D4F6-A351-496B-A9A9-028D4E79A4C3", "status": "Active", "versionEndExcluding": "3.0.15"}

@@ -1,0 +1,1 @@
+{"created": "2026-11-08T00:35:44.040", "criteria": "cpe:2.3:a:splunk:cisco_secure_malware_analytics_app:*:*:*:*:splunk_soar:*:*:*", "lastModified": "2026-11-08T00:35:44.040", "matchCriteriaId": "B939E2E6-48BE-4F77-9023-A212E16C49A0", "status": "Active", "versionEndExcluding": "2.4.5"}
