@@ -1,0 +1,1 @@
+{"created": "2026-11-08T19:35:41.027", "criteria": "cpe:2.3:a:ibm:cockroachdb_postgresql_for_ibm_vpc:*:*:*:*:*:*:*:*", "lastModified": "2026-11-08T19:35:41.027", "matchCriteriaId": "1AF91F75-F283-4B56-98AE-C9269AAEAF2B", "status": "Active", "versionEndExcluding": "25.4.12", "versionStartIncluding": "25.4.0"}

@@ -1,0 +1,1 @@
+{"created": "2026-11-08T19:46:56.820", "criteria": "cpe:2.3:a:ibm:watsonx_orchestrate_cartridge_for_cloud_pak_for_data:*:*:*:*:*:*:*:*", "lastModified": "2026-11-08T19:46:56.820", "matchCriteriaId": "4BE3A456-488C-423F-B9F3-B86F63F49AD8", "status": "Active", "versionEndExcluding": "5.4.3", "versionStartIncluding": "5.0.0"}
