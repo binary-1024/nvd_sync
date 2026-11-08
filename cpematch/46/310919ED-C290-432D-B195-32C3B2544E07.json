@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-11-08T17:34:15.890", "created": "2026-11-08T17:34:15.890", "criteria": "cpe:2.3:a:ibm:process_mining:*:*:*:*:*:*:*:*", "lastModified": "2026-11-08T17:34:15.890", "matchCriteriaId": "310919ED-C290-432D-B195-32C3B2544E07", "status": "Active", "versionEndIncluding": "2.2.1", "versionStartIncluding": "2.0.0"}

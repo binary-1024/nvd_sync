@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-11-08T17:53:30.730", "created": "2026-11-08T17:53:30.730", "criteria": "cpe:2.3:a:ibm:qiskit:*:*:*:*:*:*:*:*", "lastModified": "2026-11-08T17:53:30.730", "matchCriteriaId": "703A02DA-DAC9-435C-988E-F079854CA60A", "status": "Active", "versionEndExcluding": "2.6.2", "versionStartIncluding": "1.4.2"}
