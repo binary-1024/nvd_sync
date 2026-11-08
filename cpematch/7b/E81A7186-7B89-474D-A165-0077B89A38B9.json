@@ -1,0 +1,1 @@
+{"created": "2026-11-08T11:14:02.203", "criteria": "cpe:2.3:a:drupal:otp_verification:*:*:*:*:*:*:*:*", "lastModified": "2026-11-08T11:14:02.203", "matchCriteriaId": "E81A7186-7B89-474D-A165-0077B89A38B9", "status": "Active", "versionEndExcluding": "2.4.0", "versionStartIncluding": "0.0.0"}
