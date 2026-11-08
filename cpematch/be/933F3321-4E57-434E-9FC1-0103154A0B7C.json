@@ -1,0 +1,1 @@
+{"created": "2026-11-08T22:18:37.493", "criteria": "cpe:2.3:a:cern_fts:fts-monitoring:*:*:*:*:*:*:*:*", "lastModified": "2026-11-08T22:18:37.493", "matchCriteriaId": "933F3321-4E57-434E-9FC1-0103154A0B7C", "status": "Active", "versionEndExcluding": "3.14.1", "versionStartIncluding": "3.14.0"}
