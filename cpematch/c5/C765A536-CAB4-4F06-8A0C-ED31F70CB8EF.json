@@ -1,0 +1,1 @@
+{"created": "2026-11-08T20:23:46.990", "criteria": "cpe:2.3:a:ibm:openbmc:*:*:*:*:*:*:*:*", "lastModified": "2026-11-08T20:23:46.990", "matchCriteriaId": "C765A536-CAB4-4F06-8A0C-ED31F70CB8EF", "status": "Active", "versionEndExcluding": "op910.96", "versionStartIncluding": "op910.00"}

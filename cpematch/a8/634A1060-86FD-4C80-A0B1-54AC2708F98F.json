@@ -1,0 +1,1 @@
+{"created": "2026-11-08T20:23:40.600", "criteria": "cpe:2.3:o:ibm:openbmc:*:*:*:*:*:*:*:*", "lastModified": "2026-11-08T20:23:40.600", "matchCriteriaId": "634A1060-86FD-4C80-A0B1-54AC2708F98F", "status": "Active", "versionEndExcluding": "fw1110.32", "versionStartIncluding": "fw1110.00"}

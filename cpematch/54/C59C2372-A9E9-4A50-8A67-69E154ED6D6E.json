@@ -1,0 +1,1 @@
+{"created": "2026-11-08T20:56:46.970", "criteria": "cpe:2.3:a:redhat:hibernate_validator:*:*:*:*:*:*:*:*", "lastModified": "2026-11-08T20:56:46.970", "matchCriteriaId": "C59C2372-A9E9-4A50-8A67-69E154ED6D6E", "status": "Active", "versionEndExcluding": "8.0.6.final", "versionStartIncluding": "8.0.0.alpha1"}
