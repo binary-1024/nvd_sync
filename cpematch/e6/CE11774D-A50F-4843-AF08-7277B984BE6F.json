@@ -1,0 +1,1 @@
+{"created": "2026-11-09T08:25:54.687", "criteria": "cpe:2.3:a:nvm-sh:nvm:*:*:*:*:*:*:*:*", "lastModified": "2026-11-09T08:25:54.687", "matchCriteriaId": "CE11774D-A50F-4843-AF08-7277B984BE6F", "status": "Active", "versionEndExcluding": "0.41.0", "versionStartIncluding": "0.40.0"}
