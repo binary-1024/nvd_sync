@@ -1,0 +1,1 @@
+{"created": "2026-11-09T00:25:29.223", "criteria": "cpe:2.3:a:fasterxml:jackson-dataformats-binary:*:*:*:*:*:*:*:*", "lastModified": "2026-11-09T00:25:29.223", "matchCriteriaId": "DBFA15F4-3A30-446F-AE5B-509A1B09333C", "status": "Active", "versionEndExcluding": "2.21.8", "versionStartIncluding": "2.19.0"}

@@ -1,0 +1,1 @@
+{"created": "2026-11-09T00:37:55.850", "criteria": "cpe:2.3:a:bitcoinjs:bitcoinjs-lib:*:*:*:*:*:*:*:*", "lastModified": "2026-11-09T00:37:55.850", "matchCriteriaId": "0620B2E5-2933-4029-B47B-7864CED915F3", "status": "Active", "versionEndExcluding": "7.0.2", "versionStartIncluding": "7.0.0-rc.0"}

@@ -1,0 +1,1 @@
+{"created": "2026-11-09T00:25:29.223", "criteria": "cpe:2.3:a:fasterxml:jackson-dataformats-binary:*:*:*:*:*:*:*:*", "lastModified": "2026-11-09T00:25:29.223", "matchCriteriaId": "9E6D27AF-B715-4239-BCBF-9DCF109A2790", "status": "Active", "versionEndExcluding": "3.1.8", "versionStartIncluding": "3.0.0"}

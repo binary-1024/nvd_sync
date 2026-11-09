@@ -1,0 +1,1 @@
+{"created": "2026-11-09T00:54:53.347", "criteria": "cpe:2.3:a:debian:advanced_package_tool:*:*:*:*:*:*:*:*", "lastModified": "2026-11-09T00:54:53.347", "matchCriteriaId": "6AE88C10-FAC8-4C25-BA94-246964A6304C", "status": "Active", "versionEndExcluding": "2.6.2", "versionStartIncluding": "2.6.0"}
