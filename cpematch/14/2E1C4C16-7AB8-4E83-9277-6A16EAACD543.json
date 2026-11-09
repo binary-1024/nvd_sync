@@ -1,0 +1,1 @@
+{"created": "2026-11-09T06:13:48.410", "criteria": "cpe:2.3:a:pymodaq_project:pymodaq_gui:*:*:*:*:*:*:*:*", "lastModified": "2026-11-09T06:13:48.410", "matchCriteriaId": "2E1C4C16-7AB8-4E83-9277-6A16EAACD543", "status": "Active", "versionEndExcluding": "5.2.14", "versionStartIncluding": "5.2.0"}
