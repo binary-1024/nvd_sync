@@ -1,0 +1,1 @@
+{"created": "2026-11-09T04:20:08.253", "criteria": "cpe:2.3:a:ohif:viewers:*:*:*:*:*:*:*:*", "lastModified": "2026-11-09T04:20:08.253", "matchCriteriaId": "82AEA13E-C418-4DA4-9EF0-289F1CBFDED1", "status": "Active", "versionEndExcluding": "3.12.15", "versionStartIncluding": "3.5.0-beta.0"}
