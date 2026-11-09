@@ -1,0 +1,1 @@
+{"created": "2026-11-09T05:30:19.653", "criteria": "cpe:2.3:a:amazon:babelfish_for_postgresql:*:*:*:*:*:*:*:*", "lastModified": "2026-11-09T05:30:19.653", "matchCriteriaId": "A6734E9D-A93B-41E4-B065-D4A85D6ED8B8", "status": "Active", "versionEndIncluding": "4.8", "versionStartIncluding": "4.0"}

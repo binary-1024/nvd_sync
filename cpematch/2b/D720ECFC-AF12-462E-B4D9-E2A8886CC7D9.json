@@ -1,0 +1,1 @@
+{"created": "2026-11-09T05:30:19.653", "criteria": "cpe:2.3:a:amazon:aurora_postgresql_with_babelfish:*:*:*:*:*:*:*:*", "lastModified": "2026-11-09T05:30:19.653", "matchCriteriaId": "D720ECFC-AF12-462E-B4D9-E2A8886CC7D9", "status": "Active", "versionEndExcluding": "3.11.2", "versionStartIncluding": "3.11.0"}
