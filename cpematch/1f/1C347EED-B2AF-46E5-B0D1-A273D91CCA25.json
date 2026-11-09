@@ -1,0 +1,1 @@
+{"created": "2026-11-09T09:40:13.620", "criteria": "cpe:2.3:a:zbateson:mail-mime-parser:*:*:*:*:*:*:*:*", "lastModified": "2026-11-09T09:40:13.620", "matchCriteriaId": "1C347EED-B2AF-46E5-B0D1-A273D91CCA25", "status": "Active", "versionEndExcluding": "3.0.9", "versionStartIncluding": "0.3.0"}
