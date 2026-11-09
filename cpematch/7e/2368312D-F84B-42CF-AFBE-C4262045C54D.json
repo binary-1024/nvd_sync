@@ -1,0 +1,1 @@
+{"created": "2026-11-09T19:58:40.580", "criteria": "cpe:2.3:a:tmatens:compose-lint:*:*:*:*:*:*:*:*", "lastModified": "2026-11-09T19:58:40.580", "matchCriteriaId": "2368312D-F84B-42CF-AFBE-C4262045C54D", "status": "Active", "versionEndExcluding": "0.18.0", "versionStartIncluding": "0.9.0"}
