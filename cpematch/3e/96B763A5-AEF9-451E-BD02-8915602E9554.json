@@ -1,0 +1,1 @@
+{"created": "2026-11-08T23:29:14.633", "criteria": "cpe:2.3:a:gpustack:gpustack:*:*:*:*:*:*:*:*", "lastModified": "2026-11-08T23:29:14.633", "matchCriteriaId": "96B763A5-AEF9-451E-BD02-8915602E9554", "status": "Active", "versionEndExcluding": "2.2.2", "versionStartIncluding": "0.7.1"}
