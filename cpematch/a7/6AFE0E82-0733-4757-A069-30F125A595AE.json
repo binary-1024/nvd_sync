@@ -1,0 +1,1 @@
+{"created": "2026-11-09T01:21:41.850", "criteria": "cpe:2.3:a:altairgraphql:altair_express_middleware:*:*:*:*:*:*:*:*", "lastModified": "2026-11-09T01:21:41.850", "matchCriteriaId": "6AFE0E82-0733-4757-A069-30F125A595AE", "status": "Active", "versionEndExcluding": "8.5.8", "versionStartIncluding": "7.2.4"}
