@@ -1,0 +1,1 @@
+{"created": "2026-11-09T15:55:56.460", "criteria": "cpe:2.3:a:eclipse_foundation:basyx_helm_charts:*:*:*:*:*:*:*:*", "lastModified": "2026-11-09T15:55:56.460", "matchCriteriaId": "BCE9566B-EEAE-488F-8961-CBADBFA95DF7", "status": "Active", "versionEndExcluding": "3.12.2", "versionStartIncluding": "3.0.0-rc.1"}
