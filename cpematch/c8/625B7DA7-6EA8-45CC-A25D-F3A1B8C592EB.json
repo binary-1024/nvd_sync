@@ -1,0 +1,1 @@
+{"created": "2026-11-09T11:29:04.577", "criteria": "cpe:2.3:a:hapijs:joi:*:*:*:*:*:*:*:*", "lastModified": "2026-11-09T11:29:04.577", "matchCriteriaId": "625B7DA7-6EA8-45CC-A25D-F3A1B8C592EB", "status": "Active", "versionEndExcluding": "18.3.1", "versionStartIncluding": "18.2.5"}
