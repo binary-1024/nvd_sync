@@ -1,0 +1,1 @@
+{"created": "2026-11-09T02:03:56.830", "criteria": "cpe:2.3:a:modelcontextprotocol_project:sdk:*:*:*:*:*:*:*:*", "lastModified": "2026-11-09T02:03:56.830", "matchCriteriaId": "4DE6AA43-43BF-4AEA-B8BE-C7D73471139C", "status": "Active", "versionEndExcluding": "1.32.0", "versionStartIncluding": "1.6.0"}
