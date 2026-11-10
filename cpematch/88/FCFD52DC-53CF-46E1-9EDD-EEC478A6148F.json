@@ -1,0 +1,1 @@
+{"created": "2026-11-10T00:15:30.180", "criteria": "cpe:2.3:a:rustls_project:rustls:*:*:*:*:*:*:*:*", "lastModified": "2026-11-10T00:15:30.180", "matchCriteriaId": "FCFD52DC-53CF-46E1-9EDD-EEC478A6148F", "status": "Active", "versionEndExcluding": "0.23.46", "versionStartIncluding": "0.23.44"}

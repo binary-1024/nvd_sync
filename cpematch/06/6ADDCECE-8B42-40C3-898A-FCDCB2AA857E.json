@@ -1,0 +1,1 @@
+{"created": "2026-11-10T00:06:47.100", "criteria": "cpe:2.3:a:hickory-dns:hickory-proto:*:*:*:*:*:*:*:*", "lastModified": "2026-11-10T00:06:47.100", "matchCriteriaId": "6ADDCECE-8B42-40C3-898A-FCDCB2AA857E", "status": "Active", "versionEndExcluding": "0.26.1", "versionStartIncluding": "0.3.1"}

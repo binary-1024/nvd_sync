@@ -1,0 +1,1 @@
+{"created": "2026-11-10T00:04:48.250", "criteria": "cpe:2.3:a:rustls_project:rustls:*:*:*:*:*:*:*:*", "lastModified": "2026-11-10T00:04:48.250", "matchCriteriaId": "DED0BFB8-B3FE-4145-9B69-C739592DDE2F", "status": "Active", "versionEndExcluding": "0.24.0-dev.2", "versionStartIncluding": "0.24.0-dev.1"}
