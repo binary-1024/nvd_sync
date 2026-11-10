@@ -1,0 +1,1 @@
+{"created": "2026-11-10T05:40:13.373", "criteria": "cpe:2.3:a:amazon:amazon_braket_schemas:*:*:*:*:*:*:*:*", "lastModified": "2026-11-10T05:40:13.373", "matchCriteriaId": "A0B26FED-E673-4DEB-8A5B-C0DD94B3350E", "status": "Active", "versionEndExcluding": "1.32.2", "versionStartIncluding": "1.17.0"}

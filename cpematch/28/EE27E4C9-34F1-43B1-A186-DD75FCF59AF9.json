@@ -1,0 +1,1 @@
+{"created": "2026-11-10T06:04:07.607", "criteria": "cpe:2.3:a:apache:commons_codec:*:*:*:*:*:*:*:*", "lastModified": "2026-11-10T06:04:07.607", "matchCriteriaId": "EE27E4C9-34F1-43B1-A186-DD75FCF59AF9", "status": "Active", "versionEndExcluding": "1.23.0", "versionStartIncluding": "1.22.0"}

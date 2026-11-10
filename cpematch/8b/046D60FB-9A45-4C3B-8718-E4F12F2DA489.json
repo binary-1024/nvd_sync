@@ -1,0 +1,1 @@
+{"created": "2026-11-10T05:39:53.413", "criteria": "cpe:2.3:a:amazon:aws_parallelcluster:*:*:*:*:*:*:*:*", "lastModified": "2026-11-10T05:39:53.413", "matchCriteriaId": "046D60FB-9A45-4C3B-8718-E4F12F2DA489", "status": "Active", "versionEndExcluding": "3.16.0", "versionStartIncluding": "3.0.0"}
