@@ -1,0 +1,1 @@
+{"created": "2026-11-10T16:43:14.680", "criteria": "cpe:2.3:a:apache:tomee:*:*:*:*:*:*:*:*", "lastModified": "2026-11-10T16:43:14.680", "matchCriteriaId": "5012E942-EA04-47B4-881C-4C3A56C39F5C", "status": "Active", "versionEndIncluding": "4.7.5", "versionStartIncluding": "4.0.0-beta-1"}
