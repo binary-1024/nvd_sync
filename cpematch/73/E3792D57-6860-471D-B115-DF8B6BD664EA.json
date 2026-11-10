@@ -1,0 +1,1 @@
+{"created": "2026-11-09T23:45:48.320", "criteria": "cpe:2.3:a:hickory-dns:hickory-recursor:*:*:*:*:*:*:*:*", "lastModified": "2026-11-09T23:45:48.320", "matchCriteriaId": "E3792D57-6860-471D-B115-DF8B6BD664EA", "status": "Active", "versionEndIncluding": "0.26.0-alpha.1", "versionStartIncluding": "0.25.0"}
