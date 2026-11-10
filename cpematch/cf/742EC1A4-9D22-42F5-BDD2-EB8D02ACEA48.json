@@ -1,0 +1,1 @@
+{"created": "2026-11-10T17:53:38.350", "criteria": "cpe:2.3:a:ivanti:standalone_sentry:*:*:*:*:*:*:*:*", "lastModified": "2026-11-10T17:53:38.350", "matchCriteriaId": "742EC1A4-9D22-42F5-BDD2-EB8D02ACEA48", "status": "Active", "versionEndExcluding": "10.8.3", "versionStartIncluding": "10.7.4"}
