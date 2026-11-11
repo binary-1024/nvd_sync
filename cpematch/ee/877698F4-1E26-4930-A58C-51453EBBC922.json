@@ -1,0 +1,1 @@
+{"created": "2026-11-11T13:08:07.513", "criteria": "cpe:2.3:a:microsoft:aspnet_core:*:*:*:*:*:*:*:*", "lastModified": "2026-11-11T13:08:07.513", "matchCriteriaId": "877698F4-1E26-4930-A58C-51453EBBC922", "status": "Active", "versionEndExcluding": "10.0.15", "versionStartIncluding": "10.0.0"}

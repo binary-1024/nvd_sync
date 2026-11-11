@@ -1,0 +1,1 @@
+{"created": "2026-11-11T13:10:42.083", "criteria": "cpe:2.3:a:microsoft:aspnet_core_http_connections:*:*:*:*:*:*:*:*", "lastModified": "2026-11-11T13:10:42.083", "matchCriteriaId": "2EEF31F9-3AA3-4413-B4B7-01CAE0D5F79C", "status": "Active", "versionEndExcluding": "1.2.14", "versionStartIncluding": "1.2.0"}

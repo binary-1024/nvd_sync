@@ -1,0 +1,1 @@
+{"created": "2026-11-11T13:36:14.570", "criteria": "cpe:2.3:a:microsoft:dotnet_hotreload_watch_aspire:*:*:*:*:*:*:*:*", "lastModified": "2026-11-11T13:36:14.570", "matchCriteriaId": "D208E1B2-6C31-40BF-BE94-7E56D208A078", "status": "Active", "versionEndExcluding": "11.0.100", "versionStartIncluding": "10.0.300"}

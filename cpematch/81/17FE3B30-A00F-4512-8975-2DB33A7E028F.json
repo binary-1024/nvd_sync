@@ -1,0 +1,1 @@
+{"created": "2026-11-11T13:43:13.773", "criteria": "cpe:2.3:a:microsoft:azure_privileged_identity_management:*:*:*:*:*:*:*:*", "lastModified": "2026-11-11T13:43:13.773", "matchCriteriaId": "17FE3B30-A00F-4512-8975-2DB33A7E028F", "status": "Active", "versionEndExcluding": "2.0.32.2053", "versionStartIncluding": "1.0.0"}
