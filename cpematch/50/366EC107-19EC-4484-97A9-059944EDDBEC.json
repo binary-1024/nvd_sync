@@ -1,0 +1,1 @@
+{"created": "2026-11-11T01:26:33.500", "criteria": "cpe:2.3:a:microsoft:dotnet:*:*:*:*:*:*:*:*", "lastModified": "2026-11-11T01:26:33.500", "matchCriteriaId": "366EC107-19EC-4484-97A9-059944EDDBEC", "status": "Active", "versionEndExcluding": "11.0.0", "versionStartIncluding": "11.0.0-preview.1"}
