@@ -1,0 +1,1 @@
+{"created": "2026-11-11T21:58:00.863", "criteria": "cpe:2.3:a:microsoft:dotnet_web_projecttemplates_9.0:*:*:*:*:*:*:*:*", "lastModified": "2026-11-11T21:58:00.863", "matchCriteriaId": "A20EAA17-F95F-42EC-9B8E-381932C463F5", "status": "Active", "versionEndExcluding": "9.0.23", "versionStartIncluding": "9.0.21"}

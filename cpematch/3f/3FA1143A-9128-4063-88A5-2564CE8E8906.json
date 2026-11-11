@@ -1,0 +1,1 @@
+{"created": "2026-11-11T21:58:00.863", "criteria": "cpe:2.3:a:microsoft:dotnet-scaffold:*:*:*:*:*:*:*:*", "lastModified": "2026-11-11T21:58:00.863", "matchCriteriaId": "3FA1143A-9128-4063-88A5-2564CE8E8906", "status": "Active", "versionEndExcluding": "20.3.0", "versionStartIncluding": "10.0.0"}
