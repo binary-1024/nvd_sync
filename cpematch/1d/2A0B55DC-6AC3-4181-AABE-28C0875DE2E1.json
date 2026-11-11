@@ -1,0 +1,1 @@
+{"created": "2026-11-11T20:24:09.567", "criteria": "cpe:2.3:a:paloaltonetworks:prisma_access:*:*:*:*:*:*:*:*", "lastModified": "2026-11-11T20:24:09.567", "matchCriteriaId": "2A0B55DC-6AC3-4181-AABE-28C0875DE2E1", "status": "Active", "versionEndExcluding": "12.1.10-h4", "versionStartIncluding": "12.1.0"}
