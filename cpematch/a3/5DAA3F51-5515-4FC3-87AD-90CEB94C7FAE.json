@@ -1,0 +1,1 @@
+{"created": "2026-11-13T18:44:38.590", "criteria": "cpe:2.3:a:lodash:lodash.omit:*:*:*:*:*:node.js:*:*", "lastModified": "2026-11-13T18:44:38.590", "matchCriteriaId": "5DAA3F51-5515-4FC3-87AD-90CEB94C7FAE", "status": "Active", "versionEndExcluding": "4.18.0"}
