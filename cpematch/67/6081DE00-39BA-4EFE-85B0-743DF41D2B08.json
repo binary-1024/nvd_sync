@@ -1,0 +1,1 @@
+{"created": "2026-11-16T18:34:58.200", "criteria": "cpe:2.3:a:dell:ansible_storage_for_powerflex:*:*:*:*:*:*:*:*", "lastModified": "2026-11-16T18:34:58.200", "matchCriteriaId": "6081DE00-39BA-4EFE-85B0-743DF41D2B08", "status": "Active", "versionEndExcluding": "3.2.0"}

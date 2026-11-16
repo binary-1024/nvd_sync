@@ -1,0 +1,1 @@
+{"created": "2026-11-16T18:55:24.460", "criteria": "cpe:2.3:a:dell:terraform_provider_for_objectscale:*:*:*:*:*:*:*:*", "lastModified": "2026-11-16T18:55:24.460", "matchCriteriaId": "51ED4EC8-EE6C-4CC0-AB00-1AF7EE36B089", "status": "Active", "versionEndExcluding": "1.1.1"}

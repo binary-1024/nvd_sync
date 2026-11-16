@@ -1,0 +1,1 @@
+{"created": "2026-11-16T18:54:34.237", "criteria": "cpe:2.3:a:dell:terraform_provider_for_powerflex:*:*:*:*:*:*:*:*", "lastModified": "2026-11-16T18:54:34.237", "matchCriteriaId": "CA631CE9-2C2A-4434-B372-7956A947FB4A", "status": "Active", "versionEndExcluding": "1.9.0", "versionStartIncluding": "1.5.0"}

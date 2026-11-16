@@ -1,0 +1,1 @@
+{"created": "2026-11-16T18:44:30.523", "criteria": "cpe:2.3:a:dell:openmanage_ansible_modules:*:*:*:*:*:*:*:*", "lastModified": "2026-11-16T18:44:30.523", "matchCriteriaId": "C387E87F-AFB8-420B-8D4E-2E5FC817AB4E", "status": "Active", "versionEndIncluding": "10.0.3", "versionStartIncluding": "9.2.0"}
