@@ -1,0 +1,1 @@
+{"created": "2026-11-16T20:37:09.410", "criteria": "cpe:2.3:a:apache:datasketches_cpp:*:*:*:*:*:*:*:*", "lastModified": "2026-11-16T20:37:09.410", "matchCriteriaId": "BE95993C-BA9E-4C39-BA37-B8F4C7D80818", "status": "Active", "versionEndExcluding": "5.3.1", "versionStartIncluding": "2.0.0-incubating"}
