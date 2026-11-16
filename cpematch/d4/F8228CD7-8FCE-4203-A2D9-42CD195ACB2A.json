@@ -1,1 +1,1 @@
-{"created": "2026-11-09T20:33:26.330", "criteria": "cpe:2.3:o:linux:linux_kernel:7.3:rc4:*:*:*:*:*:*", "lastModified": "2026-11-09T20:33:26.330", "matchCriteriaId": "F8228CD7-8FCE-4203-A2D9-42CD195ACB2A", "status": "Active"}
+{"created": "2026-11-09T20:33:26.330", "criteria": "cpe:2.3:o:linux:linux_kernel:7.3:rc4:*:*:*:*:*:*", "lastModified": "2026-11-16T17:06:02.293", "matchCriteriaId": "F8228CD7-8FCE-4203-A2D9-42CD195ACB2A", "matches": [{"cpeName": "cpe:2.3:o:linux:linux_kernel:7.3:rc4:*:*:*:*:*:*", "cpeNameId": "8FA56AEE-FABD-48C3-ADDB-220094287567"}], "status": "Active"}
