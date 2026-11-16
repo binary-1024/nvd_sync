@@ -1,0 +1,1 @@
+{"created": "2026-11-16T22:54:31.960", "criteria": "cpe:2.3:a:mongodb:ruby_driver:*:*:*:*:*:*:*:*", "lastModified": "2026-11-16T22:54:31.960", "matchCriteriaId": "089DBF0D-6CEC-4447-AE91-E39884039409", "status": "Active", "versionEndIncluding": "9.1.1", "versionStartIncluding": "9.0.0"}
