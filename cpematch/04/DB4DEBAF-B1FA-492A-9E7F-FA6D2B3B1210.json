@@ -1,1 +1,1 @@
-{"created": "2026-04-11T17:42:32.993", "criteria": "cpe:2.3:a:hainsoft:lanhelper:1.74:*:*:*:*:*:*:*", "lastModified": "2026-04-11T17:42:32.993", "matchCriteriaId": "DB4DEBAF-B1FA-492A-9E7F-FA6D2B3B1210", "status": "Active"}
+{"created": "2026-04-11T17:42:32.993", "criteria": "cpe:2.3:a:hainsoft:lanhelper:1.74:*:*:*:*:*:*:*", "lastModified": "2026-11-16T15:31:00.143", "matchCriteriaId": "DB4DEBAF-B1FA-492A-9E7F-FA6D2B3B1210", "matches": [{"cpeName": "cpe:2.3:a:hainsoft:lanhelper:1.74:*:*:*:*:*:*:*", "cpeNameId": "50BA7466-5C04-4535-8300-377FE8EB8C9D"}], "status": "Active"}
