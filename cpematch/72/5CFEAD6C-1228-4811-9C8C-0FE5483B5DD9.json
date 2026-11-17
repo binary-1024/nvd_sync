@@ -1,0 +1,1 @@
+{"created": "2026-11-17T18:30:46.623", "criteria": "cpe:2.3:a:simplesamlphp:saml2:*:*:*:*:*:*:*:*", "lastModified": "2026-11-17T18:30:46.623", "matchCriteriaId": "5CFEAD6C-1228-4811-9C8C-0FE5483B5DD9", "status": "Active", "versionEndExcluding": "6.2.4", "versionStartIncluding": "6.2.2"}

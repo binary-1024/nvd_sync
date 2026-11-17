@@ -1,0 +1,1 @@
+{"created": "2026-11-17T18:55:58.080", "criteria": "cpe:2.3:a:openbao:ldap_plugin:*:*:*:*:*:*:*:*", "lastModified": "2026-11-17T18:55:58.080", "matchCriteriaId": "DB89D006-11FF-449E-AD10-EAEE3C05110E", "status": "Active", "versionEndExcluding": "0.2.0"}
