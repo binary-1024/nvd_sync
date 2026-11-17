@@ -1,0 +1,1 @@
+{"created": "2026-11-17T14:05:43.840", "criteria": "cpe:2.3:a:codesys:automation_server_connector:*:*:*:*:*:*:*:*", "lastModified": "2026-11-17T14:05:43.840", "matchCriteriaId": "001D7BDE-152C-43BA-B51B-4E6FA53B44C7", "status": "Active", "versionEndExcluding": "1.40.0.0", "versionStartIncluding": "1.0.0.0"}

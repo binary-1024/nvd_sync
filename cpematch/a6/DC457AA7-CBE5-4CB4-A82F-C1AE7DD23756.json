@@ -1,0 +1,1 @@
+{"created": "2026-11-17T14:51:17.987", "criteria": "cpe:2.3:a:elixir-grpc:grpc_core:*:*:*:*:*:*:*:*", "lastModified": "2026-11-17T14:51:17.987", "matchCriteriaId": "DC457AA7-CBE5-4CB4-A82F-C1AE7DD23756", "status": "Active", "versionEndExcluding": "1.1.0", "versionStartIncluding": "1.0.0"}
