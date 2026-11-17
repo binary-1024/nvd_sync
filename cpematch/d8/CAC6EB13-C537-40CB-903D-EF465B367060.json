@@ -1,0 +1,1 @@
+{"created": "2026-11-17T17:54:40.757", "criteria": "cpe:2.3:a:linuxfoundation:backstage\\/plugin-techdocs-node:*:*:*:*:*:node.js:*:*", "lastModified": "2026-11-17T17:54:40.757", "matchCriteriaId": "CAC6EB13-C537-40CB-903D-EF465B367060", "status": "Active", "versionEndExcluding": "1.13.11"}
