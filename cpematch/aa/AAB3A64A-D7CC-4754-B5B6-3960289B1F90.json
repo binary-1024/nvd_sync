@@ -1,0 +1,1 @@
+{"created": "2026-11-16T23:07:17.480", "criteria": "cpe:2.3:a:fastify:busboy:*:*:*:*:*:*:*:*", "lastModified": "2026-11-16T23:07:17.480", "matchCriteriaId": "AAB3A64A-D7CC-4754-B5B6-3960289B1F90", "status": "Active", "versionEndExcluding": "3.2.6", "versionStartIncluding": "1.0.0"}
