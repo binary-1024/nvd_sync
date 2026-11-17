@@ -1,0 +1,1 @@
+{"created": "2026-11-17T07:35:17.577", "criteria": "cpe:2.3:a:konghq:kong_gateway:*:*:*:*:*:*:*:*", "lastModified": "2026-11-17T07:35:17.577", "matchCriteriaId": "32712CC2-0B9C-4137-9801-94768F632553", "status": "Active", "versionEndExcluding": "3.14.0.11", "versionStartIncluding": "3.14.0.0"}
