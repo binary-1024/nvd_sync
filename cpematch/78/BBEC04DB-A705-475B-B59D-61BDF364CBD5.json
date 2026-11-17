@@ -1,0 +1,1 @@
+{"created": "2026-11-17T20:38:50.340", "criteria": "cpe:2.3:a:bitcoinjs:tiny-secp256k1-asmjs:*:*:*:*:*:*:*:*", "lastModified": "2026-11-17T20:38:50.340", "matchCriteriaId": "BBEC04DB-A705-475B-B59D-61BDF364CBD5", "status": "Active", "versionEndExcluding": "2.2.5", "versionStartIncluding": "2.2.2"}
