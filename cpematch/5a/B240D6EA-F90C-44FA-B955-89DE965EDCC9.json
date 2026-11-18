@@ -1,0 +1,1 @@
+{"created": "2026-11-18T20:09:51.243", "criteria": "cpe:2.3:a:amazon:corretto:*:*:*:*:*:*:*:*", "lastModified": "2026-11-18T20:09:51.243", "matchCriteriaId": "B240D6EA-F90C-44FA-B955-89DE965EDCC9", "status": "Active", "versionEndIncluding": "27.0.1.1.4", "versionStartIncluding": "27.0.0.33.1"}
