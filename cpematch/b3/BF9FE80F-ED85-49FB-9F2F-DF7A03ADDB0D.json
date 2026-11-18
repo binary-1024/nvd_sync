@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-11-18T22:12:19.470", "created": "2026-11-18T22:12:19.470", "criteria": "cpe:2.3:a:vanderbilt:redcap:*:*:*:*:*:*:*:*", "lastModified": "2026-11-18T22:12:19.470", "matchCriteriaId": "BF9FE80F-ED85-49FB-9F2F-DF7A03ADDB0D", "status": "Active", "versionEndExcluding": "17.3.10", "versionStartIncluding": "16.1.0"}
