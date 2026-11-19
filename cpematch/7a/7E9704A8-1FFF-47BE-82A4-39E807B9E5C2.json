@@ -1,0 +1,1 @@
+{"created": "2026-11-19T05:34:41.447", "criteria": "cpe:2.3:a:nbdkit_project:nbdkit:*:*:*:*:*:*:*:*", "lastModified": "2026-11-19T05:34:41.447", "matchCriteriaId": "7E9704A8-1FFF-47BE-82A4-39E807B9E5C2", "status": "Active", "versionEndExcluding": "1.49.5", "versionStartIncluding": "1.35.7"}
