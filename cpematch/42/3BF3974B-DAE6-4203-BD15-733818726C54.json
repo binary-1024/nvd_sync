@@ -1,0 +1,1 @@
+{"created": "2026-11-19T11:43:42.790", "criteria": "cpe:2.3:a:redhat:build_of_openjdk:*:*:*:*:*:*:*:*", "lastModified": "2026-11-19T11:43:42.790", "matchCriteriaId": "3BF3974B-DAE6-4203-BD15-733818726C54", "status": "Active", "versionEndExcluding": "17.0.21.1", "versionStartIncluding": "17.0.0"}
