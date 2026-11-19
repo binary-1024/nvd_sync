@@ -1,0 +1,1 @@
+{"created": "2026-11-19T17:49:16.897", "criteria": "cpe:2.3:a:git-lfs:git-lfs:*:*:*:*:*:*:*:*", "lastModified": "2026-11-19T17:49:16.897", "matchCriteriaId": "F491382B-F659-4AEC-AA44-367C1F4E21D4", "status": "Active", "versionEndExcluding": "3.8.1", "versionStartIncluding": "0.6.0"}
