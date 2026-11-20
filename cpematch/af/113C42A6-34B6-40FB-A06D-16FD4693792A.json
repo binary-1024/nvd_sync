@@ -1,0 +1,1 @@
+{"created": "2026-11-20T17:25:33.903", "criteria": "cpe:2.3:a:mattermost:mattermost:*:*:*:*:*:*:*:*", "lastModified": "2026-11-20T17:25:33.903", "matchCriteriaId": "113C42A6-34B6-40FB-A06D-16FD4693792A", "status": "Active", "versionEndExcluding": "11.10.5", "versionStartIncluding": "11.10.0"}

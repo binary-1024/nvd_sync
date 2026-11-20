@@ -1,0 +1,1 @@
+{"created": "2026-11-20T17:43:53.397", "criteria": "cpe:2.3:a:apache:iggy:*:*:*:*:*:*:*:*", "lastModified": "2026-11-20T17:43:53.397", "matchCriteriaId": "D8C28321-E7C3-486D-A7AA-14FCC8E9D003", "status": "Active", "versionEndExcluding": "0.10.0", "versionStartIncluding": "0.9.0"}
