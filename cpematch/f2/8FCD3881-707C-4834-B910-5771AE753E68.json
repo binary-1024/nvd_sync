@@ -1,0 +1,1 @@
+{"created": "2026-11-20T18:14:19.323", "criteria": "cpe:2.3:a:apache:kudu:*:*:*:*:*:*:*:*", "lastModified": "2026-11-20T18:14:19.323", "matchCriteriaId": "8FCD3881-707C-4834-B910-5771AE753E68", "status": "Active", "versionEndExcluding": "1.18.2", "versionStartIncluding": "1.18.0"}
