@@ -1,0 +1,1 @@
+{"created": "2026-11-21T21:38:54.200", "criteria": "cpe:2.3:a:opentelemetry_project:opentelemetry-js:*:*:*:*:*:*:*:*", "lastModified": "2026-11-21T21:38:54.200", "matchCriteriaId": "FDFC76D3-BFFE-4B9F-B7E1-42B94D2BC2C0", "status": "Active", "versionEndExcluding": "0.222.0", "versionStartIncluding": "0.204.0"}
