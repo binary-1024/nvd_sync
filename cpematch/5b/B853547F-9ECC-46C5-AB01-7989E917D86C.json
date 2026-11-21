@@ -1,0 +1,1 @@
+{"created": "2026-11-21T15:43:34.377", "criteria": "cpe:2.3:o:amd:epyc_7002_series_firmware:*:*:*:*:*:*:*:*", "lastModified": "2026-11-21T15:43:34.377", "matchCriteriaId": "B853547F-9ECC-46C5-AB01-7989E917D86C", "status": "Active", "versionEndExcluding": "romepi_1.0.0.n"}
