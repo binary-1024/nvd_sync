@@ -1,0 +1,1 @@
+{"created": "2026-11-21T05:08:20.710", "criteria": "cpe:2.3:o:f5:tmos:*:*:*:*:*:*:*:*", "lastModified": "2026-11-21T05:08:20.710", "matchCriteriaId": "5A51F336-4A08-480A-9BF5-4520353F8838", "status": "Active", "versionEndExcluding": "bigip-17.5.1.11.0.61.12-eng", "versionStartIncluding": "17.5.0"}

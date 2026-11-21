@@ -1,0 +1,1 @@
+{"created": "2026-11-21T05:56:29.933", "criteria": "cpe:2.3:a:f5:big-ip_next_cnf:*:*:*:*:*:*:*:*", "lastModified": "2026-11-21T05:56:29.933", "matchCriteriaId": "61EC2430-6614-4F1A-8874-72277279FAAD", "status": "Active", "versionEndExcluding": "bnk-2.3.4-ehf1", "versionStartIncluding": "2.3.0"}
