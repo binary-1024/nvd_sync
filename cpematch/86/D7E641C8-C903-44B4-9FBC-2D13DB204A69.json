@@ -1,0 +1,1 @@
+{"created": "2026-11-21T07:24:29.217", "criteria": "cpe:2.3:a:jtl-software:paypal_checkout:*:*:*:*:*:jtl_shop:*:*", "lastModified": "2026-11-21T07:24:29.217", "matchCriteriaId": "D7E641C8-C903-44B4-9FBC-2D13DB204A69", "status": "Active", "versionEndExcluding": "2.2.2", "versionStartIncluding": "1.2.0"}

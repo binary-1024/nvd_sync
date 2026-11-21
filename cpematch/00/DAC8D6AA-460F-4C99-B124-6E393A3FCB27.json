@@ -1,0 +1,1 @@
+{"created": "2026-11-21T07:35:40.900", "criteria": "cpe:2.3:a:neo4j:spring_data_neo4j:*:*:*:*:*:*:*:*", "lastModified": "2026-11-21T07:35:40.900", "matchCriteriaId": "DAC8D6AA-460F-4C99-B124-6E393A3FCB27", "status": "Active", "versionEndExcluding": "8.0.9", "versionStartIncluding": "6.1.0"}
