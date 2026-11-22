@@ -1,0 +1,1 @@
+{"created": "2026-11-22T05:25:31.940", "criteria": "cpe:2.3:a:encode:httpx:*:*:*:*:*:*:*:*", "lastModified": "2026-11-22T05:25:31.940", "matchCriteriaId": "5703F380-DEAD-445A-99C2-FE69E42213CF", "status": "Active", "versionEndExcluding": "1.9.1", "versionStartIncluding": "1.9.0"}
