@@ -1,0 +1,1 @@
+{"created": "2026-11-22T10:37:25.873", "criteria": "cpe:2.3:a:django-tenants:django-tenants:*:*:*:*:*:*:*:*", "lastModified": "2026-11-22T10:37:25.873", "matchCriteriaId": "5EEB7045-B681-472A-89CF-F841859345C4", "status": "Active", "versionEndExcluding": "4.0.1", "versionStartIncluding": "3.4.1"}

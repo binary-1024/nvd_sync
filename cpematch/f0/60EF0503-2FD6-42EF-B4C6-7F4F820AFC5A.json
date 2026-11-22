@@ -1,0 +1,1 @@
+{"created": "2026-11-22T10:37:52.630", "criteria": "cpe:2.3:a:temporalio:temporal-proxy:*:*:*:*:*:*:*:*", "lastModified": "2026-11-22T10:37:52.630", "matchCriteriaId": "60EF0503-2FD6-42EF-B4C6-7F4F820AFC5A", "status": "Active", "versionEndExcluding": "1.1.2", "versionStartIncluding": "1.1.0"}
