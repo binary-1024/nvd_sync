@@ -1,0 +1,1 @@
+{"created": "2026-11-22T04:28:36.500", "criteria": "cpe:2.3:a:fastify:http_proxy:*:*:*:*:*:*:*:*", "lastModified": "2026-11-22T04:28:36.500", "matchCriteriaId": "4D893280-3710-4736-820B-9DA2CCC54A12", "status": "Active", "versionEndExcluding": "11.6.10", "versionStartIncluding": "9.0.0"}
