@@ -1,0 +1,1 @@
+{"created": "2026-11-22T11:26:30.950", "criteria": "cpe:2.3:a:okta:okta_sdk_abstractions:*:*:*:*:*:*:*:*", "lastModified": "2026-11-22T11:26:30.950", "matchCriteriaId": "89FA3A32-5C1D-4A14-851A-E41033490894", "status": "Active", "versionEndExcluding": "4.0.8", "versionStartIncluding": "3.0.0"}

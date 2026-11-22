@@ -1,0 +1,1 @@
+{"created": "2026-11-22T11:17:05.530", "criteria": "cpe:2.3:a:yakifo:amqtt:*:*:*:*:*:*:*:*", "lastModified": "2026-11-22T11:17:05.530", "matchCriteriaId": "3C738B9E-A139-4F5E-8431-29F71D1F1523", "status": "Active", "versionEndExcluding": "0.12.1", "versionStartIncluding": "0.11.0"}
