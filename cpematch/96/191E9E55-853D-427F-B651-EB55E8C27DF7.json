@@ -1,0 +1,1 @@
+{"created": "2026-11-22T17:09:45.613", "criteria": "cpe:2.3:a:amazon:document-loader-mcp-server:*:*:*:*:*:*:*:*", "lastModified": "2026-11-22T17:09:45.613", "matchCriteriaId": "191E9E55-853D-427F-B651-EB55E8C27DF7", "status": "Active", "versionEndExcluding": "1.0.21", "versionStartIncluding": "1.0.10"}
