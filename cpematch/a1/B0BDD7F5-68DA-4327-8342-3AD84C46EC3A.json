@@ -1,0 +1,1 @@
+{"created": "2026-11-22T02:21:04.860", "criteria": "cpe:2.3:a:guard-core:guard-core:*:*:*:*:*:*:*:*", "lastModified": "2026-11-22T02:21:04.860", "matchCriteriaId": "B0BDD7F5-68DA-4327-8342-3AD84C46EC3A", "status": "Active", "versionEndExcluding": "3.13.0", "versionStartIncluding": "1.0.0"}

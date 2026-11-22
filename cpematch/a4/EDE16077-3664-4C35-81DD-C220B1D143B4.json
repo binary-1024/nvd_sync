@@ -1,0 +1,1 @@
+{"created": "2026-11-22T02:46:01.430", "criteria": "cpe:2.3:a:dmtf:libspdm:*:*:*:*:*:*:*:*", "lastModified": "2026-11-22T02:46:01.430", "matchCriteriaId": "EDE16077-3664-4C35-81DD-C220B1D143B4", "status": "Active", "versionEndExcluding": "4.0.0-rc2", "versionStartIncluding": "4.0.0-rc1"}
