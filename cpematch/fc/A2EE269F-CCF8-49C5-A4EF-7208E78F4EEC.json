@@ -1,0 +1,1 @@
+{"created": "2026-11-22T01:45:30.017", "criteria": "cpe:2.3:a:robert_ancell:lightdm:*:*:*:*:*:*:*:*", "lastModified": "2026-11-22T01:45:30.017", "matchCriteriaId": "A2EE269F-CCF8-49C5-A4EF-7208E78F4EEC", "status": "Active", "versionEndExcluding": "1.32.0-6\\+deb13u1", "versionStartIncluding": "1.10.3-2"}

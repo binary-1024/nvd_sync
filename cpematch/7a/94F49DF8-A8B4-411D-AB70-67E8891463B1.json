@@ -1,0 +1,1 @@
+{"created": "2026-11-22T01:59:09.387", "criteria": "cpe:2.3:a:spamscope:mail-parser:*:*:*:*:*:*:*:*", "lastModified": "2026-11-22T01:59:09.387", "matchCriteriaId": "94F49DF8-A8B4-411D-AB70-67E8891463B1", "status": "Active", "versionEndExcluding": "4.6.0", "versionStartIncluding": "3.8.0"}
