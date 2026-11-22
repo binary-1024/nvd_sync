@@ -1,0 +1,1 @@
+{"created": "2026-11-22T13:58:52.580", "criteria": "cpe:2.3:a:eclipse_zenoh:zenoh-pico:*:*:*:*:*:*:*:*", "lastModified": "2026-11-22T13:58:52.580", "matchCriteriaId": "779C2F0F-B6E2-47A5-B897-8DE1EEF5241E", "status": "Active", "versionEndExcluding": "1.10.2", "versionStartIncluding": "0.7.2-rc"}

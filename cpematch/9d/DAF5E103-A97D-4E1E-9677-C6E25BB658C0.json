@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-11-22T13:58:58.173", "created": "2026-11-22T13:58:58.173", "criteria": "cpe:2.3:a:kubernetes-sigs:aws-efs-csi-driver:*:*:*:*:*:*:*:*", "lastModified": "2026-11-22T13:58:58.173", "matchCriteriaId": "DAF5E103-A97D-4E1E-9677-C6E25BB658C0", "status": "Active", "versionEndExcluding": "3.5.4"}
