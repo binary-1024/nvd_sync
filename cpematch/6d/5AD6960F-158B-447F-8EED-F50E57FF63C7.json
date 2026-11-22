@@ -1,0 +1,1 @@
+{"created": "2026-11-22T04:03:03.857", "criteria": "cpe:2.3:a:littlefs-project:littlefs:*:*:*:*:*:*:*:*", "lastModified": "2026-11-22T04:03:03.857", "matchCriteriaId": "5AD6960F-158B-447F-8EED-F50E57FF63C7", "status": "Active", "versionEndIncluding": "2.11.3", "versionStartIncluding": "0"}
