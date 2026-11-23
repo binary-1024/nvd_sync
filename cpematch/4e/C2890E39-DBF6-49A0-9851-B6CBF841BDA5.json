@@ -1,0 +1,1 @@
+{"created": "2026-11-23T14:52:15.493", "criteria": "cpe:2.3:a:microsoft:azure_key_vault_keys:*:*:*:*:*:rust:*:*", "lastModified": "2026-11-23T14:52:15.493", "matchCriteriaId": "C2890E39-DBF6-49A0-9851-B6CBF841BDA5", "status": "Active", "versionEndExcluding": "1.0.1"}
