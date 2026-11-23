@@ -1,0 +1,1 @@
+{"created": "2026-11-23T07:10:24.240", "criteria": "cpe:2.3:a:opsre:watchalert:*:*:*:*:*:*:*:*", "lastModified": "2026-11-23T07:10:24.240", "matchCriteriaId": "A3787A1F-903A-4C5E-BC37-C7B0CA9D3C39", "status": "Active", "versionEndIncluding": "3.9.20", "versionStartIncluding": "2.0.0"}
