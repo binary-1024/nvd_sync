@@ -1,0 +1,1 @@
+{"created": "2026-11-23T15:10:56.740", "criteria": "cpe:2.3:a:microsoft:azure_key_vault_secret:*:*:*:*:*:.net:*:*", "lastModified": "2026-11-23T15:10:56.740", "matchCriteriaId": "71B8B51D-C48B-47E1-BB29-E15A776EC936", "status": "Active", "versionEndExcluding": "4.11.1"}
