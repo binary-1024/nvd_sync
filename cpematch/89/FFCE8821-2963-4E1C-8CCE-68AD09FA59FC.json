@@ -1,0 +1,1 @@
+{"created": "2026-11-23T17:09:01.317", "criteria": "cpe:2.3:a:fastify:fastify-express:*:*:*:*:*:*:*:*", "lastModified": "2026-11-23T17:09:01.317", "matchCriteriaId": "FFCE8821-2963-4E1C-8CCE-68AD09FA59FC", "status": "Active", "versionEndExcluding": "4.0.10", "versionStartIncluding": "4.0.7"}
