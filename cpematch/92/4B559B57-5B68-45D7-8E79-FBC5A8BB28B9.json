@@ -1,0 +1,1 @@
+{"created": "2026-11-23T18:10:43.553", "criteria": "cpe:2.3:o:nvidia:virtio-net_ga:*:*:*:*:*:*:*:*", "lastModified": "2026-11-23T18:10:43.553", "matchCriteriaId": "4B559B57-5B68-45D7-8E79-FBC5A8BB28B9", "status": "Active", "versionEndExcluding": "25.10.6"}

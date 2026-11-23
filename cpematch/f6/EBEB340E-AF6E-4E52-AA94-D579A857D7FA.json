@@ -1,0 +1,1 @@
+{"created": "2026-11-23T18:10:43.553", "criteria": "cpe:2.3:o:nvidia:virtio-net_lts23:*:*:*:*:*:*:*:*", "lastModified": "2026-11-23T18:10:43.553", "matchCriteriaId": "EBEB340E-AF6E-4E52-AA94-D579A857D7FA", "status": "Active", "versionEndIncluding": "1.7.21"}
