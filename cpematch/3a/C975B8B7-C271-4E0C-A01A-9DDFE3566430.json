@@ -1,0 +1,1 @@
+{"created": "2026-11-23T04:03:25.867", "criteria": "cpe:2.3:a:enterprisedb:postgres_enterprise_manager:*:*:*:*:*:*:*:*", "lastModified": "2026-11-23T04:03:25.867", "matchCriteriaId": "C975B8B7-C271-4E0C-A01A-9DDFE3566430", "status": "Active", "versionEndExcluding": "10.6.1", "versionStartIncluding": "10.6.0"}
