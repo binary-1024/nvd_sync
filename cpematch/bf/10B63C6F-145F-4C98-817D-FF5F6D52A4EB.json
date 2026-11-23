@@ -1,0 +1,1 @@
+{"created": "2026-11-23T12:16:42.933", "criteria": "cpe:2.3:a:line:webauthn-kotlin:*:*:*:*:*:*:*:*", "lastModified": "2026-11-23T12:16:42.933", "matchCriteriaId": "10B63C6F-145F-4C98-817D-FF5F6D52A4EB", "status": "Active", "versionEndExcluding": "1.1.4", "versionStartIncluding": "1.1.0"}
