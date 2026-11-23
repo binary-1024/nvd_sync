@@ -1,0 +1,1 @@
+{"created": "2026-11-23T01:07:12.053", "criteria": "cpe:2.3:a:openstack:cinder:*:*:*:*:*:*:*:*", "lastModified": "2026-11-23T01:07:12.053", "matchCriteriaId": "609357E0-39E0-4FFA-95DE-B03952507068", "status": "Active", "versionEndExcluding": "29.1.1", "versionStartIncluding": "29.0.0"}
