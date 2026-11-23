@@ -1,0 +1,1 @@
+{"created": "2026-11-23T11:19:34.540", "criteria": "cpe:2.3:a:pydantic:pydantic:*:*:*:*:*:*:*:*", "lastModified": "2026-11-23T11:19:34.540", "matchCriteriaId": "50370B22-FBD9-4C93-B344-48C52BFCB82A", "status": "Active", "versionEndExcluding": "2.14.2", "versionStartIncluding": "2.13.0"}

@@ -1,0 +1,1 @@
+{"created": "2026-11-23T11:53:51.257", "criteria": "cpe:2.3:a:spring:spring_data_elasticsearch:*:*:*:*:*:*:*:*", "lastModified": "2026-11-23T11:53:51.257", "matchCriteriaId": "37A138C3-39F3-4F21-9963-227159F911D2", "status": "Active", "versionEndExcluding": "6.1.3", "versionStartIncluding": "6.1.0"}
