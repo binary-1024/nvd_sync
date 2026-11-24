@@ -1,0 +1,1 @@
+{"created": "2026-11-24T14:53:40.407", "criteria": "cpe:2.3:a:pyton:cpython:*:*:*:*:*:*:*:*", "lastModified": "2026-11-24T14:53:40.407", "matchCriteriaId": "A7C4363B-966B-4F6A-A40C-CBBF5A9DFF70", "status": "Active", "versionEndExcluding": "3.14.4", "versionStartIncluding": "3.14.0"}
