@@ -1,0 +1,1 @@
+{"cpeLastModified": "2026-11-24T13:28:11.377", "created": "2026-11-24T13:28:11.377", "criteria": "cpe:2.3:a:monai:monai_label:*:*:*:*:*:*:*:*", "lastModified": "2026-11-24T13:28:11.377", "matchCriteriaId": "A5A8BB89-6FC4-4706-BD2A-A70E32FBE96F", "status": "Active", "versionEndExcluding": "0.8.6"}
