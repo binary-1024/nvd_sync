@@ -1,0 +1,1 @@
+{"created": "2026-11-25T13:08:08.640", "criteria": "cpe:2.3:o:teltonika-networks:dap_firmware:*:*:*:*:*:*:*:*", "lastModified": "2026-11-25T13:08:08.640", "matchCriteriaId": "1A8F30BF-CFEF-4676-9CC7-16116A9A56FD", "status": "Active", "versionEndIncluding": "7.18.0", "versionStartIncluding": "7.12.0"}
