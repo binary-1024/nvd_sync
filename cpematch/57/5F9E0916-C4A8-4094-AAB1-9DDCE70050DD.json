@@ -1,0 +1,1 @@
+{"created": "2026-11-25T07:29:19.557", "criteria": "cpe:2.3:a:ex-aws:ex_aws:*:*:*:*:*:*:*:*", "lastModified": "2026-11-25T07:29:19.557", "matchCriteriaId": "5F9E0916-C4A8-4094-AAB1-9DDCE70050DD", "status": "Active", "versionEndExcluding": "2.8.0", "versionStartIncluding": "2.1.2"}

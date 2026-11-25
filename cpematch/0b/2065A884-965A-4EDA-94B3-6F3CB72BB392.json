@@ -1,0 +1,1 @@
+{"created": "2026-11-25T07:29:26.893", "criteria": "cpe:2.3:a:ex-aws:ex_aws_dynamo:*:*:*:*:*:*:*:*", "lastModified": "2026-11-25T07:29:26.893", "matchCriteriaId": "2065A884-965A-4EDA-94B3-6F3CB72BB392", "status": "Active", "versionEndExcluding": "4.3.0", "versionStartIncluding": "2.0.0"}
