@@ -1,0 +1,1 @@
+{"created": "2026-11-25T00:48:36.870", "criteria": "cpe:2.3:a:elixir-ecto:db_connection:*:*:*:*:*:*:*:*", "lastModified": "2026-11-25T00:48:36.870", "matchCriteriaId": "CCF4DC55-157A-4403-A5B6-144D42BB4E99", "status": "Active", "versionEndExcluding": "2.10.3", "versionStartIncluding": "1.1.0"}
