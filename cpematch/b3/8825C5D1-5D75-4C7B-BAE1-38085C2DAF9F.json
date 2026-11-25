@@ -1,0 +1,1 @@
+{"created": "2026-11-25T16:56:46.313", "criteria": "cpe:2.3:a:mediawiki:mobilefrontend:*:*:*:*:*:mediawiki:*:*", "lastModified": "2026-11-25T16:56:46.313", "matchCriteriaId": "8825C5D1-5D75-4C7B-BAE1-38085C2DAF9F", "status": "Active", "versionEndExcluding": "1.43.12", "versionStartIncluding": "1.43.0"}
