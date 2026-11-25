@@ -1,0 +1,1 @@
+{"created": "2026-11-25T17:15:32.327", "criteria": "cpe:2.3:a:wikimedia:echo_extension:*:*:*:*:*:*:*:*", "lastModified": "2026-11-25T17:15:32.327", "matchCriteriaId": "964F0E1B-3863-4CB5-B964-E984C2A0303A", "status": "Active", "versionEndExcluding": "1.43.12", "versionStartIncluding": "1.43.0"}
