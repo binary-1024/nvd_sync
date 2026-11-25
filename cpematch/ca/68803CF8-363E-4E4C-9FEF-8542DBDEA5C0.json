@@ -1,0 +1,1 @@
+{"created": "2026-11-25T20:43:27.147", "criteria": "cpe:2.3:a:mongodb:php_driver:*:*:*:*:*:*:*:*", "lastModified": "2026-11-25T20:43:27.147", "matchCriteriaId": "68803CF8-363E-4E4C-9FEF-8542DBDEA5C0", "status": "Active", "versionEndExcluding": "5.12.2", "versionStartIncluding": "4.8.0"}
