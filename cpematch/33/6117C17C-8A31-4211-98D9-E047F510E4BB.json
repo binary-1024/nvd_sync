@@ -1,1 +1,1 @@
-{"created": "2026-11-24T20:16:28.200", "criteria": "cpe:2.3:a:redhat:rsyslog:*:*:*:*:*:*:*:*", "lastModified": "2026-11-24T20:16:28.200", "matchCriteriaId": "6117C17C-8A31-4211-98D9-E047F510E4BB", "status": "Active"}
+{"created": "2026-11-24T20:16:28.200", "criteria": "cpe:2.3:a:redhat:rsyslog:*:*:*:*:*:*:*:*", "lastModified": "2026-11-25T03:00:00.173", "matchCriteriaId": "6117C17C-8A31-4211-98D9-E047F510E4BB", "status": "Inactive"}
