@@ -1,0 +1,1 @@
+{"created": "2026-11-25T01:29:08.320", "criteria": "cpe:2.3:a:symfony:ux_live_component:*:*:*:*:*:*:*:*", "lastModified": "2026-11-25T01:29:08.320", "matchCriteriaId": "CECF6D0E-22E4-4601-A1B4-411B7C65D881", "status": "Active", "versionEndExcluding": "2.36.3", "versionStartIncluding": "2.7.0"}
