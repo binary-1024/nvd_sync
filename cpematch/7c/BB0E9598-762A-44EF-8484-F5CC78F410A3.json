@@ -1,0 +1,1 @@
+{"created": "2026-11-25T18:54:08.273", "criteria": "cpe:2.3:a:agpt:autogpt_platform:*:*:*:*:*:*:*:*", "lastModified": "2026-11-25T18:54:08.273", "matchCriteriaId": "BB0E9598-762A-44EF-8484-F5CC78F410A3", "status": "Active", "versionEndExcluding": "0.11.3", "versionStartIncluding": "0.11.1"}
