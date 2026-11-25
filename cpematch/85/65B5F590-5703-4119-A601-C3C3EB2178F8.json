@@ -1,0 +1,1 @@
+{"created": "2026-11-25T15:54:48.513", "criteria": "cpe:2.3:a:mediawiki:oathauth:*:*:*:*:*:*:*:*", "lastModified": "2026-11-25T15:54:48.513", "matchCriteriaId": "65B5F590-5703-4119-A601-C3C3EB2178F8", "status": "Active", "versionEndExcluding": "1.43.12", "versionStartIncluding": "1.43.0"}

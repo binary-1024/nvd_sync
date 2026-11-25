@@ -1,0 +1,1 @@
+{"created": "2026-11-25T15:04:33.323", "criteria": "cpe:2.3:a:mediawiki:checkuser:*:*:*:*:*:mediawiki:*:*", "lastModified": "2026-11-25T15:04:33.323", "matchCriteriaId": "4D95D05B-E06D-432A-A7C0-3B7253907F9F", "status": "Active", "versionEndExcluding": "1.46.3", "versionStartIncluding": "1.46.0"}
