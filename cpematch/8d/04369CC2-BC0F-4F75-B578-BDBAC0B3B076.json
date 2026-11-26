@@ -1,0 +1,1 @@
+{"created": "2026-11-26T06:36:13.100", "criteria": "cpe:2.3:a:web-token:jwt-encryption-algorithm-ecdh-es:*:*:*:*:*:*:*:*", "lastModified": "2026-11-26T06:36:13.100", "matchCriteriaId": "04369CC2-BC0F-4F75-B578-BDBAC0B3B076", "status": "Active", "versionEndIncluding": "3.2.10"}

@@ -1,0 +1,1 @@
+{"created": "2026-11-26T06:35:44.960", "criteria": "cpe:2.3:a:web-token:jwt-experimental:*:*:*:*:*:*:*:*", "lastModified": "2026-11-26T06:35:44.960", "matchCriteriaId": "FC3EC5D6-79F6-4822-AAC2-000B958E582C", "status": "Active", "versionEndExcluding": "4.0.7", "versionStartIncluding": "4.0.0"}
