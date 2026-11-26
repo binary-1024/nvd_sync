@@ -1,0 +1,1 @@
+{"created": "2026-11-26T18:50:40.587", "criteria": "cpe:2.3:a:pulp_project:pulp_python:*:*:*:*:*:*:*:*", "lastModified": "2026-11-26T18:50:40.587", "matchCriteriaId": "E42F4723-4025-484B-914C-D47FAC59AC6D", "status": "Active", "versionEndExcluding": "3.13.9", "versionStartIncluding": "3.13.0"}
