@@ -1,0 +1,1 @@
+{"created": "2026-11-26T13:10:29.327", "criteria": "cpe:2.3:a:formancehq:ledger:*:*:*:*:*:*:*:*", "lastModified": "2026-11-26T13:10:29.327", "matchCriteriaId": "573C3C92-F2AF-42A7-9A31-900337058D45", "status": "Active", "versionEndExcluding": "2.4.18", "versionStartIncluding": "2.2.0-beta.3"}
