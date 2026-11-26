@@ -1,0 +1,1 @@
+{"created": "2026-11-26T14:10:54.700", "criteria": "cpe:2.3:a:msgpack:msgpack-c:*:*:*:*:*:*:*:*", "lastModified": "2026-11-26T14:10:54.700", "matchCriteriaId": "E839E2AD-768F-4F97-AF0E-C2B4132B8C4D", "status": "Active", "versionEndIncluding": "9.0.0", "versionStartIncluding": "3.0.0"}

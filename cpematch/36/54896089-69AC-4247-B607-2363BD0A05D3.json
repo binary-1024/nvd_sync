@@ -1,0 +1,1 @@
+{"created": "2026-11-26T14:58:06.550", "criteria": "cpe:2.3:a:kerberos-io:agent:*:*:*:*:*:*:*:*", "lastModified": "2026-11-26T14:58:06.550", "matchCriteriaId": "54896089-69AC-4247-B607-2363BD0A05D3", "status": "Active", "versionEndExcluding": "3.14.4", "versionStartIncluding": "0"}
