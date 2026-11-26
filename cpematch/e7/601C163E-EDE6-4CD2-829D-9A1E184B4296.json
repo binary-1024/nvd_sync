@@ -1,0 +1,1 @@
+{"created": "2026-11-26T03:14:14.680", "criteria": "cpe:2.3:a:drupal:s3fs_cors:*:*:*:*:*:*:*:*", "lastModified": "2026-11-26T03:14:14.680", "matchCriteriaId": "601C163E-EDE6-4CD2-829D-9A1E184B4296", "status": "Active", "versionEndExcluding": "1.4.0", "versionStartIncluding": "0.0.0"}
