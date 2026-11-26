@@ -1,0 +1,1 @@
+{"created": "2026-11-26T05:55:14.733", "criteria": "cpe:2.3:a:better-auth:better_auth_electron:*:*:*:*:*:*:*:*", "lastModified": "2026-11-26T05:55:14.733", "matchCriteriaId": "8EE3A65F-E8BD-4EF7-975C-42EA19D30F7B", "status": "Active", "versionEndExcluding": "1.7.16", "versionStartIncluding": "1.5.0-beta.12"}

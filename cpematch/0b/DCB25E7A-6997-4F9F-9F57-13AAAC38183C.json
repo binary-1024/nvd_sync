@@ -1,0 +1,1 @@
+{"created": "2026-11-26T05:46:32.473", "criteria": "cpe:2.3:a:better-auth:drizzle_adapter:*:*:*:*:*:*:*:*", "lastModified": "2026-11-26T05:46:32.473", "matchCriteriaId": "DCB25E7A-6997-4F9F-9F57-13AAAC38183C", "status": "Active", "versionEndExcluding": "1.8.0-beta.5", "versionStartIncluding": "1.8.0-beta.0"}
