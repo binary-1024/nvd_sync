@@ -1,0 +1,1 @@
+{"created": "2026-11-26T00:38:18.833", "criteria": "cpe:2.3:a:symfony:symfony:*:*:*:*:*:*:*:*", "lastModified": "2026-11-26T00:38:18.833", "matchCriteriaId": "07F19554-08F1-47C5-A42C-F76E3FCF86B8", "status": "Active", "versionEndExcluding": "8.1.12", "versionStartIncluding": "8.1.9"}

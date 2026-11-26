@@ -1,0 +1,1 @@
+{"created": "2026-11-26T00:07:22.273", "criteria": "cpe:2.3:a:symfony_project:routing:*:*:*:*:*:*:*:*", "lastModified": "2026-11-26T00:07:22.273", "matchCriteriaId": "5EB59998-9FD7-4A65-A321-B443BFBB7908", "status": "Active", "versionEndExcluding": "7.4.24", "versionStartIncluding": "7.0.0"}

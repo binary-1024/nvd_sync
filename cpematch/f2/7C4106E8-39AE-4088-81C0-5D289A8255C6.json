@@ -1,0 +1,1 @@
+{"created": "2026-11-26T00:38:20.480", "criteria": "cpe:2.3:a:symfony:doctrine-bridge:*:*:*:*:*:*:*:*", "lastModified": "2026-11-26T00:38:20.480", "matchCriteriaId": "7C4106E8-39AE-4088-81C0-5D289A8255C6", "status": "Active", "versionEndExcluding": "7.4.24", "versionStartIncluding": "7.0.0"}

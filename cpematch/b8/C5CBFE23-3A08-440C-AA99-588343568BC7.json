@@ -1,0 +1,1 @@
+{"created": "2026-11-26T00:38:18.833", "criteria": "cpe:2.3:a:symfony:expression_language:*:*:*:*:*:*:*:*", "lastModified": "2026-11-26T00:38:18.833", "matchCriteriaId": "C5CBFE23-3A08-440C-AA99-588343568BC7", "status": "Active", "versionEndExcluding": "6.4.51", "versionStartIncluding": "6.4.48"}

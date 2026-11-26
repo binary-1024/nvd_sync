@@ -1,0 +1,1 @@
+{"created": "2026-11-26T00:15:47.480", "criteria": "cpe:2.3:a:symfony:mailer:*:*:*:*:*:*:*:*", "lastModified": "2026-11-26T00:15:47.480", "matchCriteriaId": "38A4EAD6-71AE-4DD3-8834-C05B41A2A01F", "status": "Active", "versionEndExcluding": "7.4.24", "versionStartIncluding": "7.3.0"}
