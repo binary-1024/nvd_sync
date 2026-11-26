@@ -1,0 +1,1 @@
+{"created": "2026-11-26T08:20:49.177", "criteria": "cpe:2.3:a:graphql-core_project:graphql-core:*:*:*:*:*:*:*:*", "lastModified": "2026-11-26T08:20:49.177", "matchCriteriaId": "59C0729B-25B5-4507-9704-3AB0E712CEA4", "status": "Active", "versionEndExcluding": "3.3.2", "versionStartIncluding": "3.3.0rc1"}
