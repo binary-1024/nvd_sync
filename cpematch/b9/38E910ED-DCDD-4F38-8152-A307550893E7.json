@@ -1,0 +1,1 @@
+{"created": "2026-11-27T07:55:31.560", "criteria": "cpe:2.3:a:openwrt:luci_app_unbound:*:*:*:*:*:*:*:*", "lastModified": "2026-11-27T07:55:31.560", "matchCriteriaId": "38E910ED-DCDD-4F38-8152-A307550893E7", "status": "Active", "versionEndIncluding": "26.288.56989\\~75a306d"}
