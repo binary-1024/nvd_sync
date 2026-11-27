@@ -1,0 +1,1 @@
+{"created": "2026-11-27T10:37:43.600", "criteria": "cpe:2.3:a:web-token:jwt-encryption:*:*:*:*:*:*:*:*", "lastModified": "2026-11-27T10:37:43.600", "matchCriteriaId": "6E6C696E-CDF8-4808-A853-A45C557B470B", "status": "Active", "versionEndIncluding": "3.2.10", "versionStartIncluding": "0.5.0"}
