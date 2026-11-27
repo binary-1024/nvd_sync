@@ -1,0 +1,1 @@
+{"created": "2026-11-27T17:47:20.783", "criteria": "cpe:2.3:a:allauth:django-allauth:*:*:*:*:*:*:*:*", "lastModified": "2026-11-27T17:47:20.783", "matchCriteriaId": "0000C14A-FF3A-47AB-BE91-6FF914F61851", "status": "Active", "versionEndExcluding": "65.23.0", "versionStartIncluding": "65.17.0"}

@@ -1,0 +1,1 @@
+{"created": "2026-11-27T17:15:07.107", "criteria": "cpe:2.3:a:vstorm-co:pydantic_deep:*:*:*:*:*:*:*:*", "lastModified": "2026-11-27T17:15:07.107", "matchCriteriaId": "CA75BF9F-A39A-452A-8E31-A1F4CE0B17D8", "status": "Active", "versionEndExcluding": "0.4.0", "versionStartIncluding": "0.2.18"}
