@@ -1,0 +1,1 @@
+{"created": "2026-11-27T03:56:07.420", "criteria": "cpe:2.3:a:eclipse_apoapsis:ort_server:*:*:*:*:*:*:*:*", "lastModified": "2026-11-27T03:56:07.420", "matchCriteriaId": "05A6A819-2694-47CF-B861-B69FCA0F880D", "status": "Active", "versionEndExcluding": "0.84.0", "versionStartIncluding": "0.65.0"}
