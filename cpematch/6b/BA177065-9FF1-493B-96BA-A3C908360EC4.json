@@ -1,0 +1,1 @@
+{"created": "2026-11-27T06:08:23.557", "criteria": "cpe:2.3:a:osgeo:geos:*:*:*:*:*:*:*:*", "lastModified": "2026-11-27T06:08:23.557", "matchCriteriaId": "BA177065-9FF1-493B-96BA-A3C908360EC4", "status": "Active", "versionEndExcluding": "3.15.1", "versionStartIncluding": "3.13.0"}
