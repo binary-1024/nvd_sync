@@ -1,0 +1,1 @@
+{"created": "2026-11-27T12:04:56.110", "criteria": "cpe:2.3:a:mcu-tools:mcuboot:*:*:*:*:*:*:*:*", "lastModified": "2026-11-27T12:04:56.110", "matchCriteriaId": "78989AA7-827C-4A5C-A8FE-A6993CF13839", "status": "Active", "versionEndExcluding": "2.5.1", "versionStartIncluding": "1.9.0"}
