@@ -1,0 +1,1 @@
+{"created": "2026-11-27T09:14:50.540", "criteria": "cpe:2.3:a:web-token:jwt-encryption-algorithm-aeskw:*:*:*:*:*:*:*:*", "lastModified": "2026-11-27T09:14:50.540", "matchCriteriaId": "BBC69A44-737D-4A9A-9444-79BC2A182AE6", "status": "Active", "versionEndIncluding": "3.2.10"}
