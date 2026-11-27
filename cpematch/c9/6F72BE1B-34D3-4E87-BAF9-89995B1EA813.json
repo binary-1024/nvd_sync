@@ -1,0 +1,1 @@
+{"created": "2026-11-27T14:43:45.070", "criteria": "cpe:2.3:a:powerdns:authoritative_server:*:*:*:*:*:*:*:*", "lastModified": "2026-11-27T14:43:45.070", "matchCriteriaId": "6F72BE1B-34D3-4E87-BAF9-89995B1EA813", "status": "Active", "versionEndExcluding": "4.9.19", "versionStartIncluding": "4.9.0"}
