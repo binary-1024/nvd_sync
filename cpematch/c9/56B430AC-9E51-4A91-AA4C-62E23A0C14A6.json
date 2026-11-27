@@ -1,0 +1,1 @@
+{"created": "2026-11-27T22:36:30.650", "criteria": "cpe:2.3:a:coder:vscode_coder:*:*:*:*:*:visual_studio_code:*:*", "lastModified": "2026-11-27T22:36:30.650", "matchCriteriaId": "56B430AC-9E51-4A91-AA4C-62E23A0C14A6", "status": "Active", "versionEndExcluding": "1.14.6", "versionStartIncluding": "0.1.20"}
