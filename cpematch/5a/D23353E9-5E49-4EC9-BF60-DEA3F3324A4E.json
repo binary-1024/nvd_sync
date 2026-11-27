@@ -1,0 +1,1 @@
+{"created": "2026-11-27T01:19:07.210", "criteria": "cpe:2.3:a:postgresql:psqlodbc:*:*:*:*:*:*:*:*", "lastModified": "2026-11-27T01:19:07.210", "matchCriteriaId": "D23353E9-5E49-4EC9-BF60-DEA3F3324A4E", "status": "Active", "versionEndExcluding": "18.00.0007", "versionStartIncluding": "12.02.0000"}
