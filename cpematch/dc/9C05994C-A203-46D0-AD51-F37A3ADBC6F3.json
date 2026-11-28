@@ -1,1 +1,1 @@
-{"created": "2026-11-27T13:41:18.980", "criteria": "cpe:2.3:a:python:python:3.14.0rc2:*:*:*:*:*:*:*", "lastModified": "2026-11-27T13:41:18.980", "matchCriteriaId": "9C05994C-A203-46D0-AD51-F37A3ADBC6F3", "status": "Active"}
+{"created": "2026-11-27T13:41:18.980", "criteria": "cpe:2.3:a:python:python:3.14.0rc2:*:*:*:*:*:*:*", "lastModified": "2026-11-28T03:00:00.240", "matchCriteriaId": "9C05994C-A203-46D0-AD51-F37A3ADBC6F3", "status": "Inactive"}
