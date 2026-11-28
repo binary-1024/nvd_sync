@@ -1,0 +1,1 @@
+{"created": "2026-11-28T09:59:42.370", "criteria": "cpe:2.3:a:ing-bank:cassandra-jdbc-wrapper:*:*:*:*:*:*:*:*", "lastModified": "2026-11-28T09:59:42.370", "matchCriteriaId": "A456954E-6E6E-4742-A763-D9C3958F2A74", "status": "Active", "versionEndExcluding": "5.0.2", "versionStartIncluding": "5.0.0"}
